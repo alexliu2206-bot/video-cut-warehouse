@@ -1,0 +1,22 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 202
+- **译文字符数:** 80
+- **段落数:** 2
+
+## 分段转录
+
+**[00:00]** This shit will work. Maybe I'll make a follow up video in a few months, but to anyone watching this who also suffers from acne, I feel your pain.
+    *翻译:* 这玩意儿会起作用的。或许几个月后我会再拍一个后续视频，但对于那些同样遭受痤疮困扰的观众，我感同身受。
+
+**[00:08]** But guess what? We gonna make it through. We gonna make-
+    *翻译:* 但猜猜看？我们会度过难关的。我们会成功——
+
+## 完整原文
+
+This shit will work. Maybe I'll make a follow up video in a few months, but to anyone watching this who also suffers from acne, I feel your pain. But guess what? We gonna make it through. We gonna make-
+
+## 完整译文
+
+这东西会起作用的。或许几个月后我会再做一个后续视频，但对任何观看这个视频并且也遭受着痤疮困扰的人来说，我感同身受。但猜猜怎么着？我们会度过难关的。我们会成功——
