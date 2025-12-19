@@ -1,0 +1,34 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1059
+- **译文字符数:** 331
+- **段落数:** 6
+
+## 分段转录
+
+**[00:00]** Acne was invented by Satan's grandma in the deepest pits of hell, and I have had the blessing of suffering from it for all of my teenage and early adult life.
+    *翻译:* 痤疮是撒旦的奶奶在地狱最深处发明的，而我有幸在青少年和成年早期一直遭受它的折磨。
+
+**[00:10]** Like there's pimples and then there's acne. One is a temporary annoyance and the other is a eldritch curse. It just refuses to go away despite you trying all these increasingly bizarre solutions.
+    *翻译:* 就像有粉刺和痤疮。一个是暂时的烦恼，另一个则是诡异的诅咒。尽管你尝试了所有这些越来越奇怪的解决方案，它就是不肯消失。
+
+**[00:21]** For me it started getting really bad around my sophomore year of college. My mom was asking me for a selfie because she missed her handsome boy, and I sent one and she's like, we're taking you to a dermatologist.
+    *翻译:* 对我来说，情况大约在我大学二年级时变得非常糟糕。我妈妈因为想念她英俊的儿子而向我索要自拍照，我发了一张给她，然后她说，我们要带你去看皮肤科医生。
+
+**[00:31]** Like damn! So that summer I went to the dermat and I was assigned the scary man with a thick Eastern European accent that looked like he had survived both World Wars as a high ranking officer.
+    *翻译:* 天哪！那年夏天我去了皮肤科，被分配给了一个有着浓重东欧口音的可怕男人，他看起来像是以高级军官的身份经历了两次世界大战并幸存下来。
+
+**[00:41]** And the first thing he did was he saw a mole on my arm and he was like, oh, this is cancer. What? Oh my god, are you serious? No, but he could become cancer. No, don't move. What are you gonna do?
+    *翻译:* 他做的第一件事就是他看到我手臂上的一个痣，然后他说，哦，这是癌症。什么？我的天哪，你是认真的吗？不，但它可能会变成癌症。不，别动。你想做什么？
+
+**[00:53]** And he took off a piece of my skin and I still have a scar from it, but at least I didn't get cancer.
+    *翻译:* 他取走了我一块皮肤，我至今仍留着疤痕，但至少我没有得癌症。
+
+## 完整原文
+
+Acne was invented by Satan's grandma in the deepest pits of hell, and I have had the blessing of suffering from it for all of my teenage and early adult life. Like there's pimples and then there's acne. One is a temporary annoyance and the other is a eldritch curse. It just refuses to go away despite you trying all these increasingly bizarre solutions. For me it started getting really bad around my sophomore year of college. My mom was asking me for a selfie because she missed her handsome boy, and I sent one and she's like, we're taking you to a dermatologist. Like damn! So that summer I went to the dermat and I was assigned the scary man with a thick Eastern European accent that looked like he had survived both World Wars as a high ranking officer. And the first thing he did was he saw a mole on my arm and he was like, oh, this is cancer. What? Oh my god, are you serious? No, but he could become cancer. No, don't move. What are you gonna do? And he took off a piece of my skin and I still have a scar from it, but at least I didn't get cancer.
+
+## 完整译文
+
+痤疮是撒旦的奶奶在地狱最深处发明的，而我有幸在青少年和成年早期一直遭受它的困扰。就像有粉刺和痤疮之分。一个是暂时的烦恼，另一个则是诡异的诅咒。尽管你尝试了所有这些越来越奇怪的解决方案，它就是不肯消失。对我来说，大约在大学二年级时情况开始变得非常糟糕。我妈妈因为想念她英俊的儿子而向我索要自拍照，我发了一张，她说，我们要带你去看皮肤科医生。天哪！所以那个夏天我去了皮肤科，我被分配给了一个有着浓重东欧口音的可怕男人，他看起来像是在两次世界大战中以高级军官的身份幸存下来。他做的第一件事是看到我手臂上的一个痣，他说，哦，这是癌症。什么？我的天啊，你是认真的吗？不，但它可能会变成癌症。不，别动。你要做什么？他取下了我皮肤上的一块，我至今仍有疤痕，但至少我没有得癌症。
