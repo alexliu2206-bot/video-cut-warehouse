@@ -1,0 +1,97 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1132
+- **译文字符数:** 338
+- **段落数:** 27
+
+## 分段转录
+
+**[00:00]** So after that he put me on this mysterious pill for my acne.
+    *翻译:* 所以之后他给我开了这种神秘的药丸来治疗我的痤疮。
+
+**[00:03]** And the good news is it worked like a charm.
+    *翻译:* 好消息是它像魔法一样奏效了。
+
+**[00:05]** But the bad news is I started getting horrible chest pain
+    *翻译:* 但坏消息是我开始感到胸口剧痛。
+
+**[00:07]** like every day I was wretching and clutching my chest.
+    *翻译:* 就像每天一样，我痛苦地抓着我的胸口。
+
+**[00:10]** And what's crazy is that that was actually a worthy tradeoff
+    *翻译:* 而令人疯狂的是，那实际上是一个值得的权衡。
+
+**[00:13]** because I was just that sick of having painful red cysts
+    *翻译:* 因为我实在是厌倦了那些疼痛的红色囊肿
+
+**[00:16]** on my face.
+    *翻译:* 我的脸上。
+
+**[00:17]** But the chest pain got bad enough
+    *翻译:* 但是胸痛变得足够严重
+
+**[00:18]** that I told the dermatologist about it.
+    *翻译:* 我告诉了皮肤科医生这件事。
+
+**[00:20]** And he put me on a different medication.
+    *翻译:* 他给我换了一种不同的药物。
+
+**[00:22]** And that one was awesome.
+    *翻译:* 那个太棒了。
+
+**[00:23]** I completely stopped getting acne and it was fine and dandy
+    *翻译:* 我完全停止长痤疮了，一切都很好。
+
+**[00:26]** and I wish that was the end of the story.
+    *翻译:* 我希望这就是故事的结局。
+
+**[00:29]** But then months later my prescription ran out of refills.
+    *翻译:* 但几个月后，我的处方药用完了补充。
+
+**[00:32]** So I go back to the dermatologist and they're like,
+    *翻译:* 所以我回到皮肤科医生那里，他们说，
+
+**[00:34]** oh yeah, so that guy retired last year.
+    *翻译:* 哦，是的，那个人去年退休了。
+
+**[00:37]** Like, huh?
+    *翻译:* 像，哈？
+
+**[00:38]** Bro just vanished.
+    *翻译:* 兄弟刚刚消失了。
+
+**[00:39]** Maybe he was taking the first pill
+    *翻译:* 也许他正在服用第一颗药丸
+
+**[00:40]** and it gave him a heart attack or something.
+    *翻译:* 这导致他心脏病发作或其他什么情况。
+
+**[00:42]** So they signed me a new dermatologist.
+    *翻译:* 因此他们为我签约了一位新的皮肤科医生。
+
+**[00:44]** And I'm like, hey, yeah, so I was on this one medication
+    *翻译:* 我就像，嘿，是的，所以我正在服用这种药
+
+**[00:47]** and I just ran out of refills.
+    *翻译:* 我刚刚用完了补充装。
+
+**[00:49]** And she was like, okay, yeah.
+    *翻译:* 她就像在说，好的，是的。
+
+**[00:52]** Hey, I know how about instead of prescribing you
+    *翻译:* 嘿，我知道了，我们不给你开处方，而是...
+
+**[00:54]** the thing that was working, we put you on a new
+    *翻译:* 那个正在工作的，我们给你换了一个新的
+
+**[00:57]** topical medication and the
+    *翻译:* 局部用药和
+
+## 完整原文
+
+So after that he put me on this mysterious pill for my acne. And the good news is it worked like a charm. But the bad news is I started getting horrible chest pain like every day I was wretching and clutching my chest. And what's crazy is that that was actually a worthy tradeoff because I was just that sick of having painful red cysts on my face. But the chest pain got bad enough that I told the dermatologist about it. And he put me on a different medication. And that one was awesome. I completely stopped getting acne and it was fine and dandy and I wish that was the end of the story. But then months later my prescription ran out of refills. So I go back to the dermatologist and they're like, oh yeah, so that guy retired last year. Like, huh? Bro just vanished. Maybe he was taking the first pill and it gave him a heart attack or something. So they signed me a new dermatologist. And I'm like, hey, yeah, so I was on this one medication and I just ran out of refills. And she was like, okay, yeah. Hey, I know how about instead of prescribing you the thing that was working, we put you on a new topical medication and the
+
+## 完整译文
+
+所以之后他给我开了这种神秘的药丸来治疗我的痤疮。好消息是它像魔法一样有效。但坏消息是我开始每天都感到可怕的胸痛，我痛苦地抓着胸口。而疯狂的是，这实际上是一个值得的交易，因为我实在是厌倦了脸上那些疼痛的红色囊肿。但胸痛变得足够严重，我告诉了皮肤科医生。他给我换了另一种药物。那一种太棒了。我完全停止了长痤疮，一切都很好，我希望这就是故事的结尾。但几个月后，我的处方用完了。所以我回到皮肤科医生那里，他们说，哦，是的，那个人去年退休了。像，什么？兄弟就这样消失了。也许他正在吃第一种药丸，它给了他心脏病发作或其他什么。所以他们给我签了一个新的皮肤科医生。我说，嘿，是的，我正在吃这种药物，我只是用完了。她说，好的，我知道，我们不给你开那个有效的药，我们给你换一种新的局部用药，然后
