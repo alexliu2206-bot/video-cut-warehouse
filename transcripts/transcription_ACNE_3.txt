@@ -1,0 +1,14 @@
+# 视频转录文本
+
+**总字符数:** 202
+**段落数:** 2
+
+## 分段转录
+
+**[00:00]** This shit will work. Maybe I'll make a follow up video in a few months, but to anyone watching this who also suffers from acne, I feel your pain.
+
+**[00:08]** But guess what? We gonna make it through. We gonna make-
+
+## 完整文本
+
+This shit will work. Maybe I'll make a follow up video in a few months, but to anyone watching this who also suffers from acne, I feel your pain. But guess what? We gonna make it through. We gonna make-
