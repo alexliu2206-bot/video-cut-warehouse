@@ -1,0 +1,256 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 3449
+- **译文字符数:** 996
+- **段落数:** 80
+
+## 分段转录
+
+**[00:00]** death for the living beings that we share this earth with.
+    *翻译:* 我们与地球上共享生命的生物之死。
+
+**[00:02]** And that's a huge responsibility on our part.
+    *翻译:* 这是我们肩上的重大责任。
+
+**[00:05]** And I'm not just talking about the environment.
+    *翻译:* 我不仅仅是在谈论环境问题。
+
+**[00:06]** Like if you have been paying attention,
+    *翻译:* 如果你一直有在关注，
+
+**[00:08]** then you just saw what happened with Jimmy Kimmel
+    *翻译:* 那么你刚刚看到了吉米·坎摩尔身上发生的事情。
+
+**[00:10]** and Disney and all of the boycotts against Disney
+    *翻译:* 以及迪士尼和所有针对迪士尼的抵制活动
+
+**[00:13]** and how Jimmy Kimmel came back
+    *翻译:* 吉米·坎摩尔是如何回归的
+
+**[00:15]** because of the mass boycotts, like Disney lost billions
+    *翻译:* 由于大规模抵制，比如迪士尼损失了数十亿
+
+**[00:19]** of dollars.
+    *翻译:* 美元。
+
+**[00:19]** And I think for a serious about wanting serious change,
+    *翻译:* 我认为对于那些真正想要实现重大改变的人来说，
+
+**[00:22]** we do need to change our thought processes
+    *翻译:* 我们确实需要改变我们的思维过程。
+
+**[00:24]** to stop seeing the quote unquote things around us
+    *翻译:* 停止看到我们周围所谓的事物
+
+**[00:27]** as just things.
+    *翻译:* 正如公正之事。
+
+**[00:29]** Robin talks about how, in Potawatomi,
+    *翻译:* 罗宾讲述了在波塔瓦托米语中，
+
+**[00:31]** if, for example, you saw a plant,
+    *翻译:* 例如，如果你看到了一株植物，
+
+**[00:34]** you wouldn't ask, what is it?
+    *翻译:* 你不会问，这是什么？
+
+**[00:36]** You would say, who is that?
+    *翻译:* 你会问，那是谁？
+
+**[00:37]** And I was recently reading another book
+    *翻译:* 我最近在读另一本书
+
+**[00:39]** that Robin wrote called the Service Berry.
+    *翻译:* 罗宾写的那个叫做服务浆果。
+
+**[00:40]** She says, how we think ripples out to how we behave.
+    *翻译:* 她说，我们的思维如何影响我们的行为。
+
+**[00:43]** If we view these berries or that spring
+    *翻译:* 如果我们看待这些浆果或那个春天
+
+**[00:45]** as an object, as property,
+    *翻译:* 作为一个物体，作为一种财产，
+
+**[00:48]** it can be exploited as a commodity in a market economy.
+    *翻译:* 它可以在市场经济中作为一种商品被利用。
+
+**[00:51]** When something moves from the status of gift
+    *翻译:* 当某物从礼物的状态转变
+
+**[00:53]** to the status of commodity,
+    *翻译:* 转变为商品的地位，
+
+**[00:54]** we can become detached from mutual responsibility.
+    *翻译:* 我们可能会变得不再相互负责。
+
+**[00:57]** And that's kind of getting into the more broad idea
+    *翻译:* 这就是开始涉及到更广泛的概念。
+
+**[00:59]** of a gift economy that she lays out
+    *翻译:* 她所描述的是一种礼物经济
+
+**[01:00]** in the Service Berry, highly recommend going to check it out.
+    *翻译:* 在服务浆果中，强烈推荐去查看一下。
+
+**[01:03]** But I want to unpack this idea that how we think
+    *翻译:* 但我想来深入探讨一下我们如何思考这个问题。
+
+**[01:06]** ripples out to how we behave
+    *翻译:* 波纹如何影响我们的行为
+
+**[01:07]** and go back to the superior wharf hypothesis
+    *翻译:* 回到高级码头假设
+
+**[01:09]** that I was talking about before.
+    *翻译:* 我之前提到的。
+
+**[01:11]** The superior wharf hypothesis goes deeper than just
+    *翻译:* 优越码头假说不仅仅深入到
+
+**[01:14]** suggesting that the way that we speak
+    *翻译:* 暗示着我们说话的方式
+
+**[01:16]** changes the way that we think.
+    *翻译:* 改变我们的思维方式。
+
+**[01:18]** It goes as far as to say that the way that we speak
+    *翻译:* 它甚至说我们说话的方式
+
+**[01:20]** changes the way that we actually perceive reality.
+    *翻译:* 改变了我们实际感知现实的方式。
+
+**[01:24]** And there's a bit of controversy around this hypothesis
+    *翻译:* 围绕这个假设有一些争议。
+
+**[01:26]** that I will admit.
+    *翻译:* 我承认。
+
+**[01:26]** I'm not totally sure that I completely grasp.
+    *翻译:* 我不太确定我是否完全理解了。
+
+**[01:29]** So linguists please sound off in the comments
+    *翻译:* 那么语言学家们请在评论中发表意见。
+
+**[01:32]** when I inevitably misspeak.
+    *翻译:* 当我不可避免地说错话时。
+
+**[01:34]** But there's an article on Ion called Our Language Our World
+    *翻译:* 但有一篇关于Ion的文章，标题是《我们的语言 我们的世界》。
+
+**[01:37]** which touches on the disagreements about this idea
+    *翻译:* 涉及对这个观点的分歧
+
+**[01:39]** within the world of linguistics.
+    *翻译:* 在语言学的世界里。
+
+**[01:41]** It says switching between languages,
+    *翻译:* 它说在语言之间切换，
+
+**[01:43]** we may feel as if we're stepping
+    *翻译:* 我们可能会感觉我们正在迈出步伐
+
+**[01:45]** from one world into another.
+    *翻译:* 从一个世界到另一个世界。
+
+**[01:46]** But is this just an illusion?
+    *翻译:* 但这只是一种幻觉吗？
+
+**[01:48]** Does each language really embody a different world view
+    *翻译:* 每种语言真的体现了不同的世界观吗？
+
+**[01:51]** or even dictate specific patterns of thought to its speakers?
+    *翻译:* 甚至对其说话者的思想模式进行具体指导吗？
+
+**[01:54]** There's a recurring skepticism around linguistic relativity
+    *翻译:* 围绕语言相对性存在一种反复出现的怀疑态度。
+
+**[01:57]** and gender not only by the difficulties of pinning it down,
+    *翻译:* 并且性别不仅仅是因为确定它的困难，
+
+**[01:59]** but by a deep-seated ambivalence about the assumptions
+    *翻译:* 但源于对假设的根深蒂固的矛盾心态
+
+**[02:02]** and implications of relativistic doctrines.
+    *翻译:* 相对论学说的内涵及其影响。
+
+**[02:05]** Which when I read that, I was like, it totally makes sense
+    *翻译:* 当我读到那个时，我就觉得，这完全说得通。
+
+**[02:09]** that the thing that I would be the most curious about
+    *翻译:* 我最好奇的事情
+
+**[02:11]** is the thing that's the most difficult to pin down
+    *翻译:* 是最难确定的事情
+
+**[02:13]** in absolutes.
+    *翻译:* 在绝对值中。
+
+**[02:14]** But like of course, questions about the way
+    *翻译:* 但当然，关于方式的问题
+
+**[02:16]** that people perceive the world are going to be very hard
+    *翻译:* 人们认为世界将会非常艰难。
+
+**[02:20]** to quantify.
+    *翻译:* 量化。
+
+**[02:21]** So in the 1940s Benjamin Lee Wharf actually did this study
+    *翻译:* 因此，在20世纪40年代，本杰明·李·沃夫实际上进行了这项研究。
+
+**[02:24]** with the Hopi people where he concluded
+    *翻译:* 与霍皮人在一起，他得出了结论
+
+**[02:27]** that the Hopi have no concept of time
+    *翻译:* 霍皮人没有时间概念。
+
+**[02:29]** because they have quote, no words, grammatical forms,
+    *翻译:* 因为他们有引用，没有文字，语法形式，
+
+**[02:32]** construction or expressions that refer directly
+    *翻译:* 直接引用的构造或表达式
+
+**[02:35]** to what we call time.
+    *翻译:* 我们称之为时间。
+
+**[02:36]** And basically, there were a lot of flaws
+    *翻译:* 基本上，存在很多缺陷。
+
+**[02:38]** about this study that I don't really understand
+    *翻译:* 关于这项研究我不太理解
+
+**[02:40]** because I am not a scientist.
+    *翻译:* 因为我不是科学家。
+
+**[02:42]** From my understanding, this was pretty quickly disprovened.
+    *翻译:* 根据我的理解，这一点很快就被驳斥了。
+
+**[02:45]** And I guess the sort of like,
+    *翻译:* 我想大概是这样的，
+
+**[02:46]** mishandling of that study really helped
+    *翻译:* 对那项研究的不当处理确实起到了帮助作用。
+
+**[02:48]** to fuel the fire of skepticism around linguistic relativity.
+    *翻译:* 为围绕语言相对性的怀疑火上浇油。
+
+**[02:52]** But in that SAR language, our world, Sam Dresser says,
+    *翻译:* 但在那种SAR语言中，我们的世界，萨姆·德雷瑟说，
+
+**[02:54]** linguists and psychologists who could not ignore these questions
+    *翻译:* 无法忽视这些问题的语言学家和心理学家
+
+**[02:57]** have brought relativity back into academic mainstream
+    *翻译:* 使相对论重新进入学术主流
+
+**[02:59]** and to-
+    *翻译:* 并且至
+
+## 完整原文
+
+death for the living beings that we share this earth with. And that's a huge responsibility on our part. And I'm not just talking about the environment. Like if you have been paying attention, then you just saw what happened with Jimmy Kimmel and Disney and all of the boycotts against Disney and how Jimmy Kimmel came back because of the mass boycotts, like Disney lost billions of dollars. And I think for a serious about wanting serious change, we do need to change our thought processes to stop seeing the quote unquote things around us as just things. Robin talks about how, in Potawatomi, if, for example, you saw a plant, you wouldn't ask, what is it? You would say, who is that? And I was recently reading another book that Robin wrote called the Service Berry. She says, how we think ripples out to how we behave. If we view these berries or that spring as an object, as property, it can be exploited as a commodity in a market economy. When something moves from the status of gift to the status of commodity, we can become detached from mutual responsibility. And that's kind of getting into the more broad idea of a gift economy that she lays out in the Service Berry, highly recommend going to check it out. But I want to unpack this idea that how we think ripples out to how we behave and go back to the superior wharf hypothesis that I was talking about before. The superior wharf hypothesis goes deeper than just suggesting that the way that we speak changes the way that we think. It goes as far as to say that the way that we speak changes the way that we actually perceive reality. And there's a bit of controversy around this hypothesis that I will admit. I'm not totally sure that I completely grasp. So linguists please sound off in the comments when I inevitably misspeak. But there's an article on Ion called Our Language Our World which touches on the disagreements about this idea within the world of linguistics. It says switching between languages, we may feel as if we're stepping from one world into another. But is this just an illusion? Does each language really embody a different world view or even dictate specific patterns of thought to its speakers? There's a recurring skepticism around linguistic relativity and gender not only by the difficulties of pinning it down, but by a deep-seated ambivalence about the assumptions and implications of relativistic doctrines. Which when I read that, I was like, it totally makes sense that the thing that I would be the most curious about is the thing that's the most difficult to pin down in absolutes. But like of course, questions about the way that people perceive the world are going to be very hard to quantify. So in the 1940s Benjamin Lee Wharf actually did this study with the Hopi people where he concluded that the Hopi have no concept of time because they have quote, no words, grammatical forms, construction or expressions that refer directly to what we call time. And basically, there were a lot of flaws about this study that I don't really understand because I am not a scientist. From my understanding, this was pretty quickly disprovened. And I guess the sort of like, mishandling of that study really helped to fuel the fire of skepticism around linguistic relativity. But in that SAR language, our world, Sam Dresser says, linguists and psychologists who could not ignore these questions have brought relativity back into academic mainstream and to-
+
+## 完整译文
+
+我们与地球上共享生命的生物的死亡。这是我们肩负的重大责任。我指的不仅仅是环境。如果你一直在关注，你就会看到吉米·基梅尔和迪士尼之间发生了什么，以及对迪士尼的所有抵制，以及吉米·基梅尔是如何因为大规模抵制而回归的，就像迪士尼损失了数十亿美元一样。我认为，对于真正想要实现真正变革的人来说，我们确实需要改变我们的思维过程，停止将我们周围的所谓事物仅仅视为事物。罗宾谈到，在波塔瓦托米语中，例如，如果你看到一株植物，你不会问，这是什么？你会说，那是谁？我最近读了罗宾写的另一本书，叫做《服务浆果》。她说，我们的思维方式如何影响我们的行为。如果我们将这些浆果或那个春天视为一个物体，视为财产，它可以在市场经济中被剥削为商品。当某物从礼物的地位转变为商品的地位时，我们可能会变得与相互责任脱节。这有点涉及到她在《服务浆果》中阐述的更广泛的礼物经济理念，强烈推荐大家去看看。但我想深入探讨这个想法，即我们的思维方式如何影响我们的行为，并回到我之前谈到的优越码头假说。优越码头假说不仅仅表明我们说话的方式改变了我们的思维方式。 它甚至说我们说话的方式改变了我们实际感知现实的方式。我承认，围绕这个假设有一些争议，我并不完全确定我完全理解。所以语言学家们，请在我不可避免地说错话时在评论中发表意见。但是有一篇关于Ion的文章叫做《我们的语言我们的世界》，它触及了语言学界对这一观点的分歧。它说在不同语言之间切换时，我们可能会感觉像是从一个世界步入另一个世界。但这只是一种幻觉吗？每种语言真的体现了不同的世界观，甚至为其说话者规定了特定的思维模式吗？围绕语言相对性的反复怀疑不仅因为难以确定它，而且因为对相对主义教条的假设和含义的根深蒂固的矛盾情绪。当我读到这一点时，我就像，这完全有道理，我最好奇的事情就是最难用绝对性来确定的事情。但当然，关于人们如何感知世界的问题将非常难以量化。所以在20世纪40年代，本杰明·李·沃尔夫实际上对霍皮人进行了这项研究，他得出结论说霍皮人没有时间概念，因为他们没有引用我们所说的时间的直接词汇、语法形式、构造或表达。 基本上，这项研究存在很多缺陷，我不太明白，因为我不是科学家。据我了解，这很快就被推翻了。我想，对那项研究的不当处理确实助长了对语言相对性的怀疑。但在SAR语言中，我们的世界，萨姆·德雷瑟说，无法忽视这些问题的语言学家和心理学家已经将相对性重新带入学术主流。
