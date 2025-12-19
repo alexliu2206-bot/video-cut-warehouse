@@ -1,0 +1,91 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1073
+- **译文字符数:** 355
+- **段落数:** 25
+
+## 分段转录
+
+**[00:00]** didn't necessarily mean you exuded confidence?
+    *翻译:* 并不一定意味着你散发出自信？
+
+**[00:02]** Well, the week before VidCon, I was both excited and nervous as hell.
+    *翻译:* 嗯，在VidCon前一周，我既兴奋又紧张得要命。
+
+**[00:07]** I had trouble sleeping and eating because of how nervous I was.
+    *翻译:* 我因为太紧张而睡眠和饮食都出现了问题。
+
+**[00:10]** Alright, I'm going to stay with a group of animators for a whole week.
+    *翻译:* 好的，我将和一群动画师待上整整一周。
+
+**[00:14]** A group of animators who...
+    *翻译:* 一群动画师，他们...
+
+**[00:16]** I've never met...
+    *翻译:* 我从未见过...
+
+**[00:17]** and never really communicated with.
+    *翻译:* 从未真正交流过。
+
+**[00:20]** What if they don't like me?
+    *翻译:* 如果他们不喜欢我怎么办？
+
+**[00:21]** No, no, I'm out going and super friendly.
+    *翻译:* 不，不，我外向且超级友好。
+
+**[00:24]** It'll be fine.
+    *翻译:* 一切都会好起来的。
+
+**[00:25]** But what if I make a bad first impression?
+    *翻译:* 但如果我给人留下了不好的第一印象呢？
+
+**[00:28]** I don't really know anyone in the community,
+    *翻译:* 我真的不认识社区里的任何人，
+
+**[00:30]** so if I screw up at VidCon on screw up for life,
+    *翻译:* 那么如果我在VidCon上搞砸了，是不是就一辈子都完了。
+
+**[00:32]** and they won't ever want to talk to me again,
+    *翻译:* 他们再也不会想和我说话了，
+
+**[00:34]** and whatever personalities don't mesh!
+    *翻译:* 以及任何性格不合的人！
+
+**[00:36]** You know, if it really does end up being that bad,
+    *翻译:* 你知道，如果情况真的变得那么糟糕，
+
+**[00:39]** you can always take the train home.
+    *翻译:* 你总是可以乘火车回家。
+
+**[00:41]** I hate just hope it doesn't come to that.
+    *翻译:* 我只是希望事情不要发展到那个地步。
+
+**[00:43]** And it didn't.
+    *翻译:* 它没有。
+
+**[00:44]** As a matter of fact, I got along with everyone really quickly,
+    *翻译:* 实际上，我很快就和每个人都相处得很好。
+
+**[00:47]** and as awkward as I might have been on the first day,
+    *翻译:* 尽管我可能在第一天感到尴尬，
+
+**[00:49]** everyone was really welcoming,
+    *翻译:* 每个人都非常热情。
+
+**[00:51]** and it made it so much easier to socialize and just be myself.
+    *翻译:* 这让我更容易社交，也让我能够更真实地做自己。
+
+**[00:54]** And by the way, VidCon was basically socializing heaven.
+    *翻译:* 顺便说一句，VidCon简直就是社交天堂。
+
+**[00:59]** Think about it at...
+    *翻译:* 考虑一下这个...
+
+## 完整原文
+
+didn't necessarily mean you exuded confidence? Well, the week before VidCon, I was both excited and nervous as hell. I had trouble sleeping and eating because of how nervous I was. Alright, I'm going to stay with a group of animators for a whole week. A group of animators who... I've never met... and never really communicated with. What if they don't like me? No, no, I'm out going and super friendly. It'll be fine. But what if I make a bad first impression? I don't really know anyone in the community, so if I screw up at VidCon on screw up for life, and they won't ever want to talk to me again, and whatever personalities don't mesh! You know, if it really does end up being that bad, you can always take the train home. I hate just hope it doesn't come to that. And it didn't. As a matter of fact, I got along with everyone really quickly, and as awkward as I might have been on the first day, everyone was really welcoming, and it made it so much easier to socialize and just be myself. And by the way, VidCon was basically socializing heaven. Think about it at...
+
+## 完整译文
+
+这并不一定意味着你散发出自信？好吧，在VidCon前一周，我既兴奋又紧张得要命。因为紧张，我睡不好也吃不下。好吧，我将和一群动画师待上整整一周。一群我从未见过……也从未真正交流过的动画师。如果他们不喜欢我怎么办？不，不，我会出去表现得超级友好。一切都会好的。但如果我给人留下不好的第一印象怎么办？我在社区里不认识任何人，所以如果我在VidCon上搞砸了，或者一辈子都搞砸了，他们就再也不会想和我说话了，还有那些性格不合的人！你知道，如果情况真的那么糟糕，你总是可以坐火车回家。我只是希望事情不要发展到那一步。而事实上，并没有。实际上，我和每个人都很快就相处得很好，尽管我可能在第一天有些尴尬，但每个人都非常热情，这让社交变得容易多了，我也可以更自在地做自己。顺便说一下，VidCon简直就是社交天堂。想想看……
