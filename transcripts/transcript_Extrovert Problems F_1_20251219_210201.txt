@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1140
+- **译文字符数:** 343
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** start with a low battery when they're by themselves, but are able to recharge by socializing with other people.
+    *翻译:* 当他们独自一人时电量很低，但通过与其他人社交能够重新充电。
+
+**[00:05]** Contrary to popular belief, being an introvert doesn't automatically mean you have anxiety and hate other human beings,
+    *翻译:* 与普遍看法相反，作为一个内向的人并不意味着你就一定有焦虑并且讨厌其他人。
+
+**[00:11]** and being an extrovert doesn't mean you have good public speaking skills by default.
+    *翻译:* 外向并不意味着你天生就具备良好的公共演讲技巧。
+
+**[00:16]** I'm a prime example of that fact.
+    *翻译:* 我就是那个事实的典型例子。
+
+**[00:19]** As a matter of fact, I'm terrible with giving presentations and giving speeches to groups of people.
+    *翻译:* 实际上，我在给一群人做演讲和报告时表现得很糟糕。
+
+**[00:24]** Maybe I just don't have the charisma for it.
+    *翻译:* 或许我只是没有那种魅力。
+
+**[00:27]** I think my roommate and I have pretty similar personalities, but after a long day of work, she'd say,
+    *翻译:* 我认为我和我的室友性格非常相似，但在漫长的工作日结束后，她会这样说，
+
+**[00:32]** I'm really worn out and I don't have the energy to talk to anyone, so I'm gonna go sit and bend and watch kitchen nightmares.
+    *翻译:* 我真的筋疲力尽了，没有精力和任何人说话，所以我打算去坐着、弯腰，然后看《厨房噩梦》。
+
+**[00:37]** Meanwhile, after a long day of work, I'm usually like,
+    *翻译:* 与此同时，在漫长的一天工作之后，我通常会感到，
+
+**[00:41]** Hey, are you free? I had a long day and I want to treat myself to sushi, but I don't have anyone to go with.
+    *翻译:* 嘿，你有空吗？我今天很累，想去吃寿司犒劳一下自己，但是没有伴一起去。
+
+**[00:46]** Guess who's the introvert and who's the extrovert?
+    *翻译:* 猜猜谁是内向的人，谁是外向的人？
+
+**[00:48]** I thought it'd be interesting to go over some extrovert problems, or at least the way I viewed them.
+    *翻译:* 我认为回顾一些外向者的问题会很有趣，或者至少是我看待它们的方式。
+
+**[00:54]** First off, I can't get anything done when I'm alone.
+    *翻译:* 首先，我一个人的时候什么也做不了。
+
+**[00:57]** You'd think being by myself with all the free-
+    *翻译:* 你会认为我一个人拥有所有的自由——
+
+## 完整原文
+
+start with a low battery when they're by themselves, but are able to recharge by socializing with other people. Contrary to popular belief, being an introvert doesn't automatically mean you have anxiety and hate other human beings, and being an extrovert doesn't mean you have good public speaking skills by default. I'm a prime example of that fact. As a matter of fact, I'm terrible with giving presentations and giving speeches to groups of people. Maybe I just don't have the charisma for it. I think my roommate and I have pretty similar personalities, but after a long day of work, she'd say, I'm really worn out and I don't have the energy to talk to anyone, so I'm gonna go sit and bend and watch kitchen nightmares. Meanwhile, after a long day of work, I'm usually like, Hey, are you free? I had a long day and I want to treat myself to sushi, but I don't have anyone to go with. Guess who's the introvert and who's the extrovert? I thought it'd be interesting to go over some extrovert problems, or at least the way I viewed them. First off, I can't get anything done when I'm alone. You'd think being by myself with all the free-
+
+## 完整译文
+
+当他们独自一人时，电量很低，但通过与他人社交能够重新充电。与普遍看法相反，内向并不意味着你自动就有焦虑和讨厌其他人，外向也不意味着你天生就有良好的公共演讲技巧。我就是这个事实的典型例子。实际上，我在进行演讲和对一群人讲话时非常糟糕。也许我只是缺乏那种魅力。我认为我的室友和我有非常相似的性格，但在漫长的工作日结束后，她会说，我真的筋疲力尽，没有精力和任何人说话，所以我要去坐着弯着腰看厨房噩梦。与此同时，在漫长的工作日结束后，我通常就像，嘿，你有空吗？我度过了漫长的一天，我想犒劳自己去吃寿司，但我没有人一起去。猜猜谁是内向者，谁是外向者？我认为回顾一些外向者的问题会很有趣，或者至少是我看待它们的方式。首先，当我独自一人时，我什么也做不了。你可能会认为，独自一人时有所有的空闲时间——
