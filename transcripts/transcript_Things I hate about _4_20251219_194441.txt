@@ -1,0 +1,40 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 687
+- **译文字符数:** 213
+- **段落数:** 8
+
+## 分段转录
+
+**[00:00]** For what it's worth, despite everything, college has been absolutely worth it for me.
+    *翻译:* 不管怎样，尽管经历了种种，大学对我来说绝对值得。
+
+**[00:04]** It's given me the space to try stuff out and experience things I never would have elsewhere,
+    *翻译:* 它给了我尝试新事物和体验其他地方从未有过的事情的空间。
+
+**[00:08]** and I've met some of my closest friends, just amazing people that have made me who I am today.
+    *翻译:* 我遇到了一些我最亲密的朋友，这些了不起的人塑造了今天的我。
+
+**[00:12]** So this is not supposed to be a video on why you shouldn't go to college.
+    *翻译:* 所以这并不是一个关于你不应该去上大学的视频。
+
+**[00:16]** I can't make any objective claims about whether it's worth it to go to college
+    *翻译:* 我不能对是否值得上大学做出任何客观的断言。
+
+**[00:19]** because it's so contextual and people's experiences are so vastly different.
+    *翻译:* 因为它是如此依赖上下文，而且人们的经历差异如此之大。
+
+**[00:22]** I do think for the right reasons it can be a valuable stepping stone to achieving your dreams.
+    *翻译:* 我确实认为，出于正确的理由，它可以成为实现梦想的宝贵垫脚石。
+
+**[00:27]** For example, if you're trying to become a Beethoven testicle scholar, it's absolutely...
+    *翻译:* 例如，如果你试图成为一个贝多芬睾丸学者，这绝对是……
+
+## 完整原文
+
+For what it's worth, despite everything, college has been absolutely worth it for me. It's given me the space to try stuff out and experience things I never would have elsewhere, and I've met some of my closest friends, just amazing people that have made me who I am today. So this is not supposed to be a video on why you shouldn't go to college. I can't make any objective claims about whether it's worth it to go to college because it's so contextual and people's experiences are so vastly different. I do think for the right reasons it can be a valuable stepping stone to achieving your dreams. For example, if you're trying to become a Beethoven testicle scholar, it's absolutely...
+
+## 完整译文
+
+不管怎样，尽管经历了种种，对我来说，上大学绝对是值得的。它给了我尝试新事物和体验我可能在其他地方永远无法体验到的事情的空间，我遇到了一些我最亲密的朋友，这些了不起的人让我成为了今天的我。所以这并不是一个关于你不应该上大学的视频。我不能对是否值得上大学做出任何客观的声明，因为这太具有情境性了，人们的经历也大相径庭。我确实认为，出于正确的理由，它可以成为实现你梦想的宝贵跳板。例如，如果你想成为一名贝多芬睾丸学者，这绝对是...
