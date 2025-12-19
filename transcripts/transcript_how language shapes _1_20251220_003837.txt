@@ -1,0 +1,118 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 3305
+- **译文字符数:** 999
+- **段落数:** 34
+
+## 分段转录
+
+**[00:00]** language that end in T-I-O-N, that you can just transfer that right over into Spanish by changing
+    *翻译:* 以“TION”结尾的语言，你可以直接将其转换为西班牙语，只需进行一些变化。
+
+**[00:05]** it into C-I-O-N. So, imagination, for example, would be Imajinaseon, please forgive my pronunciation.
+    *翻译:* 将其转化为C-I-O-N。所以，比如想象力，就会是Imajinaseon，请原谅我的发音。
+
+**[00:13]** And then from there, you can find thousands of Spanish verbs by just changing the ending from C-I-O-N
+    *翻译:* 然后从那里，你只需改变结尾的C-I-O-N，就能找到成千上万的西班牙语动词。
+
+**[00:20]** to A-R and changing that ending would take imagination and turn it into to imagine. So then it's Imajinar.
+    *翻译:* 对A-R来说，改变那个结尾需要想象力，将其变成“去想象”。所以，它就变成了“想象器”。
+
+**[00:28]** And you can do this with so many words. You can take conversation and it becomes
+    *翻译:* 你可以用很多话来做到这一点。你可以将对话变成
+
+**[00:31]** conversación and then that becomes conversaar, like on and on and on. And something that was very
+    *翻译:* 对话，然后变成了conversaar，就像没完没了。而有些东西曾经是非常
+
+**[00:37]** striking to me as I was listening to my language transfer lessons is that if you take the word
+    *翻译:* 当我听我的语转移课程时，让我印象深刻的是，如果你取这个词
+
+**[00:42]** experimentation, transfer it over into Spanish into expedimentaseón and then switch it to the verb
+    *翻译:* 实验，将其翻译成西班牙语为expedimentaseón，然后将其转换为动词。
+
+**[00:48]** which is expedimentar, then that means to experiment, but it also means to experience. So the words for
+    *翻译:* 这是实验性的，那么意味着进行实验，但它也意味着去体验。所以这些词对于
+
+**[00:56]** two experience and to experiment are the same in Spanish and the teacher was kind of just talking
+    *翻译:* “两个经历”和“去实验”在西班牙语中是相同的，老师只是随口说说。
+
+**[01:01]** about how that could be a little bit of a life lesson in and of itself, like those simple words
+    *翻译:* 关于这本身可能是一个小小的生活教训，就像那些简单的词语。
+
+**[01:06]** are a particular way of experiencing the world around you. So those were like the first seeds of
+    *翻译:* 是体验你周围世界的一种特殊方式。所以那些就像是最初的种子。
+
+**[01:11]** curiosity that this episode was born from. And around the same time that I was getting curious
+    *翻译:* 这种好奇心是这一集诞生的原因。就在我变得好奇的同时
+
+**[01:15]** about this, my boyfriend was also getting curious about it, but in a very different way. And I just
+    *翻译:* 关于这个，我男朋友也变得好奇起来，但方式完全不同。而我也只是
+
+**[01:18]** thought it was interesting when I started researching how my curiosity is went in a different
+    *翻译:* 当我开始研究我的好奇心如何走向不同方向时，我觉得这很有趣。
+
+**[01:23]** direction than his dead. So like a couple weeks ago, he went down a rabbit hole about proto-indo-European,
+    *翻译:* 几周前，他深入研究了原始印欧语。
+
+**[01:28]** which if you haven't heard of proto-indo-European, I will let you do your own research about that
+    *翻译:* 如果你还没有听说过原始印欧语，我会让你自己去研究一下这个主题。
+
+**[01:33]** because I don't want to get too off topic here. But basically what was happening was that he was
+    *翻译:* 因为我不希望在这里离题太远。但基本上发生的事情是，他正在
+
+**[01:38]** getting curious about a branch of linguistics called comparative historical linguistics. And I
+    *翻译:* 开始对一个名为比较历史语言学的语言学分支产生了兴趣。而我
+
+**[01:42]** was so impressed with the way his brain worked because basically he fell down this rabbit hole. And
+    *翻译:* 对他的思维方式印象深刻，因为他基本上陷入了这个兔子洞。而且
+
+**[01:46]** then the next day he was able to like pull up a map and like show me the ways that these languages
+    *翻译:* 然后第二天他就能够像拉起一张地图一样，向我展示这些语言的路径。
+
+**[01:52]** have been tracked through history. Like it was mind blowing to me, but also my brain doesn't latch
+    *翻译:* 历史上一直有迹可循。这对我来说太震撼了，但我的大脑却无法抓住。
+
+**[01:59]** on to that in the same way that it does for him. The thing about linguistics that ended up really
+    *翻译:* 继续以同样的方式进行，就像对他一样。最终真正吸引他的是语言学。
+
+**[02:04]** pulling me in is what I learned to be called linguistic relativity. And I think when I first sat
+    *翻译:* 吸引我的就是我学到的所谓语言相对性。我想，当我第一次坐下来时
+
+**[02:08]** down to do the research for this episode, I was kind of trying to force my curiosity to go in a
+    *翻译:* 为了准备这一集的研究，我有点试图强迫我的好奇心朝这个方向发展。
+
+**[02:14]** similar direction that his did. And our brains were just pointing us towards different like lines
+    *翻译:* 他走的是相似的方向。而我们的大脑只是指引我们走向不同的线路。
+
+**[02:19]** of inquiry, you know. So I kind of had to just drop that for a second. And I actually had a listener
+    *翻译:* 询问，你知道的。所以我不得不暂时放下那个。实际上我有一个听众。
+
+**[02:24]** who suggested the podcast link thusiasm, specifically the superior wharf episode. And according to
+    *翻译:* 谁推荐了播客链接热情，特别是高级码头那一集。根据
+
+**[02:29]** the dictionary, the superior wharf hypothesis is a hypothesis first advanced by Edward Sopir in 1929
+    *翻译:* 字典中，优越码头假说是爱德华·索皮尔在1929年首次提出的一个假设。
+
+**[02:35]** and subsequently developed by Benjamin Wharf that the structure of a language determines a native
+    *翻译:* 随后由本杰明·沃夫发展出的观点是，一种语言的结构决定了母语使用者的思维。
+
+**[02:41]** speaker's perception and categorization of experience. And this was kind of the beginning of the
+    *翻译:* 说话者对经验的感知和分类。这可以说是……的开始。
+
+**[02:46]** linguistic relativity branch of linguistics. Quite correction, the superior wharf hypothesis was
+    *翻译:* 语言学中的相对论分支。相当正确的是，优越码头假设是
+
+**[02:51]** not the beginning of the branch of linguistics that is linguistic relativity. It was a continuation
+    *翻译:* 并不是语言学中的语言相对性的分支的开始。这是一个延续。
+
+**[02:56]** of a conversation that happened more towards the 19th century.
+    *翻译:* 发生在更接近19世纪的一次对话。
+
+## 完整原文
+
+language that end in T-I-O-N, that you can just transfer that right over into Spanish by changing it into C-I-O-N. So, imagination, for example, would be Imajinaseon, please forgive my pronunciation. And then from there, you can find thousands of Spanish verbs by just changing the ending from C-I-O-N to A-R and changing that ending would take imagination and turn it into to imagine. So then it's Imajinar. And you can do this with so many words. You can take conversation and it becomes conversación and then that becomes conversaar, like on and on and on. And something that was very striking to me as I was listening to my language transfer lessons is that if you take the word experimentation, transfer it over into Spanish into expedimentaseón and then switch it to the verb which is expedimentar, then that means to experiment, but it also means to experience. So the words for two experience and to experiment are the same in Spanish and the teacher was kind of just talking about how that could be a little bit of a life lesson in and of itself, like those simple words are a particular way of experiencing the world around you. So those were like the first seeds of curiosity that this episode was born from. And around the same time that I was getting curious about this, my boyfriend was also getting curious about it, but in a very different way. And I just thought it was interesting when I started researching how my curiosity is went in a different direction than his dead. So like a couple weeks ago, he went down a rabbit hole about proto-indo-European, which if you haven't heard of proto-indo-European, I will let you do your own research about that because I don't want to get too off topic here. But basically what was happening was that he was getting curious about a branch of linguistics called comparative historical linguistics. And I was so impressed with the way his brain worked because basically he fell down this rabbit hole. And then the next day he was able to like pull up a map and like show me the ways that these languages have been tracked through history. Like it was mind blowing to me, but also my brain doesn't latch on to that in the same way that it does for him. The thing about linguistics that ended up really pulling me in is what I learned to be called linguistic relativity. And I think when I first sat down to do the research for this episode, I was kind of trying to force my curiosity to go in a similar direction that his did. And our brains were just pointing us towards different like lines of inquiry, you know. So I kind of had to just drop that for a second. And I actually had a listener who suggested the podcast link thusiasm, specifically the superior wharf episode. And according to the dictionary, the superior wharf hypothesis is a hypothesis first advanced by Edward Sopir in 1929 and subsequently developed by Benjamin Wharf that the structure of a language determines a native speaker's perception and categorization of experience. And this was kind of the beginning of the linguistic relativity branch of linguistics. Quite correction, the superior wharf hypothesis was not the beginning of the branch of linguistics that is linguistic relativity. It was a continuation of a conversation that happened more towards the 19th century.
+
+## 完整译文
+
+以T-I-O-N结尾的语言，你可以直接将其转换为西班牙语，只需将其改为C-I-O-N。例如，imagination（想象力）就会变成Imajinaseon，请原谅我的发音。然后，你可以通过简单地将结尾从C-I-O-N改为A-R来找到成千上万的西班牙语动词，这样的改变会将imagination变成imagine（想象）。所以，它就变成了Imajinar。你可以用这种方法转换很多单词。你可以将conversation（对话）变成conversación，然后变成conversaar，如此这般，无穷无尽。当我在听我的语言转换课程时，让我印象深刻的是，如果你将单词experimentation（实验）转换为西班牙语expedimentaseón，然后将其变为动词expedimentar，那么它意味着实验，同时也意味着体验。所以，在西班牙语中，两个词“体验”和“实验”是相同的，老师只是谈论了这本身可能是一个小小的生活教训，就像那些简单的单词是体验周围世界的一种特殊方式。这些就是这集节目诞生的好奇心的种子。而就在我对这个问题产生好奇心的同时，我的男朋友也在以一种非常不同的方式对它产生好奇。我只是觉得有趣的是，当我开始研究时，我的好奇心和他的好奇心走向了不同的方向。 几周前，他开始深入研究原始印欧语，如果你没听说过原始印欧语，我建议你自己去查一下，因为我不想在这里跑题。但基本上，他开始对一个叫做比较历史语言学的语言学分支产生了兴趣。我对他大脑的运作方式印象深刻，因为他就这样陷入了这个兔子洞。然后第二天他就能拿出一张地图，向我展示这些语言是如何在历史上被追踪的。这对我来说简直难以置信，但我的大脑并不像他的那样对这些内容产生共鸣。最终让我对语言学产生兴趣的是所谓的语言相对性。我想当我最初坐下来为这一集做研究时，我试图强迫我的好奇心朝他的方向走。但我们的大脑只是指向了不同的探究线索，你懂的。所以我不得不暂时放弃那个。实际上，我有一个听众建议我链接到一个播客，特别是关于优越码头的那一集。 根据字典，萨丕尔-沃尔夫假说是由爱德华·萨丕尔在1929年首次提出，并由本杰明·沃尔夫进一步发展的一种假设，即一种语言的结构决定了母语使用者对经验的感知和分类。这可以说是语言学中语言相对论分支的开端。但需要更正的是，萨丕尔-沃尔夫假说并非语言学中语言相对论分支的起点。它是19世纪更多发生的对话的延续。
