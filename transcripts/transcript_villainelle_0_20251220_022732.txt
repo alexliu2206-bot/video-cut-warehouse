@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1030
+- **译文字符数:** 338
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** to rage at an unfair world. Most of us want to be her and or be with her. It's just like Regina
+    *翻译:* 对一个不公平的世界感到愤怒。我们大多数人想成为她或者和她在一起。这就像雷吉娜一样。
+
+**[00:06]** or Miranda, that vice grip power that aspirational aura. But Villainelle is what happens when an
+    *翻译:* 对于米兰达来说，那种老虎钳般的力量和那种渴望的氛围。但当一个反派角色出现时，就会发生像维拉内尔这样的情况。
+
+**[00:12]** it girl takes revenge on the world from neglecting to appreciate her majestic being.
+    *翻译:* 这位时尚女孩因世界忽视欣赏她威严的存在而进行报复。
+
+**[00:17]** In fiction, women who are strong tend to be angry or the cool girl who doesn't care about anything.
+    *翻译:* 在小说中，强大的女性往往被描绘成愤怒或者是那种对任何事情都漠不关心的酷女孩。
+
+**[00:23]** It's nice to see a presentation that is domineering, and glamorous, and emotionally a lot.
+    *翻译:* 很高兴看到一个既霸气又迷人，情感丰富的演讲。
+
+**[00:29]** And for those who desire a more open and sexual identity, Villainelle represents pure inhibition.
+    *翻译:* 对于那些渴望更开放和性身份的人来说，Villainelle代表了纯粹的压抑。
+
+**[00:34]** She loves pretty boys, mils, three thumbs, and she'll put on a beard, dance around, and none of
+    *翻译:* 她喜欢漂亮的男孩，千分之一的硬币，三个拇指，她会戴上假胡子，跳舞转圈，而且没有人
+
+**[00:39]** it stresses her in any way. She's assured in her gender expression and sexuality in a way a lot
+    *翻译:* 它以任何方式给她带来压力。她在性别表达和性取向上都有一种自信，这是很多人所没有的。
+
+**[00:44]** of people aren't able to be, and seeing that feel satisfying, especially when she often occupies
+    *翻译:* 人们无法成为的样子，看到这一点让人感到满足，尤其是当她经常占据的时候。
+
+**[00:50]** the pursuant role, which is notoriously less common with women. The idea being chased around by
+    *翻译:* 追求者的角色，众所周知，女性中较为少见。这个想法被追逐着
+
+**[00:55]** a confident woman you're mutually obsessed with kinda hits different. In hair-
+    *翻译:* 一个你相互迷恋的自信女人，感觉就是不一样。在头发上——
+
+## 完整原文
+
+to rage at an unfair world. Most of us want to be her and or be with her. It's just like Regina or Miranda, that vice grip power that aspirational aura. But Villainelle is what happens when an it girl takes revenge on the world from neglecting to appreciate her majestic being. In fiction, women who are strong tend to be angry or the cool girl who doesn't care about anything. It's nice to see a presentation that is domineering, and glamorous, and emotionally a lot. And for those who desire a more open and sexual identity, Villainelle represents pure inhibition. She loves pretty boys, mils, three thumbs, and she'll put on a beard, dance around, and none of it stresses her in any way. She's assured in her gender expression and sexuality in a way a lot of people aren't able to be, and seeing that feel satisfying, especially when she often occupies the pursuant role, which is notoriously less common with women. The idea being chased around by a confident woman you're mutually obsessed with kinda hits different. In hair-
+
+## 完整译文
+
+对一个不公平的世界感到愤怒。我们大多数人想成为她或者和她在一起。这就像雷吉娜或米兰达，那种渴望的力量和令人向往的氛围。但Villanelle是一个被忽视欣赏她威严存在的女孩对世界进行报复时发生的事情。在小说中，强大的女性往往要么愤怒，要么是那种不在乎任何事情的酷女孩。看到一个专横、迷人且情感丰富的表现是令人愉快的。对于那些渴望更开放和性身份的人来说，Villanelle代表了纯粹的抑制。她喜欢漂亮的男孩、米尔斯、三个拇指，她会戴上假胡子，跳舞，而这些都不会以任何方式让她感到压力。她在性别表达和性取向上的自信是很多人无法做到的，看到这一点让人感到满足，尤其是当她经常扮演追求者的角色时，这在女性中是出了名的不常见。被一个你相互迷恋的自信女性追逐的想法有点不同。在头发上——
