@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 994
+- **译文字符数:** 343
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** In my mind, two shows demonstrate this best, killing Eve and Hannibal.
+    *翻译:* 在我看来，两部剧集最能体现这一点，分别是《杀死伊芙》和《汉尼拔》。
+
+**[00:04]** For Villanelle and Eve, the definitions of protagonist and antagonist take a left turn.
+    *翻译:* 对于Villanelle和Eve来说，主角和反派的定义发生了转变。
+
+**[00:10]** In any rational world, Eve would be obsessed with seeing Villanelle capture, tried, and
+    *翻译:* 在任何理性的世界里，伊芙都会痴迷于看到维拉内尔被捕、受审，并且
+
+**[00:14]** jailed for murder.
+    *翻译:* 因谋杀罪入狱。
+
+**[00:16]** Instead, she's intrigued by how and why Villanelle kills.
+    *翻译:* 相反，她对Villanelle如何以及为何杀人感到好奇。
+
+**[00:20]** She comes to be the most exciting person Eve knows, exposing the fundamental differences
+    *翻译:* 她成为了伊芙认识的最令人兴奋的人，揭示了根本的差异。
+
+**[00:24]** between Eve and her husband who only wants a quiet, normal life.
+    *翻译:* 在夏娃和她丈夫之间，她丈夫只想要一个平静、正常的生活。
+
+**[00:29]** Villanelle is also intrigued by the woman with wild hair and bottomless audacity, with
+    *翻译:* 维拉内尔也对那个头发蓬乱、胆大包天的女人感到好奇。
+
+**[00:34]** suddenly consumed with hunting her.
+    *翻译:* 突然被狩猎她的念头所占据。
+
+**[00:37]** Honestly, we love Villanelle for the same reason Eve does.
+    *翻译:* 说真的，我们喜欢Villanelle的原因和Eve一样。
+
+**[00:40]** She's pure, wish fulfillment, breathtaking confidence that makes our curiosity salivate.
+    *翻译:* 她纯洁无瑕，是愿望的实现，令人屏息的自信让我们的好奇心垂涎三尺。
+
+**[00:46]** She's funny, naughty, childish, fashionable, sexy, and does whatever pleases her senses
+    *翻译:* 她很有趣，调皮，孩子气，时尚，性感，并且做任何能取悦她感官的事情。
+
+**[00:51]** without caring about moral compass, social norms, or consequences.
+    *翻译:* 不顾道德准则、社会规范或后果。
+
+**[00:55]** People wonder how it feels to live this glamorous life while acting out on their repressed
+    *翻译:* 人们好奇过着这种光鲜亮丽的生活，同时释放压抑的感觉是怎样的。
+
+## 完整原文
+
+In my mind, two shows demonstrate this best, killing Eve and Hannibal. For Villanelle and Eve, the definitions of protagonist and antagonist take a left turn. In any rational world, Eve would be obsessed with seeing Villanelle capture, tried, and jailed for murder. Instead, she's intrigued by how and why Villanelle kills. She comes to be the most exciting person Eve knows, exposing the fundamental differences between Eve and her husband who only wants a quiet, normal life. Villanelle is also intrigued by the woman with wild hair and bottomless audacity, with suddenly consumed with hunting her. Honestly, we love Villanelle for the same reason Eve does. She's pure, wish fulfillment, breathtaking confidence that makes our curiosity salivate. She's funny, naughty, childish, fashionable, sexy, and does whatever pleases her senses without caring about moral compass, social norms, or consequences. People wonder how it feels to live this glamorous life while acting out on their repressed
+
+## 完整译文
+
+在我心中，两部剧集最能体现这一点：《杀死伊芙》和《汉尼拔》。对于维拉内尔和伊芙来说，主角和反派的定义发生了转变。在任何理性的世界里，伊芙应该痴迷于看到维拉内尔被捕、受审并因谋杀罪入狱。相反，她对维拉内尔如何以及为何杀人感到好奇。她成为了伊芙认识的最令人兴奋的人，暴露了伊芙和她丈夫之间的根本差异，后者只想要一个平静、正常的生活。维拉内尔也对这位有着狂野发型和无尽胆量的女性感到好奇，突然之间，她被追捕她的念头所占据。老实说，我们爱维拉内尔的原因和伊芙一样。她是纯粹的、愿望的实现，令人屏息的信心，让我们的好奇心垂涎。她有趣、顽皮、孩子气、时尚、性感，并且做任何能取悦她感官的事情，不在乎道德指南针、社会规范或后果。人们想知道，过着这种光鲜亮丽的生活，同时释放他们压抑的情感会是什么感觉。
