@@ -1,0 +1,67 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1051
+- **译文字符数:** 346
+- **段落数:** 17
+
+## 分段转录
+
+**[00:00]** Elf when I need something to distract me?
+    *翻译:* 当我需要一些东西来分散我的注意力时，精灵就会出现。
+
+**[00:01]** I watch movies and episodes of my favorite shows on Verf Premium.
+    *翻译:* 我在Verf Premium上观看电影和我最喜欢的节目的剧集。
+
+**[00:05]** Recently I finished watching an animated film called A Cat in Paris.
+    *翻译:* 最近我看完了一个叫做《巴黎的猫》的动画片。
+
+**[00:09]** No, not that cat in Paris.
+    *翻译:* 不，不是那只在巴黎的猫。
+
+**[00:12]** It's about a black cat that lives a double life.
+    *翻译:* 这是关于一只过着双重生活的黑猫。
+
+**[00:15]** Go away, this isn't about you!
+    *翻译:* 走开，这和你没关系！
+
+**[00:17]** It's a film about a black cat that lovingly belongs to a young mute girl during the day
+    *翻译:* 这是一部关于一只黑猫在白天属于一个年轻的哑巴女孩的电影。
+
+**[00:22]** time, but in the night time he sneaks out to accompany a clever burglar.
+    *翻译:* 白天，但在夜晚他偷偷溜出去陪伴一个聪明的窃贼。
+
+**[00:25]** I fell in love with the story and hand-drawn animation, so I definitely recommend this
+    *翻译:* 我爱上了这个故事和手绘动画，所以我绝对推荐这个。
+
+**[00:29]** premium title.
+    *翻译:* 高级标题。
+
+**[00:30]** Other shows available on Verf Premium include Harmon Quest and the new Gary and his demons.
+    *翻译:* Verf Premium上还有其他节目，包括《Harmon Quest》和新节目《Gary和他的恶魔》。
+
+**[00:36]** With your 30 day free trial of Verf Premium, you get ad-free content on all your favorite
+    *翻译:* 使用Verf Premium的30天免费试用，您可以在所有喜欢的平台上享受无广告内容。
+
+**[00:40]** devices, first access to new content, unlimited access to all channels, and you can watch
+    *翻译:* 设备，首次访问新内容，无限访问所有频道，你可以观看
+
+**[00:45]** your favorite shows on the go without the need for an internet connection.
+    *翻译:* 无需互联网连接，随时随地观看您最喜欢的节目。
+
+**[00:49]** So now I don't have to wait until I come home to watch new episodes, and I don't have
+    *翻译:* 所以现在，我不必等到回家才能看新剧集了，我也不必再等待。
+
+**[00:52]** to deal with spotty coffee shop Wi-Fi.
+    *翻译:* 应对咖啡店不稳定的Wi-Fi。
+
+**[00:55]** The link is vrv.co-em-i-r-i-c-a-
+    *翻译:* 这个链接是vrv.co-em-i-r-i-c-a-
+
+## 完整原文
+
+Elf when I need something to distract me? I watch movies and episodes of my favorite shows on Verf Premium. Recently I finished watching an animated film called A Cat in Paris. No, not that cat in Paris. It's about a black cat that lives a double life. Go away, this isn't about you! It's a film about a black cat that lovingly belongs to a young mute girl during the day time, but in the night time he sneaks out to accompany a clever burglar. I fell in love with the story and hand-drawn animation, so I definitely recommend this premium title. Other shows available on Verf Premium include Harmon Quest and the new Gary and his demons. With your 30 day free trial of Verf Premium, you get ad-free content on all your favorite devices, first access to new content, unlimited access to all channels, and you can watch your favorite shows on the go without the need for an internet connection. So now I don't have to wait until I come home to watch new episodes, and I don't have to deal with spotty coffee shop Wi-Fi. The link is vrv.co-em-i-r-i-c-a-
+
+## 完整译文
+
+当我需要一些东西来分散我的注意力时，我会在Verf Premium上观看电影和我最喜欢的节目。最近我看完了一个叫做《巴黎的猫》的动画片。不，不是那个巴黎的猫。它是关于一只白天属于一个年轻哑巴女孩的黑猫，但在晚上他偷偷溜出去陪伴一个聪明的盗贼。我爱上了这个故事和手绘动画，所以我绝对推荐这个高级标题。Verf Premium上还有其他节目，包括Harmon Quest和新的Gary和他的恶魔。有了你的30天免费试用Verf Premium，你可以在所有你喜欢的设备上享受无广告内容，首先访问新内容，无限访问所有频道，你可以随时随地观看你喜欢的节目，而不需要互联网连接。所以现在我不必等到我回家才能看新剧集，我也不必处理咖啡店不稳定的Wi-Fi。链接是vrv.co-em-i-r-i-c-a-。
