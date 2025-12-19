@@ -1,0 +1,286 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 3418
+- **译文字符数:** 1072
+- **段落数:** 90
+
+## 分段转录
+
+**[00:00]** delivered solid results.
+    *翻译:* 取得了坚实的成果。
+
+**[00:01]** Today I just want to example,
+    *翻译:* 今天我只想举个例子，
+
+**[00:02]** an ongoing cutting edge work.
+    *翻译:* 一项正在进行的前沿工作。
+
+**[00:04]** Researchers have shown that certain languages may allow
+    *翻译:* 研究人员已经表明，某些语言可能允许
+
+**[00:07]** speakers to unlock senses that are the common possession
+    *翻译:* 扬声器解锁感官，这些感官是共同拥有的。
+
+**[00:10]** of all humans, but remain unutilized by most people.
+    *翻译:* 在所有人中，但大多数人并未利用。
+
+**[00:13]** And the example he uses, this is really interesting,
+    *翻译:* 他使用的例子，这真的很有趣，
+
+**[00:16]** is that in the Goringee language,
+    *翻译:* 那是在戈林吉语中，
+
+**[00:17]** which is spoken in northern Australia,
+    *翻译:* 在澳大利亚北部使用的语言，
+
+**[00:20]** they use the cardinal directions,
+    *翻译:* 他们使用基本方向。
+
+**[00:21]** not just on a geographical scale,
+    *翻译:* 不仅仅是在地理尺度上，
+
+**[00:23]** but also to locate things on their body.
+    *翻译:* 而且还要找到他们身体上的部位。
+
+**[00:25]** So say a fly landed on your right leg,
+    *翻译:* 那么假设一只苍蝇落在了你的右腿上，
+
+**[00:27]** and that was oriented towards the west.
+    *翻译:* 并且它朝向西方。
+
+**[00:30]** The way that they would talk about that
+    *翻译:* 他们谈论那件事的方式
+
+**[00:31]** is they would say,
+    *翻译:* 他们会说，
+
+**[00:32]** this is the outer upper west of my leg,
+    *翻译:* 这是我腿部外侧的上部。
+
+**[00:35]** the fly landed here on my leg,
+    *翻译:* 这只苍蝇落在了我的腿上，
+
+**[00:37]** which just makes my brain hurt
+    *翻译:* 这简直让我头疼
+
+**[00:39]** because I'm so bad at directions,
+    *翻译:* 因为我在方向感方面真的很差，
+
+**[00:41]** I can't even conceptualize the cardinal directions
+    *翻译:* 我甚至无法理解基本方向
+
+**[00:44]** when I'm walking down the street,
+    *翻译:* 当我走在大街上，
+
+**[00:45]** let alone think about where that's placed on my body
+    *翻译:* 更不用说去想它在我身体上的哪个位置了
+
+**[00:48]** at any given moment.
+    *翻译:* 在任何给定的时刻。
+
+**[00:49]** But dresser says,
+    *翻译:* 但是梳妆台说，
+
+**[00:50]** we are all innocence, compasses.
+    *翻译:* 我们都是无辜的，指南针。
+
+**[00:53]** English speakers are for the most part,
+    *翻译:* 大多数说英语的人，
+
+**[00:54]** not consciously aware of this,
+    *翻译:* 并没有意识到这一点，
+
+**[00:56]** even though their brain activity changes
+    *翻译:* 尽管他们的大脑活动发生了变化
+
+**[00:58]** when surrounding magnetic fields
+    *翻译:* 当周围有磁场时
+
+**[00:59]** are manipulated under experimental conditions.
+    *翻译:* 在实验条件下被操纵。
+
+**[01:02]** Recent experiments by the Australian linguist,
+    *翻译:* 澳大利亚语言学家最近进行的实验，
+
+**[01:04]** Felicity Meekens and her collaborators
+    *翻译:* 费莉西蒂·米肯斯和她的合作者
+
+**[01:06]** have shown that some Goringee speakers
+    *翻译:* 已经表明一些戈林吉语的使用者
+
+**[01:08]** can reliably report on shifts
+    *翻译:* 可以可靠地报告变化
+
+**[01:10]** in ambient magnetic fields.
+    *翻译:* 在环境磁场中。
+
+**[01:12]** Goringee speakers have it of using cardinal directions
+    *翻译:* Goringee语使用者有使用基本方向的习惯
+
+**[01:14]** would seem to have opened up their powers of perception.
+    *翻译:* 似乎已经开启了他们的感知能力。
+
+**[01:17]** At least some Goringee speakers
+    *翻译:* 至少一些Goringee语言的使用者
+
+**[01:19]** may be able to consciously feel earth's magnetic field.
+    *翻译:* 可能能够有意识地感受到地球的磁场。
+
+**[01:23]** So what that means to me
+    *翻译:* 那么对我来说意味着什么
+
+**[01:24]** is that language can change the way you experience
+    *翻译:* 语言可以改变你的体验方式
+
+**[01:26]** living in your body,
+    *翻译:* 居住在你的身体里，
+
+**[01:28]** not just your thoughts about the world around you.
+    *翻译:* 不仅仅是你对周围世界的想法。
+
+**[01:31]** And Berlaine Coe on South Sack has an essay called
+    *翻译:* 贝莱恩·科在南萨克有一篇名为
+
+**[01:33]** Babilan, Bye-Bye Lang,
+    *翻译:* 巴比兰，再见狼，
+
+**[01:35]** the National Colonial Amnesia.
+    *翻译:* 国家殖民健忘症。
+
+**[01:37]** And she writes about the Babilans
+    *翻译:* 她写到了巴比伦人
+
+**[01:38]** from the Fassian Islands
+    *翻译:* 来自法西亚群岛
+
+**[01:39]** and the Catalonans and the Tagalong regions.
+    *翻译:* 加泰罗尼亚人和塔加隆地区。
+
+**[01:42]** They say these were women,
+    *翻译:* 他们说这些是女性，
+
+**[01:43]** sometimes men are queer individuals too,
+    *翻译:* 有时候男人也是奇怪的个体，
+
+**[01:45]** who embodied spiritual power.
+    *翻译:* 谁体现了精神力量。
+
+**[01:47]** They weren't just priestesses,
+    *翻译:* 她们不仅仅是女祭司，
+
+**[01:48]** they were feared, respected, and untouchable.
+    *翻译:* 他们令人畏惧、受人尊敬且不可触及。
+
+**[01:51]** Many were women,
+    *翻译:* 许多人是女性，
+
+**[01:52]** but many were also effeminate men,
+    *翻译:* 但许多人也是女性化的男性，
+
+**[01:54]** and what we might now call transgender women.
+    *翻译:* 以及我们现在可能称之为跨性别女性的人。
+
+**[01:56]** People who presented femininity
+    *翻译:* 展现女性气质的人
+
+**[01:58]** and ways it held sacred meaning.
+    *翻译:* 它所持有的神圣意义。
+
+**[02:00]** In pre-colonial society,
+    *翻译:* 在前殖民社会中，
+
+**[02:01]** they weren't mocked or sidelined, they were central.
+    *翻译:* 他们没有被嘲笑或边缘化，他们是核心。
+
+**[02:04]** And this of course reminds me of two spirits
+    *翻译:* 这当然让我想起了两种精神
+
+**[02:05]** in Native American culture.
+    *翻译:* 在美洲原住民文化中。
+
+**[02:07]** Trans people have always existed
+    *翻译:* 跨性别者一直存在
+
+**[02:08]** and there are multiple indigenous cultures
+    *翻译:* 并且存在多种土著文化
+
+**[02:10]** throughout the world
+    *翻译:* 遍及全球
+
+**[02:11]** that have this deep innate wisdom
+    *翻译:* 拥有这种深刻的内在智慧
+
+**[02:13]** that that should be revered and not othered.
+    *翻译:* 那应该被尊敬，而不是被排斥。
+
+**[02:15]** But the SSA says colonizers didn't understand that.
+    *翻译:* 但社会保障局表示，殖民者并没有理解这一点。
+
+**[02:17]** In their world, gender was binary,
+    *翻译:* 在他们的世界中，性别是二元的，
+
+**[02:19]** women are man, nothing in between.
+    *翻译:* 女人就是男人，中间没有其他。
+
+**[02:21]** So when they saw the violence,
+    *翻译:* 所以当他们看到暴力时，
+
+**[02:22]** leading villages and rituals
+    *翻译:* 领导村庄和仪式
+
+**[02:24]** while dressed in feminine attire,
+    *翻译:* 穿着女性服装时，
+
+**[02:25]** they saw a threat, a disruption to their system.
+    *翻译:* 他们看到了一个威胁，对他们的系统造成了干扰。
+
+**[02:28]** And like so many things they didn't understand,
+    *翻译:* 就像许多他们不理解的事情一样，
+
+**[02:30]** they labeled it unnatural and sought to erase it.
+    *翻译:* 他们将其标记为不自然，并试图抹去它。
+
+**[02:32]** Now I've been thinking about this quote from Kenneth Hale
+    *翻译:* 现在我一直在思考肯尼斯·黑尔的这句话
+
+**[02:34]** who's a linguist at MIT,
+    *翻译:* 谁是麻省理工学院的语言学家，
+
+**[02:35]** and he says losing a language
+    *翻译:* 他说失去一种语言
+
+**[02:37]** is like dropping a bomb on a museum.
+    *翻译:* 就像在博物馆投下一颗炸弹。
+
+**[02:39]** And when I first read that, it rang us true,
+    *翻译:* 当我最初读到那个时，它听起来是真的。
+
+**[02:42]** but I think talking through all of this,
+    *翻译:* 但我在想，通过讨论所有这些，
+
+**[02:44]** it's clear to me that language is much more than that.
+    *翻译:* 对我来说，语言的意义远不止于此。
+
+**[02:47]** Language is a somatic bodily thing.
+    *翻译:* 语言是一种身体上的东西。
+
+**[02:51]** And when I think about a museum,
+    *翻译:* 当我想到一个博物馆，
+
+**[02:52]** I think about archival, I think about display.
+    *翻译:* 我考虑档案存储，我考虑展示陈列。
+
+**[02:55]** I don't necessarily think about the lived,
+    *翻译:* 我不一定考虑已经经历过的，
+
+**[02:58]** bodily experience or whether that's...
+    *翻译:* 身体体验还是那是...
+
+## 完整原文
+
+delivered solid results. Today I just want to example, an ongoing cutting edge work. Researchers have shown that certain languages may allow speakers to unlock senses that are the common possession of all humans, but remain unutilized by most people. And the example he uses, this is really interesting, is that in the Goringee language, which is spoken in northern Australia, they use the cardinal directions, not just on a geographical scale, but also to locate things on their body. So say a fly landed on your right leg, and that was oriented towards the west. The way that they would talk about that is they would say, this is the outer upper west of my leg, the fly landed here on my leg, which just makes my brain hurt because I'm so bad at directions, I can't even conceptualize the cardinal directions when I'm walking down the street, let alone think about where that's placed on my body at any given moment. But dresser says, we are all innocence, compasses. English speakers are for the most part, not consciously aware of this, even though their brain activity changes when surrounding magnetic fields are manipulated under experimental conditions. Recent experiments by the Australian linguist, Felicity Meekens and her collaborators have shown that some Goringee speakers can reliably report on shifts in ambient magnetic fields. Goringee speakers have it of using cardinal directions would seem to have opened up their powers of perception. At least some Goringee speakers may be able to consciously feel earth's magnetic field. So what that means to me is that language can change the way you experience living in your body, not just your thoughts about the world around you. And Berlaine Coe on South Sack has an essay called Babilan, Bye-Bye Lang, the National Colonial Amnesia. And she writes about the Babilans from the Fassian Islands and the Catalonans and the Tagalong regions. They say these were women, sometimes men are queer individuals too, who embodied spiritual power. They weren't just priestesses, they were feared, respected, and untouchable. Many were women, but many were also effeminate men, and what we might now call transgender women. People who presented femininity and ways it held sacred meaning. In pre-colonial society, they weren't mocked or sidelined, they were central. And this of course reminds me of two spirits in Native American culture. Trans people have always existed and there are multiple indigenous cultures throughout the world that have this deep innate wisdom that that should be revered and not othered. But the SSA says colonizers didn't understand that. In their world, gender was binary, women are man, nothing in between. So when they saw the violence, leading villages and rituals while dressed in feminine attire, they saw a threat, a disruption to their system. And like so many things they didn't understand, they labeled it unnatural and sought to erase it. Now I've been thinking about this quote from Kenneth Hale who's a linguist at MIT, and he says losing a language is like dropping a bomb on a museum. And when I first read that, it rang us true, but I think talking through all of this, it's clear to me that language is much more than that. Language is a somatic bodily thing. And when I think about a museum, I think about archival, I think about display. I don't necessarily think about the lived, bodily experience or whether that's...
+
+## 完整译文
+
+取得了坚实的成果。今天我只想举一个例子，一个正在进行的前沿工作。研究人员已经表明，某些语言可能允许说话者解锁所有人类共有但大多数人未利用的感觉。他使用的例子非常有趣，那就是在澳大利亚北部说的Goringee语言中，他们不仅在地理尺度上使用基本方向，还用来定位身体上的东西。比如说一只苍蝇落在你的右腿上，而那只苍蝇朝向西方。他们会这样描述：这只苍蝇落在了我腿的外上西边。这让我的大脑感到痛苦，因为我对方向感很差，我甚至在走在街上时都无法想象基本方向，更不用说思考在任何给定时刻它在我身体上的哪个位置了。但德雷瑟说，我们都是无辜的指南针。大多数说英语的人并没有意识到这一点，尽管在实验条件下周围磁场被操纵时他们的大脑活动会发生变化。澳大利亚语言学家费利西蒂·米肯斯和她的合作者最近进行的实验表明，一些Goringee说话者可以可靠地报告周围磁场的变化。Goringee说话者使用基本方向的习惯似乎已经开启了他们的感知能力。 至少一些Goringee语言的使用者可能能够有意识地感知到地球的磁场。对我来说，这意味着语言可以改变你体验自己身体的方式，不仅仅是你对周围世界的想法。Berlaine Coe在南萨克岛有一篇名为《Babilan，再见语言，国家殖民健忘症》的文章。她写到了来自Fassian群岛的Babilans人，Catalonans人和Tagalong地区的人们。他们说这些人是女性，有时男性也是酷儿个体，他们拥有精神力量。他们不仅仅是女祭司，他们被畏惧、尊敬，且不可触碰。许多人是女性，但许多人也是阴柔的男性，以及我们现在可能称之为跨性别女性的人。那些展现女性气质并赋予其神圣意义的人。在前殖民社会中，他们没有被嘲笑或边缘化，他们是核心。这当然让我想起了美洲原住民文化中的两灵人。跨性别者一直存在，世界上有许多土著文化拥有这种深刻的内在智慧，认为应该被崇敬而不是被排斥。但南萨克岛认为殖民者不理解这一点。在他们的世界中，性别是二元的，女人是男人，中间没有其他。所以当他们看到暴力，穿着女性服装领导村庄和仪式时，他们看到了威胁，对他们的系统造成了干扰。就像许多他们不理解的事情一样，他们将其标记为不自然，并试图抹去它。 现在我一直在思考麻省理工学院的语言学家肯尼斯·黑尔的这句话，他说失去一种语言就像在博物馆投下一颗炸弹。当我第一次读到这句话时，我觉得它非常真实，但我认为通过讨论所有这些，对我来说很明显，语言远不止于此。语言是一种身体上的东西。当我想到博物馆时，我会想到档案，我会想到展示。我不一定想到的是生活的身体体验，或者那是否……
