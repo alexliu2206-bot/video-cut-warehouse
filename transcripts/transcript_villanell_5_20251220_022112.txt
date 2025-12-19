@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 843
+- **译文字符数:** 277
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** So, Villanelle kills her.
+    *翻译:* 那么，维拉内尔杀了她。
+
+**[00:03]** But she does spare her brothers.
+    *翻译:* 但她确实放过了她的兄弟们。
+
+**[00:05]** The one she sees as ignorant and unaffected by her mother's nature and the one in whom
+    *翻译:* 她认为的那个人既无知又不受她母亲本性的影响，而在他身上
+
+**[00:09]** she sees her younger self.
+    *翻译:* 她看到了她年轻时的自己。
+
+**[00:11]** She didn't want her mother's evil to destroy them.
+    *翻译:* 她不想让她母亲的邪恶摧毁他们。
+
+**[00:14]** This act was driven by Villanelle's curiosity to know the people she long thought dead.
+    *翻译:* 这一行为是出于维拉内尔想要了解她长久以来认为已经死去的人的好奇心。
+
+**[00:19]** It was a form of revenge for her child's self who was left behind and redemption because
+    *翻译:* 这是对她孩子自我的报复，孩子被留在了后面，同时也是救赎，因为
+
+**[00:24]** for the first time she spares someone out of love.
+    *翻译:* 这是她第一次因爱而宽恕某人。
+
+**[00:27]** Sure, she selfish, toxic and damaged, but Villanelle has had a taste of real family before
+    *翻译:* 当然，她自私、有毒且受损，但Villanelle曾经体验过真正的家庭。
+
+**[00:32]** her mother ruined it.
+    *翻译:* 她的母亲毁了它。
+
+**[00:34]** Until Eve, all Villanelle had known to uphold her normal was the 12, who are just as willing
+    *翻译:* 在伊芙之前，维拉内尔所知道的维持她正常生活的只有12号，他们同样愿意。
+
+**[00:39]** to kill her as she is to kill for them.
+    *翻译:* 为了他们，她必须被杀。
+
+**[00:41]** She chooses Eve because they are both lost and hungry for something real.
+    *翻译:* 她选择夏娃，因为他们都迷失了，渴望得到一些真实的东西。
+
+**[00:46]** And Villanelle tries to let go of her so they'll no longer be monsters.
+    *翻译:* 而维拉内尔试图放下她，这样他们就不再是怪物了。
+
+## 完整原文
+
+So, Villanelle kills her. But she does spare her brothers. The one she sees as ignorant and unaffected by her mother's nature and the one in whom she sees her younger self. She didn't want her mother's evil to destroy them. This act was driven by Villanelle's curiosity to know the people she long thought dead. It was a form of revenge for her child's self who was left behind and redemption because for the first time she spares someone out of love. Sure, she selfish, toxic and damaged, but Villanelle has had a taste of real family before her mother ruined it. Until Eve, all Villanelle had known to uphold her normal was the 12, who are just as willing to kill her as she is to kill for them. She chooses Eve because they are both lost and hungry for something real. And Villanelle tries to let go of her so they'll no longer be monsters.
+
+## 完整译文
+
+所以，维拉内尔杀了她。但她确实放过了她的兄弟们。她认为其中一个无知，没有受到她母亲本性的影响，另一个在她身上看到了她年轻时的自己。她不想让她母亲的邪恶摧毁他们。这一行为是维拉内尔出于好奇，想要了解她长久以来认为已经死去的人。这是对她被遗弃的孩子自我的一种报复，也是因为她第一次出于爱而放过某人的救赎。当然，她自私、有毒且受损，但在她母亲破坏之前，维拉内尔已经尝过真正的家庭。在遇到伊芙之前，维拉内尔所知道的维持她正常生活的方式就是12，他们和她一样愿意为她杀人。她选择伊芙，因为他们都迷失了，渴望得到真实的东西。维拉内尔试图放手，这样他们就不再是怪物了。
