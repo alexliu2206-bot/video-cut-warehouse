@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1016
+- **译文字符数:** 304
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** that language. So these are the three things I'm going to be thinking about as I read this book.
+    *翻译:* 那种语言。所以这些是我在阅读这本书时会考虑的三件事。
+
+**[00:05]** So let's talk about the overview. So Gabriel Weiner, he basically starts off the book in
+    *翻译:* 那么让我们来谈谈概览。加布里埃尔·魏纳基本上在书的开头部分提到了
+
+**[00:10]** chapter one with three key principles of language learning. And what are they?
+    *翻译:* 第一章：语言学习的三个关键原则。它们是什么呢？
+
+**[00:17]** First, he thinks you should learn pronunciation first. The author, Gabriel Weiner, he actually has
+    *翻译:* 首先，他认为你应该先学习发音。作者加布里埃尔·魏纳，他实际上有
+
+**[00:22]** training as a former opera singer. So he learned the proper pronunciations of many words in
+    *翻译:* 作为一名前歌剧歌手接受训练。因此，他学会了很多单词的正确发音。
+
+**[00:28]** different languages before he even learned those languages. And he feels like that gave him a big
+    *翻译:* 在他甚至学会这些语言之前，他就对不同的语言有了感觉。他觉得这给了他很大的优势。
+
+**[00:32]** boost in his language learning. And I think it's, you know, not a bad idea. So we'd like to hear more
+    *翻译:* 他在语言学习上取得了进步。我认为，你知道，这不是一个坏主意。所以我们想听到更多。
+
+**[00:38]** about that. Number two, don't translate. And this is also related to his experience. So he's done
+    *翻译:* 关于那个。第二，不要翻译。这也与他的经历有关。所以他完成了
+
+**[00:46]** a lot of immersion programs. He said he started an immersion program in French about knowing any
+    *翻译:* 许多沉浸式项目。他说他开始了一个关于一无所知的法语沉浸式项目。
+
+**[00:51]** French. And then he came out of the program as an advanced French speaker. And so immersion programs
+    *翻译:* 法语。然后他以高级法语使用者的身份从项目中毕业。因此，沉浸式项目。
+
+**[00:57]** are basically you spend a couple of weeks or maybe a few months.
+    *翻译:* 基本上，你会花上几周或者可能几个月的时间。
+
+## 完整原文
+
+that language. So these are the three things I'm going to be thinking about as I read this book. So let's talk about the overview. So Gabriel Weiner, he basically starts off the book in chapter one with three key principles of language learning. And what are they? First, he thinks you should learn pronunciation first. The author, Gabriel Weiner, he actually has training as a former opera singer. So he learned the proper pronunciations of many words in different languages before he even learned those languages. And he feels like that gave him a big boost in his language learning. And I think it's, you know, not a bad idea. So we'd like to hear more about that. Number two, don't translate. And this is also related to his experience. So he's done a lot of immersion programs. He said he started an immersion program in French about knowing any French. And then he came out of the program as an advanced French speaker. And so immersion programs are basically you spend a couple of weeks or maybe a few months.
+
+## 完整译文
+
+那种语言。所以我在阅读这本书时会考虑这三件事。让我们来谈谈概览。加布里埃尔·魏纳，他在第一章基本上以三个关键的语言学习原则开始这本书。它们是什么？首先，他认为你应该先学习发音。作者加布里埃尔·魏纳实际上有作为一名前歌剧歌手的训练。所以他在甚至学习那些语言之前就学会了不同语言中许多单词的正确发音。他觉得这在他的语言学习中给了他很大的提升。我认为这是一个不错的主意。所以我们想更多地了解这一点。第二，不要翻译。这也与他的经验有关。所以他参加了很多沉浸式项目。他说他开始了一个法语沉浸式项目，当时他一点法语都不懂。然后他以一个高级法语使用者的身份从项目中毕业。所以沉浸式项目基本上是你花几周或者可能几个月的时间。
