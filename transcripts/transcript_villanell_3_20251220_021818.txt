@@ -1,0 +1,64 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1006
+- **译文字符数:** 318
+- **段落数:** 16
+
+## 分段转录
+
+**[00:00]** Apparently, Villanelle and Eve are alone and misunderstood.
+    *翻译:* 显然，维拉内尔和伊芙是孤独且被误解的。
+
+**[00:03]** Villanelle has no idea what a normal life is.
+    *翻译:* 维拉内尔不知道什么是正常生活。
+
+**[00:06]** Her thrilling life that pulls Eve to her is utterly boring to Villanelle, who doesn't
+    *翻译:* 她那让伊芙着迷的激动人心的生活对维拉内尔来说却极其无聊，她并不感兴趣。
+
+**[00:11]** feel anything.
+    *翻译:* 感觉到什么了吗？
+
+**[00:12]** It's heartbreaking to see she's lost, unequipped to find any motivation to understand
+    *翻译:* 看到她迷失方向，无法找到任何动力去理解，真是令人心碎。
+
+**[00:17]** herself or what is real or a lie.
+    *翻译:* 她自己，或是真实，或是谎言。
+
+**[00:20]** Eve conversely has shoehorned herself into the appearance of a conventional life, or
+    *翻译:* 相反，夏娃硬是将自己塞进了传统生活的外表中。
+
+**[00:24]** during husband, house, a job at MI5, but it's a charade.
+    *翻译:* 在丈夫、房子、MI5的工作，但这是一场伪装。
+
+**[00:29]** It's not as obvious as in Villanelle's case, but Eve is essentially alone too, in the
+    *翻译:* 这并不像维拉内尔的案例那样明显，但伊芙本质上也是独自一人。
+
+**[00:33]** knowledge that the life she is built and populated doesn't reflect her in herself.
+    *翻译:* 她所建立和充实的生活并没有反映出她自己。
+
+**[00:38]** And that's the intimacy between them.
+    *翻译:* 这就是他们之间的亲密关系。
+
+**[00:40]** They find one another and know each other in their bones.
+    *翻译:* 他们找到了彼此，并在骨子里了解对方。
+
+**[00:45]** But that intimacy is hard one.
+    *翻译:* 但那种亲密关系很难得。
+
+**[00:47]** By the season 2 finale, Villanelle tells Eve she loves her, but Eve knows she doesn't.
+    *翻译:* 到了第二季大结局，维拉内尔告诉伊芙她爱她，但伊芙知道她并不爱她。
+
+**[00:52]** Villanelle isn't equipped to that point to even know what love is.
+    *翻译:* Villanelle还没有准备好到能够理解爱是什么的地步。
+
+**[00:56]** This version of her considers love controlling another person, hence her declaration of
+    *翻译:* 这个版本的她认为爱情是控制另一个人，因此她宣称
+
+## 完整原文
+
+Apparently, Villanelle and Eve are alone and misunderstood. Villanelle has no idea what a normal life is. Her thrilling life that pulls Eve to her is utterly boring to Villanelle, who doesn't feel anything. It's heartbreaking to see she's lost, unequipped to find any motivation to understand herself or what is real or a lie. Eve conversely has shoehorned herself into the appearance of a conventional life, or during husband, house, a job at MI5, but it's a charade. It's not as obvious as in Villanelle's case, but Eve is essentially alone too, in the knowledge that the life she is built and populated doesn't reflect her in herself. And that's the intimacy between them. They find one another and know each other in their bones. But that intimacy is hard one. By the season 2 finale, Villanelle tells Eve she loves her, but Eve knows she doesn't. Villanelle isn't equipped to that point to even know what love is. This version of her considers love controlling another person, hence her declaration of
+
+## 完整译文
+
+显然，维拉内尔和伊芙都是孤独且被误解的。维拉内尔不知道什么是正常生活。她那种吸引伊芙的刺激生活对维拉内尔来说却极其无聊，她没有任何感觉。看到她迷失方向，无法找到任何动力去理解自己或分辨真实与谎言，真是令人心碎。相反，伊芙将自己强行塞进了传统生活的外表，比如丈夫、房子、在军情五处的工作，但这不过是一场伪装。虽然不像维拉内尔的情况那么明显，但伊芙本质上也是孤独的，因为她知道她所建立和填充的生活并不反映她自己。这就是他们之间的亲密关系。他们在彼此的骨子里找到了对方，了解对方。但这种亲密关系是艰难的。到了第二季大结局时，维拉内尔告诉伊芙她爱她，但伊芙知道她并不爱她。维拉内尔还没有准备好去理解爱是什么。她认为爱就是控制另一个人，因此她宣称
