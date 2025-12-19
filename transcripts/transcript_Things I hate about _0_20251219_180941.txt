@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1258
+- **译文字符数:** 340
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** College is such a mixed bag. It feels like for every one person that really finds themselves there
+    *翻译:* 大学真是一个复杂的地方。感觉在那里，每找到一个真正找到自我的人，
+
+**[00:04]** There's three more that lose themselves and then like 20 that just drop out after a year or two and lose thousands of dollars
+    *翻译:* 还有三个迷失了自己，然后大约有20个在一两年后就辍学，损失了数千美元。
+
+**[00:11]** Grown up, I remember people telling me in college attendance doesn't matter
+    *翻译:* 长大后，我记得人们在大学时告诉我出勤并不重要。
+
+**[00:14]** You can even skip class if you want to and then I get here in almost every class has some kind of attendance credit that completely
+    *翻译:* 你甚至可以想逃课就逃课，然后我几乎每节课都有点名的学分。
+
+**[00:21]** Screws you over if you don't go. I remember one time in freshman year
+    *翻译:* 如果你不去，就会让你吃亏。我记得大一的时候有一次
+
+**[00:25]** I had this utterly useless orientation class for engineering where miscellaneous professors came in and gave presentations on like how to build a Lego robot arm that
+    *翻译:* 我参加了一个完全无用的工程导向课程，各种教授进来做演讲，比如如何建造一个乐高机器人手臂。
+
+**[00:33]** Picks your nose and wipes your ass and the only reason I went is that it was like 20% of my grade and they made you use these little
+    *翻译:* 挖你的鼻子，擦你的屁股，我去的唯一原因是它占了我成绩的20%，而且他们让你用这些小的。
+
+**[00:39]** Clicker devices to sign in for attendance
+    *翻译:* 点击签到设备进行考勤
+
+**[00:41]** But I forgot mine that day and so I had to use the phone app instead to sign in which makes you log into your university
+    *翻译:* 但我那天忘了带我的，所以我不得不使用电话应用程序来登录，这会让你登录到你的大学。
+
+**[00:47]** Account like three times before you can use it and I kept getting my password wrong and the teacher closed the attendance
+    *翻译:* 在可以使用账户之前需要确认三次，我一直输错密码，老师关闭了考勤。
+
+**[00:52]** Sign in so I asked if I could get attendance and he just made a vague joke at my expense and refused to answer my question at all and made me look like a moron in front of
+    *翻译:* 我问他我能否获得出勤记录，他只是开了个模糊的玩笑，让我难堪，并且完全没有回答我的问题，让我在别人面前看起来像个傻瓜。
+
+## 完整原文
+
+College is such a mixed bag. It feels like for every one person that really finds themselves there There's three more that lose themselves and then like 20 that just drop out after a year or two and lose thousands of dollars Grown up, I remember people telling me in college attendance doesn't matter You can even skip class if you want to and then I get here in almost every class has some kind of attendance credit that completely Screws you over if you don't go. I remember one time in freshman year I had this utterly useless orientation class for engineering where miscellaneous professors came in and gave presentations on like how to build a Lego robot arm that Picks your nose and wipes your ass and the only reason I went is that it was like 20% of my grade and they made you use these little Clicker devices to sign in for attendance But I forgot mine that day and so I had to use the phone app instead to sign in which makes you log into your university Account like three times before you can use it and I kept getting my password wrong and the teacher closed the attendance Sign in so I asked if I could get attendance and he just made a vague joke at my expense and refused to answer my question at all and made me look like a moron in front of
+
+## 完整译文
+
+大学真是个复杂的地方。感觉每有一个在那里真正找到自我的人，就有三个人迷失自我，然后还有大约20个人在一两年后就辍学，损失了数千美元。长大后，我记得人们告诉我大学出勤并不重要，你甚至可以想逃课就逃课，然后我来到这里，几乎每门课都有某种出勤分数，如果你不去上课就会完全被坑。我记得大一有一次，我上了一堂完全没用的工程导向课，一些杂七杂八的教授进来做演讲，讲如何建造一个乐高机器人手臂，帮你挖鼻子和擦屁股，我去的唯一原因是它占我成绩的20%，他们让你用这些小点击器设备签到出勤。但那天我忘了带我的点击器，所以我不得不用手机应用签到，这让你登录你的大学账户三次才能使用，我一直输错密码，老师关闭了出勤签到，我问他我能不能得到出勤分数，他只是开了个模糊的玩笑，让我在大家面前看起来像个白痴。
