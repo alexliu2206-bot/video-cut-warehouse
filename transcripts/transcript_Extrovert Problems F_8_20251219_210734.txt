@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 778
+- **译文字符数:** 246
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** to you or just click the link in the description because that's probably way easier.
+    *翻译:* 点击链接或者直接点击描述中的链接，这样可能更方便。
+
+**[00:05]** Okay, that actually made me physically ill to say that. Wifeful of my dreams, Emily, you wish,
+    *翻译:* 好吧，说出那话实际上让我感到身体不适。梦中的妻子，艾米丽，你真希望如此。
+
+**[00:11]** you wish you were the wifeful of my dreams, okay? I only have the, I only have mayonnaise
+    *翻译:* 你希望成为我梦中的妻子，好吗？我只有，我只有蛋黄酱。
+
+**[00:17]** as the wifeful of my dreams, okay? But yeah, there we go. There's nothing else that I can do,
+    *翻译:* 作为我梦中的妻子，好吗？但对，就这样。我也没什么其他能做的了。
+
+**[00:24]** but I really do actually want to just give you a massive audio file to work with.
+    *翻译:* 但我确实真的想给你一个巨大的音频文件来处理。
+
+**[00:29]** I hope you don't cut the rest of this out because it's going to be filled with
+    *翻译:* 我希望你不要剪掉剩下的这部分，因为它将被填满。
+
+**[00:33]** quality content. It's seen that the waveform on the actual audacity is showing that
+    *翻译:* 优质内容。可以看到实际Audacity上的波形显示
+
+**[00:41]** everything is quite low, so maybe I need to just put my head into this box.
+    *翻译:* 一切都很低，所以我可能只需要把头伸进这个盒子里。
+
+**[00:47]** Hey, Emily, now I'm inside the box. Oh, this is ASMR. I can finally make ASMR.
+    *翻译:* 嘿，艾米丽，我现在在盒子里面。哦，这是ASMR。我终于可以制作ASMR了。
+
+**[00:56]** Can I just go?
+    *翻译:* 我能走吗？
+
+## 完整原文
+
+to you or just click the link in the description because that's probably way easier. Okay, that actually made me physically ill to say that. Wifeful of my dreams, Emily, you wish, you wish you were the wifeful of my dreams, okay? I only have the, I only have mayonnaise as the wifeful of my dreams, okay? But yeah, there we go. There's nothing else that I can do, but I really do actually want to just give you a massive audio file to work with. I hope you don't cut the rest of this out because it's going to be filled with quality content. It's seen that the waveform on the actual audacity is showing that everything is quite low, so maybe I need to just put my head into this box. Hey, Emily, now I'm inside the box. Oh, this is ASMR. I can finally make ASMR. Can I just go?
+
+## 完整译文
+
+对你来说，或者只需点击描述中的链接，因为那可能更容易。好吧，说这些话真的让我感到身体不适。梦中的妻子，艾米丽，你希望，你希望你是我梦中的妻子，好吗？我只有，我只有蛋黄酱作为我梦中的妻子，好吗？但对，就是这样。我不能再做其他事情，但我确实真的想给你一个巨大的音频文件来处理。我希望你不要剪掉这部分，因为它将充满优质内容。从实际的Audacity波形图来看，一切都很低，所以我可能需要把头伸进这个盒子里。嘿，艾米丽，现在我在盒子里。哦，这是ASMR。我终于可以制作ASMR了。我可以就这样继续吗？
