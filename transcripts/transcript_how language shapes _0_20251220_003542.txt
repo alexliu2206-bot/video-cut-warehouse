@@ -1,0 +1,127 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 3500
+- **译文字符数:** 1120
+- **段落数:** 37
+
+## 分段转录
+
+**[00:00]** Hi, sweet beans. Welcome back to Wild Geese. I'm your host, Anna.
+    *翻译:* 嗨，亲爱的朋友们。欢迎回到野鹅。我是你们的主持人，安娜。
+
+**[00:06]** And today we're talking about how the limits of our language are the limits of our world.
+    *翻译:* 今天我们讨论的是我们语言的局限性就是我们世界的局限性。
+
+**[00:10]** And I have to say, I had kind of a hard time with this one because a lot of this is like
+    *翻译:* 我得说，我在这个问题上遇到了一些困难，因为这部分内容很多都像是
+
+**[00:13]** linguistics. I don't know anything about linguistics. I never took a linguistics class in college.
+    *翻译:* 语言学。我对语言学一无所知。我在大学从未上过语言学课程。
+
+**[00:18]** But there were a couple of little curiosities that were making me interested in how
+    *翻译:* 但是有一些小小的好奇心让我对如何
+
+**[00:22]** language might change our world view. So I had had a couple of conversations in a row with friends
+    *翻译:* 语言可能会改变我们的世界观。所以我连续和朋友们进行了几次对话。
+
+**[00:28]** where we were talking about how the English language often feels like it's trying to
+    *翻译:* 我们正在讨论英语语言常常感觉像是在努力
+
+**[00:34]** compartmentalize us into these like static identities, the way that we talk about, even our emotions.
+    *翻译:* 将我们划分成这些类似静态的身份，就像我们谈论的，甚至是我们的情感。
+
+**[00:41]** We say, I am sad versus saying something like, I am experiencing sadness. Or like when we think
+    *翻译:* 我们说，我很难过，而不是说，我正在经历悲伤。或者就像我们思考的时候
+
+**[00:47]** of attachment theory, we say, I am avoidant. I am anxious versus I am exhibiting anxious behaviors.
+    *翻译:* 根据依恋理论，我们说，我是回避型的。我是焦虑型的，与我表现出焦虑行为相对。
+
+**[00:54]** I am exhibiting avoidant behaviors. And I want to be cognizant of the fact that a good amount of
+    *翻译:* 我正在表现出回避行为。我想意识到这样一个事实，即相当一部分
+
+**[00:59]** the people that listen to wild geese do not speak English as a first language. So I will be really
+    *翻译:* 听野鹅的人不以英语为母语。所以我会非常
+
+**[01:06]** interested to hear y'all's perspective on all of this. But because I only speak English fluently,
+    *翻译:* 很想听听你们对这一切的看法。但由于我只会流利地说英语，
+
+**[01:15]** I think that that dramatically limits my world view. I have really been trying to learn
+    *翻译:* 我认为这极大地限制了我的世界观。我真的一直在努力学习。
+
+**[01:19]** Spanish lately. And in the spirit of learning something new, thank you to the day's sponsor,
+    *翻译:* 最近在学习西班牙语。本着学习新事物的精神，感谢今天的赞助商，
+
+**[01:23]** Crafsy. Crafsy is your online resource for all things creative. You can experience the satisfaction
+    *翻译:* Crafsy。Crafsy 是您在线创意事物的资源。您可以体验到满足感。
+
+**[01:28]** in joy of creating something truly one of a kind with your own two hands. I've personally
+    *翻译:* 在创造真正独一无二的东西时，用你自己的双手，我亲自
+
+**[01:32]** taken classes like Kawaii Ami Karumi Kroche with Stacy Troc or how to draw trees with Ethan
+    *翻译:* 参加过像Kawaii Ami Karumi Kroche这样的课程，由Stacy Troc教授，或者学习如何画树，由Ethan教授。
+
+**[01:37]** Colitan. I recently took Judith Castle Mammoth's class expressive pages journaling the every day
+    *翻译:* 科利坦。我最近参加了朱迪思·卡索·猛犸象的课程，学习如何用富有表现力的页面记录日常生活。
+
+**[01:42]** because I'm becoming really interested in analog archival and getting things off the internet.
+    *翻译:* 因为我对模拟档案越来越感兴趣，并且想把东西从互联网上移除。
+
+**[01:47]** But I've never quite been happy with the junk journal pages that I've made in the past,
+    *翻译:* 但我过去制作的垃圾日志页面从未让我真正满意过。
+
+**[01:50]** but Judith had some really incredible tips for dealing with mixed media. She even has a section
+    *翻译:* 但朱迪思有一些处理混合媒体的非常棒的建议。她甚至有一个部分
+
+**[01:54]** on how to do more interactive elements like pop up pages, which was really cool. And I know that it
+    *翻译:* 关于如何制作更多互动元素，比如弹出页面，这真的很酷。而且我知道这
+
+**[01:58]** will just make it that much more special to look back on old memories. Crafsy classes include
+    *翻译:* 只会让回顾旧时记忆变得更加特别。手工艺课程包括
+
+**[02:02]** step-by-step instruction plus helpful downloadable resources to make learning easy. So whether you're
+    *翻译:* 分步骤指导加上有用的可下载资源，让学习变得轻松。所以无论你是
+
+**[02:08]** looking to paint, bake, or write, Crafsy's got you covered and they're always creating new classes
+    *翻译:* 想要绘画、烘焙或写作，Craftsy为你提供服务，他们总是在创造新的课程。
+
+**[02:12]** to keep you coming back for more and help you stay inspired. The first 1000 of you to click the
+    *翻译:* 让你不断回来寻求更多，并帮助你保持灵感。你们中前1000个点击的人
+
+**[02:16]** link in the episode description will get a full year of premium membership to Crafsy for only a
+    *翻译:* 在剧集描述中的链接可以以优惠价格获得Craftsy一整年的高级会员资格
+
+**[02:20]** dollar and 49 cents valid for new members only. But anyway, I've been trying to learn Spanish for
+    *翻译:* 美元和49美分，仅限新会员使用。但无论如何，我一直在尝试学习西班牙语。
+
+**[02:25]** years. I hope one day that I can really seriously immerse myself in the language in a way that I
+    *翻译:* 年。我希望有一天我能真正认真地沉浸在这门语言中，以一种我
+
+**[02:29]** haven't been able to yet. But another thing that made me curious about all of this is that I started
+    *翻译:* 还没有能够。但让我对这一切产生好奇的另一件事是我开始
+
+**[02:34]** using the app language transfer and I talked about this a little bit on the vlog that I put out
+    *翻译:* 使用应用语言转换功能，我在发布的视频博客中稍微提到了这个话题。
+
+**[02:39]** the other day. But language transfer is so cool because it takes what you already know from your
+    *翻译:* 前几天。但是语言转换真的很酷，因为它利用了你从你的
+
+**[02:43]** language and transfers it over into the language you're trying to learn instead of just teaching you
+    *翻译:* 将语言转换为你正在尝试学习的语言，而不仅仅是教你
+
+**[02:47]** a bunch of vocabulary words. And it also gives you a lot of linguistic background that apps like
+    *翻译:* 一堆词汇。它还为你提供了很多语言背景，就像那些应用程序一样。
+
+**[02:52]** duoingo just never do. I'm going to be quick about this because it's kind of a sidebar but it's
+    *翻译:* Duolingo 就是永远不做。我会快速说完这个，因为它有点旁枝末节，但它是
+
+**[02:56]** very fascinating to me. There's a rule that applies for many, many words in the English
+    *翻译:* 对我来说非常吸引人。有一个规则适用于许多、许多英语单词。
+
+## 完整原文
+
+Hi, sweet beans. Welcome back to Wild Geese. I'm your host, Anna. And today we're talking about how the limits of our language are the limits of our world. And I have to say, I had kind of a hard time with this one because a lot of this is like linguistics. I don't know anything about linguistics. I never took a linguistics class in college. But there were a couple of little curiosities that were making me interested in how language might change our world view. So I had had a couple of conversations in a row with friends where we were talking about how the English language often feels like it's trying to compartmentalize us into these like static identities, the way that we talk about, even our emotions. We say, I am sad versus saying something like, I am experiencing sadness. Or like when we think of attachment theory, we say, I am avoidant. I am anxious versus I am exhibiting anxious behaviors. I am exhibiting avoidant behaviors. And I want to be cognizant of the fact that a good amount of the people that listen to wild geese do not speak English as a first language. So I will be really interested to hear y'all's perspective on all of this. But because I only speak English fluently, I think that that dramatically limits my world view. I have really been trying to learn Spanish lately. And in the spirit of learning something new, thank you to the day's sponsor, Crafsy. Crafsy is your online resource for all things creative. You can experience the satisfaction in joy of creating something truly one of a kind with your own two hands. I've personally taken classes like Kawaii Ami Karumi Kroche with Stacy Troc or how to draw trees with Ethan Colitan. I recently took Judith Castle Mammoth's class expressive pages journaling the every day because I'm becoming really interested in analog archival and getting things off the internet. But I've never quite been happy with the junk journal pages that I've made in the past, but Judith had some really incredible tips for dealing with mixed media. She even has a section on how to do more interactive elements like pop up pages, which was really cool. And I know that it will just make it that much more special to look back on old memories. Crafsy classes include step-by-step instruction plus helpful downloadable resources to make learning easy. So whether you're looking to paint, bake, or write, Crafsy's got you covered and they're always creating new classes to keep you coming back for more and help you stay inspired. The first 1000 of you to click the link in the episode description will get a full year of premium membership to Crafsy for only a dollar and 49 cents valid for new members only. But anyway, I've been trying to learn Spanish for years. I hope one day that I can really seriously immerse myself in the language in a way that I haven't been able to yet. But another thing that made me curious about all of this is that I started using the app language transfer and I talked about this a little bit on the vlog that I put out the other day. But language transfer is so cool because it takes what you already know from your language and transfers it over into the language you're trying to learn instead of just teaching you a bunch of vocabulary words. And it also gives you a lot of linguistic background that apps like duoingo just never do. I'm going to be quick about this because it's kind of a sidebar but it's very fascinating to me. There's a rule that applies for many, many words in the English
+
+## 完整译文
+
+嗨，亲爱的朋友们。欢迎回到《野鹅》。我是你们的主持人，安娜。今天我们要讨论的是，我们语言的局限性就是我们世界的局限性。我得说，这个话题对我来说有点难，因为很多内容都涉及到语言学。我对语言学一无所知。我在大学时从未上过语言学课程。但是有几个小的好奇心让我对语言如何可能改变我们的世界观产生了兴趣。所以，我连续和朋友们进行了几次对话，我们讨论了英语语言常常感觉像是试图将我们划分为这些静态的身份，我们谈论的方式，甚至是我们的情感。我们说，我很难过，而不是说，我正在经历悲伤。或者像我们思考依恋理论时，我们说，我是回避型的。我是焦虑的，而不是说我表现出焦虑行为。我表现出回避行为。我想意识到一个事实，那就是很多听《野鹅》的人并不以英语作为第一语言。所以我真的很想听听你们对这一切的看法。但由于我只流利地说英语，我认为这极大地限制了我的世界观。我最近一直在努力学习西班牙语。本着学习新事物的精神，感谢今天的赞助商，Crafsy。Crafsy 是你的在线资源，提供所有创意事物。 你可以体验到用双手创造独一无二的东西所带来的满足感。我亲自参加过像Kawaii Ami Karumi Kroche这样的课程，由Stacy Troc教授，或者Ethan Colitan教授的如何画树。最近我参加了Judith Castle Mammoth的课程，学习如何用表达性页面记录日常生活，因为我对模拟档案和将事物从互联网上移除越来越感兴趣。但我过去制作的垃圾日志页面从未让我完全满意，但Judith提供了一些处理混合媒体的非常棒的技巧。她甚至有一个部分讲解如何制作更多互动元素，比如弹出页面，这真的很酷。我知道，这将使回顾旧时记忆变得更加特别。Craftsy课程包括分步骤指导和有用的可下载资源，使学习变得容易。所以无论你是想绘画、烘焙还是写作，Craftsy都能满足你的需求，他们总是在创造新课程，让你不断回来学习更多，并帮助你保持灵感。前1000名点击节目描述中链接的人将只需1美元和49美分就能获得Craftsy一年的高级会员资格，仅限新会员。但无论如何，我多年来一直在尝试学习西班牙语。我希望有一天我能真正深入地沉浸在这门语言中，这是我至今还未能实现的。 但让我对这一切产生好奇的另一件事是，我开始使用应用语言转移功能，我在前几天发布的视频博客中稍微提到了这一点。语言转移非常酷，因为它利用你已经从你的语言中知道的东西，将其转移到你正在尝试学习的语言中，而不是仅仅教你一大堆词汇。它还为你提供了很多语言背景，这是像Duolingo这样的应用从未做到的。我会快速说完这一点，因为它有点旁枝末节，但对我来说非常吸引人。有一个规则适用于英语中的许多、许多单词。
