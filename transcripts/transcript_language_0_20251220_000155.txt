@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 811
+- **译文字符数:** 246
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** book, Fluent Forever by Gabriel Weiner. And so I was actually just walking in the bookstore
+    *翻译:* 书籍，《永远流利》由加布里埃尔·魏纳所著。实际上，我刚刚在书店里散步。
+
+**[00:06]** the other day and I was walking in the linguistic section and I saw this book. And the title
+    *翻译:* 前几天，我走在语言区，看到了这本书。书名是
+
+**[00:12]** Fluent Forever, how to learn any language fast and never forget it. I have to say I looked
+    *翻译:* 流利永恒，如何快速学习任何语言并永远不忘。我得说我看了
+
+**[00:21]** at that and I scoffed. So those of you who are familiar with me, I have spent the last
+    *翻译:* 在那个时刻我嗤之以鼻。所以，那些熟悉我的人，我在过去
+
+**[00:28]** 13 or so years obsessively learning Korean and I would say it took me at least a few years
+    *翻译:* 大约13年痴迷于学习韩语，我认为这至少花费了我几年的时间。
+
+**[00:34]** before I would say I was fluent in Korean. And so seeing something like this, like learn
+    *翻译:* 在我可以说我精通韩语之前。所以看到这样的事情，比如学习
+
+**[00:40]** any language fast, it just makes me feel like it's either a scam or it's so great that
+    *翻译:* 任何语言学得快，只会让我觉得它要么是个骗局，要么它太棒了
+
+**[00:47]** I'm feeling a little embarrassed that I took so long to get fluent in Korean. I decided
+    *翻译:* 我感到有点尴尬，因为我花了这么长时间才变得精通韩语。我决定
+
+**[00:53]** to look online and find some reviews and can you believe it? This is one of the best
+    *翻译:* 上网查找一些评论，你能相信吗？这是最好的之一。
+
+**[00:59]** selling.
+    *翻译:* 销售。
+
+## 完整原文
+
+book, Fluent Forever by Gabriel Weiner. And so I was actually just walking in the bookstore the other day and I was walking in the linguistic section and I saw this book. And the title Fluent Forever, how to learn any language fast and never forget it. I have to say I looked at that and I scoffed. So those of you who are familiar with me, I have spent the last 13 or so years obsessively learning Korean and I would say it took me at least a few years before I would say I was fluent in Korean. And so seeing something like this, like learn any language fast, it just makes me feel like it's either a scam or it's so great that I'm feeling a little embarrassed that I took so long to get fluent in Korean. I decided to look online and find some reviews and can you believe it? This is one of the best selling.
+
+## 完整译文
+
+书籍，《永远流利》由加布里埃尔·魏纳所著。前几天我正好在书店里走着，我走到了语言学区域，然后看到了这本书。书名是《永远流利》，如何快速学习任何语言并且永远不会忘记。我得说，我看了那个标题后嗤之以鼻。所以，那些熟悉我的人知道，我在过去大约13年里一直在痴迷地学习韩语，我会说我至少花了几年时间才敢说我韩语流利。所以看到这样的书，比如快速学习任何语言，让我觉得它要么是个骗局，要么它太棒了，让我有点尴尬，因为我花了这么长时间才流利掌握韩语。我决定上网查找一些评论，你能相信吗？这是最畅销的书之一。
