@@ -1,0 +1,130 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 3305
+- **译文字符数:** 999
+- **段落数:** 38
+
+## 分段转录
+
+**[00:00]** the experience of feeling the gravitational pull of the earth on your body or feeling what it is to be a trans person
+    *翻译:* 感受地球对你的身体产生的引力，或者体验作为一个跨性别者的感受。
+
+**[00:07]** that's not only accepted by the language that's being used but is centralized in it.
+    *翻译:* 这不仅被所使用的语言所接受，而且还是其中心。
+
+**[00:11]** Going back to the article about the Babylans, they say the Babylan carried identity, not just in words,
+    *翻译:* 回到关于巴比伦人的文章，他们说巴比伦人携带身份，不仅仅是用言语。
+
+**[00:16]** but in gesture, song, and ritual. These were embodied truths, not textbooks. Indigenous memory was and still is a full body practice.
+    *翻译:* 但在手势、歌曲和仪式中。这些都是体现的真理，不是教科书。原住民的记忆过去是，现在仍然是全身实践。
+
+**[00:26]** And that reminds me of something that was said at the end of the essay about how our internet niche subcultures are
+    *翻译:* 这让我想到了文章结尾提到的关于我们的互联网小众亚文化是如何的。
+
+**[00:32]** fracturing the English language. And the solution that that essay put forward for that problem was basically that we need to get
+    *翻译:* 破坏英语语言。那篇论文为这个问题提出的解决方案基本上是我们需要得到
+
+**[00:39]** reconnected with human touch in order to bridge that gap being created by all of these
+    *翻译:* 为了弥补由这些因素造成的隔阂，重新与人类的接触连接起来。
+
+**[00:44]** internet niche subculture discord languages that are ultimately isolating us from the community right in front of us.
+    *翻译:* 互联网小众亚文化discord语言最终使我们与面前的社区隔离。
+
+**[00:51]** And when I first read that conclusion, I was like, hmm, I don't know how convincing that is for me.
+    *翻译:* 当我最初读到那个结论时，我心想，嗯，我不知道这对我有多有说服力。
+
+**[00:58]** Like, I don't know for some reason, I was just like, okay, so more not understanding each other's use of the English language.
+    *翻译:* 就像，我不知道出于某种原因，我就是，好吧，所以更多地是彼此不理解对方使用英语的方式。
+
+**[01:04]** So we should all touch each other more like it just wasn't clicking to me.
+    *翻译:* 所以我们都应该更多地相互接触，就像我之前没有意识到的那样。
+
+**[01:09]** And I'm still not totally sure what the answer to that problem is.
+    *翻译:* 而我仍然不太确定那个问题的答案是什么。
+
+**[01:12]** But I think something I think I'm hoping to do is listen more to Indigenous wisdom so that I can like, I don't know,
+    *翻译:* 但我在想，我希望能够更多地倾听原住民的智慧，这样我就可以，我不知道，
+
+**[01:19]** embody a world view beyond what the English language automatically gives me.
+    *翻译:* 体现一种超越英语语言自动赋予我的世界观。
+
+**[01:25]** And I'm just going to go back to Brady Sweetgrass for a second and read the end of the chapter on the grammar of animacy.
+    *翻译:* 我将回到布雷迪·甜草那里，再读一遍关于有生命性语法的章节结尾。
+
+**[01:31]** She says, I'm not advocating that we all learn potawatomi or Hopi or Seminole, even if we could.
+    *翻译:* 她说，我并不是主张我们所有人都去学习波塔瓦托米语、霍皮语或塞米诺尔语，即使我们能够做到。
+
+**[01:36]** Emigrants came to these shores bearing a legacy of languages all to be cherished.
+    *翻译:* 移民们来到这些海岸，带来了各种值得珍惜的语言遗产。
+
+**[01:41]** But to become native to this place, if we are to survive here and our neighbors too, our work is to learn to speak the grammar of animacy.
+    *翻译:* 但是要成为这个地方的土著，如果我们想在这里生存下去，我们的邻居们也想生存下去，我们的工作就是学会说生命活力的语言。
+
+**[01:48]** So that we might truly be at home.
+    *翻译:* 以便我们真正感到宾至如归。
+
+**[01:50]** I remember the words of Bill Tallbull, a shy and elder.
+    *翻译:* 我记得比尔·塔尔布尔的话，他是一个害羞的长者。
+
+**[01:53]** As a young person, I spoke to him with a heavy heart,
+    *翻译:* 作为一个年轻人，我心情沉重地与他交谈，
+
+**[01:56]** lamenting that I had no native language with which to speak to the plants and the places that I love.
+    *翻译:* 哀叹我没有一种母语，用它来与我所爱的植物和地方交流。
+
+**[02:01]** They love to hear the old language.
+    *翻译:* 他们喜欢听古老的语言。
+
+**[02:02]** He said, it's true.
+    *翻译:* 他说，这是真的。
+
+**[02:04]** But he said with fingers on his lips, you don't have to speak it here if you speak it here.
+    *翻译:* 但他用手指按住嘴唇说，如果你在这里说出来，就不必在这里说。
+
+**[02:09]** He said, patting his chest.
+    *翻译:* 他说着，拍了拍自己的胸膛。
+
+**[02:11]** They will hear you.
+    *翻译:* 他们会听到你的声音。
+
+**[02:12]** And I think that's a good thing to end on because I don't think that my point is, you know,
+    *翻译:* 我认为这是一个结束的好地方，因为我不认为我的观点是，你知道，
+
+**[02:17]** all of us need to go and learn a bunch of languages.
+    *翻译:* 我们所有人都需要去学习多种语言。
+
+**[02:19]** I mean, if you have the ability and the time to do that right now, that's amazing.
+    *翻译:* 我的意思是，如果你现在有能力和时间去做这件事，那真是太棒了。
+
+**[02:23]** But I know a lot of people who are kind of in survival mode and maybe the last thing on your mind is like going and learning languages.
+    *翻译:* 但我认识很多人正处于生存模式，可能你脑子里最后一件事就是去学习语言。
+
+**[02:31]** But if that is the case for you, I still think even if you don't know a different language or you don't have time to learn one,
+    *翻译:* 但如果这是你的情况，我仍然认为即使你不懂另一种语言或者你没有时间学习一门新语言，
+
+**[02:37]** there's a lot that can be gained from listening to and centering Indigenous wisdom.
+    *翻译:* 倾听并聚焦原住民智慧，我们可以从中获得很多收益。
+
+**[02:41]** Not to go back to using the time as money metaphor,
+    *翻译:* 不要回到将时间比作金钱的隐喻，
+
+**[02:44]** but if you are feeling a bit too time poor to pour into learning a new language,
+    *翻译:* 但如果你觉得自己时间不够用，无法投入到学习新语言中，
+
+**[02:49]** maybe you can just start listening for ways that you can use the language that you already speak
+    *翻译:* 也许你可以开始倾听那些你已经会说的语言的使用方式
+
+**[02:53]** and ways that bring you back into your own body and back into communion with the place around you.
+    *翻译:* 以及那些让你回到自己的身体，重新与周围环境建立联系的方法。
+
+**[02:57]** We don't all have to live in the clouds and forget how to talk.
+    *翻译:* 我们不必都生活在云端，忘记如何交谈。
+
+## 完整原文
+
+the experience of feeling the gravitational pull of the earth on your body or feeling what it is to be a trans person that's not only accepted by the language that's being used but is centralized in it. Going back to the article about the Babylans, they say the Babylan carried identity, not just in words, but in gesture, song, and ritual. These were embodied truths, not textbooks. Indigenous memory was and still is a full body practice. And that reminds me of something that was said at the end of the essay about how our internet niche subcultures are fracturing the English language. And the solution that that essay put forward for that problem was basically that we need to get reconnected with human touch in order to bridge that gap being created by all of these internet niche subculture discord languages that are ultimately isolating us from the community right in front of us. And when I first read that conclusion, I was like, hmm, I don't know how convincing that is for me. Like, I don't know for some reason, I was just like, okay, so more not understanding each other's use of the English language. So we should all touch each other more like it just wasn't clicking to me. And I'm still not totally sure what the answer to that problem is. But I think something I think I'm hoping to do is listen more to Indigenous wisdom so that I can like, I don't know, embody a world view beyond what the English language automatically gives me. And I'm just going to go back to Brady Sweetgrass for a second and read the end of the chapter on the grammar of animacy. She says, I'm not advocating that we all learn potawatomi or Hopi or Seminole, even if we could. Emigrants came to these shores bearing a legacy of languages all to be cherished. But to become native to this place, if we are to survive here and our neighbors too, our work is to learn to speak the grammar of animacy. So that we might truly be at home. I remember the words of Bill Tallbull, a shy and elder. As a young person, I spoke to him with a heavy heart, lamenting that I had no native language with which to speak to the plants and the places that I love. They love to hear the old language. He said, it's true. But he said with fingers on his lips, you don't have to speak it here if you speak it here. He said, patting his chest. They will hear you. And I think that's a good thing to end on because I don't think that my point is, you know, all of us need to go and learn a bunch of languages. I mean, if you have the ability and the time to do that right now, that's amazing. But I know a lot of people who are kind of in survival mode and maybe the last thing on your mind is like going and learning languages. But if that is the case for you, I still think even if you don't know a different language or you don't have time to learn one, there's a lot that can be gained from listening to and centering Indigenous wisdom. Not to go back to using the time as money metaphor, but if you are feeling a bit too time poor to pour into learning a new language, maybe you can just start listening for ways that you can use the language that you already speak and ways that bring you back into your own body and back into communion with the place around you. We don't all have to live in the clouds and forget how to talk.
+
+## 完整译文
+
+体验地球对你的身体产生的引力，或者感受作为一个跨性别者不仅被所使用的语言接受，而且被置于其中心。回到关于巴比伦人的文章，他们说巴比伦人携带的身份，不仅仅在言语中，还在手势、歌曲和仪式中。这些是具体化的真理，不是教科书。原住民的记忆过去是，现在仍然是一个全身实践。这让我想起了文章最后提到的，我们的互联网小众亚文化正在分裂英语。那篇文章提出的解决这个问题的方法基本上是，我们需要重新与人类的接触连接起来，以弥补由所有这些互联网小众亚文化不和谐语言创造的差距，这些语言最终使我们与我们面前的社区隔离。当我最初读到这个结论时，我就像，嗯，我不知道这对我有多有说服力。就像，我不知道出于某种原因，我就是觉得，好吧，所以更多地不理解彼此使用英语的方式。所以我们应该更多地相互接触，就像它对我来说并没有真正点击。我仍然不太确定那个问题的答案是什么。但我想我希望能够更多地倾听原住民的智慧，这样我就可以，我不知道，体现一个超越英语自动给我的世界观。 我只是想回到布雷迪·甜草那里，再读一遍关于生命语法章节的结尾。她说，我并不是主张我们都应该学习波塔瓦托米语、霍皮语或塞米诺尔语，即使我们能够做到。移民们带着各种语言的遗产来到这些海岸，所有这些语言都值得珍惜。但是，要成为这个地方的土著，如果我们想在这里生存，我们的邻居也想生存，我们的工作就是学会说生命语法。这样我们才能真正感到宾至如归。我记得比尔·塔尔布尔的话，他是一个害羞的长者。年轻时，我怀着沉重的心情与他交谈，哀叹我没有母语来与我所爱的植物和地方对话。他们喜欢听古老的语言。他说，这是真的。但他用手指放在嘴唇上说，如果你在这里说，就不必在这里说。他说，拍着他的胸膛。他们会听到你的。我认为这是一个很好的结束语，因为我认为我的观点并不是说，你知道，我们所有人都需要去学习一大堆语言。我的意思是，如果你现在有能力和时间去做这件事，那太棒了。但我知道很多人正处于生存模式，也许你脑海中最后一件事就是去学习语言。但如果对你来说情况确实如此，我仍然认为即使你不懂另一种语言，或者你没有时间去学习，通过倾听和关注原住民智慧，你仍然可以获得很多。 不要回到将时间比作金钱的比喻，但如果你觉得自己时间太紧张，无法投入到学习新语言中，也许你可以开始倾听你可以如何使用你已经会说的语言，以及那些让你回归自身、与周围环境重新建立联系的方式。我们不必都生活在云端，忘记如何交谈。
