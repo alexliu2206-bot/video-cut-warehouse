@@ -1,0 +1,79 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1151
+- **译文字符数:** 336
+- **段落数:** 21
+
+## 分段转录
+
+**[00:00]** time and space in the world would make it easy for me to pump out videos and drawings,
+    *翻译:* 世界上的时间和空间将使我能够轻松地制作视频和绘画。
+
+**[00:04]** but it's honestly kind of a struggle, which I understand is a little strange since drawing
+    *翻译:* 但这确实是有点挣扎，我明白这看起来有点奇怪，因为绘画
+
+**[00:09]** is such a solo activity.
+    *翻译:* 这是一个如此孤独的活动。
+
+**[00:11]** Since I get my energy from other people, if I start the day with no social interaction,
+    *翻译:* 因为我从他人那里获得能量，如果我一天开始时没有社交互动，
+
+**[00:15]** chances are I'm not gonna get much done that day.
+    *翻译:* 很可能那天我不会完成太多事情。
+
+**[00:18]** I'll constantly feel like I want a nap, or if I do manage to get off my butt and start
+    *翻译:* 我会一直感觉想要打个盹，或者如果我能从沙发上起来开始行动。
+
+**[00:22]** drawing, I might work at a slower pace than I'd like.
+    *翻译:* 画画时，我可能工作的速度会比我希望的慢。
+
+**[00:25]** I just need someone around me to feel productive, even if we're not really saying anything
+    *翻译:* 我只是需要有人在我身边，这样我就能感到有效率，即使我们并没有真正说什么。
+
+**[00:29]** to each other.
+    *翻译:* 彼此之间。
+
+**[00:31]** Sometimes it helps if I'm talking to someone on my headset and drawing at the same time,
+    *翻译:* 有时候，如果我在耳机里和某人说话的同时画画，会有帮助。
+
+**[00:34]** but considering the fact most of my online friends are also artists, that doesn't really
+    *翻译:* 但考虑到我的大部分在线朋友也是艺术家，这并没有真正
+
+**[00:39]** happen much.
+    *翻译:* 发生很多。
+
+**[00:41]** Number 2.
+    *翻译:* 数字2。
+
+**[00:42]** I don't like doing things alone.
+    *翻译:* 我不喜欢独自做事。
+
+**[00:44]** I've actually gotten a lot better about this, but I don't really like going anywhere alone,
+    *翻译:* 实际上，我在这一点上已经进步了很多，但我还是不太喜欢独自去任何地方。
+
+**[00:48]** even if it's just running an errand.
+    *翻译:* 即使只是跑个腿。
+
+**[00:50]** Hey, I'm gonna go grocery shopping.
+    *翻译:* 嘿，我要去超市购物。
+
+**[00:52]** Do you wanna come with me?
+    *翻译:* 你想和我一起去吗？
+
+**[00:53]** Hey, I'm gonna go get more gas from my car.
+    *翻译:* 嘿，我要去我的车里再拿些汽油。
+
+**[00:55]** Do you wanna come with me?
+    *翻译:* 你想和我一起去吗？
+
+**[00:57]** Hey, I'm gonna go pick up some iced coffee you wanna come with me?
+    *翻译:* 嘿，我打算去买些冰咖啡，你想和我一起去吗？
+
+## 完整原文
+
+time and space in the world would make it easy for me to pump out videos and drawings, but it's honestly kind of a struggle, which I understand is a little strange since drawing is such a solo activity. Since I get my energy from other people, if I start the day with no social interaction, chances are I'm not gonna get much done that day. I'll constantly feel like I want a nap, or if I do manage to get off my butt and start drawing, I might work at a slower pace than I'd like. I just need someone around me to feel productive, even if we're not really saying anything to each other. Sometimes it helps if I'm talking to someone on my headset and drawing at the same time, but considering the fact most of my online friends are also artists, that doesn't really happen much. Number 2. I don't like doing things alone. I've actually gotten a lot better about this, but I don't really like going anywhere alone, even if it's just running an errand. Hey, I'm gonna go grocery shopping. Do you wanna come with me? Hey, I'm gonna go get more gas from my car. Do you wanna come with me? Hey, I'm gonna go pick up some iced coffee you wanna come with me?
+
+## 完整译文
+
+世界上的时间和空间本应让我轻松制作视频和绘画，但实际上这有点困难，我明白这有点奇怪，因为绘画是一项如此孤独的活动。我的能量来自其他人，如果我一天开始时没有社交互动，那么我那天可能不会完成太多工作。我会一直觉得想要小睡，或者如果我设法开始画画，我可能会以比我喜欢的更慢的速度工作。我只需要有人在我身边就能感到高效，即使我们并没有真正交谈。有时，如果我在耳机里和某人交谈的同时画画，这会有所帮助，但考虑到我的大多数在线朋友也是艺术家，这种情况并不经常发生。第二，我不喜欢独自做事。实际上，我已经在这方面做得好多了，但我不喜欢独自去任何地方，即使只是跑腿。嘿，我要去杂货店购物。你想和我一起去吗？嘿，我要去车里再加点油。你想和我一起去吗？嘿，我要去拿些冰咖啡，你想和我一起去吗？
