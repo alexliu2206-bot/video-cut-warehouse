@@ -1,0 +1,61 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1195
+- **译文字符数:** 368
+- **段落数:** 15
+
+## 分段转录
+
+**[00:00]** the class. And then the guy next to me was like,
+    *翻译:* 那个班级。然后坐在我旁边的家伙就像是，
+
+**[00:02]** Yo dude, he once did that to me and he never gave me attendance.
+    *翻译:* 嘿，伙计，他以前也这么对我，他从没给我记过考勤。
+
+**[00:05]** I would just leave a vibe for you. And so I did. I just walked out in the middle of the
+    *翻译:* 我只是为你留下一种氛围。我做到了。我只是在中间走了出去。
+
+**[00:09]** lecture and slammed the door. And then I just went out into the university lawn and
+    *翻译:* 讲课并砰地一声关上门。然后我径直走到大学草坪上
+
+**[00:13]** threw my backpack and just lay on the grass staring up at the clouds. I like to think
+    *翻译:* 扔下背包，我只是躺在草地上，仰望着天空中的云朵。我喜欢思考
+
+**[00:17]** that professor was tweaking, crying at himself in the mirror after that one, but I'll never
+    *翻译:* 那位教授在那次之后对着镜子自嘲、哭泣，但我永远不会。
+
+**[00:21]** know. I never went back to that class again. Then there's the fundamental problem with
+    *翻译:* 知道。我再也没有回到那个班级。然后就是那个根本问题。
+
+**[00:25]** classes themselves. Enrolling in a college class is like entering an alternate reality
+    *翻译:* 这些课程本身。报名参加大学课程就像是进入了一个平行现实。
+
+**[00:29]** tunnel where you're subjected to the whims of an all-powerful God that has control over
+    *翻译:* 一个隧道，你将受到一个全能上帝的任性控制
+
+**[00:33]** the quality of your immediate future. I took Japanese for a year, which was a hard subject,
+    *翻译:* 你近期未来质量。我学了一年的日语，这是一个难学的科目。
+
+**[00:38]** okay? I was barely scraping by. I had a seat and I was proud of it. And the teacher was
+    *翻译:* 好的？我勉强维持生计。我有了一个座位，我为此感到骄傲。而老师是
+
+**[00:42]** this ancient lady who made a rule that if you missed three classes, your grade is dropped
+    *翻译:* 这位古老的女士制定了一条规则，如果你缺了三节课，你的成绩就会被降低。
+
+**[00:46]** by a letter. Fair enough, right? I missed two classes.
+    *翻译:* 通过一封信。还算公平，对吧？我错过了两节课。
+
+**[00:50]** Two. And then, on the last day of class, she comes up to me and is like,
+    *翻译:* 二。然后，在最后一天上课时，她走过来对我说，
+
+**[00:55]** sorry young man, you were late five times and five parties counts as a-
+    *翻译:* 抱歉，年轻人，你迟到了五次，五次迟到算作一个——
+
+## 完整原文
+
+the class. And then the guy next to me was like, Yo dude, he once did that to me and he never gave me attendance. I would just leave a vibe for you. And so I did. I just walked out in the middle of the lecture and slammed the door. And then I just went out into the university lawn and threw my backpack and just lay on the grass staring up at the clouds. I like to think that professor was tweaking, crying at himself in the mirror after that one, but I'll never know. I never went back to that class again. Then there's the fundamental problem with classes themselves. Enrolling in a college class is like entering an alternate reality tunnel where you're subjected to the whims of an all-powerful God that has control over the quality of your immediate future. I took Japanese for a year, which was a hard subject, okay? I was barely scraping by. I had a seat and I was proud of it. And the teacher was this ancient lady who made a rule that if you missed three classes, your grade is dropped by a letter. Fair enough, right? I missed two classes. Two. And then, on the last day of class, she comes up to me and is like, sorry young man, you were late five times and five parties counts as a-
+
+## 完整译文
+
+那个班。然后坐在我旁边的家伙说，嘿，伙计，他以前也对我做过这种事，他从没给我记过考勤。我就给你留个印象吧。于是我就这么做了。我就直接在讲座中间走了出去，砰地一声关上门。然后我走到大学草坪上，扔下背包，躺在草地上，仰望着云彩。我喜欢想象那个教授在镜子前焦虑不安，哭泣的样子，但我永远不会知道。我再也没有回去上那个课。然后是课程本身的根本问题。报名参加大学课程就像是进入了一个平行现实的隧道，在那里你会受到一个全能的上帝的摆布，他控制着你近期未来的质量。我学了一年的日语，这是一门很难的科目，好吧？我勉强通过。我有座位，我为此感到骄傲。老师是一位上了年纪的女士，她规定如果你缺了三节课，你的成绩就会下降一个等级。这很公平，对吧？我缺了两节课。两节。然后，在最后一天上课时，她走到我跟前说，对不起年轻人，你迟到了五次，五次迟到算作一节缺席——
