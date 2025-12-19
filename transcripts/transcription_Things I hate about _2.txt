@@ -1,0 +1,42 @@
+# 视频转录文本
+
+**总字符数:** 1096
+**段落数:** 16
+
+## 分段转录
+
+**[00:00]** Another absence, so your grade is now indeed, you stupid fuck!
+
+**[00:04]** It took me a good 10 minutes to process what she was telling me, which is that this lady
+
+**[00:08]** is essentially failing me from her class on the last day with no warning.
+
+**[00:12]** I swear, on my life, that I was barely ever late and never by more than 5 minutes.
+
+**[00:18]** You would think that she'd mention this oddly specific grading mechanic once in class,
+
+**[00:24]** but nope, so that was awesome!
+
+**[00:25]** The worst part is how different the same class can be between professors.
+
+**[00:29]** I remember that same semester my friends and I, consisting of two engineering majors
+
+**[00:33]** and one architecture major, were all required to take a music appreciation class, which,
+
+**[00:38]** first of all, what the fuck!
+
+**[00:40]** But second of all, we somehow ended up getting assigned to different professors that taught
+
+**[00:43]** the same course.
+
+**[00:44]** Now my friends' professor did not give a shit about the class, it was an entirely online
+
+**[00:49]** open note, so they just googled every assignment.
+
+**[00:52]** My professor on the other hand, was this sick, twisted bastard whose class was completely
+
+**[00:57]** in-person, and every few weeks we had a 50 question...
+
+## 完整文本
+
+Another absence, so your grade is now indeed, you stupid fuck! It took me a good 10 minutes to process what she was telling me, which is that this lady is essentially failing me from her class on the last day with no warning. I swear, on my life, that I was barely ever late and never by more than 5 minutes. You would think that she'd mention this oddly specific grading mechanic once in class, but nope, so that was awesome! The worst part is how different the same class can be between professors. I remember that same semester my friends and I, consisting of two engineering majors and one architecture major, were all required to take a music appreciation class, which, first of all, what the fuck! But second of all, we somehow ended up getting assigned to different professors that taught the same course. Now my friends' professor did not give a shit about the class, it was an entirely online open note, so they just googled every assignment. My professor on the other hand, was this sick, twisted bastard whose class was completely in-person, and every few weeks we had a 50 question...
