@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 987
+- **译文字符数:** 302
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** Your mind! Villanelle's journey to become the person who tells Eve to walk away took
+    *翻译:* 你的思想！Villanelle 为了成为告诉Eve离开的那个人的旅程
+
+**[00:05]** coming back to where her darkness originates. Her family.
+    *翻译:* 回到她黑暗起源的地方。她的家庭。
+
+**[00:09]** Once she had a close relationship with her father, an aggelous mother who saw her first chance
+    *翻译:* 她曾经与父亲关系密切，一个天使般的母亲看到了她的第一次机会。
+
+**[00:14]** to give Villanelle up as a child after her father died and took it. Through interactions
+    *翻译:* 在父亲去世后，将维拉内尔作为孩子放弃并带走。通过互动
+
+**[00:20]** with her mother, we see the way she is isn't some cosmic event of Villanelle's birth
+    *翻译:* 和她母亲在一起时，我们可以看到她现在的样子并不是维拉内尔出生时的某种宇宙事件。
+
+**[00:24]** aligned with the planets to create someone totally devoid of empathy. Clearly Villanelle
+    *翻译:* 与行星对齐，创造出一个完全没有同情心的人。显然，维拉内尔
+
+**[00:29]** expected something. Maybe not love but understanding or closure. Her mother rejects all of it.
+    *翻译:* 期待了一些东西。也许不是爱，而是理解或结束。她的母亲拒绝了这一切。
+
+**[00:38]** She tells Villanelle the darkness within her taints everything. She's unlovable. This emotional
+    *翻译:* 她告诉维拉内尔，她内心的黑暗玷污了一切。她不可爱。这种情感
+
+**[00:43]** abuse is something many people have experienced. Closure rarely comes from other people and
+    *翻译:* 虐待是许多人经历过的事情。从他人那里很少能得到结束。
+
+**[00:49]** I think in the moment Villanelle's mother decided to ignore their similarities and pin
+    *翻译:* 我认为在维拉内尔的母亲决定忽视他们的相似之处并坚持己见的那一刻
+
+**[00:53]** everything on her daughter. Villanelle saw the only way she was going to get closure was
+    *翻译:* 她女儿的一切。维拉内尔看到，她想要得到解脱的唯一方式是
+
+**[00:58]** like her mother to take it.
+    *翻译:* 像她妈妈一样接受它。
+
+## 完整原文
+
+Your mind! Villanelle's journey to become the person who tells Eve to walk away took coming back to where her darkness originates. Her family. Once she had a close relationship with her father, an aggelous mother who saw her first chance to give Villanelle up as a child after her father died and took it. Through interactions with her mother, we see the way she is isn't some cosmic event of Villanelle's birth aligned with the planets to create someone totally devoid of empathy. Clearly Villanelle expected something. Maybe not love but understanding or closure. Her mother rejects all of it. She tells Villanelle the darkness within her taints everything. She's unlovable. This emotional abuse is something many people have experienced. Closure rarely comes from other people and I think in the moment Villanelle's mother decided to ignore their similarities and pin everything on her daughter. Villanelle saw the only way she was going to get closure was like her mother to take it.
+
+## 完整译文
+
+你的思想！维拉内尔成为告诉伊芙离开的那个人的旅程，需要回到她黑暗起源的地方。她的家庭。她曾经与父亲关系密切，但在父亲去世后，她的母亲看到了放弃维拉内尔的第一次机会，并抓住了它。通过与她母亲的互动，我们看到她现在的样子并不是维拉内尔出生时宇宙事件与行星对齐，创造了一个完全没有同情心的人。显然，维拉内尔期待一些东西。也许不是爱，而是理解或和解。她的母亲拒绝了这一切。她告诉维拉内尔，她内心的黑暗玷污了一切。她是不可爱的。这种情感虐待是许多人经历过的。和解很少来自他人，我认为在维拉内尔的母亲决定忽视他们的相似之处，并将一切都归咎于她的女儿的那一刻，维拉内尔看到了她获得和解的唯一方式，就像她母亲一样去夺取。
