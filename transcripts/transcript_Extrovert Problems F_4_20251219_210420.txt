@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1099
+- **译文字符数:** 316
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** But of course, considering what I spend most of my time doing, I've gotten used to just eating at my desk.
+    *翻译:* 当然，考虑到我大部分时间都在做的事情，我已经习惯了在办公桌前吃饭。
+
+**[00:05]** In my opinion, the best kind of meal to bond with people over is Korean barbecue.
+    *翻译:* 在我看来，最适合与人增进感情的餐食是韩国烧烤。
+
+**[00:10]** Korean barbecue feels a lot more intimate than most other meals because you're cooking, cutting, and sharing meat together rather than waiting for your own individual plate to arrive.
+    *翻译:* 韩国烧烤比大多数其他餐点感觉更加亲密，因为你是在一起烹饪、切割和分享肉类，而不是等待自己的个人餐盘到来。
+
+**[00:18]** Number 4. Sometimes I'm the only one who feels hyped up for something.
+    *翻译:* 第四条。有时候，我是唯一一个对某事感到兴奋的人。
+
+**[00:22]** It's really easy to bounce excitement and energy off of other people who feel the same way, but there'll be times where I run into this kind of situation.
+    *翻译:* 真的很容易从有同样感受的其他人那里获得兴奋和能量，但有时我会碰到这种情况。
+
+**[00:30]** Hey, any of you guys want to group up and do that thing later tonight?
+    *翻译:* 嘿，你们有谁今晚想组队去做那件事吗？
+
+**[00:34]** I'm down to do the thing!
+    *翻译:* 我准备好做这件事了！
+
+**[00:35]** Uh, I don't know. I'm kind of tired. Maybe another time.
+    *翻译:* 嗯，我不知道。我有点累了。或许下次吧。
+
+**[00:39]** Me too. I don't want to be out too late.
+    *翻译:* 我也是。我不想在外面待得太晚。
+
+**[00:41]** Hmm. I'd rather stay inside today. I'm not really feeling it.
+    *翻译:* 嗯。我今天宁愿待在室内。我并不是真的想出去。
+
+**[00:45]** Oh. Well, I guess there aren't enough people who want to do the things, so we'll have to reschedule.
+    *翻译:* 哦。好吧，我猜想做这些事情的人不够多，所以我们得重新安排。
+
+**[00:51]** I... I want it to do the thing.
+    *翻译:* 我……我想让它做那件事。
+
+**[00:54]** Number 5. I like being social, but I'm not always great at it.
+    *翻译:* 第五。我喜欢社交，但我并不总是擅长于此。
+
+**[00:57]** Remember when I said that being an extrovert...
+    *翻译:* 记得我说过作为一个外向的人...
+
+## 完整原文
+
+But of course, considering what I spend most of my time doing, I've gotten used to just eating at my desk. In my opinion, the best kind of meal to bond with people over is Korean barbecue. Korean barbecue feels a lot more intimate than most other meals because you're cooking, cutting, and sharing meat together rather than waiting for your own individual plate to arrive. Number 4. Sometimes I'm the only one who feels hyped up for something. It's really easy to bounce excitement and energy off of other people who feel the same way, but there'll be times where I run into this kind of situation. Hey, any of you guys want to group up and do that thing later tonight? I'm down to do the thing! Uh, I don't know. I'm kind of tired. Maybe another time. Me too. I don't want to be out too late. Hmm. I'd rather stay inside today. I'm not really feeling it. Oh. Well, I guess there aren't enough people who want to do the things, so we'll have to reschedule. I... I want it to do the thing. Number 5. I like being social, but I'm not always great at it. Remember when I said that being an extrovert...
+
+## 完整译文
+
+当然，考虑到我大部分时间都在做的事情，我已经习惯了在办公桌前吃饭。在我看来，最适合与人增进感情的餐食是韩国烧烤。韩国烧烤比其他大多数餐食感觉更加亲密，因为你需要一起烹饪、切割和分享肉类，而不是等待自己的个人餐盘到来。第四点。有时候，我是唯一一个对某事感到兴奋的人。与有相同感受的人一起激发兴奋和能量真的很容易，但有时我会碰到这种情况。嘿，你们今晚有人想组队去做那件事吗？我愿意去做那件事！嗯，我不知道。我有点累了。也许下次吧。我也是。我不想太晚出去。嗯。我今天宁愿待在室内。我不太想去。哦。好吧，看来没有足够的人想做这件事，所以我们得重新安排。我...我想去做那件事。第五点。我喜欢社交，但并不总是很擅长。还记得我说的外向性格...
