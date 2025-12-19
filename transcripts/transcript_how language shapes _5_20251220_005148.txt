@@ -1,0 +1,121 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 3165
+- **译文字符数:** 934
+- **段落数:** 35
+
+## 分段转录
+
+**[00:00]** the Potawatomi language, and Robin is coming from the perspective of the botanist, who's also part of the Potawatomi nation.
+    *翻译:* 波塔瓦托米语，罗宾从植物学家的角度来看待这个问题，他也是波塔瓦托米族的一部分。
+
+**[00:06]** And she talks at the beginning of the chapter about how the language of science kind of falls short, because so much of it is based around just labeling things that we can see.
+    *翻译:* 她在章节开头谈到科学语言在某种程度上是不足的，因为它很大程度上是基于对我们能看到的事物进行标记。
+
+**[00:15]** And the thing that originally got her interested in learning Potawatomi was one word, and that word was papawi, and this is what she writes.
+    *翻译:* 让她最初对学习波塔瓦托米语产生兴趣的是一个词，那个词就是“papawi”，她是这样写的。
+
+**[00:21]** Papawi, she explains, translates as, the force which causes mushrooms to push up from the earth overnight.
+    *翻译:* Papawi，她解释说，意指那种一夜之间让蘑菇从地面冒出来的力量。
+
+**[00:28]** As a biologist, I was stunned that such a word existed.
+    *翻译:* 作为一名生物学家，我震惊于这样一个词的存在。
+
+**[00:31]** In all its technical vocabulary, Western science has no such term, no words to hold this mystery.
+    *翻译:* 在西方科学所有的专业术语中，并没有这样的词汇，没有词语能够捕捉这个奥秘。
+
+**[00:37]** You'd think that biologists of all people would have words for life.
+    *翻译:* 你可能会认为生物学家们最应该有描述生命的词汇。
+
+**[00:41]** But in scientific language, our terminology is used to define the boundaries of our knowing.
+    *翻译:* 但在科学语言中，我们的术语被用来定义我们知识的边界。
+
+**[00:47]** What lies beyond our grasp remains unnamed.
+    *翻译:* 我们无法触及的东西仍然没有名字。
+
+**[00:49]** And she goes to this convention of speakers, and it's like the first time that all of the native Potawatomi speakers will be in the same room together, and however long.
+    *翻译:* 她去参加了这个演讲者的大会，这就像是所有土著波塔瓦托米语的使用者第一次聚在同一间屋子里，无论时间长短。
+
+**[00:58]** And at the time that this book was written, there were nine native speakers left.
+    *翻译:* 在这本书撰写之时，还剩下九位母语使用者。
+
+**[01:01]** Robin says, English is a noun-based language.
+    *翻译:* 罗宾说，英语是一种以名词为基础的语言。
+
+**[01:04]** Somehow appropriate to a culture so obsessed with things.
+    *翻译:* 对于一个如此迷恋事物的文化来说，这在某种程度上是恰当的。
+
+**[01:08]** Only 30% of English words are verbs.
+    *翻译:* 英语单词中只有30%是动词。
+
+**[01:11]** But in Potawatomi, that proportion is 70%.
+    *翻译:* 但在波塔瓦托米语中，这个比例是70%。
+
+**[01:14]** And then she goes on to tell this story about how the first time that she saw a Saturday talked about in Potawatomi, it actually kind of really annoyed her.
+    *翻译:* 然后她继续讲述这个故事，关于她第一次听到用波塔瓦托米语讨论星期六时，实际上真的让她感到很烦。
+
+**[01:21]** Because you wouldn't say, it's Saturday.
+    *翻译:* 因为你不会说，今天是星期六。
+
+**[01:23]** You would say, to be a Saturday.
+    *翻译:* 你会说，这是星期六。
+
+**[01:26]** And she was like, this makes no sense.
+    *翻译:* 她就像在说，这毫无意义。
+
+**[01:28]** She was like, you can't be a Saturday, or to be a Bay.
+    *翻译:* 她就像是说，你不能是星期六，也不能是海湾。
+
+**[01:33]** She was like, you can't be a Bay.
+    *翻译:* 她就像是在说，你不可能成为贝。
+
+**[01:35]** It was hard to wrap her brain around that making grammatical sense.
+    *翻译:* 她很难理解那在语法上是有意义的。
+
+**[01:39]** But she goes on to say, a Bay is a noun only if water is dead.
+    *翻译:* 但她接着说，只有当水是静止的时候，海湾才是一个名词。
+
+**[01:42]** But the verb, Wikwagama, to be a Bay, releases the water from bondage and lets it live.
+    *翻译:* 但是动词Wikwagama，作为一个海湾，释放了水的束缚，让它自由流动。
+
+**[01:48]** To be a Hill, to be a Sandy Beach, to be a Saturday, all are possible verbs in a world where everything is alive, water, land, and even a day.
+    *翻译:* 成为一座山丘，成为一片沙滩，成为一个星期六，在一个万物皆有生命的世界里，水、土地甚至一天都可以是可能的动词。
+
+**[01:59]** The language, a mirror for seeing the animacy of the world, the life that pulses throughout all things, through pines and nut hatches and mushrooms.
+    *翻译:* 语言，是一面镜子，让我们看到世界的生机，贯穿万物的生命，通过松树、山雀和蘑菇。
+
+**[02:08]** This is the language I hear in the woods.
+    *翻译:* 这是我在树林里听到的语言。
+
+**[02:10]** This is the language that lets us speak of what wells up all around us.
+    *翻译:* 这就是让我们能够谈论周围涌现的一切的语言。
+
+**[02:14]** In Potawatomi, and most other indigenous languages, we use the same words to address the living world as we use for our family.
+    *翻译:* 在波塔瓦托米语和大多数其他土著语言中，我们用来称呼生物世界的语言与我们称呼家人的语言相同。
+
+**[02:22]** Because they are our family.
+    *翻译:* 因为他们是我们的家人。
+
+**[02:24]** And I want to come back to the thing that Robin said about English being primarily nouns and how that makes sense for a culture that's so obsessed with things.
+    *翻译:* 我想回到罗宾提到的关于英语主要以名词为主的事情，以及这如何适用于一个如此迷恋事物的文化。
+
+**[02:32]** So much of Robin's work is about rewiring our understanding of the world around us, so that we can see our responsibility in everything we touch.
+    *翻译:* 罗宾的许多工作都是关于重新构建我们对周围世界的理解，以便我们能看到我们所触及的一切中的责任。
+
+**[02:41]** We've talked about how language can enable us to dehumanize other people, and that also extends to the quote-unquote things that surround us.
+    *翻译:* 我们已经讨论了语言如何使我们能够将他人非人化，这也延伸到了我们周围的所谓事物上。
+
+**[02:48]** Language can also enable us to devalue and denigrate the ground beneath our feet.
+    *翻译:* 语言也能让我们贬低和贬低我们脚下的土地。
+
+**[02:53]** And I don't want to get too preachy about overconsumption, but the way that we are spending our money can mean the difference between life and life.
+    *翻译:* 我不想对过度消费讲太多教条，但我们花钱的方式可能意味着生与死之间的差异。
+
+## 完整原文
+
+the Potawatomi language, and Robin is coming from the perspective of the botanist, who's also part of the Potawatomi nation. And she talks at the beginning of the chapter about how the language of science kind of falls short, because so much of it is based around just labeling things that we can see. And the thing that originally got her interested in learning Potawatomi was one word, and that word was papawi, and this is what she writes. Papawi, she explains, translates as, the force which causes mushrooms to push up from the earth overnight. As a biologist, I was stunned that such a word existed. In all its technical vocabulary, Western science has no such term, no words to hold this mystery. You'd think that biologists of all people would have words for life. But in scientific language, our terminology is used to define the boundaries of our knowing. What lies beyond our grasp remains unnamed. And she goes to this convention of speakers, and it's like the first time that all of the native Potawatomi speakers will be in the same room together, and however long. And at the time that this book was written, there were nine native speakers left. Robin says, English is a noun-based language. Somehow appropriate to a culture so obsessed with things. Only 30% of English words are verbs. But in Potawatomi, that proportion is 70%. And then she goes on to tell this story about how the first time that she saw a Saturday talked about in Potawatomi, it actually kind of really annoyed her. Because you wouldn't say, it's Saturday. You would say, to be a Saturday. And she was like, this makes no sense. She was like, you can't be a Saturday, or to be a Bay. She was like, you can't be a Bay. It was hard to wrap her brain around that making grammatical sense. But she goes on to say, a Bay is a noun only if water is dead. But the verb, Wikwagama, to be a Bay, releases the water from bondage and lets it live. To be a Hill, to be a Sandy Beach, to be a Saturday, all are possible verbs in a world where everything is alive, water, land, and even a day. The language, a mirror for seeing the animacy of the world, the life that pulses throughout all things, through pines and nut hatches and mushrooms. This is the language I hear in the woods. This is the language that lets us speak of what wells up all around us. In Potawatomi, and most other indigenous languages, we use the same words to address the living world as we use for our family. Because they are our family. And I want to come back to the thing that Robin said about English being primarily nouns and how that makes sense for a culture that's so obsessed with things. So much of Robin's work is about rewiring our understanding of the world around us, so that we can see our responsibility in everything we touch. We've talked about how language can enable us to dehumanize other people, and that also extends to the quote-unquote things that surround us. Language can also enable us to devalue and denigrate the ground beneath our feet. And I don't want to get too preachy about overconsumption, but the way that we are spending our money can mean the difference between life and life.
+
+## 完整译文
+
+波塔瓦托米语，罗宾从植物学家的角度来讲述，她也是波塔瓦托米族的一部分。她在章节开头谈到科学语言的不足，因为科学语言大多基于我们能看见的事物的标签。最初让她对学习波塔瓦托米语感兴趣的是一个词，那就是papawi，她这样写道。papawi，她解释说，意为使蘑菇一夜之间从地面冒出的力量。作为一名生物学家，我惊讶于这样的词存在。在西方科学所有的技术词汇中，没有这样的术语，没有词语来承载这种神秘。你可能会认为生物学家应该对生命有词汇。但在科学语言中，我们的术语用来定义我们知识的边界。我们无法把握的东西仍然没有名字。她去参加了这个会议，这是所有土著波塔瓦托米语者第一次在同一间屋子里，无论多久。在这本书写成的时候，只剩下九个土著语者。罗宾说，英语是一种以名词为基础的语言。对于一个如此迷恋事物的文化来说，这似乎很合适。只有30%的英语单词是动词。但在波塔瓦托米语中，这个比例是70%。 然后她继续讲述这个故事，关于她第一次听到用波塔瓦托米语谈论星期六时，实际上真的让她感到很烦。因为你不会说，今天是星期六。你会说，成为星期六。她觉得这没有意义。她想，你不能成为星期六，或者成为海湾。她想，你不能成为海湾。她觉得这在语法上很难理解。但她继续说，海湾只有在水是死的时才是名词。但动词Wikwagama，成为海湾，释放了水的束缚，让它活起来。成为山丘，成为沙滩，成为星期六，在一切都有生命的世界中，都是可能的动词，水、土地，甚至是一天。这种语言，是一面镜子，让我们看到世界的活力，贯穿一切事物的生命，通过松树、坚果孵化器和蘑菇。这是我在树林里听到的语言。这是让我们能够谈论我们周围涌现的一切的语言。在波塔瓦托米语和大多数其他土著语言中，我们用同样的词来称呼生活的世界，就像我们称呼家人一样。因为他们是我们的家人。我想回到罗宾说的关于英语主要是名词，以及这如何适用于一个如此迷恋事物的文化。罗宾的很多工作都是关于重新连接我们对周围世界的理解，这样我们就能看到我们触摸的一切的责任。 我们已经讨论过语言如何使我们能够将他人非人化，这也延伸到了我们周围的所谓事物。语言同样能够使我们贬低和贬低我们脚下的土地。我不想过于说教过度消费的问题，但我们花钱的方式可能意味着生命与生命之间的差异。
