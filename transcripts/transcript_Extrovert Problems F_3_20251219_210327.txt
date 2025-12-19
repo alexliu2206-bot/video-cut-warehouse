@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 997
+- **译文字符数:** 310
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** Me? Hey, I'm gonna go take out the garbage. Do you wanna come with me?
+    *翻译:* 我？嘿，我打算去倒垃圾。你想跟我一起去吗？
+
+**[00:05]** Don't look at me like that. I just think having a good conversation makes mundane tasks a lot more enjoyable.
+    *翻译:* 别那样看着我。我只是觉得进行一场好的对话能让日常琐事变得更愉快。
+
+**[00:11]** Otherwise, I'm just forced to get lost in my own thoughts, which isn't always a lot of fun.
+    *翻译:* 否则，我只能被迫迷失在自己的思绪中，这并不总是很有趣。
+
+**[00:16]** Although recently, I've been focusing a lot more on being efficient with my time, so I've been running errands by myself like a big girl.
+    *翻译:* 尽管最近，我更加注重提高时间效率，所以我像大姑娘一样自己跑腿。
+
+**[00:23]** Hey, I'm gonna go grocery shopping. Do you need me to pick anything up for you?
+    *翻译:* 嘿，我要去超市购物。你需要我帮你带点什么吗？
+
+**[00:27]** You don't need me to go with you? No, I'm only going for like 15 minutes, so it'll be quick.
+    *翻译:* 你不需要我和你一起去吗？不，我只需要去大约15分钟，所以会很快的。
+
+**[00:34]** But I mean, if you really wanna go, I totally appreciate the company.
+    *翻译:* 但我的意思是，如果你真的想去，我非常感激有你的陪伴。
+
+**[00:40]** Eating. I'm what I like to call a social eater.
+    *翻译:* 吃饭。我是那种喜欢称之为社交型食客的人。
+
+**[00:44]** I really dislike eating alone, because ever since I was a kid, I always thought food just tasted better when eaten with other people or during a conversation.
+    *翻译:* 我真的不喜欢独自吃饭，因为从我还是个孩子的时候起，我就总是觉得和其他人一起吃饭或者在谈话中吃东西味道更好。
+
+**[00:52]** It's like the very presence of a person adds some kind of weird secret ingredient that makes my food taste like friendship and sunshine.
+    *翻译:* 就像一个人的存在增添了某种奇怪的神秘成分，让我的食物尝起来像友谊和阳光。
+
+## 完整原文
+
+Me? Hey, I'm gonna go take out the garbage. Do you wanna come with me? Don't look at me like that. I just think having a good conversation makes mundane tasks a lot more enjoyable. Otherwise, I'm just forced to get lost in my own thoughts, which isn't always a lot of fun. Although recently, I've been focusing a lot more on being efficient with my time, so I've been running errands by myself like a big girl. Hey, I'm gonna go grocery shopping. Do you need me to pick anything up for you? You don't need me to go with you? No, I'm only going for like 15 minutes, so it'll be quick. But I mean, if you really wanna go, I totally appreciate the company. Eating. I'm what I like to call a social eater. I really dislike eating alone, because ever since I was a kid, I always thought food just tasted better when eaten with other people or during a conversation. It's like the very presence of a person adds some kind of weird secret ingredient that makes my food taste like friendship and sunshine.
+
+## 完整译文
+
+我？嘿，我要去倒垃圾。你想和我一起去吗？别那样看着我。我只是觉得进行一场好的对话可以让日常琐事变得更愉快。否则，我就只能被迫沉浸在自己的思绪中，这并不总是很有趣。尽管最近，我一直在更多地关注如何高效利用时间，所以我都是自己一个人去办事，像个大姑娘一样。嘿，我要去购物了。你需要我帮你带点什么吗？你不需要我陪你去吗？不，我只需要去大约15分钟，所以会很快。但我的意思是，如果你真的想去，我非常感激你的陪伴。吃饭。我是那种喜欢称之为社交型食客的人。我真的很不喜欢独自吃饭，因为从我还是个孩子的时候起，我就总是觉得和其他人一起或者在谈话中吃东西味道更好。就像一个人的存在添加了某种奇怪的秘密调料，让我的食物尝起来像友谊和阳光。
