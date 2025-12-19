@@ -1,0 +1,61 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1154
+- **译文字符数:** 360
+- **段落数:** 15
+
+## 分段转录
+
+**[00:00]** No notes allowed exam in which we had to memorize like 15 different classical music pieces
+    *翻译:* 不允许带笔记的考试，我们必须记住大约15首不同的古典音乐作品。
+
+**[00:04]** and answer questions like how many moles were on Beethoven's left testicle.
+    *翻译:* 回答诸如贝多芬左睾丸上有多少摩尔这样的问题。
+
+**[00:08]** I literally almost failed that class, it obliterated my GPA along with Japanese,
+    *翻译:* 我差点就没通过那门课，它和日语一起摧毁了我的平均绩点。
+
+**[00:13]** and yet my friends passed without studying or attending class once.
+    *翻译:* 然而，我的朋友们一次课都没上，也没学习就通过了。
+
+**[00:16]** And according to the school, these are the exact same class!
+    *翻译:* 根据学校的说法，这些是完全相同的班级！
+
+**[00:20]** Are you seeing the problem here?
+    *翻译:* 你看出这里的问题是吗？
+
+**[00:22]** And then you realize that all this bullshit is just a relic of the pre-internet world.
+    *翻译:* 然后你意识到，所有这些废话只是互联网出现之前的世界的遗迹。
+
+**[00:26]** School has gone from being a necessary archive of critical information to an arbitrary list of
+    *翻译:* 学校已经从一个存放关键信息的必要档案库变成了一个随意的列表。
+
+**[00:30]** subjects whose victims are forced to attend and are punished when they don't learn the right things
+    *翻译:* 那些受害者被迫参加并在他们没有学到正确事物时受到惩罚的主题
+
+**[00:34]** in the right way at the right time. Here's some random information on a topic you don't give
+    *翻译:* 在正确的时间以正确的方式。这里有一些关于你不会给出的话题的随机信息。
+
+**[00:38]** a rat's ass about! Learn it by next week or you're objectively a bad person according to
+    *翻译:* 下周之前学会这个，否则根据客观标准，你就是个坏人。
+
+**[00:43]** our grading system that condenses a person's collective knowledge into a single number!
+    *翻译:* 我们的评分系统将一个人的综合知识浓缩成一个数字！
+
+**[00:47]** This is quite possibly the most effective way to make someone hate learning possible!
+    *翻译:* 这很可能是让人讨厌学习最有效的方法！
+
+**[00:53]** I do realize I'm ranting a lot here and I want to end this video off on a positive note.
+    *翻译:* 我确实意识到我在这里抱怨了很多，我想以一个积极的语气结束这个视频。
+
+**[00:58]** So I'll say this!
+    *翻译:* 那么我就这么说！
+
+## 完整原文
+
+No notes allowed exam in which we had to memorize like 15 different classical music pieces and answer questions like how many moles were on Beethoven's left testicle. I literally almost failed that class, it obliterated my GPA along with Japanese, and yet my friends passed without studying or attending class once. And according to the school, these are the exact same class! Are you seeing the problem here? And then you realize that all this bullshit is just a relic of the pre-internet world. School has gone from being a necessary archive of critical information to an arbitrary list of subjects whose victims are forced to attend and are punished when they don't learn the right things in the right way at the right time. Here's some random information on a topic you don't give a rat's ass about! Learn it by next week or you're objectively a bad person according to our grading system that condenses a person's collective knowledge into a single number! This is quite possibly the most effective way to make someone hate learning possible! I do realize I'm ranting a lot here and I want to end this video off on a positive note. So I'll say this!
+
+## 完整译文
+
+不允许记笔记的考试，我们必须记住大约15首不同的古典音乐作品，并回答诸如贝多芬左睾丸上有多少个痣这样的问题。我差点就挂了那门课，它和日语课一起毁了我的GPA，然而我的朋友们没有学习甚至没有上过一次课就通过了。而学校却说这些是完全相同的课程！你看出这里的问题是吗？然后你意识到所有这些废话只是互联网出现之前的遗留物。学校已经从一个必要的关键信息档案库变成了一个任意的科目列表，其受害者被迫参加，如果他们没有在正确的时间以正确的方式学习正确的东西，就会受到惩罚。这里有一些你根本不关心的话题的随机信息！下周之前学会它，否则根据我们的评分系统，你客观上就是一个坏人，这个系统将一个人的集体知识压缩成一个数字！这可能是让人讨厌学习最有效的方法！我确实意识到我在这里发了很多牢骚，我想以一个积极的音符结束这个视频。所以我要说的是！
