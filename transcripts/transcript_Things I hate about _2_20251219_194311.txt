@@ -1,0 +1,64 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1096
+- **译文字符数:** 367
+- **段落数:** 16
+
+## 分段转录
+
+**[00:00]** Another absence, so your grade is now indeed, you stupid fuck!
+    *翻译:* 又缺席了，所以你的分数现在确实是，你这个愚蠢的家伙！
+
+**[00:04]** It took me a good 10 minutes to process what she was telling me, which is that this lady
+    *翻译:* 我花了整整10分钟才理解她告诉我的事情，那就是这位女士
+
+**[00:08]** is essentially failing me from her class on the last day with no warning.
+    *翻译:* 在最后一天没有任何预警的情况下，她基本上让我在她的课上失败了。
+
+**[00:12]** I swear, on my life, that I was barely ever late and never by more than 5 minutes.
+    *翻译:* 我发誓，以我的生命为证，我几乎从不迟到，即使迟到也从不超过5分钟。
+
+**[00:18]** You would think that she'd mention this oddly specific grading mechanic once in class,
+    *翻译:* 你可能会认为她至少会在课堂上提一次这个特别具体的评分机制。
+
+**[00:24]** but nope, so that was awesome!
+    *翻译:* 但是没有，所以那真是太棒了！
+
+**[00:25]** The worst part is how different the same class can be between professors.
+    *翻译:* 最糟糕的是，同一门课程在不同教授之间可以有多么不同。
+
+**[00:29]** I remember that same semester my friends and I, consisting of two engineering majors
+    *翻译:* 我记得那个学期，我和我的朋友们，包括两个工程专业的学生。
+
+**[00:33]** and one architecture major, were all required to take a music appreciation class, which,
+    *翻译:* 一名建筑专业的学生，也被要求参加音乐欣赏课程，这门课程，
+
+**[00:38]** first of all, what the fuck!
+    *翻译:* 首先，这是什么鬼！
+
+**[00:40]** But second of all, we somehow ended up getting assigned to different professors that taught
+    *翻译:* 但是其次，我们不知怎的被分配给了不同的教授来教授。
+
+**[00:43]** the same course.
+    *翻译:* 同一课程。
+
+**[00:44]** Now my friends' professor did not give a shit about the class, it was an entirely online
+    *翻译:* 现在我朋友们的教授根本不关心这个班级，这是一个完全在线的课程。
+
+**[00:49]** open note, so they just googled every assignment.
+    *翻译:* 打开笔记，所以他们只是用谷歌搜索了每一个作业。
+
+**[00:52]** My professor on the other hand, was this sick, twisted bastard whose class was completely
+    *翻译:* 另一方面，我的教授却是个病态、扭曲的混蛋，他的课完全是
+
+**[00:57]** in-person, and every few weeks we had a 50 question...
+    *翻译:* 亲自，并且每隔几周我们有一次50个问题……
+
+## 完整原文
+
+Another absence, so your grade is now indeed, you stupid fuck! It took me a good 10 minutes to process what she was telling me, which is that this lady is essentially failing me from her class on the last day with no warning. I swear, on my life, that I was barely ever late and never by more than 5 minutes. You would think that she'd mention this oddly specific grading mechanic once in class, but nope, so that was awesome! The worst part is how different the same class can be between professors. I remember that same semester my friends and I, consisting of two engineering majors and one architecture major, were all required to take a music appreciation class, which, first of all, what the fuck! But second of all, we somehow ended up getting assigned to different professors that taught the same course. Now my friends' professor did not give a shit about the class, it was an entirely online open note, so they just googled every assignment. My professor on the other hand, was this sick, twisted bastard whose class was completely in-person, and every few weeks we had a 50 question...
+
+## 完整译文
+
+又缺席了一次，所以你现在确实，你这个愚蠢的家伙！我花了整整10分钟才理解她告诉我的事情，那就是这位女士在没有任何警告的情况下，最后一天基本上让我在她的课上不及格。我发誓，在我的一生中，我几乎从不迟到，即使迟到也从不超过5分钟。你会觉得她至少会在课堂上提一次这个特别具体的评分机制，但没有，所以这真是太棒了！最糟糕的是同一门课程在不同教授之间可以有多么不同。我记得那个学期，我和我的朋友们，包括两个工程专业和一个建筑专业的学生，都被要求参加音乐欣赏课，首先，这到底是什么鬼！但其次，我们不知怎么地被分配给了不同的教授，他们教授的是同一门课程。现在我朋友们的教授根本不关心这个课程，它完全是在线开卷的，所以他们只是在网上搜索每个作业。另一方面，我的教授却是一个病态、扭曲的混蛋，他的课程完全是面对面的，每隔几周我们就要回答50个问题...
