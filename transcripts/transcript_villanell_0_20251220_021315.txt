@@ -1,0 +1,70 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 949
+- **译文字符数:** 300
+- **段落数:** 18
+
+## 分段转录
+
+**[00:00]** At the beginning, I mentioned that the line between good and evil runs through everyone,
+    *翻译:* 起初，我提到过善与恶的界线贯穿每个人，
+
+**[00:06]** that we all have darkness within us.
+    *翻译:* 我们内心都有黑暗。
+
+**[00:08]** Now hopefully you understand why that matters.
+    *翻译:* 现在，希望你明白为什么那很重要。
+
+**[00:12]** We don't fall for villains despite their darkness, we fall for them because of it.
+    *翻译:* 我们不是因为反派的黑暗而爱上他们，而是因为黑暗本身而爱上他们。
+
+**[00:17]** Because they acknowledge the line we all hold inside of us, between who we're supposed
+    *翻译:* 因为他们承认我们内心都有一条界限，那就是我们应该是什么样的人。
+
+**[00:21]** to be and who we actually are.
+    *翻译:* 成为我们实际所是的人。
+
+**[00:23]** The line we're tempted to cross, but fear we can never return from.
+    *翻译:* 我们想要跨越的那条线，但害怕一旦跨过就无法回头。
+
+**[00:28]** This is our fifth and final reason.
+    *翻译:* 这是我们的第五个也是最后一个原因。
+
+**[00:30]** Curiosity.
+    *翻译:* 好奇心。
+
+**[00:31]** We've talked about villains who withhold approval, who create their own misfortune, who embody
+    *翻译:* 我们已经讨论了那些拒绝给予认可、自己制造不幸、体现着
+
+**[00:36]** darkness unapologetically and who choose redemption.
+    *翻译:* 黑暗毫不道歉，而那些选择救赎的人。
+
+**[00:40]** But the villains who combine all of it embody the neatly human aspects of characters that
+    *翻译:* 但是将所有这些特质结合起来的反派角色体现了人物角色中那些恰到好处的人类特质。
+
+**[00:45]** make them feel intimately close.
+    *翻译:* 让他们感觉亲密无间。
+
+**[00:47]** So close that within their own stories, they choose characters who feel like placeholders
+    *翻译:* 如此接近，以至于在他们自己的故事中，他们选择了感觉像占位符的角色。
+
+**[00:51]** for the viewer.
+    *翻译:* 对于观众。
+
+**[00:53]** Not the hero, the pure, simple protagonist.
+    *翻译:* 不是英雄，而是纯洁、简单的主角。
+
+**[00:56]** You.
+    *翻译:* 你。
+
+**[00:57]** These villains are the chosen one.
+    *翻译:* 这些恶棍是被选中的人。
+
+## 完整原文
+
+At the beginning, I mentioned that the line between good and evil runs through everyone, that we all have darkness within us. Now hopefully you understand why that matters. We don't fall for villains despite their darkness, we fall for them because of it. Because they acknowledge the line we all hold inside of us, between who we're supposed to be and who we actually are. The line we're tempted to cross, but fear we can never return from. This is our fifth and final reason. Curiosity. We've talked about villains who withhold approval, who create their own misfortune, who embody darkness unapologetically and who choose redemption. But the villains who combine all of it embody the neatly human aspects of characters that make them feel intimately close. So close that within their own stories, they choose characters who feel like placeholders for the viewer. Not the hero, the pure, simple protagonist. You. These villains are the chosen one.
+
+## 完整译文
+
+起初，我提到善恶之间的界线贯穿每个人，我们内心都有黑暗。现在希望你明白了这为什么重要。我们之所以被反派吸引，并非因为他们的黑暗，而是因为他们承认了我们内心的那条界线，那条我们本应成为的人与我们实际成为的人之间的界线。那条我们渴望跨越，却又害怕永远无法回头的界线。这是我们的第五个，也是最后一个原因。好奇心。我们已经讨论了那些拒绝认可、制造自己不幸、毫不掩饰地体现黑暗、选择救赎的反派。但是那些将所有这些特质结合起来的反派，体现了人物的人性化方面，使他们感觉亲切而接近。如此接近，以至于在他们自己的故事中，他们选择了感觉像是观众的占位符的角色。不是英雄，不是纯洁、简单的主角。你。这些反派是被选中的人。
