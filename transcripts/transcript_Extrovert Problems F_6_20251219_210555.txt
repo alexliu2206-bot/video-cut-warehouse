@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1143
+- **译文字符数:** 379
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** All times, I was in a room with other creators who shared a similar passion or interest as me.
+    *翻译:* 无论何时，我都和其他有着相似热情或兴趣的创作者们待在一个房间里。
+
+**[00:05]** I was pretty much never by myself, so for like the entire week I was in Anaheim,
+    *翻译:* 我几乎从不独自一人，所以整个星期我在阿纳海姆的时候，
+
+**[00:10]** my energy bar was in the green. On the last day, when I finally went home and I was by myself,
+    *翻译:* 我的精力条是绿色的。在最后一天，当我最终回到家并且独自一人时，
+
+**[00:15]** it felt like an entire week's worth of fatigue slapped me across the face and I knocked out
+    *翻译:* 感觉就像一周的疲劳突然袭来，我被打晕了。
+
+**[00:19]** for like 14 hours. I basically got a free trial of death after VidCon. It was nice.
+    *翻译:* 大约14个小时。我在VidCon之后基本上免费体验了一次死亡。感觉还不错。
+
+**[00:24]** Anyways, I don't really know what the point of this video was.
+    *翻译:* 总之，我真不知道这个视频的要点是什么。
+
+**[00:27]** I've just seen so many posts and videos of introvert problems and I've always been like,
+    *翻译:* 我刚刚看到很多关于内向者问题的帖子和视频，我一直都是这样的，
+
+**[00:32]** hmm, can't relate. What counts as an extrovert problem? So I illustrated them.
+    *翻译:* 嗯，无法感同身受。什么算是外向型问题？所以我把它们画出来了。
+
+**[00:37]** And of course, these were just my own personal experiences. Not every extrovert is the same
+    *翻译:* 当然，这些只是我个人的经历。并非每个外向者都一样。
+
+**[00:41]** and not every introvert is the same. So maybe you're an extrovert but you don't have the same
+    *翻译:* 并不是每个内向的人都一样。所以也许你是一个外向的人，但你并不具备相同的特质。
+
+**[00:46]** problems like I do. Let me know what kind of battery you run on. And if you're also an artist
+    *翻译:* 像我一样的问题。告诉我你用的是哪种电池。如果你也是一个艺术家
+
+**[00:50]** who gets energy from other people, how do you stay productive when you need to draw a day?
+    *翻译:* 那些从他人那里获得能量的人，当你们需要休息一天时，如何保持生产力？
+
+**[00:54]** I usually just end up drinking a lot of coffee. You know what I like to do when I'm by myself?
+    *翻译:* 我通常最终会喝很多咖啡。你知道我独自一人时喜欢做什么吗？
+
+## 完整原文
+
+All times, I was in a room with other creators who shared a similar passion or interest as me. I was pretty much never by myself, so for like the entire week I was in Anaheim, my energy bar was in the green. On the last day, when I finally went home and I was by myself, it felt like an entire week's worth of fatigue slapped me across the face and I knocked out for like 14 hours. I basically got a free trial of death after VidCon. It was nice. Anyways, I don't really know what the point of this video was. I've just seen so many posts and videos of introvert problems and I've always been like, hmm, can't relate. What counts as an extrovert problem? So I illustrated them. And of course, these were just my own personal experiences. Not every extrovert is the same and not every introvert is the same. So maybe you're an extrovert but you don't have the same problems like I do. Let me know what kind of battery you run on. And if you're also an artist who gets energy from other people, how do you stay productive when you need to draw a day? I usually just end up drinking a lot of coffee. You know what I like to do when I'm by myself?
+
+## 完整译文
+
+所有时间里，我都和其他创作者们待在一个房间里，他们和我一样有着相似的热情或兴趣。我几乎从未独自一人，所以在我待在安纳海姆的整个星期里，我的能量条都保持在绿色。在最后一天，当我最终回家并且独自一人时，感觉就像一整周的疲劳突然袭来，我昏睡了大约14个小时。我在VidCon之后基本上免费体验了一次死亡。这感觉很好。不管怎样，我真不知道这个视频的重点是什么。我已经看到很多关于内向者问题的帖子和视频，我总是觉得，嗯，无法感同身受。什么算是外向者的问题呢？所以我把它们画出来了。当然，这些只是我个人的经历。不是每个外向者都一样，也不是每个内向者都一样。所以也许你是一个外向者，但你并没有和我一样的问题。告诉我你的能量来源是什么。如果你也是一个从他人那里获得能量的艺术家，当你需要画一整天时，你如何保持生产力？我通常只是喝很多咖啡。你知道当我独自一人时我喜欢做什么吗？
