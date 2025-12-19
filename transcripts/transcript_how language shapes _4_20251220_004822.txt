@@ -1,0 +1,136 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 3564
+- **译文字符数:** 1030
+- **段落数:** 40
+
+## 分段转录
+
+**[00:00]** around you, but I think the nature aspect of this metaphor opens it up to not just the
+    *翻译:* 在你周围，但我认为这个隐喻的自然方面使其不仅仅局限于
+
+**[00:06]** people around you, but the place around you, which gets us one step closer to what we're
+    *翻译:* 你周围的人，但你周围的环境，让我们离我们的目标更近一步。
+
+**[00:10]** going to be talking about in a second, which is Robin Wildkimmer's idea of the grammar
+    *翻译:* 稍后将要讨论的是罗宾·维尔德基默关于语法的观点。
+
+**[00:14]** of animacy. But before we get into that, I want to talk about this essay called The Balkanization
+    *翻译:* 关于有生命性。但在我们深入讨论之前，我想谈谈这篇名为《巴尔干化》的文章。
+
+**[00:18]** and Babelification of the Internet by Ruyi and Ruby Justice the Law. And they say,
+    *翻译:* 由如意和红宝石正义法律导致的互联网巴别塔化。他们说，
+
+**[00:24]** the pace at which we're creating new words, then re-contextualizing their meetings in
+    *翻译:* 我们创造新词汇的速度，然后重新定义它们在不同语境中的相遇。
+
+**[00:27]** hyperbolic meme and joke format is moving faster than ever before in our age of relentless
+    *翻译:* 在我们这个无情的时代，双曲式的表情包和笑话格式传播得比以往任何时候都要快。
+
+**[00:32]** online discourse. As we're fed more content, we are pushed deeper into algorithmic niches.
+    *翻译:* 在线讨论。随着我们被推送更多的内容，我们被推向更深层次的算法化细分市场。
+
+**[00:37]** In return, we are encouraged to engage with more extreme and polarizing identifiers because
+    *翻译:* 作为回报，我们被鼓励去接触更多极端和两极分化的身份标识，因为
+
+**[00:42]** it is more labelable, more indexable by the machine, the creation of the quote unquote
+    *翻译:* 它更易于被机器标记，更易于被机器索引，即所谓的“引用”和“非引用”的创造。
+
+**[00:47]** island. Babelification is the process by which, after splintering, insular digital groups
+    *翻译:* 岛屿。巴别化是分裂后，孤立的数字群体形成的过程。
+
+**[00:52]** develop unique languages, which makes reintegration and shared digital spaces difficult, if not
+    *翻译:* 发展独特的语言，这使得重新整合和共享数字空间变得困难，如果不是不可能的话。
+
+**[00:57]** impossible. When someone believes their insular language and online echo chambers is common
+    *翻译:* 不可能。当某人认为他们孤立的语言和网络回音室是常见的
+
+**[01:01]** place reality, clashes ensue when that same individual is placed in a context where other
+    *翻译:* 当同一个个体被置于其他个体的背景下时，现实发生冲突。
+
+**[01:06]** people aren't privy to their language because they are fundamentally misunderstanding one
+    *翻译:* 人们不了解他们的语言，因为他们从根本上误解了其中一种。
+
+**[01:10]** another. And this is really interesting to think about because I feel like sometimes
+    *翻译:* 另一个。这真的很有趣，因为我觉得有时候
+
+**[01:14]** this happens even in my own comment section. Sometimes people say something and I'm like,
+    *翻译:* 这甚至发生在我自己的评论区。有时候人们说些什么，我就会想，
+
+**[01:18]** yeah, that is technically English, but what you just said is so decontextualized for me,
+    *翻译:* 是的，从技术上讲那是英语，但你刚才所说的对我来说太脱离上下文了。
+
+**[01:24]** I have no idea what you're talking about. And I think we just got a very clear example
+    *翻译:* 我不知道你在说什么。而且我认为我们刚刚得到了一个非常清晰的例子。
+
+**[01:27]** of the real life implications of this with the Charlie Kirk case, with the things that
+    *翻译:* 关于查理·柯克案件中这一点在现实生活中的影响，以及那些事情
+
+**[01:31]** were written on the bullet casings. And then everyone in the internet kind of flooding
+    *翻译:* 子弹壳上写着字。然后互联网上的每个人都开始大量涌入。
+
+**[01:35]** the space to be like, I think this is what it means. I think this is what it means. This
+    *翻译:* 要像这样的地方，我认为这就是它的意义。我认为这就是它的意义。这个
+
+**[01:38]** is what people are saying in discord servers and trying to trace back these like, memified
+    *翻译:* 人们在Discord服务器上说什么，并试图追溯这些类似被梗化的内容。
+
+**[01:44]** sayings to some sort of semblance of meaning. So you've got people that think that they're
+    *翻译:* 对某种意义上的相似之处发表看法。所以你有那些认为自己是
+
+**[01:49]** saying something intelligible, but they're actually so like up in the clouds that the
+    *翻译:* 说些听得懂的话，但实际上他们就像是高高在云端那样。
+
+**[01:54]** people on the ground have no idea what they're saying. This is really where the alt-right
+    *翻译:* 地面上的人根本不知道他们在说什么。这正是另类右翼的所在。
+
+**[01:58]** pipeline gets tricky because you've got dog whistles that are burrowed into these memes
+    *翻译:* 管道变得棘手，因为你有狗哨声埋藏在这些迷因中
+
+**[02:02]** that only some people in the group can recognize. The definition of a dog whistle is the use
+    *翻译:* 只有小组中的一些人能够识别。狗哨的定义是使用
+
+**[02:06]** of coded or suggestive language and political messaging to garner support from a particular
+    *翻译:* 使用编码或暗示性语言和政治信息来获得特定群体的支持。
+
+**[02:11]** group. And it's interesting that this is a tactic whose very title is a dehumanizing
+    *翻译:* 这个策略的名称本身就带有去人性化的特点，这很有趣。
+
+**[02:15]** metaphor by nature. This is meant to isolate. So I don't think the answer is like beating
+    *翻译:* 本质上的隐喻。这是为了隔离。所以我认为答案不是像打败
+
+**[02:20]** them at their own game and like making our own exclusionary language. Instead, I think
+    *翻译:* 用他们自己的游戏规则来对付他们，并且喜欢创造我们自己的排他性语言。相反，我认为
+
+**[02:25]** the response to dog whistles needs to be running in the opposite direction, which is finding
+    *翻译:* 对狗哨声的反应应该是朝相反方向跑，也就是寻找
+
+**[02:29]** some sort of uniting factor that can bring the English language back to something that
+    *翻译:* 某种能够将英语带回某种统一因素的东西
+
+**[02:33]** helps to humanize people and the land that they live on and all of the living beings that
+    *翻译:* 有助于使人们以及他们所居住的土地和所有生物更加人性化。
+
+**[02:37]** they live in community with instead of doubling down on dog whistles. So that brings me
+    *翻译:* 他们生活在社区中，而不是加倍使用狗哨。这让我想到
+
+**[02:42]** to the breeding suite grass. My favorite part of this entire conversation. I have talked
+    *翻译:* 到繁殖套房的草地上。这是我整个对话中最喜欢的部分。我已经谈过
+
+**[02:46]** about breeding suite grass so much I read it years ago and I still go back and read it
+    *翻译:* 关于繁殖套草，我多年前读过，至今我还会回去阅读。
+
+**[02:52]** like it's my Bible. And as I was researching for this episode, I remembered a chapter in
+    *翻译:* 就像这是我的圣经一样。当我在为这一集做研究时，我想起了其中的一章。
+
+**[02:56]** breeding suite grass where Robin Wildkimmer is talking about her experience of trying
+    *翻译:* 在培育草地套房中，Robin Wildkimmer正在谈论她尝试的经历。
+
+## 完整原文
+
+around you, but I think the nature aspect of this metaphor opens it up to not just the people around you, but the place around you, which gets us one step closer to what we're going to be talking about in a second, which is Robin Wildkimmer's idea of the grammar of animacy. But before we get into that, I want to talk about this essay called The Balkanization and Babelification of the Internet by Ruyi and Ruby Justice the Law. And they say, the pace at which we're creating new words, then re-contextualizing their meetings in hyperbolic meme and joke format is moving faster than ever before in our age of relentless online discourse. As we're fed more content, we are pushed deeper into algorithmic niches. In return, we are encouraged to engage with more extreme and polarizing identifiers because it is more labelable, more indexable by the machine, the creation of the quote unquote island. Babelification is the process by which, after splintering, insular digital groups develop unique languages, which makes reintegration and shared digital spaces difficult, if not impossible. When someone believes their insular language and online echo chambers is common place reality, clashes ensue when that same individual is placed in a context where other people aren't privy to their language because they are fundamentally misunderstanding one another. And this is really interesting to think about because I feel like sometimes this happens even in my own comment section. Sometimes people say something and I'm like, yeah, that is technically English, but what you just said is so decontextualized for me, I have no idea what you're talking about. And I think we just got a very clear example of the real life implications of this with the Charlie Kirk case, with the things that were written on the bullet casings. And then everyone in the internet kind of flooding the space to be like, I think this is what it means. I think this is what it means. This is what people are saying in discord servers and trying to trace back these like, memified sayings to some sort of semblance of meaning. So you've got people that think that they're saying something intelligible, but they're actually so like up in the clouds that the people on the ground have no idea what they're saying. This is really where the alt-right pipeline gets tricky because you've got dog whistles that are burrowed into these memes that only some people in the group can recognize. The definition of a dog whistle is the use of coded or suggestive language and political messaging to garner support from a particular group. And it's interesting that this is a tactic whose very title is a dehumanizing metaphor by nature. This is meant to isolate. So I don't think the answer is like beating them at their own game and like making our own exclusionary language. Instead, I think the response to dog whistles needs to be running in the opposite direction, which is finding some sort of uniting factor that can bring the English language back to something that helps to humanize people and the land that they live on and all of the living beings that they live in community with instead of doubling down on dog whistles. So that brings me to the breeding suite grass. My favorite part of this entire conversation. I have talked about breeding suite grass so much I read it years ago and I still go back and read it like it's my Bible. And as I was researching for this episode, I remembered a chapter in breeding suite grass where Robin Wildkimmer is talking about her experience of trying
+
+## 完整译文
+
+在你身边，但我认为这个隐喻的自然方面使其不仅仅局限于你周围的人，还包括你周围的环境，这让我们更接近我们接下来要讨论的内容，即罗宾·威尔德基默关于活性语法的理念。但在我们深入这个话题之前，我想谈谈这篇名为《互联网的巴尔干化和巴别塔化》的文章，作者是如一和红宝石·正义。他们说，我们创造新词汇的速度，然后将它们重新置于夸张的梗图和笑话格式中，比以往任何时候都要快，这是在我们这个无情的在线讨论时代。随着我们被喂食更多的内容，我们被推得更深进入算法化的小众领域。作为回报，我们被鼓励与更极端和两极化的标识符互动，因为它更容易被机器标记和索引，创造了所谓的“孤岛”。巴别塔化是这样一个过程：在分裂之后，孤立的数字群体发展出独特的语言，这使得重新整合和共享数字空间变得困难，甚至不可能。当某人认为他们的孤立语言和在线回音室是普遍的现实时，当同一个个体被置于其他人不了解他们的语言的情境中时，冲突就会发生，因为他们根本误解了彼此。这真的很有趣，因为我觉得有时这甚至发生在我自己的评论区。 有时候人们说些什么，我就会想，是的，这从技术上讲是英语，但你刚才说的话对我来说太脱离上下文了，我完全不知道你在说什么。我认为我们刚刚通过查理·柯克的案例非常清楚地看到了这一点，子弹壳上写的东西就是如此。然后互联网上的每个人都在涌入这个空间，说，我认为这就是它的意思。我认为这就是它的意思。这就是人们在discord服务器上说的，试图追溯这些像模因化的说法，寻找某种意义上的相似之处。所以你有那些认为他们在说一些有意义的话的人，但实际上他们就像是在云端之上，地面上的人根本不知道他们在说什么。这正是另类右翼管道变得棘手的地方，因为你有这些狗哨，它们被嵌入到这些模因中，只有群体中的一些人能认出来。狗哨的定义是使用编码或暗示性的语言和政治信息，以获得特定群体的支持。有趣的是，这种策略的标题本身就是一个本质上的非人化隐喻。这是为了孤立。所以我认为答案不是像打败他们一样，制造我们自己的排他性语言。 相反，我认为对狗哨的反应应该是朝相反方向跑，那就是找到某种团结因素，可以使英语回归到有助于人性化人们及其所居住的土地以及他们共同生活的生物，而不是加倍使用狗哨。这让我想到了育种套草地。这是我整个对话中最喜欢的部分。我谈论育种套草地的次数太多了，我几年前读到它，我仍然回去读它，就像它是我的圣经一样。当我为这一集做研究时，我想起了育种套草地中的一章，罗宾·威尔德基默在其中谈到了她尝试的经历。
