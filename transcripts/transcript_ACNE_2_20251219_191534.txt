@@ -1,0 +1,91 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 968
+- **译文字符数:** 295
+- **段落数:** 25
+
+## 分段转录
+
+**[00:00]** Cool part about it is it doesn't fucking work!
+    *翻译:* 酷的是它根本不起作用！
+
+**[00:03]** Oh wow!
+    *翻译:* 哇哦！
+
+**[00:05]** Thank you!
+    *翻译:* 谢谢！
+
+**[00:06]** That's exactly what I wanted!
+    *翻译:* 这正是我想要的！
+
+**[00:08]** Awesome!
+    *翻译:* 太棒了！
+
+**[00:09]** Ha ha ha!
+    *翻译:* 哈哈哈！
+
+**[00:10]** Right before school starts too!
+    *翻译:* 就在开学前！
+
+**[00:12]** Ha ha!
+    *翻译:* 哈哈！
+
+**[00:13]** It's just a time!
+    *翻译:* 这只是时间问题！
+
+**[00:14]** And then I get to suffer.
+    *翻译:* 然后，我就要受苦了。
+
+**[00:16]** This entire semester, smearing this useless paste on my face every night that dries out my skin
+    *翻译:* 整个学期，我每晚都在脸上涂抹这种没用的膏状物，结果让我的皮肤变得干燥。
+
+**[00:22]** and makes me look like a raisin, unless I use ten gallons of moisturizer.
+    *翻译:* 这让我看起来像个葡萄干，除非我使用十加仑的保湿霜。
+
+**[00:25]** While simultaneously doing next to nothing to stop me from breaking out,
+    *翻译:* 同时几乎没做什么来阻止我爆发，
+
+**[00:29]** and I just have to keep doing that because it was still slightly better than nothing at all!
+    *翻译:* 我只需要继续这样做，因为它仍然比什么都没有要好一些！
+
+**[00:34]** Oh yes, say!
+    *翻译:* 哦，是的，说吧！
+
+**[00:36]** So I finally went back again because I'm in my hometown for the holidays,
+    *翻译:* 所以我最终还是回去了，因为我正在家乡度假。
+
+**[00:39]** and the dermatologist is like...
+    *翻译:* 皮肤科医生就像...
+
+**[00:42]** Yeah, they put me on acutane.
+    *翻译:* 是的，他们让我服用了异维A酸。
+
+**[00:44]** Uh, I don't know what the hell it's gonna do to me.
+    *翻译:* 呃，我不知道这该死的东西会对我做什么。
+
+**[00:46]** This was like last week.
+    *翻译:* 这就像上周一样。
+
+**[00:48]** They made me sign this paper full of warnings like,
+    *翻译:* 他们让我签署了这份满是警告的文件，比如，
+
+**[00:50]** you may experience seeing or hearing things that aren't there.
+    *翻译:* 你可能会遇到看到或听到不存在的事物。
+
+**[00:53]** You might start having dark thoughts.
+    *翻译:* 你可能开始有了一些阴暗的想法。
+
+**[00:56]** Like, p-oh yeah dude!
+    *翻译:* 就像，对哦，伙计！
+
+**[00:57]** I have no idea whether or not...
+    *翻译:* 我不知道是否……
+
+## 完整原文
+
+Cool part about it is it doesn't fucking work! Oh wow! Thank you! That's exactly what I wanted! Awesome! Ha ha ha! Right before school starts too! Ha ha! It's just a time! And then I get to suffer. This entire semester, smearing this useless paste on my face every night that dries out my skin and makes me look like a raisin, unless I use ten gallons of moisturizer. While simultaneously doing next to nothing to stop me from breaking out, and I just have to keep doing that because it was still slightly better than nothing at all! Oh yes, say! So I finally went back again because I'm in my hometown for the holidays, and the dermatologist is like... Yeah, they put me on acutane. Uh, I don't know what the hell it's gonna do to me. This was like last week. They made me sign this paper full of warnings like, you may experience seeing or hearing things that aren't there. You might start having dark thoughts. Like, p-oh yeah dude! I have no idea whether or not...
+
+## 完整译文
+
+最酷的部分是它根本不起作用！哦哇！谢谢你！这正是我想要的！太棒了！哈哈哈！就在开学前！哈哈哈！这只是时间问题！然后我得受苦。整个学期，我每晚都得把这种没用的膏药涂在脸上，它让我的皮肤干燥，让我看起来像葡萄干，除非我用十加仑的保湿霜。同时几乎不阻止我长痘，我还得继续这样做，因为它仍然比什么都没有稍微好一点！哦，是的，说吧！所以我终于又回去了，因为我假期回到了家乡，皮肤科医生说...是的，他们让我服用了异维A酸。呃，我不知道这该死的东西会对我做什么。这是上周的事。他们让我签了这张满是警告的纸，比如，你可能会看到或听到不存在的东西。你可能开始有黑暗的想法。像，是的，伙计！我不知道是否...
