@@ -1,0 +1,70 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1091
+- **译文字符数:** 348
+- **段落数:** 18
+
+## 分段转录
+
+**[00:00]** This video is sponsored by Verve.
+    *翻译:* 这个视频由Verve赞助。
+
+**[00:02]** Use my link Verve.co slash emery2 to try out a 30 day ad free trial of Verve Premium.
+    *翻译:* 使用我的链接 Verve.co/emery2 来试用 Verve 高级版 30 天无广告体验。
+
+**[00:08]** Stick around to the end of the video so I can tell you about a movie I fall in love with
+    *翻译:* 坚持看到视频最后，这样我就可以告诉你我爱上了哪部电影。
+
+**[00:12]** and some super cute fan art.
+    *翻译:* 还有一些超级可爱的粉丝艺术作品。
+
+**[00:14]** I consider myself to be an extrovert.
+    *翻译:* 我认为自己是一个外向的人。
+
+**[00:17]** Wait, what?
+    *翻译:* 等等，什么？
+
+**[00:18]** But you're an Asian girl that likes to draw and spends all of her time on the internet.
+    *翻译:* 但你是一个喜欢画画并且把所有时间都花在互联网上的亚洲女孩。
+
+**[00:22]** You mean to tell me that you're not the super quiet wife of my dreams?
+    *翻译:* 你是说你不是我梦想中那个超级安静的妻子吗？
+
+**[00:26]** You know, I've been getting that a lot lately and I'm not really sure why.
+    *翻译:* 你知道吗，我最近经常遇到这种情况，我也不太清楚为什么。
+
+**[00:30]** Is it because of my video about crying?
+    *翻译:* 是因为我的关于哭泣的视频吗？
+
+**[00:32]** Ever since I first learned what an introvert and extrovert was, I was like, hmm, yeah, I
+    *翻译:* 自从我第一次了解到什么是内向和外向，我就在想，嗯，是的，我
+
+**[00:37]** think I definitely relate to the whole extrovert thing more.
+    *翻译:* 我认为我更认同整个外向性格的事情。
+
+**[00:40]** For those of you unfamiliar with the terms, an introvert is a person who gets drained from
+    *翻译:* 对于那些不熟悉这些术语的人，内向的人是指那些在社交场合中会感到精力耗尽的人。
+
+**[00:44]** socializing while an extrovert is a person who gains energy from other people.
+    *翻译:* 外向的人在社交时能够从他人那里获得能量。
+
+**[00:49]** Think of it like, uh, battery.
+    *翻译:* 把它想象成，嗯，电池。
+
+**[00:51]** An introvert might have a set amount of energy that they use up when socializing and are
+    *翻译:* 一个内向的人可能在社交时会消耗一定量的能量，并且
+
+**[00:55]** then able to recharge when they're by themselves.
+    *翻译:* 然后当它们单独在一起时能够重新充电。
+
+**[00:58]** An extrovert on the other hand might...
+    *翻译:* 另一方面，一个外向的人可能会...
+
+## 完整原文
+
+This video is sponsored by Verve. Use my link Verve.co slash emery2 to try out a 30 day ad free trial of Verve Premium. Stick around to the end of the video so I can tell you about a movie I fall in love with and some super cute fan art. I consider myself to be an extrovert. Wait, what? But you're an Asian girl that likes to draw and spends all of her time on the internet. You mean to tell me that you're not the super quiet wife of my dreams? You know, I've been getting that a lot lately and I'm not really sure why. Is it because of my video about crying? Ever since I first learned what an introvert and extrovert was, I was like, hmm, yeah, I think I definitely relate to the whole extrovert thing more. For those of you unfamiliar with the terms, an introvert is a person who gets drained from socializing while an extrovert is a person who gains energy from other people. Think of it like, uh, battery. An introvert might have a set amount of energy that they use up when socializing and are then able to recharge when they're by themselves. An extrovert on the other hand might...
+
+## 完整译文
+
+这个视频由Verve赞助。使用我的链接Verve.co/emery2来试用Verve Premium的30天无广告试用期。坚持看到视频最后，我会告诉你一部我爱上的电影和一些超级可爱的粉丝艺术。我认为自己是一个外向的人。等等，什么？但你是一个喜欢画画、整天泡在网上的亚洲女孩。你是想告诉我，你不是我梦想中的超级安静的妻子吗？你知道，我最近经常听到这样的话，我不太确定为什么。是因为我关于哭泣的视频吗？自从我第一次了解到内向和外向的概念以来，我就在想，嗯，是的，我肯定更认同外向的那一面。对于那些不熟悉这些术语的人，内向的人是在社交中感到疲惫的人，而外向的人则是从他人那里获得能量的人。想象一下，就像电池一样。内向的人可能有一定的能量，在社交时消耗掉，然后他们可以独自充电。另一方面，外向的人可能……
