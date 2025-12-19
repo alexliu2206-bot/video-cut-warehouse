@@ -1,0 +1,31 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 440
+- **译文字符数:** 122
+- **段落数:** 5
+
+## 分段转录
+
+**[00:00]** in a program where everyone is forced to speak and communicate only in the target language.
+    *翻译:* 在一个项目中，每个人都被迫只使用目标语言进行说话和交流。
+
+**[00:06]** And I totally agree with this myself after living in Korea. My skills got exponentially better
+    *翻译:* 我在韩国生活后完全同意这一点。我的技能得到了指数级的提升。
+
+**[00:12]** compared to if I just, you know, learn the language on my own at home. And his last point is to use
+    *翻译:* 与如果我仅仅在家自学这门语言相比。他的最后一点是使用
+
+**[00:20]** a space repetition system or SRS. And this is something that a lot of language learners swear by.
+    *翻译:* 一个间隔重复系统或SRS。这是许多语言学习者深信不疑的方法。
+
+**[00:27]** I have never used it. I mean, I'm fluent in Korean now.
+    *翻译:* 我从未使用过它。我的意思是，我现在韩语很流利。
+
+## 完整原文
+
+in a program where everyone is forced to speak and communicate only in the target language. And I totally agree with this myself after living in Korea. My skills got exponentially better compared to if I just, you know, learn the language on my own at home. And his last point is to use a space repetition system or SRS. And this is something that a lot of language learners swear by. I have never used it. I mean, I'm fluent in Korean now.
+
+## 完整译文
+
+在一个每个人都被迫只使用目标语言进行说话和交流的节目中。在韩国生活后，我完全同意这一点。与我在家自学相比，我的语言技能呈指数级提高。他最后一点是使用间隔重复系统或SRS。这是许多语言学习者坚信的东西。我从未使用过它。我的意思是，我现在韩语流利。
