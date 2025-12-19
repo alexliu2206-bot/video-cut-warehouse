@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 3292
+- **译文字符数:** 939
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** And that's kind of where I want to focus today because this is really getting me curious about what other linguistic lessons are out there hiding in other languages.
+    *翻译:* 这就是我今天想要关注的地方，因为这真的让我对其他语言中隐藏的其他语言课程感到好奇。
+
+**[00:09]** So I want to talk about how the language we speak changes our actual sense of morality.
+    *翻译:* 所以我想谈谈我们所说的语言如何改变我们实际的道德感。
+
+**[00:14]** I want to talk about how niche internet subcultures is kind of like fracturing the English language and making it harder and harder for two people who still speak the same language to even understand each other.
+    *翻译:* 我想谈谈小众互联网亚文化是如何有点像分裂英语语言，使得两个仍然说同一种语言的人越来越难以理解彼此。
+
+**[00:26]** And I just want to out front say I think the thing that I got out of all of this research that is like the most clear to me is that indigenous wisdom can be found in languages that were systematically and violently disappeared by colonizers.
+    *翻译:* 我只想在前面说，我认为我从所有这些研究中得到的东西中最清楚的是，原住民智慧可以在被殖民者系统地和暴力地消失的语言中找到。
+
+**[00:39]** And I genuinely think centering and listening to indigenous voices would not only heal that aspect of personhood that I was talking about at the very beginning, but it would also heal our relationship with the earth.
+    *翻译:* 我真诚地认为，关注并倾听土著人的声音不仅能治愈我最初提到的那部分人格，还能治愈我们与地球的关系。
+
+**[00:50]** You know we're going to talk about Brady's wheatgrass today.
+    *翻译:* 你知道我们今天要讨论布雷迪的小麦草。
+
+**[00:53]** So let's start with some conceptual metaphors that are really prevalent within the English language specifically Eleanor Stern has a fantastic sub-stack essay called the hatred of metaphor where she goes into how different writers who use metaphor differently conceptualize the world differently.
+    *翻译:* 那么，我们先从一些在英语中特别流行的隐喻概念开始。特别是Eleanor Stern有一篇精彩的子堆栈文章，名为《隐喻的仇恨》，她深入探讨了不同作家如何以不同的方式使用隐喻来以不同的方式概念化世界。
+
+**[01:08]** So she's really staying within the English language in this essay and she's talking about how there are people who write and really flowery prose and there are people who are much more straightforward and conversational in their writing.
+    *翻译:* 所以她在这篇论文中真的只使用了英语，她谈到了有些人写作时使用非常华丽的散文，而有些人的写作则更加直接和对话化。
+
+**[01:18]** That doesn't necessarily mean the people who are more straightforward and conversational use less metaphors because metaphors are so prevalent in our language and three of the metaphors that she zeros in on are argument is war time is money and status is height.
+    *翻译:* 这并不一定意味着那些更直接和会话式的人使用的隐喻更少，因为隐喻在我们的语言中非常普遍，她特别关注的三个隐喻是：争论是战争，时间是金钱，地位是高度。
+
+**[01:31]** She says we talk about argument through the framework, the conceptual metaphor that argument is war among the examples they list he demolished my argument.
+    *翻译:* 她说我们通过框架讨论争论，即争论是战争的概念隐喻，他们列举的例子中，他摧毁了我的论点。
+
+**[01:40]** I've never won an argument with him. Meanwhile time is money you're wasting my time he's living on borrowed time we also metaphorically map a huge variety of concepts onto the directions up and down to give an abridged list health his health declined rose from the dead happiness being in high spirits versus being depressed consciousness waking up falling asleep status upward mobility versus the bottom of the hierarchy.
+    *翻译:* 我从未和他争辩赢过。与此同时，时间就是金钱，你在浪费我的时间，他是在借来的时间里生活，我们也在比喻性地将大量概念映射到上下方向上，以给出一个简明列表：健康，他的健康状况下降了，从死亡中复活；快乐，情绪高涨与抑郁；意识，醒来与入睡；地位，向上流动与阶层底层。
+
+**[02:04]** And so many metaphors that we use are so baked into our language that they don't even really register as metaphors anymore but this reminded me of an Irish proverb that I'm not going to try to say because I don't know the language and I don't want to butcher it but it translates to time is a good storyteller which is an entirely different way of looking at time and I just wonder how our perception of time must change when we look at it as money versus a storyteller.
+    *翻译:* 我们使用的许多隐喻已经如此深入我们的语言，以至于它们甚至不再真正被视为隐喻，但这让我想起了一个爱尔兰谚语，我不会尝试去说它，因为我不懂那种语言，我不想糟蹋它，但它的意思是时间是一个好故事家，这是看待时间的完全不同的方式，我只是想知道，当我们将时间视为金钱与故事家时，我们对时间的感知必须如何改变。
+
+**[02:32]** Those two things flow very differently in my mind Brianna knee Langshag over on the sub stack actually has a few posts that are really interesting about the Irish language and the Irish language actually answers that like initial piece of discomfort with the English language that I was talking about about how we talk about our emotions as if they are a piece of our static identity and she says in the Irish language we are not our emotions we are not sad.
+    *翻译:* 这两件事在我脑海中的流动方式非常不同，Brianna knee Langshag在sub stack上实际上有几篇非常有趣的帖子，是关于爱尔兰语的，爱尔兰语实际上回答了我刚才提到的关于英语的那种初始不适感，即我们谈论情感的方式，好像它们是我们静态身份的一部分，她说在爱尔兰语中，我们不是我们的情感，我们不是悲伤的。
+
+## 完整原文
+
+And that's kind of where I want to focus today because this is really getting me curious about what other linguistic lessons are out there hiding in other languages. So I want to talk about how the language we speak changes our actual sense of morality. I want to talk about how niche internet subcultures is kind of like fracturing the English language and making it harder and harder for two people who still speak the same language to even understand each other. And I just want to out front say I think the thing that I got out of all of this research that is like the most clear to me is that indigenous wisdom can be found in languages that were systematically and violently disappeared by colonizers. And I genuinely think centering and listening to indigenous voices would not only heal that aspect of personhood that I was talking about at the very beginning, but it would also heal our relationship with the earth. You know we're going to talk about Brady's wheatgrass today. So let's start with some conceptual metaphors that are really prevalent within the English language specifically Eleanor Stern has a fantastic sub-stack essay called the hatred of metaphor where she goes into how different writers who use metaphor differently conceptualize the world differently. So she's really staying within the English language in this essay and she's talking about how there are people who write and really flowery prose and there are people who are much more straightforward and conversational in their writing. That doesn't necessarily mean the people who are more straightforward and conversational use less metaphors because metaphors are so prevalent in our language and three of the metaphors that she zeros in on are argument is war time is money and status is height. She says we talk about argument through the framework, the conceptual metaphor that argument is war among the examples they list he demolished my argument. I've never won an argument with him. Meanwhile time is money you're wasting my time he's living on borrowed time we also metaphorically map a huge variety of concepts onto the directions up and down to give an abridged list health his health declined rose from the dead happiness being in high spirits versus being depressed consciousness waking up falling asleep status upward mobility versus the bottom of the hierarchy. And so many metaphors that we use are so baked into our language that they don't even really register as metaphors anymore but this reminded me of an Irish proverb that I'm not going to try to say because I don't know the language and I don't want to butcher it but it translates to time is a good storyteller which is an entirely different way of looking at time and I just wonder how our perception of time must change when we look at it as money versus a storyteller. Those two things flow very differently in my mind Brianna knee Langshag over on the sub stack actually has a few posts that are really interesting about the Irish language and the Irish language actually answers that like initial piece of discomfort with the English language that I was talking about about how we talk about our emotions as if they are a piece of our static identity and she says in the Irish language we are not our emotions we are not sad.
+
+## 完整译文
+
+这就是我今天想要关注的地方，因为这真的让我对其他语言中隐藏的其他语言课程感到好奇。我想讨论我们所说的语言如何改变我们实际的道德感。我想讨论小众互联网亚文化如何使英语语言分裂，使得两个仍然说同一种语言的人越来越难以理解彼此。我只想提前说，我认为我从所有这些研究中得到的东西，对我来说最清楚的是，原住民智慧可以在被殖民者系统和暴力消失的语言中找到。我真的认为，将注意力集中在倾听原住民的声音上，不仅能治愈我最初谈到的人格方面的创伤，还能治愈我们与地球的关系。你知道我们今天要讨论布雷迪的小麦草。所以让我们从一些在英语中特别流行的概念隐喻开始，特别是埃莉诺·斯特恩有一篇精彩的子堆栈文章，叫做《隐喻的仇恨》，她深入探讨了使用隐喻不同的作家如何以不同的方式概念化世界。 所以她在这篇论文中真的只是在使用英语，她谈到了有些人写作时使用非常华丽的散文，而有些人的写作则更加直接和对话化。这并不一定意味着那些更直接和对话化的写作风格的人使用的隐喻更少，因为隐喻在我们的语言中非常普遍，她特别关注的三个隐喻是：争论是战争、时间是金钱、地位是高度。她说我们通过框架、概念隐喻来谈论争论，即争论是战争，他们列举的例子中有：他摧毁了我的论点。我从未与他争论过。与此同时，时间就是金钱，你在浪费我的时间，他靠借来的时间生活。我们也隐喻性地将大量的概念映射到上下方向，以简化列表：健康，他的健康状况下降了，从死亡中复活；幸福，情绪高涨与沮丧；意识，醒来与入睡；地位，向上流动与阶层底层。 我们使用的许多隐喻已经如此深入我们的语言之中，以至于它们甚至不再被视为隐喻，但这让我想起了一个爱尔兰谚语，我不会尝试去说它，因为我不懂那种语言，我不想糟蹋它，但它的意思是时间是一个好故事家，这是看待时间的完全不同的方式，我只是想知道，当我们将时间视为金钱与故事家时，我们对时间的感知必须如何改变。在我心中，这两件事的流动方式非常不同。Brianna knee Langshag在sub stack上实际上有一些非常有趣的帖子，关于爱尔兰语言，爱尔兰语言实际上回答了我之前提到的关于我们如何用英语谈论我们的情感，就好像它们是我们静态身份的一部分的那种最初的不适感，她说在爱尔兰语中，我们不是我们的情感，我们不是悲伤的。
