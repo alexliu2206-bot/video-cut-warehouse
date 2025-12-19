@@ -1,0 +1,88 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1015
+- **译文字符数:** 295
+- **段落数:** 24
+
+## 分段转录
+
+**[00:00]** books about language learning out there.
+    *翻译:* 市面上关于语言学习的书籍。
+
+**[00:02]** And there were so many five star reviews
+    *翻译:* 而且有很多五星好评
+
+**[00:04]** that I was like, you know what?
+    *翻译:* 那就是，你知道吗？
+
+**[00:06]** I'm gonna bite the bullet.
+    *翻译:* 我要硬着头皮上了。
+
+**[00:07]** I'm gonna buy the book, read it for you guys,
+    *翻译:* 我要买这本书，为你们读。
+
+**[00:10]** and let you know if it's legit or a scam.
+    *翻译:* 并让你知道它是合法的还是诈骗。
+
+**[00:14]** Before we start the video,
+    *翻译:* 在我们开始视频之前，
+
+**[00:15]** I just wanna say this video is gonna be worth your time.
+    *翻译:* 我只想说这个视频值得你花时间观看。
+
+**[00:19]** The video is gonna be broken up into three sections.
+    *翻译:* 视频将被分成三个部分。
+
+**[00:21]** The first section is going to be an overview
+    *翻译:* 第一部分将是一个概览。
+
+**[00:24]** of the topics and ideas presented in the book.
+    *翻译:* 书中提出的主题和观点。
+
+**[00:27]** I try to sum it up as good as I can
+    *翻译:* 我尽量尽可能好地总结它
+
+**[00:29]** while retaining, you know, the important things.
+    *翻译:* 同时保留，你知道的，重要的事情。
+
+**[00:32]** And then number two, it's gonna be about the highlights.
+    *翻译:* 然后第二点，将会是关于亮点。
+
+**[00:34]** Basically, if you don't read the book,
+    *翻译:* 基本上，如果你不读这本书，
+
+**[00:36]** even if you don't watch the majority of this video,
+    *翻译:* 即使你没有观看这个视频的大部分内容，
+
+**[00:38]** what I think you should take away from the book.
+    *翻译:* 我认为你应该从这本书中学到的东西。
+
+**[00:41]** And lastly, my personal thoughts on the book.
+    *翻译:* 最后，我对这本书的个人想法。
+
+**[00:45]** Basically, I'm gonna answer three questions.
+    *翻译:* 基本上，我将回答三个问题。
+
+**[00:47]** The first is, do I recommend this book
+    *翻译:* 第一，我推荐这本书吗
+
+**[00:49]** for language learners specifically?
+    *翻译:* 对于语言学习者来说具体是什么？
+
+**[00:51]** Two, does this teach you how to learn any language fast?
+    *翻译:* 第二，这是否教会了你如何快速学习任何语言？
+
+**[00:56]** And the third one is, does it help you never
+    *翻译:* 第三点是，它是否帮助你永不
+
+**[00:59]** forget?
+    *翻译:* 忘了吗？
+
+## 完整原文
+
+books about language learning out there. And there were so many five star reviews that I was like, you know what? I'm gonna bite the bullet. I'm gonna buy the book, read it for you guys, and let you know if it's legit or a scam. Before we start the video, I just wanna say this video is gonna be worth your time. The video is gonna be broken up into three sections. The first section is going to be an overview of the topics and ideas presented in the book. I try to sum it up as good as I can while retaining, you know, the important things. And then number two, it's gonna be about the highlights. Basically, if you don't read the book, even if you don't watch the majority of this video, what I think you should take away from the book. And lastly, my personal thoughts on the book. Basically, I'm gonna answer three questions. The first is, do I recommend this book for language learners specifically? Two, does this teach you how to learn any language fast? And the third one is, does it help you never forget?
+
+## 完整译文
+
+市面上有很多关于语言学习的书籍。而且这些书有很多五星好评，我在想，你知道吗？我要下定决心。我要购买这本书，为你们阅读，然后告诉你们这本书是真材实料还是骗局。在我们开始视频之前，我只想说这个视频值得你花时间观看。视频将分为三个部分。第一部分将是对书中提出的主题和观点的概述。我会尽量在保留重要内容的同时，尽可能地总结。第二部分是关于亮点。基本上，即使你不读这本书，即使你不看这个视频的大部分内容，我认为你应该从书中带走的东西。最后，我对这本书的个人看法。基本上，我将回答三个问题。第一，我是否推荐这本书给特定的语言学习者？第二，这本书是否教你如何快速学习任何语言？第三，它是否帮助你永远不忘？
