@@ -1,0 +1,88 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 992
+- **译文字符数:** 289
+- **段落数:** 24
+
+## 分段转录
+
+**[00:00]** which the word play and the symphony of a word,
+    *翻译:* 哪个是文字游戏和文字的交响乐，
+
+**[00:03]** basically how do you learn words in a language,
+    *翻译:* 基本上你是如何学习一种语言中的词汇的？
+
+**[00:06]** and three sentence play, which is basically grammar.
+    *翻译:* 三个句子的戏剧，基本上就是语法。
+
+**[00:08]** So he starts off with sound play for a specific reason.
+    *翻译:* 因此，他出于特定原因开始进行声音游戏。
+
+**[00:12]** Basically he believes that if you don't learn
+    *翻译:* 基本上他相信如果你不学习
+
+**[00:14]** the sounds of a language, it's gonna be much harder
+    *翻译:* 一种语言的声音，将会困难得多
+
+**[00:16]** for you to learn the other things of the language.
+    *翻译:* 让你学习语言的其他方面。
+
+**[00:18]** So he recommends you to learn the sounds first,
+    *翻译:* 所以他建议你先学习发音，
+
+**[00:21]** and I totally agree.
+    *翻译:* 我完全同意。
+
+**[00:24]** He actually gets quite scientific,
+    *翻译:* 他实际上变得相当科学，
+
+**[00:26]** which I think is really good.
+    *翻译:* 我认为这真的很棒。
+
+**[00:27]** It shows that he knows, he understands
+    *翻译:* 这表明他知道，他理解
+
+**[00:29]** what he's talking about.
+    *翻译:* 他在谈论什么。
+
+**[00:30]** So he talks about how there are about 600 phonemes
+    *翻译:* 所以他谈到大约有600个音素。
+
+**[00:33]** in the world, and that most languages only use 40.
+    *翻译:* 在世界上，大多数语言只使用40个。
+
+**[00:37]** So basically he talks about how,
+    *翻译:* 所以基本上他谈到了如何，
+
+**[00:39]** by the time you're one year's old,
+    *翻译:* 到你一岁的时候，
+
+**[00:41]** you have kind of attuned your ears
+    *翻译:* 你已经让自己的耳朵适应了
+
+**[00:43]** to understanding only the phonemes in your language,
+    *翻译:* 理解仅包含你所使用语言中的音素，
+
+**[00:47]** that it's basically a more efficient way
+    *翻译:* 这是一种更高效的方式
+
+**[00:50]** of your brain to work.
+    *翻译:* 让你的大脑工作。
+
+**[00:52]** So the other sounds that you don't need in your life,
+    *翻译:* 所以生活中你不需要的其他声音，
+
+**[00:54]** your brain kind of tunes them out.
+    *翻译:* 你的大脑有点将它们排除在外。
+
+**[00:56]** And he brings up the idea of,
+    *翻译:* 他提出了这样一个观点，
+
+## 完整原文
+
+which the word play and the symphony of a word, basically how do you learn words in a language, and three sentence play, which is basically grammar. So he starts off with sound play for a specific reason. Basically he believes that if you don't learn the sounds of a language, it's gonna be much harder for you to learn the other things of the language. So he recommends you to learn the sounds first, and I totally agree. He actually gets quite scientific, which I think is really good. It shows that he knows, he understands what he's talking about. So he talks about how there are about 600 phonemes in the world, and that most languages only use 40. So basically he talks about how, by the time you're one year's old, you have kind of attuned your ears to understanding only the phonemes in your language, that it's basically a more efficient way of your brain to work. So the other sounds that you don't need in your life, your brain kind of tunes them out. And he brings up the idea of,
+
+## 完整译文
+
+哪种文字游戏和文字的交响乐，基本上你是如何学习一种语言中的词汇的，以及三个句子的游戏，这基本上是语法。所以他从声音游戏开始是有特定原因的。基本上他认为，如果你不学习一种语言的声音，那么学习该语言的其他东西将会困难得多。所以他建议你先学习声音，我完全同意。他实际上变得相当科学，我认为这非常好。这表明他知道，他理解他在谈论什么。所以他谈到世界上大约有600个音素，而大多数语言只使用40个。所以他基本上谈到，到你一岁时，你已经调整了你的耳朵，只理解你语言中的音素，这基本上是你的大脑工作的一种更有效的方式。所以你生活中不需要的其他声音，你的大脑会将它们调出。他提出了这样一个观点，
