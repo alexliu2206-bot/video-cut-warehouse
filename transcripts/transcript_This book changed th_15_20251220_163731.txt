@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 975
+- **译文字符数:** 331
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** proponent for frequency lists. Basically, it's going to be a list of how frequent different words pop up in different languages.
+    *翻译:* 支持频率列表的人。基本上，这将是一个不同语言中不同单词出现频率的列表。
+
+**[00:08]** And I think you should learn those first before you learn like the word for Nice because I don't know how often you're going to hear the word Nice or use the word Nice in any language. So
+    *翻译:* 我认为你应该先学习这些，然后再学习“Nice”这个词，因为我不知道你会在任何语言中听到或使用“Nice”这个词的频率有多高。所以
+
+**[00:18]** he actually has a
+    *翻译:* 他实际上拥有一个
+
+**[00:21]** list of
+    *翻译:* 列表
+
+**[00:23]** 625 words that you can translate into any language because these are words that exist in pretty much every language at a very high frequency
+    *翻译:* 625个你可以翻译成任何语言的词汇，因为这些词汇在几乎所有语言中都以非常高的频率存在。
+
+**[00:31]** and you kind of go oh you kind of skip over the words that made it difficult for you to understand
+    *翻译:* 你有点跳过了那些让你难以理解的词
+
+**[00:36]** you know when you're first learning so for example like you know English we have words like the
+    *翻译:* 你知道当你刚开始学习的时候，比如你知道英语，我们有像“the”这样的词。
+
+**[00:42]** of in through right these are what we call function words that
+    *翻译:* 这些我们称之为功能词，它们是介词、连词等。
+
+**[00:46]** are useful for sentence building but difficult to understand so I actually do recommend this list of 625 words that he provides in the book.
+    *翻译:* 这些对于构建句子很有用，但难以理解，所以我确实推荐他书中提供的这份625个单词的列表。
+
+**[00:55]** If you don't read the book for any other reason this list is a great reason to get the book.
+    *翻译:* 如果你没有其他理由去读这本书，那么这个清单是一个很好的理由去获取这本书。
+
+## 完整原文
+
+proponent for frequency lists. Basically, it's going to be a list of how frequent different words pop up in different languages. And I think you should learn those first before you learn like the word for Nice because I don't know how often you're going to hear the word Nice or use the word Nice in any language. So he actually has a list of 625 words that you can translate into any language because these are words that exist in pretty much every language at a very high frequency and you kind of go oh you kind of skip over the words that made it difficult for you to understand you know when you're first learning so for example like you know English we have words like the of in through right these are what we call function words that are useful for sentence building but difficult to understand so I actually do recommend this list of 625 words that he provides in the book. If you don't read the book for any other reason this list is a great reason to get the book.
+
+## 完整译文
+
+支持频率列表的人。基本上，这将是一个不同语言中不同单词出现频率的列表。我认为你应该先学习这些单词，然后再学习像“Nice”这样的单词，因为我不知道你会多频繁地听到“Nice”这个词，或者在任何语言中使用“Nice”这个词。所以他实际上有一个包含625个单词的列表，你可以将这些单词翻译成任何语言，因为这些单词在几乎所有语言中都以非常高的频率存在，你会跳过那些让你难以理解的单词，比如当你刚开始学习时。例如，在英语中，我们有像“the”、“of”、“in”、“through”这样的词，这些是我们所说的功能词，对构建句子很有用，但难以理解。所以我确实推荐这本书中他提供的这个包含625个单词的列表。如果你没有其他理由读这本书，这个列表是一个很好的理由去购买这本书。
