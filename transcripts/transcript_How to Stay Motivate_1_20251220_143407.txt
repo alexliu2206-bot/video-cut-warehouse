@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1021
+- **译文字符数:** 311
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** which in turn stands for expectancy. So do you expect? You will be able to reach your language goals.
+    *翻译:* 这反过来代表期望。那么你期望吗？你将能够实现你的语言目标。
+
+**[00:06]** Do you see that light at the end of the tunnel for you personally? How confident are you that you
+    *翻译:* 你看到隧道尽头的那道光了吗？你对此有多自信？
+
+**[00:11]** can reach out? You feel like you are set to do in your language learning. The stands for value.
+    *翻译:* 可以联系吗？你感觉自己已经准备好在你的语言学习中取得进步。这代表价值。
+
+**[00:17]** So do you see the language that you're pursuing as valuable for you? And how valuable do you feel
+    *翻译:* 所以你觉得你正在追求的语言对你有价值吗？你感觉它有多有价值？
+
+**[00:24]** like it is? If you don't actually believe in your soul that you can reach a language goal,
+    *翻译:* 喜欢它吗？如果你在内心深处并不相信你能达到语言目标，
+
+**[00:28]** such as getting to fluency, you won't feel motivated to keep on reaching for that same goal.
+    *翻译:* 比如达到流利程度，你就不会感到有动力继续追求那个相同的目标。
+
+**[00:34]** No matter how great it may seem to you. Another factor that really influences
+    *翻译:* 无论你觉得它有多伟大，还有一个真正影响的因素。
+
+**[00:39]** how high or low E expectancy is for you is if you don't really believe not only a language,
+    *翻译:* 对你来说，期望值是高还是低，如果你并不真正相信不仅仅是一种语言，
+
+**[00:44]** but a learning strategy or a method is not valuable for you. Nor brings joy to you nor your
+    *翻译:* 但是学习策略或方法对你来说并不宝贵。它既不给你带来快乐，也不给你带来……
+
+**[00:51]** learning process. Then you likely won't feel motivated to take consistent action. No matter how
+    *翻译:* 学习过程。那么你可能不会感到有动力去采取一致的行动。无论怎样
+
+**[00:55]** likely you know the result is. For example, if you told me that I would get a free...
+    *翻译:* 你可能知道结果会是什么。例如，如果你告诉我我会得到一个免费的...
+
+## 完整原文
+
+which in turn stands for expectancy. So do you expect? You will be able to reach your language goals. Do you see that light at the end of the tunnel for you personally? How confident are you that you can reach out? You feel like you are set to do in your language learning. The stands for value. So do you see the language that you're pursuing as valuable for you? And how valuable do you feel like it is? If you don't actually believe in your soul that you can reach a language goal, such as getting to fluency, you won't feel motivated to keep on reaching for that same goal. No matter how great it may seem to you. Another factor that really influences how high or low E expectancy is for you is if you don't really believe not only a language, but a learning strategy or a method is not valuable for you. Nor brings joy to you nor your learning process. Then you likely won't feel motivated to take consistent action. No matter how likely you know the result is. For example, if you told me that I would get a free...
+
+## 完整译文
+
+这反过来代表期望。那么你有期望吗？你将能够实现你的语言目标。你个人是否看到了隧道尽头的光明？你有多大信心能够触及？你觉得自己准备好在你的语言学习中去做了吗？这代表价值。所以你觉得你追求的语言对你有价值吗？你觉得它有多有价值？如果你在内心深处并不相信你能达到一个语言目标，比如达到流利程度，你就不会感到有动力去持续追求那个目标。无论它对你来说看起来有多好。另一个真正影响你E期望高低的因素是，如果你并不真正相信不仅是一种语言，而且是一种学习策略或方法对你没有价值。也不会给你带来快乐，也不会让你的学习过程感到快乐。那么你可能就不会感到有动力去采取一致的行动。无论你知道结果有多可能。例如，如果你告诉我我会得到一个免费的...
