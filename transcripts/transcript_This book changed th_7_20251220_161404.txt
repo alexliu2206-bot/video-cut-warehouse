@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 985
+- **译文字符数:** 282
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** else, there are so many personal memories for your native language words that you don't
+    *翻译:* 否则，你的母语词汇中有那么多个人记忆，你不会
+
+**[00:05]** have with a foreign word. And so he says the way to make foreign words memorable is by doing
+    *翻译:* 他用一个外国词说，使外国词变得容易记住的方法是通过实践。
+
+**[00:11]** all of those things, right? To first of all learn the sounds of the new language so that the
+    *翻译:* 所有这些事情，对吧？首先学习新语言的发音，以便
+
+**[00:17]** sounds in that language don't sound weird to you and that you're able to differentiate them.
+    *翻译:* 那种语言中的声音对你来说并不奇怪，而且你能够区分它们。
+
+**[00:22]** Number two, he says you need to bind those new words, those new sounds to images, right? And
+    *翻译:* 第二点，他说你需要将那些新词汇、那些新声音与图像联系起来，对吧？
+
+**[00:27]** he says lastly, bind those images and sounds to personal experiences. And so that's something
+    *翻译:* 他说最后，将那些图像和声音与个人经历联系起来。所以这就是某件事。
+
+**[00:33]** that he's going to talk a bit more in the book. And so the great thing about this book is that
+    *翻译:* 他将在书中多谈一些。所以这本书的好处在于
+
+**[00:38]** the author, he takes kind of high level concepts and he uses very simple, relatable stories for you
+    *翻译:* 作者，他采用一些高层次的概念，并用非常简单、贴近生活的故事来为你讲述。
+
+**[00:47]** to kind of connect them to. So he says, just imagine you have a new friend named Edward.
+    *翻译:* 让他们有点联系。所以他说，想象一下你有一个叫爱德华的新朋友。
+
+**[00:53]** And you know, let's say you have to meet a lot of new people at one time and this is just one
+    *翻译:* 你知道的，比如说你一次要见很多新面孔，这只是一个。
+
+**[00:57]** of many people. So it's going to be hard to remember.
+    *翻译:* 许多人。所以要记住会很难。
+
+## 完整原文
+
+else, there are so many personal memories for your native language words that you don't have with a foreign word. And so he says the way to make foreign words memorable is by doing all of those things, right? To first of all learn the sounds of the new language so that the sounds in that language don't sound weird to you and that you're able to differentiate them. Number two, he says you need to bind those new words, those new sounds to images, right? And he says lastly, bind those images and sounds to personal experiences. And so that's something that he's going to talk a bit more in the book. And so the great thing about this book is that the author, he takes kind of high level concepts and he uses very simple, relatable stories for you to kind of connect them to. So he says, just imagine you have a new friend named Edward. And you know, let's say you have to meet a lot of new people at one time and this is just one of many people. So it's going to be hard to remember.
+
+## 完整译文
+
+否则，你的母语词汇中有那么多个人记忆，而这些记忆在外语词汇中是没有的。所以他说，使外语词汇变得容易记忆的方法就是做所有这些事情，对吧？首先，学习新语言的声音，这样那个语言中的声音对你来说就不会显得奇怪，而且你能够区分它们。第二，他说你需要将那些新词汇、新声音与图像联系起来，对吧？最后，他说将这些图像和声音与个人经历联系起来。所以这就是他在书中会进一步讨论的内容。所以这本书的好处在于，作者他采用高层次的概念，并用非常简单、易于理解的故事让你能够将它们联系起来。所以他说，想象你有一个新朋友叫爱德华。假设你必须一次见很多新面孔，这只是众多人中的一个。所以很难记住。
