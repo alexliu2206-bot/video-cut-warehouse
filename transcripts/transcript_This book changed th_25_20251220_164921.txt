@@ -1,0 +1,64 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 905
+- **译文字符数:** 286
+- **段落数:** 16
+
+## 分段转录
+
+**[00:00]** system author that can help you never forget a language unless you never stop interacting
+    *翻译:* 一个可以帮助你只要不断互动就永远不会忘记语言的系统作者
+
+**[00:07]** with the language, right?
+    *翻译:* 用语言，对吧？
+
+**[00:08]** If you stop interacting with a language no matter how good you once were at it, you're
+    *翻译:* 如果你停止使用一门语言，无论你曾经多么擅长它，你都会
+
+**[00:13]** going to forget the language.
+    *翻译:* 将忘记这种语言。
+
+**[00:15]** And I think his key thing is that he uses the space repetition system to tell you, oh,
+    *翻译:* 我认为他的关键之处在于他使用间隔重复系统来告诉你，哦，
+
+**[00:19]** it's going to help you retain the words until you die because you'll never forget it
+    *翻译:* 这将帮助你记住这些单词直到你去世，因为你永远不会忘记它们。
+
+**[00:26]** based on this system.
+    *翻译:* 基于这个系统。
+
+**[00:27]** But if your goal is to be a polyglot that speaks seven or more languages, that will become
+    *翻译:* 但如果你的目的是成为一个会说七种或更多语言的多语者，那将会成为
+
+**[00:33]** your life.
+    *翻译:* 你的生活。
+
+**[00:34]** Like, you will not really be able to do anything else with your life.
+    *翻译:* 就像，你的生活里真的无法再做其他事情了。
+
+**[00:38]** And I'm not sure that's really healthy or an attainable goal.
+    *翻译:* 我不确定那是否真的健康或者是一个可实现的目标。
+
+**[00:42]** So I'm going to say maybe for this last question.
+    *翻译:* 那么我可能会回答这最后一个问题。
+
+**[00:45]** And so this is my first time reviewing a book.
+    *翻译:* 这是我第一次评论一本书。
+
+**[00:49]** I did so because as you guys know, I'm a linguist.
+    *翻译:* 我这么做是因为，正如你们所知，我是一名语言学家。
+
+**[00:54]** That is basically what I'm really passionate about.
+    *翻译:* 这基本上就是我真正热衷的事情。
+
+**[00:56]** Of course I'm very passionate about Chinese.
+    *翻译:* 当然，我对中国非常热情。
+
+## 完整原文
+
+system author that can help you never forget a language unless you never stop interacting with the language, right? If you stop interacting with a language no matter how good you once were at it, you're going to forget the language. And I think his key thing is that he uses the space repetition system to tell you, oh, it's going to help you retain the words until you die because you'll never forget it based on this system. But if your goal is to be a polyglot that speaks seven or more languages, that will become your life. Like, you will not really be able to do anything else with your life. And I'm not sure that's really healthy or an attainable goal. So I'm going to say maybe for this last question. And so this is my first time reviewing a book. I did so because as you guys know, I'm a linguist. That is basically what I'm really passionate about. Of course I'm very passionate about Chinese.
+
+## 完整译文
+
+系统作者可以帮助你永远不忘一种语言，除非你不再与这种语言互动，对吧？如果你停止与一种语言互动，无论你曾经多么擅长它，你都会忘记这种语言。我认为他的关键点在于他使用间隔重复系统来告诉你，哦，它会帮助你记住这些词汇直到你死去，因为你将永远不会忘记它们，基于这个系统。但如果你的目的是成为一个会说七种或更多语言的多语者，那将成为你的生活。就像，你将无法用你的生活去做其他任何事情。我不确定这是否真的健康或是一个可实现的目标。所以我要说可能是对于这最后一个问题。这是我第一次评论一本书。我这样做是因为你们知道，我是一个语言学家。这基本上是我真正热衷的事情。当然，我对中国非常热情。
