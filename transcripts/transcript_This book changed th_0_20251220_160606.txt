@@ -1,0 +1,45 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 746
+- **译文字符数:** 266
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** So he says this particular quote which I found to be really stunning. So he says,
+    *翻译:* 所以他提到了这句我个人认为非常震撼的话。他说，
+
+**[00:07]** kids learn languages by listening and watching adults for thousands upon thousands of hours.
+    *翻译:* 孩子们通过成千上万小时的听和观察成年人来学习语言。
+
+**[00:12]** Adults do this for free for their own kids, but those same adults will tend to charge you a lot of
+    *翻译:* 成年人会免费为自己的孩子们做这件事，但同样的成年人往往会向你收取很多费用。
+
+**[00:19]** money. And I think this is absolutely brilliant. Why?
+    *翻译:* 金钱。我认为这绝对是天才之举。为什么呢？
+
+**[00:24]** I
+
+**[00:29]** welcome back to the channel. I'm Josie and I'm a linguist and lifelong language learner.
+    *翻译:* 欢迎回到频道。我是Josie，我是一名语言学家，也是终身语言学习者。
+
+**[00:34]** Today we're going to talk about this book, Fluent Forever by Gabriel Weiner. And so I was actually
+    *翻译:* 今天我们要讨论这本书，《流利永恒》作者是加布里埃尔·魏纳。实际上我本人
+
+**[00:42]** just walking in the bookstore the other day and I was walking in the linguistics section and I saw
+    *翻译:* 前几天我只是在书店里闲逛，当我走到语言学区域时，我看到了
+
+**[00:47]** this book and the title Fluent Forever. How to learn any language fast and never forget it.
+    *翻译:* 这本书和标题《流利永恒：如何快速学习任何语言并永远记住它》。
+
+**[00:56]** I have to say I looked at that and I.
+    *翻译:* 我得说我看了那个，我。
+
+## 完整原文
+
+So he says this particular quote which I found to be really stunning. So he says, kids learn languages by listening and watching adults for thousands upon thousands of hours. Adults do this for free for their own kids, but those same adults will tend to charge you a lot of money. And I think this is absolutely brilliant. Why? I welcome back to the channel. I'm Josie and I'm a linguist and lifelong language learner. Today we're going to talk about this book, Fluent Forever by Gabriel Weiner. And so I was actually just walking in the bookstore the other day and I was walking in the linguistics section and I saw this book and the title Fluent Forever. How to learn any language fast and never forget it. I have to say I looked at that and I.
+
+## 完整译文
+
+所以他提到了这个特别的引述，我觉得非常震撼。他说，孩子们通过听和看成年人数千小时来学习语言。成年人会免费为自己的孩子们做这件事，但那些成年人往往会向你收取很多钱。我认为这绝对是天才之举。为什么呢？欢迎回到频道。我是Josie，我是一名语言学家和终身语言学习者。今天我们要讨论这本书，《流利永恒》（Fluent Forever）的作者加布里埃尔·魏纳（Gabriel Weiner）。所以实际上我前几天只是在书店里走着，我走到了语言学区域，我看到了这本书，书名是《流利永恒》。如何快速学习任何语言并永远不忘。我必须说，我看了那个，我。
