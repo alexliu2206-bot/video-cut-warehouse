@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 940
+- **译文字符数:** 278
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** Edward Cicerdans, right? Can you remember how old you were? If you saw in theaters, you know,
+    *翻译:* 爱德华·西塞丹斯，对吧？你还记得你当时多大吗？如果你在电影院看过，你知道的，
+
+**[00:05]** what was the situation around you? There's probably a lot of memories connected to this experience.
+    *翻译:* 你周围的情况如何？这次经历可能与许多回忆相连。
+
+**[00:10]** So if you can connect all of those memories to this new friend named Edward, it's actually going
+    *翻译:* 所以如果你能将所有这些记忆与这个新朋友爱德华联系起来，实际上是在进行
+
+**[00:16]** to help you remember it better. Same thing if you had a brother named Edward, maybe there are some
+    *翻译:* 为了帮你更好地记住。如果你有一个叫爱德华的兄弟，也许有些事情
+
+**[00:22]** connections like physical similarities or personality similarities between your brother and this new friend
+    *翻译:* 你哥哥和这个新朋友之间的联系，比如身体上的相似之处或性格上的相似之处。
+
+**[00:28]** Edward, then it's easier for you to bind those things together. And lastly, do you have scissors
+    *翻译:* 爱德华，那么将那些东西绑在一起对你来说就更容易了。最后，你有剪刀吗？
+
+**[00:34]** for hands? If so, it should be quite easy to remember this new friend named Edward. I think so far
+    *翻译:* 对于手吗？如果是这样，那么记住这位名叫爱德华的新朋友应该相当容易。我目前这样认为。
+
+**[00:42]** he has a great introduction to everything we've seen and I'm really excited to read the rest.
+    *翻译:* 他对我们看到的所有东西都有一个很好的介绍，我真的非常兴奋想要读剩下的部分。
+
+**[00:48]** So he kind of covers learning languages in a specific order. So his order is sound play, which is
+    *翻译:* 所以他以特定的顺序涵盖了学习语言。他的顺序是声音游戏，即
+
+**[00:57]** basically talking about learning the sounds of a link.
+    *翻译:* 基本上在讨论学习链接的声音。
+
+## 完整原文
+
+Edward Cicerdans, right? Can you remember how old you were? If you saw in theaters, you know, what was the situation around you? There's probably a lot of memories connected to this experience. So if you can connect all of those memories to this new friend named Edward, it's actually going to help you remember it better. Same thing if you had a brother named Edward, maybe there are some connections like physical similarities or personality similarities between your brother and this new friend Edward, then it's easier for you to bind those things together. And lastly, do you have scissors for hands? If so, it should be quite easy to remember this new friend named Edward. I think so far he has a great introduction to everything we've seen and I'm really excited to read the rest. So he kind of covers learning languages in a specific order. So his order is sound play, which is basically talking about learning the sounds of a link.
+
+## 完整译文
+
+爱德华·西塞丹斯，对吧？你还记得你多大了吗？如果你是在电影院看的，你知道，你周围是什么情况？可能有很多与这次经历相关的记忆。所以如果你能把所有这些记忆都联系到这个新朋友爱德华身上，实际上会帮助你更好地记住它。如果你有一个叫爱德华的兄弟，也许你们之间有一些相似之处，比如外貌相似或性格相似，那么将这些事情联系起来就更容易了。最后，你有剪刀手吗？如果有的话，记住这个新朋友爱德华应该相当容易。到目前为止，我认为他对我们看到的一切都有很好的介绍，我真的很兴奋地想读下去。所以他是按照特定的顺序涵盖学习语言的。所以他的顺序是声音游戏，这基本上是关于学习链接的声音。
