@@ -1,0 +1,76 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1152
+- **译文字符数:** 326
+- **段落数:** 20
+
+## 分段转录
+
+**[00:00]** start in your language, even having different thoughts throughout the week of,
+    *翻译:* 从你的语言开始，即使在整个星期中有不同的想法，
+
+**[00:03]** I wonder if I could pick up Swedish plus Vietnamese,
+    *翻译:* 我想知道我是否能够同时学习瑞典语和越南语。
+
+**[00:06]** plus German out there.
+    *翻译:* 还有德语。
+
+**[00:07]** You know, so starting all of these languages and starting to dabble in them.
+    *翻译:* 你知道的，所以开始学习所有这些语言，并开始尝试它们。
+
+**[00:10]** And just overall just having a feeling of wishing that you could do it all in your
+    *翻译:* 总的来说，就是有一种愿望，希望自己能完成所有事情。
+
+**[00:14]** language learning. This isn't necessarily a bad thing by the way.
+    *翻译:* 语言学习。顺便说一下，这并不一定是件坏事。
+
+**[00:17]** However, it is something to think about as you are re-evaluating what kind of
+    *翻译:* 然而，在你重新评估自己想要成为什么样的人时，这是值得思考的事情。
+
+**[00:21]** language one or you are.
+    *翻译:* 一种语言，或者你就是。
+
+**[00:22]** And if what you're thinking about doing is impeding your current goals.
+    *翻译:* 如果你正在考虑的事情正在阻碍你当前的目标。
+
+**[00:27]** And lastly,
+    *翻译:* 最后，
+
+**[00:28]** D stands for delay.
+    *翻译:* D代表延迟。
+
+**[00:29]** How far away do you plan to make a deadline for yourself to achieve that goal?
+    *翻译:* 你打算为自己设定多长的期限来实现那个目标？
+
+**[00:34]** The equation actually argues that if you consistently get distracted by your
+    *翻译:* 这个方程实际上表明，如果你总是被你的
+
+**[00:38]** thoughts, by your impulses, then you'll struggle to take action on meaningful
+    *翻译:* 如果你的想法受冲动驱使，那么你将难以采取有意义的行动。
+
+**[00:42]** long-term projects in your language learning.
+    *翻译:* 您语言学习中的长期项目。
+
+**[00:44]** It is easy to get distracted.
+    *翻译:* 很容易分心。
+
+**[00:45]** And typically what this equation found is the more that you give into its
+    *翻译:* 通常，这个方程发现的是，你越是屈服于它
+
+**[00:49]** impulsivity, the less motivated you will feel over time.
+    *翻译:* 冲动性，随着时间的推移，你会感到越来越缺乏动力。
+
+**[00:53]** And if you have a specific goal and that deadline for that goal is further away,
+    *翻译:* 如果你有一个具体的目标，而那个目标的截止日期更远，
+
+**[00:57]** you'll feel less motivated to complete it.
+    *翻译:* 你将感到完成它的动力减少了。
+
+## 完整原文
+
+start in your language, even having different thoughts throughout the week of, I wonder if I could pick up Swedish plus Vietnamese, plus German out there. You know, so starting all of these languages and starting to dabble in them. And just overall just having a feeling of wishing that you could do it all in your language learning. This isn't necessarily a bad thing by the way. However, it is something to think about as you are re-evaluating what kind of language one or you are. And if what you're thinking about doing is impeding your current goals. And lastly, D stands for delay. How far away do you plan to make a deadline for yourself to achieve that goal? The equation actually argues that if you consistently get distracted by your thoughts, by your impulses, then you'll struggle to take action on meaningful long-term projects in your language learning. It is easy to get distracted. And typically what this equation found is the more that you give into its impulsivity, the less motivated you will feel over time. And if you have a specific goal and that deadline for that goal is further away, you'll feel less motivated to complete it.
+
+## 完整译文
+
+从你的语言开始，即使在一周内有不同的想法，我想知道我是否能够学习瑞典语、越南语和德语。你知道，开始学习所有这些语言，开始涉猎它们。总的来说，就是有一种愿望，希望能够用你的语言学习做到这一切。这并不一定是坏事。然而，当你重新评估你是什么样的语言学习者时，这是值得思考的事情。如果你正在考虑的事情妨碍了你目前的目标。最后，D代表延迟。你计划为自己设定多长的期限来实现那个目标？这个方程实际上认为，如果你不断地被你的想法、你的冲动分散注意力，那么你将很难在语言学习中采取有意义的长期项目的行动。很容易分心。通常这个方程发现的是，你越是屈服于冲动，随着时间的推移，你会感到越来越没有动力。如果你有一个具体的目标，而那个目标的期限更远，你会感到完成它的动力越小。
