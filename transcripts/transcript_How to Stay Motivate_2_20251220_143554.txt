@@ -1,0 +1,94 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1101
+- **译文字符数:** 300
+- **段落数:** 26
+
+## 分段转录
+
+**[00:00]** one year of Rosetta Stone.
+    *翻译:* 一年的罗塞塔石碑学习。
+
+**[00:01]** If I did eight hours of language study for the week,
+    *翻译:* 如果我这周进行了八小时的语言学习，
+
+**[00:05]** personally, I would not feel motivation to do so
+    *翻译:* 就我个人而言，我不会感到有动力去做这件事。
+
+**[00:07]** because I don't value specific program.
+    *翻译:* 因为我不重视特定的程序。
+
+**[00:09]** It also does not bring me joy,
+    *翻译:* 它也没有给我带来快乐，
+
+**[00:11]** but what matters actually is that you know
+    *翻译:* 但实际上重要的是你知道
+
+**[00:14]** what motivates you in every season
+    *翻译:* 是什么在每个季节激励着你
+
+**[00:16]** of your language learning life.
+    *翻译:* 你的语言学习生活。
+
+**[00:18]** And we change seasons, right?
+    *翻译:* 我们变换季节，对吧？
+
+**[00:20]** We evolve as human beings behind our languages.
+    *翻译:* 我们作为人类，随着语言的发展而进化。
+
+**[00:22]** We're not going to show up to our language learning sessions
+    *翻译:* 我们不会出现在我们的语言学习课程中
+
+**[00:25]** with the same amount of energy
+    *翻译:* 用相同的能量
+
+**[00:26]** depending on the season of life that we find ourselves in.
+    *翻译:* 取决于我们所处的生命季节。
+
+**[00:29]** And getting to know this part of you as a language learner
+    *翻译:* 并且作为语言学习者去了解你自身的这一部分
+
+**[00:31]** is crucial in your long-term success,
+    *翻译:* 在你的长期成功中至关重要，
+
+**[00:33]** which all leads up to the more that you feel
+    *翻译:* 这所有的一切都会让你感受到更多
+
+**[00:36]** you are capable enough to reach your goal.
+    *翻译:* 你有足够的能力去实现你的目标。
+
+**[00:38]** And the more that you value it,
+    *翻译:* 你越是珍视它，
+
+**[00:40]** plus the resources and steps that you're using to get there,
+    *翻译:* 加上你正在使用的资源和步骤来实现目标，
+
+**[00:43]** the more overall motivation you're actually going to have.
+    *翻译:* 你实际上将拥有更多的整体动力。
+
+**[00:46]** Now, let's talk about the denominator, i times d.
+    *翻译:* 现在，我们来谈谈分母，i乘以d。
+
+**[00:49]** i stands for impulsiveness.
+    *翻译:* i代表冲动。
+
+**[00:51]** So how often do you follow immediate gratification?
+    *翻译:* 那么，你多久会追求一次即时满足？
+
+**[00:54]** How distracted do you feel?
+    *翻译:* 你觉得有多分心？
+
+**[00:56]** By so many language projects,
+    *翻译:* 通过如此多的语言项目，
+
+**[00:58]** ideas, new programs that you could...
+    *翻译:* 想法，你可以的新项目...
+
+## 完整原文
+
+one year of Rosetta Stone. If I did eight hours of language study for the week, personally, I would not feel motivation to do so because I don't value specific program. It also does not bring me joy, but what matters actually is that you know what motivates you in every season of your language learning life. And we change seasons, right? We evolve as human beings behind our languages. We're not going to show up to our language learning sessions with the same amount of energy depending on the season of life that we find ourselves in. And getting to know this part of you as a language learner is crucial in your long-term success, which all leads up to the more that you feel you are capable enough to reach your goal. And the more that you value it, plus the resources and steps that you're using to get there, the more overall motivation you're actually going to have. Now, let's talk about the denominator, i times d. i stands for impulsiveness. So how often do you follow immediate gratification? How distracted do you feel? By so many language projects, ideas, new programs that you could...
+
+## 完整译文
+
+一年的罗塞塔石碑语言学习。如果我个人每周进行八小时的语言学习，我不会有动力去做，因为我不重视特定的程序。它也不会给我带来快乐，但实际上重要的是你知道什么能在你语言学习生涯的每个阶段激励你。我们会有不同阶段，对吧？我们作为人类在语言背后也会发生变化。我们不会在不同生活阶段的语言学习中投入相同的精力。了解作为语言学习者的这一部分对你长期成功至关重要，这也意味着你越觉得自己有能力实现目标，你就越有动力。你越重视它，加上你用来实现目标的资源和步骤，你实际上会有越多的整体动力。现在，让我们谈谈分母，i乘以d。i代表冲动。所以你多久会追求即时满足？你会感到多分心？被那么多语言项目、想法、新程序，你可能……
