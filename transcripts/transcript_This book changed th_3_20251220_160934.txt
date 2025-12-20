@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 968
+- **译文字符数:** 285
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** training as a former opera singer. So he learned the proper pronunciations of many words
+    *翻译:* 作为一名前歌剧歌手接受训练。因此，他学会了很多单词的正确发音。
+
+**[00:04]** in different languages before he even learned those languages and he feels like that gave
+    *翻译:* 在他甚至学会这些语言之前，他就能在不同的语言中感受到那种东西。
+
+**[00:09]** him a big boost in his language learning. And I think it's, you know, not a bad idea. So
+    *翻译:* 这对他学习语言有很大的帮助。而且我认为，你知道，这并不是一个坏主意。所以
+
+**[00:14]** we'd like to hear more about that. Number two, don't translate. And this is also related
+    *翻译:* 我们想了解更多关于那个的信息。第二，不要翻译。这也与之相关。
+
+**[00:20]** to his experience. So he's done a lot of immersion programs. He said he started an immersion
+    *翻译:* 根据他的经验，他参加了很多沉浸式项目。他说他开始了一个沉浸式项目。
+
+**[00:26]** program in French about knowing any French. And then he came out of the program as an advanced
+    *翻译:* 一个关于完全不懂法语的法语节目。然后他以高级水平从节目中毕业。
+
+**[00:32]** French speaker. And so immersion programs are basically you spend a couple of weeks or maybe
+    *翻译:* 法语使用者。因此，沉浸式项目基本上是你花上几周或者可能
+
+**[00:36]** a few months in a program where everyone is forced to speak or communicate only in the target language.
+    *翻译:* 在一个项目中待上几个月，每个人都被迫只说或只用目标语言进行交流。
+
+**[00:43]** And I totally agree with this myself after living in Korea. My skills got exponentially better
+    *翻译:* 我在韩国生活后完全同意这一点。我的技能得到了指数级的提升。
+
+**[00:50]** compared to if I just, you know, learn the language on my own at home. And his last point is to use
+    *翻译:* 与我仅仅在家自学语言相比。他的最后一点是使用
+
+**[00:57]** a space repetition system or as
+    *翻译:* 一个间隔重复系统或者作为
+
+## 完整原文
+
+training as a former opera singer. So he learned the proper pronunciations of many words in different languages before he even learned those languages and he feels like that gave him a big boost in his language learning. And I think it's, you know, not a bad idea. So we'd like to hear more about that. Number two, don't translate. And this is also related to his experience. So he's done a lot of immersion programs. He said he started an immersion program in French about knowing any French. And then he came out of the program as an advanced French speaker. And so immersion programs are basically you spend a couple of weeks or maybe a few months in a program where everyone is forced to speak or communicate only in the target language. And I totally agree with this myself after living in Korea. My skills got exponentially better compared to if I just, you know, learn the language on my own at home. And his last point is to use a space repetition system or as
+
+## 完整译文
+
+他以前是歌剧歌手，所以在他甚至学会那些语言之前，就学会了很多不同语言中单词的正确发音，他觉得这对他的语言学习有很大的帮助。我认为，你知道，这不是一个坏主意。所以我们想更多地了解这方面的信息。第二，不要翻译。这也与他的经历有关。他参加了很多沉浸式项目。他说他开始了一个法语沉浸式项目，当时他一点法语都不会。然后他以一个高级法语使用者的身份从项目中毕业。所以沉浸式项目基本上就是你花几周或者几个月的时间在一个项目中，每个人都被迫只说或只用目标语言交流。我自己在在韩国生活后也完全同意这一点。我的语言技能比我自己在家学习语言要好得多。他最后一点是使用一个间隔重复系统，或者作为
