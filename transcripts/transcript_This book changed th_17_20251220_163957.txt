@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 894
+- **译文字符数:** 249
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** comprehensive input. So comprehensive input is a linguistic term, but it's very simple
+    *翻译:* 全面的输入。所以全面输入是一个语言学术语，但它非常简单。
+
+**[00:07]** to understand. It's basically input or kind of like things that we hear or things that
+    *翻译:* 要理解。这基本上是输入或者有点像我们听到的东西或者我们看到的东西。
+
+**[00:13]** we read, right? In the target language that we can understand that is not too difficult
+    *翻译:* 我们阅读，对吧？在我们能够理解的目标语言中，这并不太难。
+
+**[00:18]** for us. And we can use these sentences to help build up our grammar machines. So this
+    *翻译:* 对我们来说。我们可以使用这些句子来帮助构建我们的语法机器。所以这个
+
+**[00:23]** grammar machine, there's a lot of debate among linguists, whether you know, humans have
+    *翻译:* 语法机器，语言学家们有很多争论，你是否知道，人类有
+
+**[00:28]** an innate grammar machine that animals don't have. And I don't really have a particular
+    *翻译:* 一种与生俱来的语法机器，是动物所没有的。而我并没有特别
+
+**[00:34]** belief on whether we are unique or not. But I think the fact of the matter is we are
+    *翻译:* 关于我们是否独特的信念。但我认为事实是我们是
+
+**[00:40]** good at picking up grammar and we'll develop our grammar machine in any language that we
+    *翻译:* 擅长学习语法，我们将开发任何语言的语法机器。
+
+**[00:46]** have constant kind of input from. And so I think that this is something that we should
+    *翻译:* 不断有来自……的输入。所以我认为这是我们应该
+
+**[00:52]** really kind of hone in on is that as long as we have comprehensive input consistently
+    *翻译:* 真正需要集中关注的是，只要我们持续有全面的输入
+
+**[00:59]** in our target language.
+    *翻译:* 在我们的目标语言中。
+
+## 完整原文
+
+comprehensive input. So comprehensive input is a linguistic term, but it's very simple to understand. It's basically input or kind of like things that we hear or things that we read, right? In the target language that we can understand that is not too difficult for us. And we can use these sentences to help build up our grammar machines. So this grammar machine, there's a lot of debate among linguists, whether you know, humans have an innate grammar machine that animals don't have. And I don't really have a particular belief on whether we are unique or not. But I think the fact of the matter is we are good at picking up grammar and we'll develop our grammar machine in any language that we have constant kind of input from. And so I think that this is something that we should really kind of hone in on is that as long as we have comprehensive input consistently in our target language.
+
+## 完整译文
+
+全面的输入。所以全面输入是一个语言学术语，但它非常简单易懂。它基本上是我们听到的或读到的输入，对吧？在我们能理解的目标语言中，这些内容对我们来说并不太难。我们可以使用这些句子来帮助构建我们的语法机器。所以这个语法机器，语言学家之间有很多争论，你知道，人类是否拥有动物没有的先天语法机器。我并没有特别的信念，关于我们是否独特。但我认为事实是我们擅长掌握语法，并且我们会在我们持续输入的任何语言中发展我们的语法机器。所以我认为我们真的应该专注于这一点，那就是只要我们在我们的目标语言中有持续的全面输入。
