@@ -1,0 +1,94 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1011
+- **译文字符数:** 300
+- **段落数:** 26
+
+## 分段转录
+
+**[00:00]** on exactly where you want.
+    *翻译:* 确切地知道你想要的地方。
+
+**[00:01]** So while audio makes going back to reexamine a passage
+    *翻译:* 因此，音频使得回过头去重新检查一段文字变得更加容易。
+
+**[00:04]** possible, print makes it effortless.
+    *翻译:* 可能的话，打印让它变得毫不费力。
+
+**[00:06]** And I think that difference matters.
+    *翻译:* 我认为这种差异很重要。
+
+**[00:08]** So listening can give you the same story, of course,
+    *翻译:* 所以倾听可以给你同样的故事，当然，
+
+**[00:10]** but it doesn't always give you that same depth
+    *翻译:* 但它并不总是给你相同的深度
+
+**[00:13]** of understanding.
+    *翻译:* 理解。
+
+**[00:14]** But let's be careful here.
+    *翻译:* 但我们得小心这里。
+
+**[00:16]** It's not because listening is by definition inferior
+    *翻译:* 并不是因为倾听在定义上就是低人一等的
+
+**[00:19]** or because it doesn't count.
+    *翻译:* 或者因为它不算数。
+
+**[00:21]** It's simply because the input mechanism is different.
+    *翻译:* 这仅仅是因为输入机制不同。
+
+**[00:25]** And that constrains us in different ways.
+    *翻译:* 这以不同的方式限制了我们。
+
+**[00:27]** And by the way, sometimes those differences
+    *翻译:* 顺便说一下，有时候这些差异
+
+**[00:30]** are not necessarily bad.
+    *翻译:* 并不一定是坏事。
+
+**[00:31]** They're just different.
+    *翻译:* 他们只是不同。
+
+**[00:32]** Audio books, for example, create episodic memories.
+    *翻译:* 例如，有声书创造了情景记忆。
+
+**[00:35]** You can more easily remember where you were
+    *翻译:* 你可以更容易地记住你在哪里
+
+**[00:38]** or what you were doing, or maybe the rhythm
+    *翻译:* 或者你在做什么，或者可能是节奏
+
+**[00:41]** of the narrator's voice.
+    *翻译:* 叙述者的声音。
+
+**[00:43]** Printed books, on the other hand,
+    *翻译:* 另一方面，印刷书籍，
+
+**[00:44]** create more spatial memories.
+    *翻译:* 创造更多的空间记忆。
+
+**[00:47]** For example, you'll more likely remember where a moment sits
+    *翻译:* 例如，你更有可能记住某个时刻的位置。
+
+**[00:50]** on a page, maybe the shape of the paragraph
+    *翻译:* 在页面上，可能是段落的形状
+
+**[00:53]** or the physical layout of the chapter.
+    *翻译:* 或者是章节的物理布局。
+
+**[00:55]** Either form is inherently stronger or weaker.
+    *翻译:* 任何一种形式都天生更强或更弱。
+
+**[00:58]** They just emphasize.
+    *翻译:* 他们只是强调。
+
+## 完整原文
+
+on exactly where you want. So while audio makes going back to reexamine a passage possible, print makes it effortless. And I think that difference matters. So listening can give you the same story, of course, but it doesn't always give you that same depth of understanding. But let's be careful here. It's not because listening is by definition inferior or because it doesn't count. It's simply because the input mechanism is different. And that constrains us in different ways. And by the way, sometimes those differences are not necessarily bad. They're just different. Audio books, for example, create episodic memories. You can more easily remember where you were or what you were doing, or maybe the rhythm of the narrator's voice. Printed books, on the other hand, create more spatial memories. For example, you'll more likely remember where a moment sits on a page, maybe the shape of the paragraph or the physical layout of the chapter. Either form is inherently stronger or weaker. They just emphasize.
+
+## 完整译文
+
+精确到你想去的地方。所以虽然音频可以让你回去重新检查一段文字，但印刷品让它变得毫不费力。我认为这种差异很重要。当然，听可以给你同样的故事，但它并不总是给你同样深度的理解。但让我们在这里小心。并不是因为听本身就是次等的，或者因为它不算数。这只是因为输入机制不同。这以不同的方式限制了我们。顺便说一下，有时这些差异并不一定是坏事。它们只是不同。例如，有声书创造了情景记忆。你可以更容易地记住你在哪里，你在做什么，或者也许是叙述者声音的节奏。另一方面，印刷书籍创造了更多的空间记忆。例如，你更有可能记住一个时刻在页面上的位置，也许是段落的形状或章节的物理布局。任何一种形式都不是固有的强或弱。它们只是强调。
