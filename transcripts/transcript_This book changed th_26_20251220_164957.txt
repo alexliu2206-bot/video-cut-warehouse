@@ -1,0 +1,25 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 295
+- **译文字符数:** 82
+- **段落数:** 3
+
+## 分段转录
+
+**[00:00]** PhD is in Chinese linguistics after all, but I also have a lot of interest in linguists and language learning language acquisition in general
+    *翻译:* 博士学位毕竟是在中国语言学领域，但我对语言学家和语言学习以及语言习得总体上也有很大的兴趣。
+
+**[00:07]** So if you found this video interesting or insightful, please leave me a comment and let me know what else you'd like to see from me and
+    *翻译:* 所以如果你觉得这个视频有趣或者有启发，请给我留言，告诉我你还想看我做些什么。
+
+**[00:16]** See you next time
+    *翻译:* 下次见
+
+## 完整原文
+
+PhD is in Chinese linguistics after all, but I also have a lot of interest in linguists and language learning language acquisition in general So if you found this video interesting or insightful, please leave me a comment and let me know what else you'd like to see from me and See you next time
+
+## 完整译文
+
+我的博士学位毕竟是在中国语言学，但我对语言学家和语言学习、语言习得也有很大的兴趣。所以如果你觉得这个视频有趣或有启发，请给我留言，告诉我你还想看我做些什么，下次见。
