@@ -1,0 +1,82 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 957
+- **译文字符数:** 284
+- **段落数:** 22
+
+## 分段转录
+
+**[00:00]** size, different types of recall.
+    *翻译:* 尺寸，不同类型的召回。
+
+**[00:02]** And something that I think is worth mentioning
+    *翻译:* 我认为值得一提的事情
+
+**[00:04]** is this idea that humans evolved through listening.
+    *翻译:* 这个观点认为人类是通过倾听进化的。
+
+**[00:08]** The oral tradition of storytelling predates literacy
+    *翻译:* 口头讲故事的传统早于识字能力
+
+**[00:11]** by tens of thousands of years.
+    *翻译:* 成千上万年。
+
+**[00:13]** In that sense, audiobooks, they kind of tap into
+    *翻译:* 从这个意义上说，有声读物，它们在某种程度上触及了
+
+**[00:16]** an ancient cognitive strength that we all have.
+    *翻译:* 我们所有人都拥有的一种古老认知力量。
+
+**[00:19]** On the flip side, though, modern life kind of complicates this.
+    *翻译:* 然而，另一方面，现代生活使这个问题变得复杂。
+
+**[00:22]** Nowadays, people tend to listen while multitasking,
+    *翻译:* 如今，人们倾向于边做其他事情边听。
+
+**[00:26]** while walking, while cooking, while commuting,
+    *翻译:* 在走路时，在做饭时，在通勤时，
+
+**[00:29]** and multitasking reliably reduces retention.
+    *翻译:* 而且，可靠地进行多任务处理会减少记忆保持。
+
+**[00:32]** So while audiobooks feel easier,
+    *翻译:* 因此，虽然听有声书感觉更轻松，
+
+**[00:35]** that ease can come at the cost of attention.
+    *翻译:* 那种轻松可能会以牺牲注意力为代价。
+
+**[00:38]** But there are constraints with reading, too.
+    *翻译:* 但阅读也有限制。
+
+**[00:39]** I mean, reading demands a kind of stillness,
+    *翻译:* 我的意思是，阅读需要一种宁静，
+
+**[00:42]** both physical and cognitive.
+    *翻译:* 既包括身体上的，也包括认知上的。
+
+**[00:45]** And many people find that difficult to achieve consistently,
+    *翻译:* 许多人发现这很难持续实现，
+
+**[00:49]** especially in this distracted, modern environment.
+    *翻译:* 尤其是在这个分心的现代环境中。
+
+**[00:53]** And there's one other difference
+    *翻译:* 还有一个区别
+
+**[00:54]** between reading and listening that I don't hear too often
+    *翻译:* 在阅读和倾听之间，我不太常听到
+
+**[00:57]** in these debates.
+    *翻译:* 在这些辩论中。
+
+**[00:58]** And that is the...
+    *翻译:* 那就是……
+
+## 完整原文
+
+size, different types of recall. And something that I think is worth mentioning is this idea that humans evolved through listening. The oral tradition of storytelling predates literacy by tens of thousands of years. In that sense, audiobooks, they kind of tap into an ancient cognitive strength that we all have. On the flip side, though, modern life kind of complicates this. Nowadays, people tend to listen while multitasking, while walking, while cooking, while commuting, and multitasking reliably reduces retention. So while audiobooks feel easier, that ease can come at the cost of attention. But there are constraints with reading, too. I mean, reading demands a kind of stillness, both physical and cognitive. And many people find that difficult to achieve consistently, especially in this distracted, modern environment. And there's one other difference between reading and listening that I don't hear too often in these debates. And that is the...
+
+## 完整译文
+
+大小，不同类型的回忆。我认为值得一提是这个观点，即人类通过倾听进化。口头传统的故事讲述比文字能力早了数万年。从这个意义上说，有声书，它们某种程度上触及了我们所有人都拥有的一种古老的认知力量。然而，另一方面，现代生活使这变得复杂。如今，人们倾向于在多任务时听，走路时听，做饭时听，通勤时听，而多任务处理可靠地降低了记忆力。所以尽管有声书感觉更容易，这种容易可能以注意力为代价。但阅读也有限制。我的意思是，阅读需要一种静止，无论是身体上的还是认知上的。许多人发现这很难持续实现，特别是在这个分心的现代环境中。阅读和倾听之间还有一个区别，我在这些辩论中不常听到。那就是...
