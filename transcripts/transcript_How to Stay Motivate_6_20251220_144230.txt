@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1144
+- **译文字符数:** 314
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** from learning your language in the particular way that you're learning currently.
+    *翻译:* 从以你目前学习的方式学习你的语言。
+
+**[00:04]** Value is how highly do you actually value this language in your life and how high do you
+    *翻译:* 价值是你在人生中对这门语言的重视程度以及你
+
+**[00:08]** value method that you're currently use? Impulsivity is how distractible and impulsive you are
+    *翻译:* 你目前使用的价值观方法是什么？冲动性是指你有多容易分心和冲动。
+
+**[00:13]** while working towards your language goals and delay is how far away is the deadline for you to
+    *翻译:* 在努力实现你的语言目标时，你距离截止日期还有多远？
+
+**[00:19]** reach your goal in your language. So now that you know the equation, let's reflect on where your
+    *翻译:* 用你的语言达成你的目标。现在既然你知道了这个方程，让我们反思一下你的
+
+**[00:23]** lack of motivation may be coming from. Then you can increase your motivation instantly. So increasing
+    *翻译:* 缺乏动力可能来自哪里。然后你可以立即提高你的动力。所以提高
+
+**[00:28]** this language learning motivation happens in two steps. First, audit and diagnose your current
+    *翻译:* 这种语言学习动机分为两个步骤。首先，审查并诊断你当前的状态。
+
+**[00:33]** state. This will definitely show what's holding you back from feeling motivated right now.
+    *翻译:* 状态。这肯定会显示出是什么阻碍了你现在感到有动力。
+
+**[00:38]** And what is causing your procrastination in your learning? Second, you'll use your own audit
+    *翻译:* 是什么导致你在学习中拖延？其次，你将使用你自己的审计。
+
+**[00:43]** to reframe your current language learning tasks and goals. So let's audit your personal
+    *翻译:* 重新定义你当前的语言学习任务和目标。那么，让我们来审查你的个人
+
+**[00:48]** motivation and procrastination. How can you figure out why you're procrastinating on something
+    *翻译:* 动机与拖延。你如何能弄清楚为什么你在某些事情上拖延
+
+**[00:53]** that's important to you? Ask the following. What would be the payoff of learning this language?
+    *翻译:* 这对您来说重要吗？请回答以下问题。学习这门语言的回报是什么？
+
+**[00:58]** What would be the payoff of
+    *翻译:* 这将带来什么回报
+
+## 完整原文
+
+from learning your language in the particular way that you're learning currently. Value is how highly do you actually value this language in your life and how high do you value method that you're currently use? Impulsivity is how distractible and impulsive you are while working towards your language goals and delay is how far away is the deadline for you to reach your goal in your language. So now that you know the equation, let's reflect on where your lack of motivation may be coming from. Then you can increase your motivation instantly. So increasing this language learning motivation happens in two steps. First, audit and diagnose your current state. This will definitely show what's holding you back from feeling motivated right now. And what is causing your procrastination in your learning? Second, you'll use your own audit to reframe your current language learning tasks and goals. So let's audit your personal motivation and procrastination. How can you figure out why you're procrastinating on something that's important to you? Ask the following. What would be the payoff of learning this language? What would be the payoff of
+
+## 完整译文
+
+从你目前学习语言的特定方式来看。价值是指你在生活中对这门语言的重视程度，以及你目前使用的方法的价值有多高？冲动性是指你在追求语言目标时有多容易分心和冲动，而延迟是指你达到语言目标的截止日期还有多远。现在既然你知道了这个方程，让我们反思一下你的动机不足可能来自哪里。然后你可以立即提高你的动机。所以提高这种语言学习动机分为两步。首先，审计并诊断你当前的状态。这肯定会显示出是什么让你现在感觉缺乏动力。以及是什么导致了你在学习中的拖延？其次，你将使用你自己的审计来重新构建你当前的语言学习任务和目标。那么让我们审计你的个人动机和拖延。你如何弄清楚为什么你在拖延对你重要的事情？问以下问题。学习这门语言的回报是什么？学习的回报是什么？
