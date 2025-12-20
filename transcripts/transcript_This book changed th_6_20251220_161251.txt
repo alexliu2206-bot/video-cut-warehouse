@@ -1,0 +1,91 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1077
+- **译文字符数:** 302
+- **段落数:** 25
+
+## 分段转录
+
+**[00:00]** which is tend to be forgettable because of three things.
+    *翻译:* 这往往因为三件事而容易被遗忘。
+
+**[00:03]** The first one is that they sound weird.
+    *翻译:* 第一个原因是它们听起来很奇怪。
+
+**[00:06]** So you know how our brains tend to be kind of oriented
+    *翻译:* 所以你了解我们的大脑倾向于有一定的取向。
+
+**[00:10]** towards our mother language.
+    *翻译:* 朝向我们的母语。
+
+**[00:12]** Like we recognize all the sounds of the language
+    *翻译:* 就像我们能识别这种语言的所有声音
+
+**[00:14]** and we can differentiate them easily.
+    *翻译:* 我们可以轻松区分它们。
+
+**[00:16]** But if it's like a foreign language,
+    *翻译:* 但如果它像一门外语，
+
+**[00:17]** a sound that we've never heard of,
+    *翻译:* 一个我们从未听说过的声音，
+
+**[00:19]** it's hard for our brains to kind of understand them.
+    *翻译:* 我们的大脑很难理解它们。
+
+**[00:21]** So we have a hard time remembering them.
+    *翻译:* 所以我们很难记住它们。
+
+**[00:25]** Number two, he says that foreign words
+    *翻译:* 第二点，他说外来词
+
+**[00:27]** aren't particularly meaningful.
+    *翻译:* 并没有特别的意义。
+
+**[00:28]** So if you just see a foreign word and a textbook
+    *翻译:* 那么如果你只是看到一个外来词和一本教科书
+
+**[00:31]** that's like, you can't really read it.
+    *翻译:* 这就像是，你真的读不懂它。
+
+**[00:33]** You don't know what it sounds like.
+    *翻译:* 你不知道它听起来什么样。
+
+**[00:35]** It says, okay, this means draft,
+    *翻译:* 它表示，好的，这意味着草稿。
+
+**[00:37]** but your brain is not connecting meeting to it.
+    *翻译:* 但你的大脑没有将会议与之联系起来。
+
+**[00:39]** And then the last one is,
+    *翻译:* 然后最后一个是，
+
+**[00:41]** you don't have any personal connection to it.
+    *翻译:* 你与它没有任何个人联系。
+
+**[00:43]** So he talks about how, you know,
+    *翻译:* 所以他谈到了，你知道的，
+
+**[00:45]** if I say the word chocolate chip cookie,
+    *翻译:* 如果我说出巧克力碎片饼干这个词，
+
+**[00:47]** most of you who grew up in North America
+    *翻译:* 你们中大多数在北美长大的人
+
+**[00:50]** will have these like amazing personal memories connected to it.
+    *翻译:* 将会有这些令人惊叹的个人记忆与之相连。
+
+**[00:53]** You know, you baking cookies with your mom or your friends,
+    *翻译:* 你知道，你和妈妈或者朋友们一起烤饼干，
+
+**[00:57]** taking the cookies out of the oven, you know, the smell.
+    *翻译:* 把饼干从烤箱里拿出来，你知道的，那香味。
+
+## 完整原文
+
+which is tend to be forgettable because of three things. The first one is that they sound weird. So you know how our brains tend to be kind of oriented towards our mother language. Like we recognize all the sounds of the language and we can differentiate them easily. But if it's like a foreign language, a sound that we've never heard of, it's hard for our brains to kind of understand them. So we have a hard time remembering them. Number two, he says that foreign words aren't particularly meaningful. So if you just see a foreign word and a textbook that's like, you can't really read it. You don't know what it sounds like. It says, okay, this means draft, but your brain is not connecting meeting to it. And then the last one is, you don't have any personal connection to it. So he talks about how, you know, if I say the word chocolate chip cookie, most of you who grew up in North America will have these like amazing personal memories connected to it. You know, you baking cookies with your mom or your friends, taking the cookies out of the oven, you know, the smell.
+
+## 完整译文
+
+它们往往因为三件事而容易被遗忘。第一，它们听起来很奇怪。就像我们的大脑倾向于以母语为导向，我们能识别语言中的所有声音并且能轻松区分它们。但如果是外语，一个我们从未听过的声音，我们的大脑就很难理解它们。所以我们很难记住它们。第二，他说外语单词没有特别的意义。所以如果你看到一个外语单词和一本教科书，你根本无法读懂它。你不知道它听起来像什么。它说，好的，这表示草稿，但你的大脑并没有将它与意义联系起来。最后一点是，你与它没有任何个人联系。他谈到，比如我说“巧克力碎片饼干”这个词，大多数在北美长大的人都会有一些惊人的个人记忆与之相关。你知道，你和妈妈或朋友一起烤饼干，把饼干从烤箱里拿出来，你知道，那种味道。
