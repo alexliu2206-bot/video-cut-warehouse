@@ -1,0 +1,82 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 928
+- **译文字符数:** 259
+- **段落数:** 22
+
+## 分段转录
+
+**[00:00]** any different times on his own.
+    *翻译:* 他独自经历了许多不同的时刻。
+
+**[00:02]** And he has done a lot of immersion programs
+    *翻译:* 他已经做了很多沉浸式项目。
+
+**[00:04]** and he has interacted with a lot of linguists
+    *翻译:* 他与许多语言学家进行了互动。
+
+**[00:06]** and language teachers.
+    *翻译:* 语言教师。
+
+**[00:08]** And so I think he's actually gotten to a point
+    *翻译:* 因此，我认为他实际上已经达到了一个点
+
+**[00:10]** where he has figured out, okay,
+    *翻译:* 他已弄清楚了，好的，
+
+**[00:11]** what are the kind of landlines to avoid
+    *翻译:* 应避免哪些类型的固定电话
+
+**[00:15]** when learning a new language?
+    *翻译:* 学习一门新语言时？
+
+**[00:16]** What are some detours you can take?
+    *翻译:* 你可以走哪些绕道？
+
+**[00:18]** Some shortcuts you can take to get from zero to hero,
+    *翻译:* 一些你可以采取的捷径，从零开始成为英雄。
+
+**[00:22]** much more quickly than if you were just going at it
+    *翻译:* 比你自己单独处理要快得多
+
+**[00:25]** by yourself.
+    *翻译:* 靠你自己。
+
+**[00:26]** And obviously it's not going to work for everyone.
+    *翻译:* 显然这并不适合每个人。
+
+**[00:29]** Some people hate the space repetition system
+    *翻译:* 有些人讨厌空间重复系统
+
+**[00:32]** and I still don't really like it.
+    *翻译:* 我还是不太喜欢它。
+
+**[00:34]** But I think that if you really just want to learn
+    *翻译:* 但我觉得你如果真的只是想学习
+
+**[00:37]** language quickly, reach kind of conversational fluency
+    *翻译:* 快速掌握语言，达到一种会话流利度
+
+**[00:42]** in the shortest amount of time,
+    *翻译:* 在最短的时间内，
+
+**[00:44]** I think that his system actually could be quite useful.
+    *翻译:* 我认为他的系统实际上可能非常有用。
+
+**[00:49]** And lastly, does it help you never forget the language?
+    *翻译:* 最后，它能帮助你永远不忘记这门语言吗？
+
+**[00:52]** And I think this is almost not a question, right?
+    *翻译:* 我认为这几乎不算是个问题，对吧？
+
+**[00:57]** I don't think that there is any language learning.
+    *翻译:* 我不认为有任何语言学习。
+
+## 完整原文
+
+any different times on his own. And he has done a lot of immersion programs and he has interacted with a lot of linguists and language teachers. And so I think he's actually gotten to a point where he has figured out, okay, what are the kind of landlines to avoid when learning a new language? What are some detours you can take? Some shortcuts you can take to get from zero to hero, much more quickly than if you were just going at it by yourself. And obviously it's not going to work for everyone. Some people hate the space repetition system and I still don't really like it. But I think that if you really just want to learn language quickly, reach kind of conversational fluency in the shortest amount of time, I think that his system actually could be quite useful. And lastly, does it help you never forget the language? And I think this is almost not a question, right? I don't think that there is any language learning.
+
+## 完整译文
+
+他独自经历了许多不同的时期。他参加了很多沉浸式项目，并且与许多语言学家和语言教师进行了互动。所以我认为他实际上已经到了一个阶段，他明白了，好吧，在学习新语言时应该避免哪些常见的陷阱？你可以采取哪些弯路？你可以采取哪些捷径，从零到英雄，比你自己单独去做要快得多。显然，这并不适合每个人。有些人讨厌间隔重复系统，我仍然不太喜欢它。但我认为，如果你真的只是想快速学习语言，在最短的时间内达到会话流利度，我认为他的系统实际上可能非常有用。最后，它能帮助你永远不忘语言吗？我认为这几乎不是一个问题，对吧？我不认为有任何语言学习。
