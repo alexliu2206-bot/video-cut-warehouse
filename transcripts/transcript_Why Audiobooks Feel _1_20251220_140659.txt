@@ -1,0 +1,67 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1015
+- **译文字符数:** 289
+- **段落数:** 17
+
+## 分段转录
+
+**[00:00]** arguments begin with an assumption about what reading necessarily involves.
+    *翻译:* 争论始于对阅读必然涉及什么的假设。
+
+**[00:05]** And that assumption seems to shape everything that comes after.
+    *翻译:* 而这一假设似乎塑造了随后发生的一切。
+
+**[00:08]** For some reading is fundamentally mechanical.
+    *翻译:* 对于一些人来说，阅读本质上是机械的。
+
+**[00:11]** It's about the eyes scanning the text.
+    *翻译:* 这是关于眼睛扫描文本。
+
+**[00:13]** It's about decoding symbols, you know, engaging with the written language
+    *翻译:* 它是关于解码符号，你知道的，与书面语言进行互动。
+
+**[00:18]** visually. Reading in this view is a specific cognitive motor experience.
+    *翻译:* 视觉上。在这个视角中阅读是一种特定的认知运动体验。
+
+**[00:23]** And they're not wrong. I mean, if you flip the question, you know,
+    *翻译:* 他们并没有错。我的意思是，如果你反过来问这个问题，你知道，
+
+**[00:26]** what if I were sitting here reading a book with my eyes and then I stopped
+    *翻译:* 如果我坐在这里用眼睛看书，然后停下来会怎样
+
+**[00:29]** and asked you, hey, does this count as listening?
+    *翻译:* 然后问你，嘿，这算作倾听吗？
+
+**[00:32]** You'd probably say no, because the physical processes are in fact different.
+    *翻译:* 你可能会说不是，因为实际上物理过程是不同的。
+
+**[00:37]** I mean, audiobooks involve auditory processing,
+    *翻译:* 我的意思是，有声书涉及听觉处理。
+
+**[00:40]** prosody and speech perception.
+    *翻译:* 韵律和语音感知。
+
+**[00:43]** However, reading with your eyes, that involves, of course, eye movements,
+    *翻译:* 然而，用眼睛阅读，当然涉及到眼球运动，
+
+**[00:47]** orthographic mapping and visual attention.
+    *翻译:* 正交映射和视觉注意力。
+
+**[00:50]** And those differences are not trivial.
+    *翻译:* 这些差异并非微不足道。
+
+**[00:52]** But that difference doesn't really settle the issue either because people who say
+    *翻译:* 但这种差异实际上并没有真正解决这个问题，因为那些说的人
+
+**[00:56]** that audiobooks do count as reading, they tend to define.
+    *翻译:* 有声书确实算作阅读，他们倾向于这样定义。
+
+## 完整原文
+
+arguments begin with an assumption about what reading necessarily involves. And that assumption seems to shape everything that comes after. For some reading is fundamentally mechanical. It's about the eyes scanning the text. It's about decoding symbols, you know, engaging with the written language visually. Reading in this view is a specific cognitive motor experience. And they're not wrong. I mean, if you flip the question, you know, what if I were sitting here reading a book with my eyes and then I stopped and asked you, hey, does this count as listening? You'd probably say no, because the physical processes are in fact different. I mean, audiobooks involve auditory processing, prosody and speech perception. However, reading with your eyes, that involves, of course, eye movements, orthographic mapping and visual attention. And those differences are not trivial. But that difference doesn't really settle the issue either because people who say that audiobooks do count as reading, they tend to define.
+
+## 完整译文
+
+争论始于对阅读必然涉及什么的假设。而这个假设似乎塑造了随后的一切。对一些人来说，阅读本质上是机械的。它关乎眼睛扫描文本。它关乎解码符号，你知道，视觉上与书面语言互动。在这种观点中，阅读是一种特定的认知运动体验。他们并没有错。我的意思是，如果你翻转问题，你知道，如果我坐在这里用眼睛看书，然后我停下来问你，嘿，这算作倾听吗？你可能会说不，因为物理过程实际上不同。我的意思是，有声书涉及听觉处理、韵律和语音感知。然而，用眼睛阅读，当然涉及眼球运动、正字法映射和视觉注意力。而这些差异并非微不足道。但这种差异并没有真正解决这个问题，因为那些认为有声书确实算作阅读的人，他们倾向于定义。
