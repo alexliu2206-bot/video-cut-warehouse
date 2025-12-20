@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 868
+- **译文字符数:** 259
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** audiobooks count. That question is really asking, am I allowed to feel proud of this? Does
+    *翻译:* 有声书很重要。这个问题实际上是在问，我可以为这个感到自豪吗？
+
+**[00:05]** this make me a legitimate reader? So at its core, the debate isn't about definitions
+    *翻译:* 这让我成为一个合法的读者吗？所以归根结底，这场辩论不是关于定义的。
+
+**[00:12]** or eye movement or counting. It's about belonging to a community. It's about identity.
+    *翻译:* 或者眼球运动或者计数。这是关于属于一个社区。这是关于身份认同。
+
+**[00:18]** But identity alone doesn't really tell us how these different modalities actually work.
+    *翻译:* 但是，身份本身并不能真正告诉我们这些不同的方式实际上是如何运作的。
+
+**[00:23]** I mean, it certainly fuels the debate. But things like comprehension or memory or focus,
+    *翻译:* 我的意思是，这无疑加剧了争论。但是像理解、记忆或专注这样的事情，
+
+**[00:31]** these are what shape the actual experience. And when you look at the research,
+    *翻译:* 这些塑造了实际体验。而当你查看研究时，
+
+**[00:36]** an interesting pattern emerges for everyday sort of normal narrative text,
+    *翻译:* 对于日常普通叙事文本，出现了一个有趣的模式。
+
+**[00:42]** like novels or stories or just even general nonfiction. Comprehension through listening
+    *翻译:* 无论是小说、故事还是一般的非虚构作品，通过聆听来理解。
+
+**[00:48]** versus reading is surprisingly similar. However, this equivalent breaks down as text
+    *翻译:* 与阅读惊人地相似。然而，这种相似性在文本中逐渐瓦解。
+
+**[00:54]** to become more complex. Academic writing, for example, where you have this dense sort
+    *翻译:* 变得更加复杂。例如，在学术写作中，你会遇到这种密集的类型
+
+**[00:59]** of syntactic...
+    *翻译:* 关于句法的...
+
+## 完整原文
+
+audiobooks count. That question is really asking, am I allowed to feel proud of this? Does this make me a legitimate reader? So at its core, the debate isn't about definitions or eye movement or counting. It's about belonging to a community. It's about identity. But identity alone doesn't really tell us how these different modalities actually work. I mean, it certainly fuels the debate. But things like comprehension or memory or focus, these are what shape the actual experience. And when you look at the research, an interesting pattern emerges for everyday sort of normal narrative text, like novels or stories or just even general nonfiction. Comprehension through listening versus reading is surprisingly similar. However, this equivalent breaks down as text to become more complex. Academic writing, for example, where you have this dense sort of syntactic...
+
+## 完整译文
+
+有声书算数。这个问题实际上是在问，我可以为这个感到自豪吗？这让我成为一个合法的读者吗？所以，这场辩论的核心不是关于定义、眼球运动或计数。它是关于属于一个社区。它是关于身份。但身份本身并不能真正告诉我们这些不同的方式实际上是如何工作的。我的意思是，它当然助长了辩论。但像理解、记忆或专注这样的事情，是塑造实际体验的因素。而当你查看研究时，对于日常普通叙事文本，比如小说、故事或一般非小说类作品，通过听和读来理解的模式出人意料地相似。然而，随着文本变得更加复杂，这种等价性就瓦解了。例如学术写作，那里有这种密集的句法...
