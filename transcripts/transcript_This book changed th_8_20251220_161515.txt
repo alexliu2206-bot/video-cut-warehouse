@@ -1,0 +1,82 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 923
+- **译文字符数:** 291
+- **段落数:** 22
+
+## 分段转录
+
+**[00:00]** Remember, this guy, his name is Edward.
+    *翻译:* 记住，这个家伙，他的名字是爱德华。
+
+**[00:02]** So unless he is like a super, super handsome vampire,
+    *翻译:* 所以除非他像一个非常、非常英俊的吸血鬼，
+
+**[00:06]** it's gonna be kind of hard for you to remember
+    *翻译:* 对你来说，要记住可能会有点困难
+
+**[00:08]** his name among the other names in the world.
+    *翻译:* 他的名字在世界上众多名字之中。
+
+**[00:10]** So the first level of committing something to memory
+    *翻译:* 因此，将某事记忆的第一步
+
+**[00:13]** is sound.
+    *翻译:* 是声音。
+
+**[00:15]** So just by saying his name out loud, Edward, Edward,
+    *翻译:* 所以只要大声说出他的名字，爱德华，爱德华，
+
+**[00:19]** Edward, just saying his name out loud,
+    *翻译:* 爱德华，仅仅大声说出他的名字，
+
+**[00:21]** it is helping your brain to remember it.
+    *翻译:* 它有助于你的大脑记住它。
+
+**[00:24]** And the second level is to bind those sounds to images.
+    *翻译:* 第二层次是将这些声音与图像绑定。
+
+**[00:27]** So if you've grown up in North America,
+    *翻译:* 那么如果你在北美长大，
+
+**[00:30]** you probably know the movie Edward Cesarhands.
+    *翻译:* 你可能知道电影《爱德华·凯撒之手》。
+
+**[00:33]** And that movie, it just has a unique image
+    *翻译:* 那部电影，它有着独特的影像。
+
+**[00:35]** that it is hard to forget.
+    *翻译:* 很难忘记。
+
+**[00:37]** So if this new friend, you imagine him having scissors for hands,
+    *翻译:* 那么如果这个新朋友，你想象他手上有剪刀，
+
+**[00:42]** now this image of Edward Cesarhands
+    *翻译:* 现在这张爱德华·凯撒汉兹的图片
+
+**[00:45]** is related to this new friend of yours.
+    *翻译:* 与你的这位新朋友有关。
+
+**[00:47]** Winner says that this is going to help you remember
+    *翻译:* 胜者说这将帮助你记住
+
+**[00:50]** this person's name.
+    *翻译:* 这个人的名字。
+
+**[00:52]** And just take it a step further,
+    *翻译:* 再进一步说，
+
+**[00:54]** and find those images and sounds to past experiences.
+    *翻译:* 找到那些与过去经历相关的图像和声音。
+
+**[00:58]** So let's say you've seen...
+    *翻译:* 那么假设你已经看到了...
+
+## 完整原文
+
+Remember, this guy, his name is Edward. So unless he is like a super, super handsome vampire, it's gonna be kind of hard for you to remember his name among the other names in the world. So the first level of committing something to memory is sound. So just by saying his name out loud, Edward, Edward, Edward, just saying his name out loud, it is helping your brain to remember it. And the second level is to bind those sounds to images. So if you've grown up in North America, you probably know the movie Edward Cesarhands. And that movie, it just has a unique image that it is hard to forget. So if this new friend, you imagine him having scissors for hands, now this image of Edward Cesarhands is related to this new friend of yours. Winner says that this is going to help you remember this person's name. And just take it a step further, and find those images and sounds to past experiences. So let's say you've seen...
+
+## 完整译文
+
+记住，这个家伙，他的名字是爱德华。所以除非他是一个超级、超级帅的吸血鬼，否则你在世界上众多名字中记住他的名字会有点困难。所以，将某事记在脑海中的第一层是声音。所以只是大声说出他的名字，爱德华，爱德华，爱德华，只是大声说出他的名字，这有助于你的大脑记住它。第二层是将这些声音与图像联系起来。所以如果你在北美长大，你大概知道电影《剪刀手爱德华》。那部电影，它有一个独特的形象，让人难以忘记。所以如果这个新朋友，你想象他手上有剪刀，现在这个剪刀手爱德华的形象就与你这个新朋友联系起来了。温纳说这将帮助你记住这个人的名字。再进一步，找到那些与过去经历相关的图像和声音。比如说你已经看过...
