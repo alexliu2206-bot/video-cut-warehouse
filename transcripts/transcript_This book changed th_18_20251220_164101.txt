@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1009
+- **译文字符数:** 296
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** We're going to continue to build up our grammar machines whether or not we drill grammar or not
+    *翻译:* 无论我们是否练习语法，我们都将继续构建我们的语法机器。
+
+**[00:05]** Why not he really suggests grammar books for adults because you know we
+    *翻译:* 为什么不是他真的为成年人推荐语法书，因为你知道我们
+
+**[00:11]** Are living our adult lives and we don't have like constant stream of input that is at our right level that for it to be comprehensive
+    *翻译:* 我们过着成年生活，却没有像源源不断的输入那样，处于我们正确水平的信息，以便它能够全面。
+
+**[00:18]** So it's good to buy grammar books that have you know the sentences of varying levels, you know grammar books for every language
+    *翻译:* 所以购买那些能让你了解不同难度句子的语法书是很好的，你知道，每种语言都有相应的语法书。
+
+**[00:26]** They you know come in beginner in immediate advanced, right?
+    *翻译:* 你知道，他们从初学者直接进入高级阶段，对吧？
+
+**[00:29]** So obviously start with beginner if you're just starting to learn a language and that way you can build your grammar machine
+    *翻译:* 所以如果你是刚开始学习一门语言，显然应该从初学者开始，这样你就可以构建你的语法机器。
+
+**[00:35]** Better don't jump to Shakespeare when you're five years old because that will not make any sense to you
+    *翻译:* 最好不要在五岁的时候就直接去读莎士比亚，因为那样对你来说没有任何意义。
+
+**[00:40]** And it will not help you build your grammar machine and so now we're gonna talk about number two the highlights of the book
+    *翻译:* 这将不会帮助你构建你的语法机器，所以我们现在要讨论的是第二点，书中的亮点。
+
+**[00:49]** So I thought that there were really great points of the book for example
+    *翻译:* 所以我认为这本书确实有一些非常好的点，例如
+
+**[00:54]** One of my favorite things was
+    *翻译:* 我最喜欢的事情之一是
+
+**[00:57]** The fact that he mentioned from the very beginning that memory
+    *翻译:* 他从一开始就提到了记忆这一事实
+
+## 完整原文
+
+We're going to continue to build up our grammar machines whether or not we drill grammar or not Why not he really suggests grammar books for adults because you know we Are living our adult lives and we don't have like constant stream of input that is at our right level that for it to be comprehensive So it's good to buy grammar books that have you know the sentences of varying levels, you know grammar books for every language They you know come in beginner in immediate advanced, right? So obviously start with beginner if you're just starting to learn a language and that way you can build your grammar machine Better don't jump to Shakespeare when you're five years old because that will not make any sense to you And it will not help you build your grammar machine and so now we're gonna talk about number two the highlights of the book So I thought that there were really great points of the book for example One of my favorite things was The fact that he mentioned from the very beginning that memory
+
+## 完整译文
+
+我们将继续构建我们的语法机器，无论我们是否练习语法。为什么不呢？他真的建议成年人使用语法书，因为你知道我们正在过我们的成年生活，我们没有像源源不断的输入那样适合我们水平的输入，以便它能够全面。所以购买有不同水平句子的语法书是很好的，你知道，每种语言都有语法书。它们你知道，有初学者、中级和高级，对吧？所以如果你刚开始学习一门语言，显然从初学者开始，这样你就可以构建你的语法机器。不要在你五岁的时候跳到莎士比亚，因为那对你来说没有任何意义，也不会帮助你构建你的语法机器。所以我们现在要谈谈第二点，书的亮点。我认为书中有一些真正伟大的观点。例如，我最喜欢的一件事是，他从一开始就提到了记忆的事实。
