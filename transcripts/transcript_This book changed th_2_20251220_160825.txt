@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 994
+- **译文字符数:** 283
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** to be an overview of the topics and ideas presented in the book. I try to sum it up as good
+    *翻译:* 成为书中提出的主题和想法的概述。我尽量将其总结得尽可能好。
+
+**[00:05]** as I can while retaining, you know, the important things. And then number two, it's going to be
+    *翻译:* 在我能够保留的同时，你知道，那些重要的事情。然后第二点，它将会是
+
+**[00:10]** about the highlights. Basically, if you don't read the book, even if you don't watch the majority
+    *翻译:* 关于亮点。基本上，如果你不读这本书，即使你没有看大多数
+
+**[00:14]** of this video, what I think you should take away from the book. And lastly, my personal thoughts
+    *翻译:* 这个视频，我认为你应该从书中学到的东西。最后，我的个人想法。
+
+**[00:21]** on the book. Basically, I'm going to answer three questions. The first is, do I recommend this book
+    *翻译:* 关于这本书。基本上，我将回答三个问题。第一个问题是，我是否推荐这本书。
+
+**[00:26]** for language learners specifically? Two, does this teach you how to learn any language fast?
+    *翻译:* 对于语言学习者来说具体是什么？第二，这是否教你如何快速学习任何语言？
+
+**[00:33]** And the third one is, does it help you never forget that language? So these are the three things
+    *翻译:* 第三点是，它能帮助你永远不忘那种语言吗？所以这就是三件事。
+
+**[00:38]** I'm going to be thinking about as I read this book. So let's talk about the overview. So Gabriel
+    *翻译:* 在我阅读这本书的时候我会思考。那么让我们来谈谈概览。所以加布里埃尔
+
+**[00:45]** Weiner, he basically starts off the book in chapter one with three key principles of
+    *翻译:* Weiner，他在第一章基本上以三个关键原则开始这本书。
+
+**[00:50]** language learning. And what are they? First, he thinks you should learn pronunciation first.
+    *翻译:* 语言学习。它们是什么？首先，他认为你应该先学习发音。
+
+**[00:57]** The author, Gabriel Weiner, he actually has...
+    *翻译:* 作者加布里埃尔·魏纳，他实际上有...
+
+## 完整原文
+
+to be an overview of the topics and ideas presented in the book. I try to sum it up as good as I can while retaining, you know, the important things. And then number two, it's going to be about the highlights. Basically, if you don't read the book, even if you don't watch the majority of this video, what I think you should take away from the book. And lastly, my personal thoughts on the book. Basically, I'm going to answer three questions. The first is, do I recommend this book for language learners specifically? Two, does this teach you how to learn any language fast? And the third one is, does it help you never forget that language? So these are the three things I'm going to be thinking about as I read this book. So let's talk about the overview. So Gabriel Weiner, he basically starts off the book in chapter one with three key principles of language learning. And what are they? First, he thinks you should learn pronunciation first. The author, Gabriel Weiner, he actually has...
+
+## 完整译文
+
+作为书中提出的主题和观点的概述。我尽量在保留重要内容的同时，尽可能好地总结。第二，它将涉及亮点。基本上，如果你不读这本书，即使你没有观看这个视频的大部分，我认为你应该从书中带走什么。最后，我对这本书的个人想法。基本上，我将回答三个问题。第一，我是否特别推荐这本书给语言学习者？第二，这是否教你如何快速学习任何语言？第三，它是否帮助你永远不会忘记那种语言？所以这些是我在阅读这本书时将要思考的三件事。让我们谈谈概述。所以加布里埃尔·魏纳，他基本上从第一章开始，提出了语言学习的三个关键原则。它们是什么？首先，他认为你应该先学习发音。作者加布里埃尔·魏纳，实际上有...
