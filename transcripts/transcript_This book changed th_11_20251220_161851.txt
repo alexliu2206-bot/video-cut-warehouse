@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 962
+- **译文字符数:** 252
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** you know, Japanese. So Japanese has famously, they have difficulty kind of
+    *翻译:* 你知道的，日本人。所以日本人出了名的，他们在某种程度上有困难。
+
+**[00:05]** differentiating the English L and R sounds. And why is that? It's because in
+    *翻译:* 区分英语中的L和R音。这是为什么呢？这是因为在
+
+**[00:10]** Japanese, the L and R sounds basically appear in like the same kind of
+    *翻译:* 日语中，L和R这两个音基本上出现在类似的情况下。
+
+**[00:15]** frequency. And they don't need to ever differentiate between L and R. So
+    *翻译:* 频率。他们永远不需要区分L和R。所以
+
+**[00:19]** their brains and their ears are not trained to see the difference right away,
+    *翻译:* 他们的大脑和耳朵没有经过训练，无法立刻察觉到差异。
+
+**[00:24]** like Americans or native English speakers might. But research has shown that if
+    *翻译:* 像美国人或母语是英语的人可能会。但研究表明，如果
+
+**[00:30]** you put Japanese people in a room and incentivize them to see the difference,
+    *翻译:* 你把日本人放在一个房间里，并激励他们去发现差异。
+
+**[00:35]** hear the difference, they actually learn the difference very quickly. And so
+    *翻译:* 听到差异，他们实际上很快就学会了这种差异。因此
+
+**[00:40]** there's research that you know, he brings up that shows us, hey, even if we are
+    *翻译:* 有研究显示，即使我们
+
+**[00:44]** native language is not one where you can see these differences or hear these
+    *翻译:* 母语并不是一个你能看到这些差异或听到这些差异的地方。
+
+**[00:48]** differences. If you train yourself, if you just sit down and you know, help
+    *翻译:* 差异。如果你训练自己，如果你只是坐下来并且你知道，帮助
+
+**[00:53]** yourself figure out the differences, it's definitely doable. And it's not like
+    *翻译:* 自己找出差异，这绝对是可行的。而且这并不是不可能。
+
+**[00:57]** you stuck with the ears that you have for
+    *翻译:* 你只能使用你拥有的耳朵
+
+## 完整原文
+
+you know, Japanese. So Japanese has famously, they have difficulty kind of differentiating the English L and R sounds. And why is that? It's because in Japanese, the L and R sounds basically appear in like the same kind of frequency. And they don't need to ever differentiate between L and R. So their brains and their ears are not trained to see the difference right away, like Americans or native English speakers might. But research has shown that if you put Japanese people in a room and incentivize them to see the difference, hear the difference, they actually learn the difference very quickly. And so there's research that you know, he brings up that shows us, hey, even if we are native language is not one where you can see these differences or hear these differences. If you train yourself, if you just sit down and you know, help yourself figure out the differences, it's definitely doable. And it's not like you stuck with the ears that you have for
+
+## 完整译文
+
+你知道，日本人。所以日本人在区分英语中的L和R音上出了名的困难。为什么会这样呢？这是因为在日语中，L和R音基本上出现在相同的频率。他们不需要区分L和R。所以他们的大脑和耳朵没有像美国人或母语是英语的人那样立即识别出差异。但研究表明，如果你把日本人放在一个房间里，并激励他们去识别差异，去听出差异，他们实际上很快就能学会区分。所以有研究表明，即使我们的母语不是那种可以识别这些差异或听到这些差异的语言，如果你训练自己，如果你坐下来，帮助自己弄清楚差异，这绝对是可行的。这并不是说你只能局限于你所拥有的耳朵。
