@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1062
+- **译文字符数:** 296
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** forever. And so his second thing that he thinks it's really important is to develop a good
+    *翻译:* 永远。因此，他认为第二件真正重要的事情是培养一个良好的
+
+**[00:05]** accent in the target language early. And he says there are a few benefits that you get
+    *翻译:* 尽早在目标语言中使用口音。他说这样做有一些好处。
+
+**[00:10]** from speaking clearly in a good accent. So he says the first one is that if you speak
+    *翻译:* 从清晰地用好的口音说话。所以他说第一个是，如果你说话
+
+**[00:16]** to a native speaker, let's say it's a French person and you speak in a horrible French accent,
+    *翻译:* 对于一个母语者来说，比如说一个法国人，而你用糟糕的法国口音说话，
+
+**[00:22]** what tends to happen is that that native French speaker will think that you're not very
+    *翻译:* 通常情况下，那个母语是法语的人会认为你不太
+
+**[00:26]** good at French. So whether it's true or not, whether you've passed the highest level of French,
+    *翻译:* 擅长法语。所以无论这是真是假，无论你是否通过了最高级别的法语考试，
+
+**[00:31]** the fact that you cannot speak very clearly, your accent is not very good, they'll think
+    *翻译:* 你说话不够清晰，口音也不太好，他们会这么认为。
+
+**[00:37]** that your French is not very good. So what happens is that they'll end up more likely to speak
+    *翻译:* 你的法语不太好。所以，他们最终更有可能说英语。
+
+**[00:42]** to you in English or whatever language that you're better at. And if that's the case, then
+    *翻译:* 用英语或者你更擅长的任何语言对你说。如果情况是这样，那么
+
+**[00:47]** you're going to have fewer opportunities to practice French, right? So it's kind of like a win-win
+    *翻译:* 你练习法语的机会将会减少，对吧？所以这有点像双赢。
+
+**[00:53]** situation. You get better at speaking the language and you get more input from native speakers
+    *翻译:* 情况。你越来越擅长说这门语言，并且从母语者那里获得更多的输入。
+
+**[00:57]** speaking to you in that language, which I think...
+    *翻译:* 用那种语言和你说话，我觉得...
+
+## 完整原文
+
+forever. And so his second thing that he thinks it's really important is to develop a good accent in the target language early. And he says there are a few benefits that you get from speaking clearly in a good accent. So he says the first one is that if you speak to a native speaker, let's say it's a French person and you speak in a horrible French accent, what tends to happen is that that native French speaker will think that you're not very good at French. So whether it's true or not, whether you've passed the highest level of French, the fact that you cannot speak very clearly, your accent is not very good, they'll think that your French is not very good. So what happens is that they'll end up more likely to speak to you in English or whatever language that you're better at. And if that's the case, then you're going to have fewer opportunities to practice French, right? So it's kind of like a win-win situation. You get better at speaking the language and you get more input from native speakers speaking to you in that language, which I think...
+
+## 完整译文
+
+永远。因此，他认为第二件非常重要的事情是尽早在目标语言中发展出良好的口音。他说，用良好的口音清晰地说话有几个好处。所以他说第一个好处是，如果你和一个母语人士说话，比如说是一个法国人，而你说法语的口音很糟糕，通常会发生的是，那个法国母语人士会认为你的法语不太好。所以不管你是否真的通过了最高级别的法语考试，如果你不能清晰地说话，你的口音不太好，他们会认为你的法语不太好。所以会发生的是，他们更有可能用英语或你更擅长的其他语言与你交谈。如果那样的话，你练习法语的机会就会更少，对吧？所以这有点像双赢的局面。你变得更擅长说这种语言，并且你从母语人士那里得到更多用那种语言与你交谈的输入，我认为...
