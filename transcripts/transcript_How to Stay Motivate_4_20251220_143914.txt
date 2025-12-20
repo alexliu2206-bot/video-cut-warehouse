@@ -1,0 +1,64 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1125
+- **译文字符数:** 325
+- **段落数:** 16
+
+## 分段转录
+
+**[00:00]** Or if you just don't have a deadline in the first place, think about a student who
+    *翻译:* 或者如果你一开始就没有截止日期，想想一个学生
+
+**[00:03]** crams in vocabulary the day before his French quiz.
+    *翻译:* 在法语测验前一天突击词汇。
+
+**[00:07]** When the quiz is in two weeks, it might feel to him that it's unimportant to work on his
+    *翻译:* 当测验在两周后进行时，他可能觉得现在就着手准备并不重要。
+
+**[00:11]** vocabulary today, especially when there are a lot of other fun things he could be doing.
+    *翻译:* 今天的词汇，尤其是当他可以做很多其他有趣的事情时。
+
+**[00:15]** Okay, so now that we know all that the letters stand for in our equation, I want to now give
+    *翻译:* 好的，现在我们知道了方程中所有字母代表的含义，接下来我想给出
+
+**[00:20]** a caveat to all of this, because I am all about taking a mindful, holistic approach to our
+    *翻译:* 对这一切的一个警告，因为我主张采取一种深思熟虑、全面的方法来对待我们的
+
+**[00:25]** language learning studies.
+    *翻译:* 语言学习研究。
+
+**[00:26]** Instead of just grinding away and getting frustrated, number one is I feel it really valuable,
+    *翻译:* 与其只是埋头苦干并感到沮丧，首先我觉得这真的很有价值，
+
+**[00:32]** especially for me and my language learning to remember.
+    *翻译:* 特别是为了我和学习语言的记忆。
+
+**[00:35]** The difference between what instant gratification is for me and what integrating more joy in
+    *翻译:* 即时满足对我来说与将更多快乐融入其中的区别在于
+
+**[00:41]** the process looks like for me.
+    *翻译:* 对我来说，这个过程看起来是这样的。
+
+**[00:42]** It's a reminder for all of us to keep allowing some pleasure in the language learning process,
+    *翻译:* 这是对我们所有人的一个提醒，要继续在语言学习过程中允许一些乐趣存在。
+
+**[00:47]** because I know it's hard to remember when we are grinding away, wanting to reach our
+    *翻译:* 因为我明白，当我们埋头苦干，渴望达到我们的目标时，是很难记住的。
+
+**[00:51]** goal.
+    *翻译:* 目标。
+
+**[00:52]** Real pleasure into our language learning allows for enjoying the actual process, whether
+    *翻译:* 将真正的快乐融入我们的语言学习中，让我们能够享受实际的学习过程，无论
+
+**[00:57]** that be reading your favorite book over a textbook.
+    *翻译:* 那就是重读你最喜欢的书而不是教科书。
+
+## 完整原文
+
+Or if you just don't have a deadline in the first place, think about a student who crams in vocabulary the day before his French quiz. When the quiz is in two weeks, it might feel to him that it's unimportant to work on his vocabulary today, especially when there are a lot of other fun things he could be doing. Okay, so now that we know all that the letters stand for in our equation, I want to now give a caveat to all of this, because I am all about taking a mindful, holistic approach to our language learning studies. Instead of just grinding away and getting frustrated, number one is I feel it really valuable, especially for me and my language learning to remember. The difference between what instant gratification is for me and what integrating more joy in the process looks like for me. It's a reminder for all of us to keep allowing some pleasure in the language learning process, because I know it's hard to remember when we are grinding away, wanting to reach our goal. Real pleasure into our language learning allows for enjoying the actual process, whether that be reading your favorite book over a textbook.
+
+## 完整译文
+
+或者如果你一开始就没有截止日期，想想一个学生在法语测验前一天临时抱佛脚地背诵词汇。当测验还有两周时，他可能觉得今天没必要去学习词汇，尤其是当他可以做很多其他有趣的事情时。好的，现在我们知道了我们方程式中所有字母的含义，我想给这一切提个警告，因为我主张采取一种有意识的、全面的方法来学习我们的语言。与其只是埋头苦干和感到沮丧，第一点是我觉得这非常有价值，尤其是对我和我的外语学习来说，要记住即时满足和在过程中融入更多乐趣之间的区别。这是对我们所有人的一个提醒，要继续允许在语言学习过程中享受一些乐趣，因为我知道当我们埋头苦干，想要达到目标时，很难记住这一点。将真正的快乐融入我们的语言学习，可以让我们享受实际的过程，无论是阅读你最喜欢的书而不是教科书。
