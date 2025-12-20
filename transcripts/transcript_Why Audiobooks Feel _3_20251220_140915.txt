@@ -1,0 +1,67 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 876
+- **译文字符数:** 257
+- **段落数:** 17
+
+## 分段转录
+
+**[00:00]** be inferior or maybe a less meaningful way of experiencing that play.
+    *翻译:* 在体验那场游戏时可能处于劣势，或者可能是一种不那么有意义的方式。
+
+**[00:05]** In fact, a performance of Romeo and Juliet rather than a reading, that's the way it was
+    *翻译:* 实际上，这是一场《罗密欧与朱丽叶》的表演，而不是朗读，事情就是这样的。
+
+**[00:11]** intended to be experienced.
+    *翻译:* 旨在被体验。
+
+**[00:12]** So the way I see it, the disagreement appears to be about definitions.
+    *翻译:* 所以在我看来，分歧似乎是关于定义的。
+
+**[00:18]** What counts as reading?
+    *翻译:* 什么算是阅读？
+
+**[00:19]** But when you strip away the arguments down to their core, what we're really arguing about,
+    *翻译:* 但当你将争论剥离到核心，我们真正争论的，
+
+**[00:25]** I think is identity.
+    *翻译:* 我认为是身份。
+
+**[00:28]** Who gets to call themselves a real reader?
+    *翻译:* 谁才有资格自称为真正的读者？
+
+**[00:30]** Who gets to count themselves as a legitimate member of the reading community?
+    *翻译:* 谁能够将自己视为阅读群体中的合法成员？
+
+**[00:36]** And that is an important question because reading is one of the few culturally sanctioned
+    *翻译:* 这就是一个重要的问题，因为阅读是少数几种文化认可的活动之一。
+
+**[00:41]** markers of intelligence that still survives.
+    *翻译:* 智慧的标志依然存在。
+
+**[00:44]** It's a subtle form of achievement.
+    *翻译:* 这是一种微妙的成就形式。
+
+**[00:47]** We count books that we read.
+    *翻译:* 我们计算我们读过的书。
+
+**[00:49]** We track them.
+    *翻译:* 我们追踪他们。
+
+**[00:50]** We post our numbers.
+    *翻译:* 我们发布我们的数字。
+
+**[00:52]** And I don't mean to sound like I'm pointing a finger at anyone because I do it too.
+    *翻译:* 我并不是在指责任何人，因为我自己也会这么做。
+
+**[00:57]** And in that environment, the question do...
+    *翻译:* 在那种环境下，问题做...
+
+## 完整原文
+
+be inferior or maybe a less meaningful way of experiencing that play. In fact, a performance of Romeo and Juliet rather than a reading, that's the way it was intended to be experienced. So the way I see it, the disagreement appears to be about definitions. What counts as reading? But when you strip away the arguments down to their core, what we're really arguing about, I think is identity. Who gets to call themselves a real reader? Who gets to count themselves as a legitimate member of the reading community? And that is an important question because reading is one of the few culturally sanctioned markers of intelligence that still survives. It's a subtle form of achievement. We count books that we read. We track them. We post our numbers. And I don't mean to sound like I'm pointing a finger at anyone because I do it too. And in that environment, the question do...
+
+## 完整译文
+
+这可能是体验那部戏剧的次等或不那么有意义的方式。实际上，观看《罗密欧与朱丽叶》的表演而不是阅读，那才是它被设计来体验的方式。所以在我看来，分歧似乎是关于定义的。什么才算是阅读？但当你把争论剥离到核心，我们真正争论的，我认为是身份。谁有权称自己为真正的读者？谁有权将自己算作阅读社区的合法成员？这是一个重要的问题，因为阅读是少数仍然存在的文化认可的智力标志之一。它是一种微妙的成就形式。我们计算我们读过的书。我们追踪它们。我们发布我们的数字。我并不是要指责任何人，因为我自己也这么做。在那种环境下，问题就变成了...
