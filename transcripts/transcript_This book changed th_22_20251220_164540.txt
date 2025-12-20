@@ -1,0 +1,85 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 935
+- **译文字符数:** 265
+- **段落数:** 23
+
+## 分段转录
+
+**[00:00]** I would answer three questions.
+    *翻译:* 我会回答三个问题。
+
+**[00:01]** The first one is, what I recommend this book.
+    *翻译:* 第一点是，我为什么推荐这本书。
+
+**[00:04]** And if you've seen my tone of voice throughout this video,
+    *翻译:* 如果你看过我在这个视频中的语气，
+
+**[00:08]** you would know that, yes, I do recommend this book.
+    *翻译:* 你应该知道，是的，我确实推荐这本书。
+
+**[00:12]** I was very skeptical in the very beginning
+    *翻译:* 起初我非常怀疑
+
+**[00:14]** because this author does not have a background
+    *翻译:* 因为这位作者没有背景
+
+**[00:17]** in linguistics or psychology.
+    *翻译:* 在语言学或心理学中。
+
+**[00:18]** He's a former opera singer.
+    *翻译:* 他是一位前歌剧歌手。
+
+**[00:21]** But I think that he actually,
+    *翻译:* 但我觉得他实际上，
+
+**[00:23]** he claims to be fluent in seven languages.
+    *翻译:* 他声称自己能流利地说七种语言。
+
+**[00:25]** And it's clear that he's gone through the language
+    *翻译:* 很明显，他已经掌握了这门语言。
+
+**[00:27]** running process many, many times.
+    *翻译:* 多次运行许多进程。
+
+**[00:29]** And he's moved to many different countries.
+    *翻译:* 他已经搬到了许多不同的国家。
+
+**[00:32]** And he's had the experience of learning these languages.
+    *翻译:* 他有学习这些语言的经验。
+
+**[00:35]** And they're not all in this language family.
+    *翻译:* 它们并不都属于这个语言家族。
+
+**[00:37]** So I think that he's uniquely qualified
+    *翻译:* 所以我认为他特别合适。
+
+**[00:41]** to talk about language learning in a way
+    *翻译:* 以一种方式谈论语言学习
+
+**[00:42]** that maybe a linguist wouldn't be able to.
+    *翻译:* 也许语言学家也无法做到。
+
+**[00:45]** And I think the only thing is,
+    *翻译:* 我认为唯一的问题是，
+
+**[00:48]** is that I'm not sure if every language learning
+    *翻译:* 那就是我不确定是否每种语言学习
+
+**[00:52]** reading this book would have the same success as he does
+    *翻译:* 读这本书会像他一样成功
+
+**[00:56]** following his strategy.
+    *翻译:* 遵循他的策略。
+
+**[00:58]** So it's...
+    *翻译:* 那么这就是...
+
+## 完整原文
+
+I would answer three questions. The first one is, what I recommend this book. And if you've seen my tone of voice throughout this video, you would know that, yes, I do recommend this book. I was very skeptical in the very beginning because this author does not have a background in linguistics or psychology. He's a former opera singer. But I think that he actually, he claims to be fluent in seven languages. And it's clear that he's gone through the language running process many, many times. And he's moved to many different countries. And he's had the experience of learning these languages. And they're not all in this language family. So I think that he's uniquely qualified to talk about language learning in a way that maybe a linguist wouldn't be able to. And I think the only thing is, is that I'm not sure if every language learning reading this book would have the same success as he does following his strategy. So it's...
+
+## 完整译文
+
+我会回答三个问题。第一个问题是，我为什么推荐这本书。如果你看过我整个视频的语气，你就会知道，是的，我确实推荐这本书。一开始我非常怀疑，因为这位作者没有语言学或心理学背景。他是一位前歌剧歌手。但我认为他实际上声称自己能流利说七种语言。很明显，他经历了很多次语言学习过程。他搬到了很多不同的国家。他有学习这些语言的经验。而这些语言并不都属于同一个语系。所以我认为他有独特的资格以一种可能语言学家无法做到的方式来谈论语言学习。我认为唯一的问题是，我不确定每个读这本书的语言学习者是否都能像他遵循自己的策略那样取得同样的成功。所以这是……
