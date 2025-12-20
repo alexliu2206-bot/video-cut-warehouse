@@ -1,0 +1,79 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 955
+- **译文字符数:** 276
+- **段落数:** 21
+
+## 分段转录
+
+**[00:00]** constructions or maybe a lot of unfamiliar vocabulary.
+    *翻译:* 建筑或者可能是很多不熟悉的词汇。
+
+**[00:04]** These forms of writing are really better for visual reading.
+    *翻译:* 这些写作形式更适合视觉阅读。
+
+**[00:08]** And the reason for this is simply because, you know,
+    *翻译:* 而造成这种情况的原因很简单，你知道，
+
+**[00:10]** reading with your eyes, it gives you true navigational control.
+    *翻译:* 用眼睛阅读，它赋予你真正的导航控制。
+
+**[00:13]** You can pause, you can reread, you can slow down,
+    *翻译:* 你可以暂停，你可以重读，你可以放慢速度，
+
+**[00:16]** or you can even jump back to an earlier paragraph
+    *翻译:* 或者你甚至可以跳回到前一段
+
+**[00:19]** with absolute precision and ease.
+    *翻译:* 以绝对的精确度和轻松。
+
+**[00:22]** You know, the text exists in space.
+    *翻译:* 你知道，文本存在于空间中。
+
+**[00:23]** So you know exactly where ideas live.
+    *翻译:* 所以你确切地知道想法在哪里产生。
+
+**[00:27]** Your eyes can return to a sentence instantly, you know,
+    *翻译:* 你的眼睛可以瞬间回到一句话上，你知道，
+
+**[00:31]** so there's no friction, there's no hunting,
+    *翻译:* 所以没有摩擦，没有狩猎，
+
+**[00:33]** there's no guessing.
+    *翻译:* 没有猜测。
+
+**[00:34]** Audio books by contrast, they move in a single forward stream,
+    *翻译:* 相比之下，有声书以单一的向前流的形式进行。
+
+**[00:38]** you know, so yes, you can technically rewind
+    *翻译:* 你知道的，所以是的，从技术上讲，你可以倒带。
+
+**[00:41]** or you can scrub back, but it's fundamentally
+    *翻译:* 或者你可以回溯，但这本质上是
+
+**[00:44]** a different kind of access, you know,
+    *翻译:* 一种不同的访问方式，你知道，
+
+**[00:46]** it's temporal rather than spatial.
+    *翻译:* 它是时间上的，而不是空间上的。
+
+**[00:49]** You're dragging through time rather than navigating
+    *翻译:* 你正在拖延时间，而不是在导航。
+
+**[00:52]** a physical landscape.
+    *翻译:* 一个自然地貌。
+
+**[00:53]** And anyone who has tried to rewind to that one sentence,
+    *翻译:* 而任何试图倒回到那一句话的人，
+
+**[00:57]** you know that you rarely land on...
+    *翻译:* 你知道你很少降落在...
+
+## 完整原文
+
+constructions or maybe a lot of unfamiliar vocabulary. These forms of writing are really better for visual reading. And the reason for this is simply because, you know, reading with your eyes, it gives you true navigational control. You can pause, you can reread, you can slow down, or you can even jump back to an earlier paragraph with absolute precision and ease. You know, the text exists in space. So you know exactly where ideas live. Your eyes can return to a sentence instantly, you know, so there's no friction, there's no hunting, there's no guessing. Audio books by contrast, they move in a single forward stream, you know, so yes, you can technically rewind or you can scrub back, but it's fundamentally a different kind of access, you know, it's temporal rather than spatial. You're dragging through time rather than navigating a physical landscape. And anyone who has tried to rewind to that one sentence, you know that you rarely land on...
+
+## 完整译文
+
+构造或者可能是很多不熟悉的词汇。这些写作形式更适合视觉阅读。原因很简单，你知道，用眼睛阅读，它给你真正的导航控制。你可以暂停，你可以重读，你可以放慢速度，你甚至可以精确而轻松地跳回到前一段。你知道，文本存在于空间中。所以你知道想法住在哪里。你的眼睛可以瞬间回到一个句子，你知道，所以没有摩擦，没有寻找，没有猜测。相比之下，有声书，它们以单一的向前流移动，所以是的，技术上你可以倒带或者你可以倒退，但这根本上是不同类型的访问，你知道，它是时间性的而不是空间性的。你是在拖动时间而不是在导航一个物理景观。任何尝试倒带回到那个句子的人，你知道你很少落在...
