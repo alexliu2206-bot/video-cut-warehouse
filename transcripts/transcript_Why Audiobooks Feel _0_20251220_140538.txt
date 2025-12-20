@@ -1,0 +1,73 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1055
+- **译文字符数:** 295
+- **段落数:** 19
+
+## 分段转录
+
+**[00:00]** I think there are surprising number of readers who feel anxiety about audiobooks.
+    *翻译:* 我认为有很多读者对有声书感到焦虑。
+
+**[00:05]** Not just about enjoying them, but about whether they're even allowed to count them.
+    *翻译:* 不仅仅是关于享受它们，而是关于他们是否被允许计算它们。
+
+**[00:09]** You know, the debate around it has become strangely intense.
+    *翻译:* 你知道吗，围绕它的争论变得异常激烈。
+
+**[00:12]** You know, one side insists the audiobooks don't count because reading is fundamentally
+    *翻译:* 你知道，一方坚持认为有声书不算数，因为阅读本质上
+
+**[00:17]** a visual act.
+    *翻译:* 一种视觉行为。
+
+**[00:19]** You know, the other side argues that comprehension is comprehension, so listening is, in
+    *翻译:* 你知道，对方认为理解就是理解，所以倾听就是，
+
+**[00:24]** fact, reading.
+    *翻译:* 事实，阅读。
+
+**[00:26]** It's just through an alternate route.
+    *翻译:* 这只是通过一条备选路线。
+
+**[00:28]** But the more I think about this disagreement, the more I think that both sides are sort
+    *翻译:* 但我越是思考这个分歧，我越觉得双方都有各自的道理。
+
+**[00:32]** of caught in the same circle.
+    *翻译:* 陷入了同一个循环。
+
+**[00:34]** They're trying to answer a question that was never really the right question to begin
+    *翻译:* 他们试图回答一个从一开始就不是正确的问题。
+
+**[00:38]** with.
+    *翻译:* 和。
+
+**[00:39]** Because the most important part of this conversation isn't whether audiobooks count.
+    *翻译:* 因为这次对话中最重要的部分并不是有声书是否算数。
+
+**[00:43]** It's how these different modalities affect the way we experience a book.
+    *翻译:* 这就是这些不同的方式如何影响我们体验一本书的方式。
+
+**[00:48]** You know, how do audiobooks change our comprehension, for example?
+    *翻译:* 你知道，有声书是如何改变我们的理解力的，例如？
+
+**[00:52]** How do they change our memory?
+    *翻译:* 他们是如何改变我们的记忆的？
+
+**[00:53]** How do they change our focus?
+    *翻译:* 他们是如何改变我们的焦点的？
+
+**[00:55]** How do they reshape our reading habits and do these changes even matter?
+    *翻译:* 他们如何重塑我们的阅读习惯，这些变化是否重要？
+
+**[00:59]** Most of these...
+    *翻译:* 这些中的大多数...
+
+## 完整原文
+
+I think there are surprising number of readers who feel anxiety about audiobooks. Not just about enjoying them, but about whether they're even allowed to count them. You know, the debate around it has become strangely intense. You know, one side insists the audiobooks don't count because reading is fundamentally a visual act. You know, the other side argues that comprehension is comprehension, so listening is, in fact, reading. It's just through an alternate route. But the more I think about this disagreement, the more I think that both sides are sort of caught in the same circle. They're trying to answer a question that was never really the right question to begin with. Because the most important part of this conversation isn't whether audiobooks count. It's how these different modalities affect the way we experience a book. You know, how do audiobooks change our comprehension, for example? How do they change our memory? How do they change our focus? How do they reshape our reading habits and do these changes even matter? Most of these...
+
+## 完整译文
+
+我认为有很多读者对有声书感到焦虑。不仅仅是关于享受它们，而是关于他们是否被允许将它们计入阅读量。你知道，围绕这个问题的争论变得异常激烈。一方面坚持认为有声书不算数，因为阅读本质上是一种视觉行为。另一方面则认为理解就是理解，所以听实际上就是阅读，只是通过另一种途径。但我越是思考这种分歧，我越是觉得双方都陷入了同一个怪圈。他们试图回答一个从一开始就不是正确的问题。因为这场对话中最重要的部分不是有声书是否算数。而是这些不同的方式如何影响我们体验一本书。比如，有声书如何改变我们的理解？它们如何改变我们的记忆？它们如何改变我们的注意力？它们如何重塑我们的阅读习惯，这些变化是否重要？这些问题……
