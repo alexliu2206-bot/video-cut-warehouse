@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 962
+- **译文字符数:** 282
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** Do you think play, do you think like yard or you know fetch, right?
+    *翻译:* 你觉得是玩耍，你觉得像是在院子里或者你知道的接球游戏，对吧？
+
+**[00:04]** So every word in different languages will kind of have a symphony that plays when it's selected.
+    *翻译:* 因此，当不同语言中的每个词被选中时，都会有一种交响乐在演奏。
+
+**[00:11]** And this is a great thing because words don't exist in a vacuum.
+    *翻译:* 这是一件好事，因为语言并不是存在于真空中的。
+
+**[00:15]** And your memories are connected to all these things.
+    *翻译:* 你的记忆与所有这些事情相连。
+
+**[00:18]** So this harkens back to what he said about memories being kind of connected.
+    *翻译:* 所以这让他回想起了他所说的关于记忆某种程度上是相连的。
+
+**[00:21]** So I think this is wonderful.
+    *翻译:* 所以我觉得这很棒。
+
+**[00:23]** And he basically talks about how if you go to a language school or you do a textbook
+    *翻译:* 他基本上谈到了如果你去语言学校或者你使用教科书的话
+
+**[00:28]** and one of the first things you're going to see is like, let's learn family members.
+    *翻译:* 你将看到的第一件事之一就是，我们来学习家庭成员。
+
+**[00:33]** Here is the word for mother. Here's the word for niece.
+    *翻译:* 这是“母亲”的单词。这是“侄女”的单词。
+
+**[00:36]** And let's just learn all the family members together.
+    *翻译:* 我们一起来学习所有的家庭成员吧。
+
+**[00:39]** But the truth of the matter is you're not going to be using the word niece nearly as much as you're using the word mother.
+    *翻译:* 但事实是，你使用“侄女”这个词的频率远不如你使用“母亲”这个词的频率高。
+
+**[00:47]** So he recommends to learn mother first and don't bother with niece until much later.
+    *翻译:* 所以他建议先学习母亲，不要在很久以后才去打扰侄女。
+
+**[00:53]** Which I think is for lack of better word, brilliant.
+    *翻译:* 我认为，用一个更合适的词来说，就是精彩绝伦。
+
+**[00:57]** It's totally true. I am a huge.
+    *翻译:* 这是千真万确的。我非常庞大。
+
+## 完整原文
+
+Do you think play, do you think like yard or you know fetch, right? So every word in different languages will kind of have a symphony that plays when it's selected. And this is a great thing because words don't exist in a vacuum. And your memories are connected to all these things. So this harkens back to what he said about memories being kind of connected. So I think this is wonderful. And he basically talks about how if you go to a language school or you do a textbook and one of the first things you're going to see is like, let's learn family members. Here is the word for mother. Here's the word for niece. And let's just learn all the family members together. But the truth of the matter is you're not going to be using the word niece nearly as much as you're using the word mother. So he recommends to learn mother first and don't bother with niece until much later. Which I think is for lack of better word, brilliant. It's totally true. I am a huge.
+
+## 完整译文
+
+你认为玩耍，你认为像院子或者你知道的接球，对吧？所以不同语言中的每个词都会在被选中时产生一种交响乐。这是一件很棒的事情，因为词汇并不是存在于真空中的。你的记忆与所有这些事情相连。所以这让人回想起他所说的关于记忆是如何相连的。所以我认为这很美妙。他基本上谈到了如果你去语言学校或者你做教科书，你将会看到的第一件事就是，让我们学习家庭成员。这是妈妈的词。这是侄女的词。让我们一起学习所有家庭成员。但事实是，你使用侄女这个词的频率远不如使用妈妈这个词。所以他建议先学习妈妈这个词，不要在很久之后才去管侄女。我认为这用一个更好的词来说，是天才。这完全正确。我是一个巨大的。
