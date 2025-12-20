@@ -1,0 +1,64 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 901
+- **译文字符数:** 236
+- **段落数:** 16
+
+## 分段转录
+
+**[00:00]** And so lastly, we finally talk about grammar.
+    *翻译:* 因此，最后我们终于谈到了语法。
+
+**[00:02]** And so the thing about grammar is that it seems like grammar is always the hardest thing
+    *翻译:* 因此，关于语法的一点是，语法似乎总是最难的事情。
+
+**[00:08]** to learn about any language.
+    *翻译:* 了解任何语言。
+
+**[00:09]** Like you will always hear that someone is not a native speaker when they misconduct
+    *翻译:* 就像你总能听到有人说某人不是母语者，当他们行为不端时
+
+**[00:13]** something, when they use the wrong, you know, gender of some word.
+    *翻译:* 当他们使用某个词的错误性别时，某件事。
+
+**[00:18]** And I totally understand.
+    *翻译:* 我完全理解。
+
+**[00:20]** But the author, he actually has a completely different approach to this.
+    *翻译:* 但是作者，他实际上对这个问题有着完全不同的处理方式。
+
+**[00:25]** So he starts this chapter by talking about how adults actually learn grammar the same
+    *翻译:* 所以他在这一章开始时讨论了成年人实际上是如何学习语法的。
+
+**[00:30]** way that kids learn grammar.
+    *翻译:* 孩子们学习语法的方式。
+
+**[00:33]** Everyone learning English will learn the sentence I eat before they learn the sentence
+    *翻译:* 每个学英语的人都会先学“我吃饭”这个句子，然后再学其他句子。
+
+**[00:37]** I ate before the sentence I was eating.
+    *翻译:* 我在我正在吃的句子之前吃了。
+
+**[00:41]** And that is just a universal across the board.
+    *翻译:* 这只是一个普遍现象。
+
+**[00:45]** Every person learning English grammar will acquire it in this way.
+    *翻译:* 每个学习英语语法的人都会以这种方式掌握它。
+
+**[00:49]** And I mean, I totally agree.
+    *翻译:* 我的意思是，我完全同意。
+
+**[00:51]** I think it's very, very true.
+    *翻译:* 我认为这是非常、非常正确的。
+
+**[00:54]** The way you build up your grammar machine is through something called...
+    *翻译:* 你构建语法机器的方式是通过一种叫做...的东西。
+
+## 完整原文
+
+And so lastly, we finally talk about grammar. And so the thing about grammar is that it seems like grammar is always the hardest thing to learn about any language. Like you will always hear that someone is not a native speaker when they misconduct something, when they use the wrong, you know, gender of some word. And I totally understand. But the author, he actually has a completely different approach to this. So he starts this chapter by talking about how adults actually learn grammar the same way that kids learn grammar. Everyone learning English will learn the sentence I eat before they learn the sentence I ate before the sentence I was eating. And that is just a universal across the board. Every person learning English grammar will acquire it in this way. And I mean, I totally agree. I think it's very, very true. The way you build up your grammar machine is through something called...
+
+## 完整译文
+
+最后，我们来谈谈语法。关于语法，似乎语法总是学习任何语言中最难的部分。比如你总能听到有人说某人不是母语者，当他们用错了某个词的性别时。我完全理解。但作者实际上对此有完全不同的方法。他以讨论成年人实际上如何像孩子一样学习语法来开始这一章节。每个学习英语的人都会先学会说“我吃”，然后才会学会说“我吃了”，再然后是“我正在吃”。这是普遍适用的。每个学习英语语法的人都会以这种方式掌握它。我的意思是，我非常同意。我认为这是非常非常正确的。你构建语法机器的方式是通过一种叫做...
