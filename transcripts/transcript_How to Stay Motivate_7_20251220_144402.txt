@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1013
+- **译文字符数:** 307
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** Using this particular language learning method that is currently involved in my language learning studies,
+    *翻译:* 使用这种目前参与我的语言学研究的特殊语言学习方法，
+
+**[00:05]** that's value. And how likely do you feel you will receive the payoff of getting to your language goals via
+    *翻译:* 这就是价值。你觉得通过实现你的语言目标，你有多大可能获得回报？
+
+**[00:12]** the current resources that you're using? That's expectancy. How far away is your deadline? With accomplishing this
+    *翻译:* 你正在使用的当前资源？那是期望值。你的截止日期还有多远？通过完成这个
+
+**[00:17]** language learning goal, delay, and how are you as you take action? That is impulsivity. So give a score of 1 to 10 for each of these
+    *翻译:* 语言学习目标、延迟以及你在采取行动时的状态如何？这就是冲动性。因此，为这些因素分别给出1到10的评分。
+
+**[00:25]** questions. For rating value, 1 is you don't care at all. 10 is this is extremely valuable for you.
+    *翻译:* 问题。对于评分价值，1表示你完全不在乎。10表示这对你来说极其有价值。
+
+**[00:31]** Expectancy 1 means it is highly unlikely that you'll receive a payoff. 10 is you are as certain
+    *翻译:* 期望值1意味着你获得回报的可能性非常低。10则表示你对此非常确定。
+
+**[00:38]** as can be that you will receive payoff. Delay. Put 1 if there is no delay. The deadline is the closest
+    *翻译:* 你可能会有回报。延迟。如果没有延迟，请填1。截止日期是最近的
+
+**[00:45]** that it could be. Put 10 if the deadline is far off or you don't even have a deadline at all.
+    *翻译:* 如果截止日期还很远，或者你根本就没有截止日期，就填10。
+
+**[00:50]** Impulsivity. Put 1 if you are hyper focused. And put a 10 if you feel you are immensely
+    *翻译:* 冲动性。如果你极度专注，请打1分。如果你觉得自己极度冲动，请打10分。
+
+**[00:55]** distractible. And again, feel free to put a number in between 1 and 10.
+    *翻译:* 容易分心的。再次提醒，可以随意在1到10之间放入一个数字。
+
+## 完整原文
+
+Using this particular language learning method that is currently involved in my language learning studies, that's value. And how likely do you feel you will receive the payoff of getting to your language goals via the current resources that you're using? That's expectancy. How far away is your deadline? With accomplishing this language learning goal, delay, and how are you as you take action? That is impulsivity. So give a score of 1 to 10 for each of these questions. For rating value, 1 is you don't care at all. 10 is this is extremely valuable for you. Expectancy 1 means it is highly unlikely that you'll receive a payoff. 10 is you are as certain as can be that you will receive payoff. Delay. Put 1 if there is no delay. The deadline is the closest that it could be. Put 10 if the deadline is far off or you don't even have a deadline at all. Impulsivity. Put 1 if you are hyper focused. And put a 10 if you feel you are immensely distractible. And again, feel free to put a number in between 1 and 10.
+
+## 完整译文
+
+使用这种目前参与我的语言学研究的特殊语言学习方法，这就是价值。你觉得通过你目前使用的资源实现语言目标的可能性有多大？这就是期望值。你的截止日期有多远？在实现这个语言学习目标的过程中，延迟了多少，你采取行动时的状态如何？这就是冲动性。所以请为这些问题分别打1到10分。对于价值评分，1表示你完全不在乎，10表示这对你来说极其有价值。期望值1意味着你收到回报的可能性非常低，10表示你非常确定你会收到回报。延迟。如果没有延迟，截止日期尽可能接近，就打1分。如果截止日期很远或者你根本没有截止日期，就打10分。冲动性。如果你非常专注，就打1分。如果你觉得自己非常容易分心，就打10分。同样，你可以在1到10之间随意打分。
