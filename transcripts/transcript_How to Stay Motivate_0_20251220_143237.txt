@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1039
+- **译文字符数:** 317
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** There's actually a simple equation that reveals why we procrastinate on some aspects of learning
+    *翻译:* 实际上有一个简单的方程式揭示了我们为什么在某些学习方面拖延。
+
+**[00:06]** our target language and feel more motivated in other aspects. Introducing Peers Steel PhD,
+    *翻译:* 我们的目标语言和其他方面感觉更有动力。介绍同行钢铁博士，
+
+**[00:12]** who calls this equation actually the procrastination equation, but I would rather call it here in
+    *翻译:* 谁实际上称这个方程为拖延方程，但我宁愿在这里称它为
+
+**[00:17]** this video the motivation equation. So when applying this equation to your language learning,
+    *翻译:* 这个视频是关于动机方程的。所以当你将这个方程应用到你的语言学习中时，
+
+**[00:21]** you can become more aware about one why you suddenly maybe don't feel motivated. Number two,
+    *翻译:* 你可以更加意识到为什么你突然可能没有动力。第二，
+
+**[00:26]** you'll also instantly learn how to boost your motivation in just a few minutes. So let's
+    *翻译:* 你还将立即学会如何在短短几分钟内提升你的动力。那么让我们
+
+**[00:31]** break it down together. We have here m equals e times v divided by i times d. Now what do all of
+    *翻译:* 一起分解它。这里我们有 m 等于 e 乘以 v 除以 i 乘以 d。现在这些代表什么？
+
+**[00:38]** these stand for? m of course stands for motivation. Naturally, we language learners want our motivation
+    *翻译:* 这些代表什么？当然，m代表动机。自然地，我们语言学习者希望我们有动机。
+
+**[00:44]** to be at our highest so that we can not only learn languages, but that we can also dedicate ourselves
+    *翻译:* 达到我们的最佳状态，这样我们不仅能学习语言，还能全身心投入。
+
+**[00:49]** on a consistent basis to keep on seeing progress. We increase our motivation by increasing the top
+    *翻译:* 为了持续看到进步，我们通过提高上限来增加我们的动力。
+
+**[00:54]** of the equation e times v and lowering the bottom part. Next up, we have e.
+    *翻译:* 方程中e乘以v，降低底部部分。接下来，我们有e。
+
+## 完整原文
+
+There's actually a simple equation that reveals why we procrastinate on some aspects of learning our target language and feel more motivated in other aspects. Introducing Peers Steel PhD, who calls this equation actually the procrastination equation, but I would rather call it here in this video the motivation equation. So when applying this equation to your language learning, you can become more aware about one why you suddenly maybe don't feel motivated. Number two, you'll also instantly learn how to boost your motivation in just a few minutes. So let's break it down together. We have here m equals e times v divided by i times d. Now what do all of these stand for? m of course stands for motivation. Naturally, we language learners want our motivation to be at our highest so that we can not only learn languages, but that we can also dedicate ourselves on a consistent basis to keep on seeing progress. We increase our motivation by increasing the top of the equation e times v and lowering the bottom part. Next up, we have e.
+
+## 完整译文
+
+实际上有一个简单的方程式揭示了我们为什么在某些学习目标语言的方面拖延，而在其他方面感到更有动力。让我们介绍Peers Steel博士，他将这个方程式称为拖延方程式，但我更愿意在这个视频中称之为动机方程式。因此，当你将这个方程式应用到你的语言学习中时，你可以更加意识到为什么你突然可能没有动力。第二，你也会立刻学会如何在短短几分钟内提升你的动力。让我们一起来分解它。我们这里有m等于e乘以v除以i乘以d。现在这些代表什么？m当然代表动机。我们这些语言学习者自然希望我们的动力达到最高，这样我们不仅可以学习语言，而且还可以持续地投入自己，不断看到进步。我们通过增加方程式的上半部分e乘以v和降低下半部分来增加我们的动力。接下来，我们有e。
