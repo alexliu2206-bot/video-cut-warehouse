@@ -1,0 +1,43 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 807
+- **译文字符数:** 240
+- **段落数:** 9
+
+## 分段转录
+
+**[00:00]** rs and this is something that a lot of language learners swear by. I have never used it.
+    *翻译:* rs，这是许多语言学习者极力推崇的方法。我从未使用过。
+
+**[00:07]** I mean I'm fluent in Korean now and I've never used an srs so I think you don't need it but maybe
+    *翻译:* 我的意思是我现在韩语很流利，我从未使用过SRS（间隔重复系统），所以我认为你可能不需要它，但也许吧。
+
+**[00:14]** it's useful if you want to learn the language quickly and never forget it. So that's something
+    *翻译:* 如果你想快速学习这门语言并且永远不忘，这是很有用的。所以这是某件事。
+
+**[00:19]** we're going to be looking at when we read this book. So his second chapter of this book is actually
+    *翻译:* 我们将要探讨当我们阅读这本书时的内容。所以这本书的第二章实际上是
+
+**[00:26]** not about language learning. It's actually about memory. So chapter two is called upload.
+    *翻译:* 不是关于语言学习。实际上是关于记忆的。所以第二章叫做上传。
+
+**[00:33]** Five principles to end for getting and he has these you know principles he has for example make
+    *翻译:* 五个原则来结束获取，他有这些你知道的原则，例如制定
+
+**[00:40]** memories more memorable, maximize laziness, don't review recall, wait wait don't tell me
+    *翻译:* 让记忆更加难忘，最大化懒惰，不要回顾回忆，等等，不要告诉我
+
+**[00:50]** and rewrite the past. It sounds all very fluke but essentially what he does is he takes his own
+    *翻译:* 并重写过去。听起来可能很偶然，但本质上他所做的就是他拿自己的
+
+**[00:56]** personal anecdotes as well as scientific research that
+    *翻译:* 个人轶事以及科学研究
+
+## 完整原文
+
+rs and this is something that a lot of language learners swear by. I have never used it. I mean I'm fluent in Korean now and I've never used an srs so I think you don't need it but maybe it's useful if you want to learn the language quickly and never forget it. So that's something we're going to be looking at when we read this book. So his second chapter of this book is actually not about language learning. It's actually about memory. So chapter two is called upload. Five principles to end for getting and he has these you know principles he has for example make memories more memorable, maximize laziness, don't review recall, wait wait don't tell me and rewrite the past. It sounds all very fluke but essentially what he does is he takes his own personal anecdotes as well as scientific research that
+
+## 完整译文
+
+rs，这是许多语言学习者坚信的东西。我从未使用过。我的意思是我现在韩语流利，从未使用过srs，所以我认为你不需要它，但如果你想快速学习语言并且永远不忘，也许它很有用。所以当我们读这本书时，我们将关注这一点。所以这本书的第二章实际上不是关于语言学习的。实际上是关于记忆的。所以第二章叫做上传。五个原则，以结束获取，他有这些你知道的原则，例如使记忆更难忘，最大化懒惰，不要回顾回忆，等待等待不要告诉我，重写过去。听起来都很偶然，但本质上他所做的是，他结合了自己的个人轶事以及科学研究。
