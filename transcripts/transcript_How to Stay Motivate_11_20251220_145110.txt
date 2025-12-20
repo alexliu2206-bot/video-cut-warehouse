@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1094
+- **译文字符数:** 302
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** in delay. Let's talk about how to decrease delay by refocusing on the process and your next actions.
+    *翻译:* 在延迟中。我们来谈谈如何通过重新关注流程和你的下一个行动来减少延迟。
+
+**[00:06]** One, what would this look like to actually break down language learning task and our goal into
+    *翻译:* 一，实际上将语言学习任务和我们的目标分解成什么样子
+
+**[00:10]** really small digestible step? Number two, what is the most important next step in your
+    *翻译:* 非常小的可消化步骤？第二，你接下来最重要的步骤是什么？
+
+**[00:16]** language learning process towards completing that task or goal? Number three, what is the action
+    *翻译:* 在完成那个任务或目标的语言学习过程中，第三点，什么是行动？
+
+**[00:20]** that you want to take today to make meaningful progress towards your language learning? And if you
+    *翻译:* 你今天想要采取哪些行动来在语言学习上取得有意义的进步？如果你
+
+**[00:25]** felt you scored lower in impulsivity, here is how we can decrease impulsivity. Number one,
+    *翻译:* 感觉你在冲动性方面得分较低，以下是我们如何减少冲动性的方法。第一，
+
+**[00:30]** are you willing to allow yourself to be fully present to this language learning task or goal?
+    *翻译:* 你愿意让自己全身心地投入到这个语言学习任务或目标中吗？
+
+**[00:36]** For the next period of time, be honest with yourself about this. Number two, are you willing to
+    *翻译:* 在接下来的一段时间里，对自己诚实。第二，你愿意吗？
+
+**[00:41]** let go of distractions and impulses as they surface? And if not, what support do you need to seek out
+    *翻译:* 当分心和冲动出现时，要放手吗？如果不是，你需要寻求什么支持？
+
+**[00:48]** in order to investigate your own mental patterns that you're experiencing in your learning? Plus,
+    *翻译:* 为了探究你在学习中所经历的自己的思维模式？另外，
+
+**[00:52]** find more optimized or personalized ways that helps you work with yourself. Number three is,
+    *翻译:* 寻找更多优化或个性化的方法，帮助你与自己更好地合作。第三点是，
+
+**[00:57]** what small pleasure are you allowed to...
+    *翻译:* 你被允许享受哪些小乐趣...
+
+## 完整原文
+
+in delay. Let's talk about how to decrease delay by refocusing on the process and your next actions. One, what would this look like to actually break down language learning task and our goal into really small digestible step? Number two, what is the most important next step in your language learning process towards completing that task or goal? Number three, what is the action that you want to take today to make meaningful progress towards your language learning? And if you felt you scored lower in impulsivity, here is how we can decrease impulsivity. Number one, are you willing to allow yourself to be fully present to this language learning task or goal? For the next period of time, be honest with yourself about this. Number two, are you willing to let go of distractions and impulses as they surface? And if not, what support do you need to seek out in order to investigate your own mental patterns that you're experiencing in your learning? Plus, find more optimized or personalized ways that helps you work with yourself. Number three is, what small pleasure are you allowed to...
+
+## 完整译文
+
+在延迟中。我们来谈谈如何通过重新关注过程和你的下一步行动来减少延迟。一，实际上将语言学习任务和我们的目标分解成真正小的、易于消化的步骤会是什么样子？二，在你的语言学习过程中，完成这项任务或目标最重要的下一步是什么？三，你今天想采取什么行动来朝着你的语言学习取得有意义的进展？如果你觉得自己在冲动性上得分较低，以下是我们如何减少冲动性的方法。一，你愿意让自己完全投入到这个语言学习任务或目标中吗？在接下来的一段时间里，对自己诚实。二，你愿意放弃分心和冲动吗？如果不，你需要寻求什么支持来调查你在学习中经历的自己的心理模式？另外，找到更多优化或个性化的方法来帮助你与自己合作。三，你被允许享受什么小乐趣...
