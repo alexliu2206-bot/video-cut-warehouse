@@ -1,0 +1,76 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 904
+- **译文字符数:** 268
+- **段落数:** 20
+
+## 分段转录
+
+**[00:00]** the amount of ability to learn a new language,
+    *翻译:* 学习新语言的能力大小，
+
+**[00:03]** whereas adults seem to take so long
+    *翻译:* 然而成年人似乎需要很长时间
+
+**[00:05]** and the progress is so inconsistent and very slow.
+    *翻译:* 进展如此不一致且非常缓慢。
+
+**[00:08]** And so people tend to see that there is,
+    *翻译:* 因此人们倾向于认为存在，
+
+**[00:11]** like, probably a developmental difference in the brains
+    *翻译:* 可能大脑发育上的差异
+
+**[00:14]** and it's just impossible to learn like a kid.
+    *翻译:* 而且像孩子那样学习是不可能的。
+
+**[00:16]** But I think what he's saying here is so true.
+    *翻译:* 但我觉得他在这里说的非常正确。
+
+**[00:19]** But kids have basically a free language shooter
+    *翻译:* 但孩子们基本上有一个自由的语言射击游戏。
+
+**[00:22]** around them 24 hours a day
+    *翻译:* 他们周围全天候
+
+**[00:24]** that feeds them comprehensive input.
+    *翻译:* 为他们提供全面的输入。
+
+**[00:27]** Whereas if you try to get that as an adult,
+    *翻译:* 然而，如果你试图作为一个成年人去获得那个，
+
+**[00:30]** that's gonna cost you a lot of money.
+    *翻译:* 那会花费你很多钱。
+
+**[00:31]** Nobody's gonna do that for someone who's not their children.
+    *翻译:* 没有人会为不是自己孩子的人做那种事。
+
+**[00:35]** So I thought that was a very, very poignant quote.
+    *翻译:* 所以我认为这是一个非常，非常深刻的引述。
+
+**[00:38]** And lastly, he brings up this idea
+    *翻译:* 最后，他提出了这个想法。
+
+**[00:43]** of what language learning is like.
+    *翻译:* 学习语言是什么样的。
+
+**[00:45]** So he says learning a new language is like island building.
+    *翻译:* 所以他比喻学习一门新语言就像建造岛屿。
+
+**[00:49]** So he says he's basically standing next to a big lake
+    *翻译:* 所以他说他基本上站在一个大湖旁边。
+
+**[00:54]** and he says when he learns a new word or new sentence,
+    *翻译:* 他说当他学到一个新单词或新句子时，
+
+**[00:57]** he throws a new stone into the lake.
+    *翻译:* 他向湖中投掷了一块新石头。
+
+## 完整原文
+
+the amount of ability to learn a new language, whereas adults seem to take so long and the progress is so inconsistent and very slow. And so people tend to see that there is, like, probably a developmental difference in the brains and it's just impossible to learn like a kid. But I think what he's saying here is so true. But kids have basically a free language shooter around them 24 hours a day that feeds them comprehensive input. Whereas if you try to get that as an adult, that's gonna cost you a lot of money. Nobody's gonna do that for someone who's not their children. So I thought that was a very, very poignant quote. And lastly, he brings up this idea of what language learning is like. So he says learning a new language is like island building. So he says he's basically standing next to a big lake and he says when he learns a new word or new sentence, he throws a new stone into the lake.
+
+## 完整译文
+
+学习新语言的能力，相比之下成年人似乎需要很长时间，进步也不一致且非常缓慢。因此人们倾向于认为，大脑中可能存在某种发展差异，像孩子那样学习是不可能的。但我认为他在这里所说的非常正确。孩子们基本上24小时都有免费的“语言射手”围绕在他们周围，为他们提供全面输入。而如果你作为成年人尝试获得这种输入，那将花费你很多钱。没有人会为不是自己孩子的人做这件事。所以我认为这是一个非常深刻的引述。最后，他提出了关于语言学习是什么的观点。他说学习新语言就像建造岛屿。他说，他基本上是站在一个大湖边，当他学到一个新单词或新句子时，他就往湖里扔一块新石头。
