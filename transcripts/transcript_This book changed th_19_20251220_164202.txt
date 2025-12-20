@@ -1,0 +1,45 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 906
+- **译文字符数:** 294
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** is a web of connections when disparate neurons fire together, they wire together.
+    *翻译:* 当不同的神经元一起放电时，它们会连接在一起，形成一个相互联系的网络。
+
+**[00:04]** And obviously we know this from psychology class, from science class. We know this, but how do we use it for a language?
+    *翻译:* 显然，我们从心理学课、科学课中学到了这些知识。我们知道这些，但我们如何将这些知识应用于语言学习呢？
+
+**[00:11]** And so he has developed the system where you create kind of like memories connected to each new word you're trying to learn.
+    *翻译:* 因此，他开发了一个系统，在这个系统中，你为每个你试图学习的新单词创建类似记忆的连接。
+
+**[00:18]** And then he recommends flashcards. So whether or not you approve of flashcards, that's up to you.
+    *翻译:* 然后他推荐使用抽认卡。所以无论你是否赞成使用抽认卡，那都取决于你自己。
+
+**[00:24]** But I think it's, you know, a really great idea, a scientific idea that he put into practice.
+    *翻译:* 但我认为是的，你知道，这是一个真正伟大的想法，一个他付诸实践的科学想法。
+
+**[00:30]** Next, so he says this particular quote, which I found to be really stunning. So he says,
+    *翻译:* 接下来，他说了这句特别的话，我觉得非常震撼。他说，
+
+**[00:38]** kids learn languages by listening and watching adults for thousands upon thousands of hours.
+    *翻译:* 孩子们通过成千上万小时的听和观察成年人来学习语言。
+
+**[00:43]** Adults do this for free for their own kids, but those same adults will tend to charge you a lot of money.
+    *翻译:* 成年人会免费为自己的孩子们做这件事，但同样的成年人往往会向你收取很多钱。
+
+**[00:50]** And I think this is absolutely brilliant. Why? Because we tend to see that children have a crazy
+    *翻译:* 我认为这绝对是天才之举。为什么？因为我们往往看到孩子们有着疯狂的
+
+**[00:59]** d
+
+## 完整原文
+
+is a web of connections when disparate neurons fire together, they wire together. And obviously we know this from psychology class, from science class. We know this, but how do we use it for a language? And so he has developed the system where you create kind of like memories connected to each new word you're trying to learn. And then he recommends flashcards. So whether or not you approve of flashcards, that's up to you. But I think it's, you know, a really great idea, a scientific idea that he put into practice. Next, so he says this particular quote, which I found to be really stunning. So he says, kids learn languages by listening and watching adults for thousands upon thousands of hours. Adults do this for free for their own kids, but those same adults will tend to charge you a lot of money. And I think this is absolutely brilliant. Why? Because we tend to see that children have a crazy d
+
+## 完整译文
+
+当不同的神经元一起放电时，它们就会连接在一起，形成了一个相互联系的网络。我们从心理学课和科学课上都知道这一点。我们知道这一点，但我们如何将这一点应用于语言学习呢？因此，他开发了一种系统，你可以在学习每个新单词时，创建与之相关的记忆。然后他推荐使用抽认卡。无论你是否赞成使用抽认卡，这都取决于你。但我认为这是一个真正伟大的想法，一个他付诸实践的科学想法。接下来，他说了这句特别的话，我觉得非常震撼。他说，孩子们通过成千上万小时的听和看成年人来学习语言。成年人会免费为自己的孩子们这样做，但那些成年人往往会向你收取很多钱。我认为这绝对是天才的想法。为什么？因为我们往往看到孩子们有疯狂的...
