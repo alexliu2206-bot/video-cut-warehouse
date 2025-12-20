@@ -1,0 +1,61 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 959
+- **译文字符数:** 308
+- **段落数:** 15
+
+## 分段转录
+
+**[00:00]** the presence of the narrator and what that presence does to our experience when we engage
+    *翻译:* 叙述者的存在以及这种存在在我们参与时对我们体验的影响
+
+**[00:05]** with a text.
+    *翻译:* 用一段文字。
+
+**[00:06]** A narrator's voice, their tone, their cadence, their accent, maybe their emotional shading,
+    *翻译:* 一个叙述者的声音，他们的语调，他们的韵律，他们的口音，也许还有他们的情感色彩，
+
+**[00:14]** that inevitably shapes interpretation.
+    *翻译:* 这不可避免地塑造了解释。
+
+**[00:17]** Now on the one hand, that can really elevate a book, turning even mediocre pros into
+    *翻译:* 现在一方面，这真的可以提升一本书，甚至可以把平庸的专业人士变成
+
+**[00:22]** something really enthralling.
+    *翻译:* 某件真正令人着迷的事情。
+
+**[00:25]** But on the other hand, it can also narrow the imaginative space, or it could impose an
+    *翻译:* 但另一方面，它也可能缩小想象空间，或者它可能施加一个
+
+**[00:31]** interpretation on the text that the text doesn't actually demand.
+    *翻译:* 对文本的解释是文本实际上并不需要的。
+
+**[00:34]** Either way, listening introduces another artist into the process.
+    *翻译:* 无论如何，倾听将另一位艺术家引入了这个过程。
+
+**[00:38]** Now for some books, that can be a gift, but for others, it can be a distortion.
+    *翻译:* 对于一些书籍，它们可以作为礼物，但对于另一些书籍，它们可能是一种曲解。
+
+**[00:43]** Either way, it does change the way that you experience the story.
+    *翻译:* 无论如何，它确实改变了你体验故事的方式。
+
+**[00:47]** So either way, do I think audiobooks count as reading?
+    *翻译:* 所以不管怎样，我认为听有声书算作阅读吗？
+
+**[00:50]** Well, if you're asking whether audiobooks count as part of the reading world, then I say yes,
+    *翻译:* 好的，如果你在问有声书是否算作阅读世界的一部分，那么我认为是的，
+
+**[00:55]** of course they do.
+    *翻译:* 当然，他们确实如此。
+
+**[00:56]** But the two experiences are not identical, which means that they're not full.
+    *翻译:* 但这两次经历并不相同，这意味着它们并不完整。
+
+## 完整原文
+
+the presence of the narrator and what that presence does to our experience when we engage with a text. A narrator's voice, their tone, their cadence, their accent, maybe their emotional shading, that inevitably shapes interpretation. Now on the one hand, that can really elevate a book, turning even mediocre pros into something really enthralling. But on the other hand, it can also narrow the imaginative space, or it could impose an interpretation on the text that the text doesn't actually demand. Either way, listening introduces another artist into the process. Now for some books, that can be a gift, but for others, it can be a distortion. Either way, it does change the way that you experience the story. So either way, do I think audiobooks count as reading? Well, if you're asking whether audiobooks count as part of the reading world, then I say yes, of course they do. But the two experiences are not identical, which means that they're not full.
+
+## 完整译文
+
+叙述者的存在以及这种存在如何影响我们与文本互动时的体验。叙述者的嗓音、语气、节奏、口音，或许还有他们的情感色彩，这些不可避免地塑造了解释。现在，一方面，这确实可以提升一本书，将平庸的散文变成真正迷人的内容。但另一方面，它也可能缩小想象空间，或者对文本施加一种文本实际上并不要求的解释。无论哪种方式，倾听都引入了另一个艺术家进入这个过程。现在，对于一些书籍来说，这可能是一份礼物，但对于其他书籍来说，它可能是扭曲。无论哪种方式，它确实改变了你体验故事的方式。所以，无论如何，我认为有声书算作阅读吗？好吧，如果你问的是，有声书算不算阅读世界的一部分，那么我说是的，当然算。但这两种体验并不相同，这意味着它们并不完全相同。
