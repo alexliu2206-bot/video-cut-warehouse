@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 935
+- **译文字符数:** 278
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** reading by its destination rather than by the mechanism. They argue, for example, that once the
+    *翻译:* 根据目的地而不是机制来阅读。例如，他们认为一旦
+
+**[00:06]** words, however they arrive in your mind, once they reach the brain, the mental processing is basically
+    *翻译:* 无论这些词汇如何进入你的脑海，一旦它们到达大脑，精神处理基本上
+
+**[00:12]** the same. So either way, your mind is building meaning, constructing narratives, making inferences,
+    *翻译:* 一样的。所以无论哪种方式，你的大脑都在构建意义，构建叙述，做出推断。
+
+**[00:18]** and integrating new ideas into memory. And honestly, I think that's right. I mean, higher level
+    *翻译:* 将新想法融入记忆中。老实说，我认为这是正确的。我的意思是，更高层次
+
+**[00:25]** comprehension relies on the same overlapping systems, whether the input is visual or auditory.
+    *翻译:* 理解依赖于相同的重叠系统，无论输入是视觉还是听觉。
+
+**[00:32]** You know, I ran across the comment recently arguing that, you know, listening cannot be considered
+    *翻译:* 你知道吗，我最近偶然看到了一条评论，它争论说，你知道，倾听不能被认为是
+
+**[00:37]** reading because, you know, if a person saw a stage performance of Romeo and Juliet, for example,
+    *翻译:* 阅读，因为，你知道，如果一个人看了《罗密欧与朱丽叶》的舞台表演，例如，
+
+**[00:43]** you know, they wouldn't go around saying that they had actually read Romeo and Juliet. And I agree
+    *翻译:* 你知道的，他们不会到处说他们真的读过《罗密欧与朱丽叶》。我同意。
+
+**[00:50]** with that. I think that argument makes sense. But at the same time, I would strongly disagree with
+    *翻译:* 好的，我认为那个论点有道理。但同时，我会强烈反对
+
+**[00:56]** the notion that such a performance would somehow...
+    *翻译:* 这种表演会以某种方式……的观念
+
+## 完整原文
+
+reading by its destination rather than by the mechanism. They argue, for example, that once the words, however they arrive in your mind, once they reach the brain, the mental processing is basically the same. So either way, your mind is building meaning, constructing narratives, making inferences, and integrating new ideas into memory. And honestly, I think that's right. I mean, higher level comprehension relies on the same overlapping systems, whether the input is visual or auditory. You know, I ran across the comment recently arguing that, you know, listening cannot be considered reading because, you know, if a person saw a stage performance of Romeo and Juliet, for example, you know, they wouldn't go around saying that they had actually read Romeo and Juliet. And I agree with that. I think that argument makes sense. But at the same time, I would strongly disagree with the notion that such a performance would somehow...
+
+## 完整译文
+
+阅读是根据其目的地而不是机制来进行的。例如，他们认为一旦文字以任何方式进入你的大脑，大脑对文字的心智处理基本上是一样的。所以无论如何，你的大脑都在构建意义、构建叙述、做出推断，并将新的想法融入记忆中。老实说，我认为这是正确的。我的意思是，无论输入是视觉还是听觉，更高层次的理解都依赖于相同的重叠系统。你知道，我最近看到了一条评论，认为听不能被视为阅读，因为如果一个人看了《罗密欧与朱丽叶》的舞台表演，他们不会到处说他们实际上读过《罗密欧与朱丽叶》。我同意这一点。我认为这个论点是有道理的。但与此同时，我会强烈反对这样一种观点，即这样的表演会以某种方式...
