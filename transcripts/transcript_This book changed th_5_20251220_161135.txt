@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 907
+- **译文字符数:** 270
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** Dells into memory and learning and he actually makes a very good case for what he's about to
+    *翻译:* 戴尔深入研究记忆和学习，实际上他为自己即将做的事情提出了一个很好的论点。
+
+**[00:07]** introduce later. So I'm going to cover some of these essential principles right here. One of the
+    *翻译:* 稍后介绍。所以我会在这里涵盖一些这些基本原则。其中之一
+
+**[00:14]** first things that he talks about is the fact that the brain is a filter. So, you know, our brain,
+    *翻译:* 他首先谈到的是大脑是一个过滤器。所以，你知道，我们的大脑，
+
+**[00:21]** we get input like thousands and hundreds of thousands of new information every day, right? But the
+    *翻译:* 我们每天都会接收到成千上万乃至几十万条新信息，对吧？但是
+
+**[00:27]** brain has to decide what we remember and what we don't remember. So, for the brain, we have to
+    *翻译:* 大脑必须决定我们记住什么和不记住什么。所以，对于大脑来说，我们必须
+
+**[00:33]** decide, okay, is it important? Is it important information? If it is, then we're going to try to
+    *翻译:* 决定，好的，这重要吗？这是重要信息吗？如果是，那么我们会尝试
+
+**[00:39]** remember it. We're going to be putting that into the important side of our brain to memorize it.
+    *翻译:* 记住它。我们将把它放入我们大脑中重要的一侧以便记住它。
+
+**[00:45]** But if the brain renders something, okay, we think it's not important, it's irrelevant for our lives
+    *翻译:* 但如果大脑认为某件事不重要，与我们的生活无关，那么它就不会去处理这件事。
+
+**[00:51]** and in the future, we're not going to work hard to remember it. And so he argues that foreign words,
+    *翻译:* 将来，我们不会努力去记住它。因此，他认为外来词汇，
+
+**[00:58]** words and foreign language...
+    *翻译:* 文字和外语……
+
+## 完整原文
+
+Dells into memory and learning and he actually makes a very good case for what he's about to introduce later. So I'm going to cover some of these essential principles right here. One of the first things that he talks about is the fact that the brain is a filter. So, you know, our brain, we get input like thousands and hundreds of thousands of new information every day, right? But the brain has to decide what we remember and what we don't remember. So, for the brain, we have to decide, okay, is it important? Is it important information? If it is, then we're going to try to remember it. We're going to be putting that into the important side of our brain to memorize it. But if the brain renders something, okay, we think it's not important, it's irrelevant for our lives and in the future, we're not going to work hard to remember it. And so he argues that foreign words, words and foreign language...
+
+## 完整译文
+
+Dells深入探讨了记忆和学习，并且他实际上为接下来要介绍的内容提出了一个很好的论点。所以，我将在这里涵盖一些这些基本原则。他谈到的第一件事就是大脑是一个过滤器。所以，你知道，我们的大脑，我们每天都会接收到成千上万的新信息，对吧？但是大脑必须决定我们记住什么和不记住什么。所以，对于大脑来说，我们必须决定，好的，它重要吗？它是重要信息吗？如果是，那么我们就将尝试记住它。我们将把它放入大脑的重要部分来记忆它。但如果大脑认为某件事，好的，我们认为它不重要，它与我们的生活和未来无关，我们就不会努力去记住它。因此，他主张外语单词、单词和外语……
