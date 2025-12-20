@@ -1,0 +1,31 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 411
+- **译文字符数:** 136
+- **段落数:** 5
+
+## 分段转录
+
+**[00:00]** totally interchangeable. Reading and listening highlight different aspects of a book, you know,
+    *翻译:* 完全可以互换。阅读和倾听突出了书籍的不同方面，你知道的，
+
+**[00:05]** each medium reveals certain things, but it also obscures others. So what you end up taking
+    *翻译:* 每种媒介都能揭示某些事物，但同时也掩盖了其他事物。因此，你最终所接受的
+
+**[00:11]** away from each one will naturally vary. But if audiobooks help you read more, understand
+    *翻译:* 每个人远离的程度自然会有所不同。但如果有声书能帮助你读得更多，理解
+
+**[00:16]** more, or connect more deeply with the stories, then not only do they count, but maybe they
+    *翻译:* 更多，或者更深入地与故事联系，那么它们不仅重要，而且可能它们
+
+**[00:21]** count in the only way that actually matters.
+    *翻译:* 以真正重要的方式计数。
+
+## 完整原文
+
+totally interchangeable. Reading and listening highlight different aspects of a book, you know, each medium reveals certain things, but it also obscures others. So what you end up taking away from each one will naturally vary. But if audiobooks help you read more, understand more, or connect more deeply with the stories, then not only do they count, but maybe they count in the only way that actually matters.
+
+## 完整译文
+
+完全可以互换。阅读和听书突出了书籍的不同方面，你知道，每种媒介都揭示了某些东西，但也掩盖了其他东西。所以你从每一种方式中最终获得的东西自然会有所不同。但如果有声书能帮助你读得更多、理解得更多，或者更深入地与故事联系起来，那么它们不仅算数，也许它们以唯一真正重要的方式算数。
