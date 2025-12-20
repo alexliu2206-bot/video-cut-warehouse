@@ -1,0 +1,61 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 926
+- **译文字符数:** 267
+- **段落数:** 15
+
+## 分段转录
+
+**[00:00]** very clear you can tell that a whiner is very, very passionate about languages and many
+    *翻译:* 非常清楚，你可以看出一个抱怨者对语言非常、非常热情，并且涉及很多。
+
+**[00:05]** different languages and cultures.
+    *翻译:* 不同的语言和文化。
+
+**[00:08]** And he says that his partners native languages is different than from his own.
+    *翻译:* 他说他的合作伙伴的母语与他自己的不一样。
+
+**[00:12]** So he has kind of put himself into situations where he is kind of forced to learn different
+    *翻译:* 所以他有点让自己置身于不得不学习不同事物的情况中。
+
+**[00:17]** languages and quickly.
+    *翻译:* 语言和快速。
+
+**[00:21]** And not everyone is going to be in that same situation.
+    *翻译:* 并不是每个人都会处于相同的情况。
+
+**[00:24]** So I think that it's good to take his success with a green assault.
+    *翻译:* 所以我认为用绿色突击来看待他的成功是好的。
+
+**[00:30]** You're not going to have the same success as him unless you live in exactly his situation.
+    *翻译:* 除非你完全处于他的情况中，否则你不会拥有与他相同的成功。
+
+**[00:36]** But I think overall I think the book presents a lot of really great, rational theories about
+    *翻译:* 但我认为总体上，我认为这本书提出了许多真正伟大、理性的理论。
+
+**[00:41]** how to improve your language fast and I think it's pretty great.
+    *翻译:* 如何快速提高你的语言能力，我认为这非常棒。
+
+**[00:46]** Does it help you learn languages quickly?
+    *翻译:* 它能帮助您快速学习语言吗？
+
+**[00:48]** So this is I think the most important question, right?
+    *翻译:* 所以我认为这是最重要的问题，对吧？
+
+**[00:51]** And I think the answer is yes.
+    *翻译:* 我认为答案是肯定的。
+
+**[00:53]** Although like I mentioned, he doesn't have a linguistics background.
+    *翻译:* 尽管如我提到的，他没有语言学背景。
+
+**[00:57]** He has learned many different languages.
+    *翻译:* 他已经学会了很多不同的语言。
+
+## 完整原文
+
+very clear you can tell that a whiner is very, very passionate about languages and many different languages and cultures. And he says that his partners native languages is different than from his own. So he has kind of put himself into situations where he is kind of forced to learn different languages and quickly. And not everyone is going to be in that same situation. So I think that it's good to take his success with a green assault. You're not going to have the same success as him unless you live in exactly his situation. But I think overall I think the book presents a lot of really great, rational theories about how to improve your language fast and I think it's pretty great. Does it help you learn languages quickly? So this is I think the most important question, right? And I think the answer is yes. Although like I mentioned, he doesn't have a linguistics background. He has learned many different languages.
+
+## 完整译文
+
+非常清楚，你可以看出一个抱怨者对语言和许多不同的语言及文化非常、非常热情。他说，他的伴侣的母语与他自己的不一样。所以他让自己置身于不得不快速学习不同语言的情况中。并不是每个人都会处于相同的情况。所以我认为，对他的成功持怀疑态度是好的。除非你完全处于他的境地，否则你不会和他有同样的成功。但总的来说，我认为这本书提出了很多关于如何快速提高你的语言能力的真正伟大、理性的理论，我认为这是相当棒的。它能帮助你快速学习语言吗？所以我认为这是最重要的问题，对吧？我认为答案是肯定的。尽管像我提到的，他没有语言学背景。他已经学会了许多不同的语言。
