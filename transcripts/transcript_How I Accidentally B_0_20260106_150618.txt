@@ -1,0 +1,43 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 972
+- **译文字符数:** 305
+- **段落数:** 9
+
+## 分段转录
+
+**[00:00]** This title isn't an exaggeration. I somehow managed to stumble my way into the ranks of the top students, not once, not twice, but the rise in my life.
+    *翻译:* 这个标题并非夸大其词。我不知怎的，竟然跌跌撞撞地进入了顶尖学生的行列，不是一次，不是两次，而是我生命中的崛起。
+
+**[00:11]** All against my will, the story is so bizarre and kind of unbelievable, so grab some popcorn and enjoy.
+    *翻译:* 尽管违背我的意愿，这个故事如此离奇，有点难以置信，所以拿些爆米花，好好享受吧。
+
+**[00:18]** This strange curse started all the way from elementary school.
+    *翻译:* 这个奇怪的诅咒始于小学时期。
+
+**[00:22]** You see, the school I went to had a class ranking system where all the top students would be compiled together in class A, and the sequence would follow with class B, C, D, and E.
+    *翻译:* 你看，我上的学校有一个班级排名系统，所有顶尖学生都会被编入A班，然后依次是B班、C班、D班和E班。
+
+**[00:33]** Basically grouping students depending on their academic capabilities.
+    *翻译:* 基本上根据学生的学术能力进行分组。
+
+**[00:36]** When I was first enrolled in this school, I was randomly assigned to class D, the second to last class.
+    *翻译:* 当我最初被录取到这所学校时，我被随机分配到了D班，倒数第二的班级。
+
+**[00:43]** I didn't really care what class I was in, so I was floating by in my classes all the way until the third year.
+    *翻译:* 我其实并不在乎自己在哪个班级，所以我一直到第三年都在各个班级中漫无目的地混日子。
+
+**[00:49]** However, the strange streak in my life finally started on one very normal afternoon.
+    *翻译:* 然而，我生命中的那条奇异轨迹终于在一个非常普通的下午开始了。
+
+**[00:55]** I was in class during the usual when me and a few other students in class were suddenly called to the...
+    *翻译:* 我像往常一样在上课时，突然我和班上其他几个学生被叫到了...
+
+## 完整原文
+
+This title isn't an exaggeration. I somehow managed to stumble my way into the ranks of the top students, not once, not twice, but the rise in my life. All against my will, the story is so bizarre and kind of unbelievable, so grab some popcorn and enjoy. This strange curse started all the way from elementary school. You see, the school I went to had a class ranking system where all the top students would be compiled together in class A, and the sequence would follow with class B, C, D, and E. Basically grouping students depending on their academic capabilities. When I was first enrolled in this school, I was randomly assigned to class D, the second to last class. I didn't really care what class I was in, so I was floating by in my classes all the way until the third year. However, the strange streak in my life finally started on one very normal afternoon. I was in class during the usual when me and a few other students in class were suddenly called to the...
+
+## 完整译文
+
+这个标题并非夸大其词。我不知怎的，竟然跌跌撞撞地进入了顶尖学生的行列，不是一次，不是两次，而是我生命中的崛起。这一切都违背了我的意愿，这个故事如此离奇，有点难以置信，所以拿些爆米花，好好享受吧。这种奇怪的诅咒从小学就开始了。你看，我就读的学校有一个班级排名系统，所有顶尖学生都会被编入A班，然后依次是B班、C班、D班和E班。基本上是根据学生的学术能力进行分组。当我最初被录取到这所学校时，我被随机分配到了D班，倒数第二的班级。我并不真的在乎我在哪个班级，所以我一直在我的课程中漫无目的地漂浮，直到第三年。然而，我生命中的奇怪连续终于在一个非常普通的下午开始了。我正在上课，突然我和班上其他几个学生被叫到了...
