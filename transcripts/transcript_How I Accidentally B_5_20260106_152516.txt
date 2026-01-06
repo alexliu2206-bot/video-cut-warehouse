@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 994
+- **译文字符数:** 299
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** a liar for being an actual top student, I want to clarify that my grades really weren't
+    *翻译:* 作为一个实际上成绩优异的学生却被认为是骗子，我想澄清我的成绩真的不是那样的。
+
+**[00:05]** that good. Compared to the real top students in other classes, my grades were average.
+    *翻译:* 那很好。与其他班级真正的顶尖学生相比，我的成绩是平均水平。
+
+**[00:10]** I don't remember my exact grades, but to give a comparison, the other topers were scoring
+    *翻译:* 我不记得我确切的分数，但是为了比较，其他顶尖学生得分
+
+**[00:15]** A's while I was scoring below that. We are not in the same league.
+    *翻译:* 有一段时间我的得分低于那个。我们不在同一水平。
+
+**[00:20]** The problem that led to my placing was that everyone in class was doing worse than I was,
+    *翻译:* 导致我被安排的问题是班上的每个人都比我做得更差。
+
+**[00:25]** so I pushed my average grades into the top tree.
+    *翻译:* 所以我把我的平均成绩提高到了前三名。
+
+**[00:28]** It's like those shitty novels where the protagonist is so called genius, but only because
+    *翻译:* 这就像那些糟糕的小说，里面的主角被称为天才，但实际上只是因为
+
+**[00:33]** the author dumped down the IQ of everyone around him, so he looks smarter in comparison.
+    *翻译:* 作者降低了周围所有人的智商，这样相比之下他看起来更聪明。
+
+**[00:38]** Now, there was a widely known understanding among the students that all the top achievers
+    *翻译:* 现在，在学生们中间普遍存在一种认识，那就是所有的顶尖成绩获得者
+
+**[00:43]** would be automatically placed into the science classes.
+    *翻译:* 将被自动安排进科学课程。
+
+**[00:46]** Personally, I disagreed and stubbornly believed I would get assigned to take arts despite
+    *翻译:* 就我个人而言，我不同意并且固执地相信我会被分配去学习艺术，尽管
+
+**[00:51]** my phony top student title.
+    *翻译:* 我的虚假优秀学生称号。
+
+**[00:54]** Because if you look through my results, my top subjects beside English was arts.
+    *翻译:* 因为如果你查看我的成绩，除了英语之外，我最擅长的科目是艺术。
+
+## 完整原文
+
+a liar for being an actual top student, I want to clarify that my grades really weren't that good. Compared to the real top students in other classes, my grades were average. I don't remember my exact grades, but to give a comparison, the other topers were scoring A's while I was scoring below that. We are not in the same league. The problem that led to my placing was that everyone in class was doing worse than I was, so I pushed my average grades into the top tree. It's like those shitty novels where the protagonist is so called genius, but only because the author dumped down the IQ of everyone around him, so he looks smarter in comparison. Now, there was a widely known understanding among the students that all the top achievers would be automatically placed into the science classes. Personally, I disagreed and stubbornly believed I would get assigned to take arts despite my phony top student title. Because if you look through my results, my top subjects beside English was arts.
+
+## 完整译文
+
+作为一个被认为是顶尖学生的骗子，我想澄清我的分数真的没有那么好。与其他班级真正的顶尖学生相比，我的分数只是平均水平。我不记得我确切的分数，但为了比较，其他顶尖学生都在拿A，而我却低于那个分数。我们不在同一水平线上。导致我排名的问题是班上每个人都比我做得差，所以我的平均水平被推到了顶尖位置。这就像那些糟糕的小说，主角被称为天才，但只是因为作者降低了周围所有人的智商，所以他相比之下看起来更聪明。现在，学生们普遍认为所有顶尖成绩的学生将自动被分配到理科班。就我个人而言，我不同意，并且固执地相信尽管我有虚假的顶尖学生头衔，我会被分配去学习文科。因为如果你看我的成绩，除了英语之外，我最好的科目是文科。
