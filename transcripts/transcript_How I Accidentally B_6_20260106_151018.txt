@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 936
+- **译文字符数:** 267
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** I was banking that the teachers looked through each student's report and assigned them
+    *翻译:* 我期望老师们能查看每个学生的报告并给他们分配任务。
+
+**[00:04]** based on compatibility, not solely on class placements.
+    *翻译:* 基于兼容性，而不仅仅是基于班级排名。
+
+**[00:09]** Then came Result Day, and all the students were crowding over to see where their names were
+    *翻译:* 然后到了成绩公布日，所有学生都挤在一起查看自己的名字在哪里。
+
+**[00:14]** in the list for each class.
+    *翻译:* 每个类别的列表中。
+
+**[00:16]** And then I looked at the list for students in Sciences, and low and behold, my name was
+    *翻译:* 然后我看了看理科学生的名单，天哪，我的名字在上面。
+
+**[00:23]** on it.
+    *翻译:* 在上面。
+
+**[00:27]** Turns out the school really did distribute students solely on their overall grades and did
+    *翻译:* 结果发现学校确实只根据学生的总成绩来分配学生。
+
+**[00:31]** not take their time looking through the students' reports like I thought they would.
+    *翻译:* 并没有像我想象的那样花时间查看学生的报告。
+
+**[00:36]** I'm sorry for assuming such care would be given, okay?
+    *翻译:* 很抱歉，我假设会有这样的照顾，可以吗？
+
+**[00:40]** But there was still a possible turning point, guys.
+    *翻译:* 但伙计们，仍然存在可能的转折点。
+
+**[00:43]** I had a choice to write a letter and a crossword change in classes within a week.
+    *翻译:* 我有一个选择，在一周内写一封信和在班级里改变填字游戏。
+
+**[00:47]** The overwhelming pressure right from the start and the class full of unfamiliar people
+    *翻译:* 从一开始就压得喘不过气来，而且整个班级都是不熟悉的人。
+
+**[00:52]** peaked my anxiety levels and I was seriously considering the change.
+    *翻译:* 我的焦虑水平达到了顶峰，我正在认真考虑改变。
+
+**[00:56]** To put it into perspective, even the teachers weren't us.
+    *翻译:* 从某种角度来看，即使是老师们也并非我们。
+
+## 完整原文
+
+I was banking that the teachers looked through each student's report and assigned them based on compatibility, not solely on class placements. Then came Result Day, and all the students were crowding over to see where their names were in the list for each class. And then I looked at the list for students in Sciences, and low and behold, my name was on it. Turns out the school really did distribute students solely on their overall grades and did not take their time looking through the students' reports like I thought they would. I'm sorry for assuming such care would be given, okay? But there was still a possible turning point, guys. I had a choice to write a letter and a crossword change in classes within a week. The overwhelming pressure right from the start and the class full of unfamiliar people peaked my anxiety levels and I was seriously considering the change. To put it into perspective, even the teachers weren't us.
+
+## 完整译文
+
+我原本希望老师们会仔细查看每个学生的报告，并根据兼容性分配他们，而不仅仅是根据班级安排。然后到了公布结果的日子，所有学生都挤在一起看名单上他们的名字分别在哪个班级。接着我看了理科生的名单，天哪，我的名字在上面。结果发现学校真的只是根据学生的总成绩分配学生，并没有像我想象的那样花时间查看学生的报告。我为我的假设道歉，好吗？但仍然有一个可能的转折点，伙计们。我可以选择在一周内写信和填字游戏来改变班级。从一开始就有巨大的压力，加上满是陌生人的班级，让我的焦虑水平达到了顶峰，我确实在认真考虑改变。从某种角度来看，即使是老师们也不是我们。
