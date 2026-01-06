@@ -1,0 +1,91 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 944
+- **译文字符数:** 268
+- **段落数:** 25
+
+## 分段转录
+
+**[00:00]** The principal's office.
+    *翻译:* 校长办公室。
+
+**[00:01]** Never a good sign.
+    *翻译:* 从来不是好兆头。
+
+**[00:03]** So me and my classmates walked our little legs
+    *翻译:* 所以我和我的同学们迈着我们的小腿
+
+**[00:05]** to the principal's office in confusion,
+    *翻译:* 带着困惑前往校长办公室，
+
+**[00:07]** where we saw a few other students called in too.
+    *翻译:* 我们在那里看到几个其他学生也被叫了进来。
+
+**[00:09]** The principal then broke the amazing news to us.
+    *翻译:* 校长随后向我们宣布了这个惊人的消息。
+
+**[00:13]** Congrats everyone.
+    *翻译:* 恭喜大家。
+
+**[00:15]** The school has looked over your grades
+    *翻译:* 学校已经查看了你的成绩
+
+**[00:16]** and decided to move you all up to class A for your fourth year.
+    *翻译:* 并决定让你们所有人在第四年升入A班。
+
+**[00:20]** We have gathered you all here
+    *翻译:* 我们把你们都召集到这里
+
+**[00:21]** to ask for your approval on this change.
+    *翻译:* 请求您批准这一变更。
+
+**[00:23]** Oh, wow, really?
+    *翻译:* 哦，哇，真的吗？
+
+**[00:26]** I can't believe this.
+    *翻译:* 我真不敢相信。
+
+**[00:28]** Huh?
+    *翻译:* 哈？
+
+**[00:30]** Nine-year-old me was dumbfounded
+    *翻译:* 九岁的我目瞪口呆
+
+**[00:32]** for the first time in my life.
+    *翻译:* 这是我生命中的第一次。
+
+**[00:33]** I did not see this as an accomplishment.
+    *翻译:* 我没有将这视为一项成就。
+
+**[00:36]** I knew very well that I was not top student material
+    *翻译:* 我非常清楚自己不是顶尖学生的材料。
+
+**[00:39]** and was very resistant to changing the status quo
+    *翻译:* 并且非常抵制改变现状
+
+**[00:42]** and switching into a completely new class.
+    *翻译:* 并转入一个全新的班级。
+
+**[00:45]** I thought back to what could have led to this situation
+    *翻译:* 我回想起可能导致这种情况的原因。
+
+**[00:48]** and finally realized where things went wrong.
+    *翻译:* 最终意识到哪里出了问题。
+
+**[00:51]** Remember how I told you that I was just
+    *翻译:* 记得我告诉过你我只是
+
+**[00:53]** coasting by in all my classes?
+    *翻译:* 在所有的课程中都只是勉强通过？
+
+**[00:56]** Well, there was one subject where that wasn't the case.
+    *翻译:* 好吧，有一个科目并不是这样。
+
+## 完整原文
+
+The principal's office. Never a good sign. So me and my classmates walked our little legs to the principal's office in confusion, where we saw a few other students called in too. The principal then broke the amazing news to us. Congrats everyone. The school has looked over your grades and decided to move you all up to class A for your fourth year. We have gathered you all here to ask for your approval on this change. Oh, wow, really? I can't believe this. Huh? Nine-year-old me was dumbfounded for the first time in my life. I did not see this as an accomplishment. I knew very well that I was not top student material and was very resistant to changing the status quo and switching into a completely new class. I thought back to what could have led to this situation and finally realized where things went wrong. Remember how I told you that I was just coasting by in all my classes? Well, there was one subject where that wasn't the case.
+
+## 完整译文
+
+校长办公室。从不是好兆头。于是我和我的同学们困惑地走到校长办公室，看到还有其他几个学生也被叫来了。然后校长向我们宣布了惊人的消息。恭喜大家。学校查看了你们的成绩，决定让你们所有人在第四年升入A班。我们把你们召集到这里，是为了征求你们对这个变化的同意。哦，哇，真的吗？我简直不敢相信。嗯？九岁的我人生中第一次感到茫然。我不认为这是一项成就。我很清楚自己不是顶尖学生的材料，非常抗拒改变现状，换到一个全新的班级。我回想起可能导致这种情况的原因，最终意识到哪里出了问题。记得我告诉过你我只是在所有课程中勉强应付吗？好吧，有一个科目不是这样的。
