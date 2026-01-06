@@ -1,0 +1,70 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1088
+- **译文字符数:** 321
+- **段落数:** 18
+
+## 分段转录
+
+**[00:00]** It testified that a majority of the 12 students involved did not want this change at all.
+    *翻译:* 这证明了涉及的12名学生中大多数并不想进行这样的改变。
+
+**[00:05]** The time spent bonding and building synergy with our respective classes over the past year
+    *翻译:* 过去一年中，我们与各自班级建立联系和协同作用所花费的时间
+
+**[00:10]** made everyone very resistant to the switch-up.
+    *翻译:* 使每个人都对变化非常抵触。
+
+**[00:13]** This was like an outsider forcing their way into an already established friend group.
+    *翻译:* 这就像是一个外来者强行加入一个已经建立起来的朋友圈。
+
+**[00:17]** You know it doesn't end well.
+    *翻译:* 你知道结果不会很好。
+
+**[00:19]** I was ready to put up a fight for this one, but the other students were one step ahead
+    *翻译:* 我已经准备好为这个争论一番，但其他学生已经先一步行动了。
+
+**[00:23]** of me and had already submitted their refusal letters.
+    *翻译:* 关于我，他们已经提交了拒绝信。
+
+**[00:26]** What they heard back was rejection.
+    *翻译:* 他们收到的回应是拒绝。
+
+**[00:28]** As the school's decision was final and there would be no room for argument.
+    *翻译:* 由于学校的决定是最终的，将不会有争论的余地。
+
+**[00:32]** The one time I actually had the resolve to write a refusal letter, and they wouldn't
+    *翻译:* 那次我实际上下定决心要写一封拒绝信，但他们不愿意。
+
+**[00:37]** even look at it.
+    *翻译:* 甚至看一眼。
+
+**[00:38]** It's got playing a cruel joke on me.
+    *翻译:* 它对我开了一个残酷的玩笑。
+
+**[00:41]** This was most likely the roughest class change in terms of academics for me.
+    *翻译:* 这对我来说在学术上可能是最艰难的班级变动。
+
+**[00:45]** It was only by being in this class that I realized the absolute gap between me and the true
+    *翻译:* 只有在上了这个班，我才意识到我和真正的差距。
+
+**[00:49]** top students.
+    *翻译:* 顶尖学生。
+
+**[00:50]** However, I found that such an intense study environment actually pushed me to do better and
+    *翻译:* 然而，我发现这样紧张的学习环境实际上促使我做得更好。
+
+**[00:55]** slowly but surely my grades improved greatly.
+    *翻译:* 我的分数虽然提高得慢，但确实有了很大进步。
+
+**[00:58]** I managed to make really good-
+    *翻译:* 我设法做得非常好。
+
+## 完整原文
+
+It testified that a majority of the 12 students involved did not want this change at all. The time spent bonding and building synergy with our respective classes over the past year made everyone very resistant to the switch-up. This was like an outsider forcing their way into an already established friend group. You know it doesn't end well. I was ready to put up a fight for this one, but the other students were one step ahead of me and had already submitted their refusal letters. What they heard back was rejection. As the school's decision was final and there would be no room for argument. The one time I actually had the resolve to write a refusal letter, and they wouldn't even look at it. It's got playing a cruel joke on me. This was most likely the roughest class change in terms of academics for me. It was only by being in this class that I realized the absolute gap between me and the true top students. However, I found that such an intense study environment actually pushed me to do better and slowly but surely my grades improved greatly. I managed to make really good-
+
+## 完整译文
+
+这证明了涉及的12名学生中大多数人根本不希望这种变化。过去一年里，我们与各自班级建立联系和协同作用所花费的时间，使每个人都非常抵制这种变动。这就像一个外来者强行进入一个已经建立起来的朋友圈。你知道这不会有好结果。我准备为这件事抗争，但其他学生比我先行一步，已经提交了他们的拒绝信。他们收到的回复是拒绝。因为学校的决定是最终的，不会有争论的余地。我真正有决心写拒绝信的一次，他们甚至都不会看一眼。这对我来说就像开了一个残酷的玩笑。这很可能是我在学术上最艰难的一次班级变动。只有在这个班级里，我才意识到我和真正的顶尖学生之间的绝对差距。然而，我发现这样紧张的学习环境实际上促使我做得更好，慢慢地但肯定地，我的成绩有了很大提高。我设法做得非常好——
