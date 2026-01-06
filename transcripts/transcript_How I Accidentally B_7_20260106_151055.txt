@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1034
+- **译文字符数:** 285
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** that the sign-stack would be harder and that we'd have to work extra, because we carried
+    *翻译:* 这意味着标志堆栈会更加困难，我们将不得不额外工作，因为我们携带了
+
+**[00:04]** more subjects than other classes. My salted fish asked her extra work and decided to put my
+    *翻译:* 比其他班级更多的科目。我的咸鱼问她额外的工作，并决定把我
+
+**[00:09]** appendage ship to the work and start drafting that request letter. However, I had a friend sitting
+    *翻译:* 将附件船发送到工作，并开始起草那封请求信。然而，我有个朋友坐着。
+
+**[00:15]** beside me. She was my previous classmate and the moment she heard I was planning to write that
+    *翻译:* 在我旁边。她是我的前同学，一听说我要写那个，
+
+**[00:20]** request letter, she stopped me, trying to convince me to stay and keep her company in this class,
+    *翻译:* 请求信，她拦住了我，试图说服我留下来在这个班级里陪伴她。
+
+**[00:25]** which was just as unfamiliar to her as it was to me. Seven years later, at the age of 16,
+    *翻译:* 对她来说，这和对我来说一样陌生。七年后，在她16岁的时候，
+
+**[00:31]** I found myself standing at the exact same crossroad yet again. Given the choice to advance onto a
+    *翻译:* 我发现自己再次站在同一个十字路口。面临选择继续前进。
+
+**[00:37]** more challenging and demanding path, or to back out and settle with something I was more comfortable with,
+    *翻译:* 选择更具挑战性和要求的道路，还是退缩并安于我更熟悉的东西，
+
+**[00:44]** I hated making such decisions, I would rather have been forced onto a path than having the
+    *翻译:* 我讨厌做这样的决定，我宁愿被迫走上一条道路，而不是拥有
+
+**[00:49]** options to choose. Perhaps then there would be no regrets made. I spent the next few days thinking
+    *翻译:* 选择的选项。也许那样就不会有遗憾。接下来的几天我都在思考。
+
+**[00:55]** it through and consulting with my family and ultimately chose not to change.
+    *翻译:* 经过深思熟虑并与家人商量后，最终决定不改变。
+
+## 完整原文
+
+that the sign-stack would be harder and that we'd have to work extra, because we carried more subjects than other classes. My salted fish asked her extra work and decided to put my appendage ship to the work and start drafting that request letter. However, I had a friend sitting beside me. She was my previous classmate and the moment she heard I was planning to write that request letter, she stopped me, trying to convince me to stay and keep her company in this class, which was just as unfamiliar to her as it was to me. Seven years later, at the age of 16, I found myself standing at the exact same crossroad yet again. Given the choice to advance onto a more challenging and demanding path, or to back out and settle with something I was more comfortable with, I hated making such decisions, I would rather have been forced onto a path than having the options to choose. Perhaps then there would be no regrets made. I spent the next few days thinking it through and consulting with my family and ultimately chose not to change.
+
+## 完整译文
+
+那个标志堆会更难，我们得额外工作，因为我们比其他班级承担了更多的科目。我的咸鱼同学要求她额外的工作，并决定把我的附属船投入到工作中，开始起草那封请求信。然而，我旁边坐着一个朋友。她是我的前同学，当她听到我计划写那封请求信时，她阻止了我，试图说服我留下来，在这个对她和我一样陌生的班级里陪伴她。七年后，16岁的我发现自己再次站在同一个十字路口。面临选择，是继续走上更具挑战性和要求更高的道路，还是退缩，选择我更熟悉的东西，我讨厌做这样的决定，我宁愿被迫走上一条路，而不是有选择的余地。也许那样就不会有遗憾。接下来的几天，我一直在思考这个问题，并与家人商量，最终决定不改变。
