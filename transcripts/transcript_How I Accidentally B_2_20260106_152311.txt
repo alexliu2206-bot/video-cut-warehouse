@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 939
+- **译文字符数:** 316
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** English. A detail I didn't mention was that this was a Chinese elementary school, where
+    *翻译:* 英语。我未曾提及的一个细节是，这是一所中国的小学，在那里
+
+**[00:06]** 99.9% of the students were Chinese. So as you can expect, a majority of the students
+    *翻译:* 99.9%的学生是中国人。因此，正如你所预期的，大多数学生
+
+**[00:12]** English was kinda sh-. Especially in Class D. This basically made me, the Chinese
+    *翻译:* 英语有点糟糕。特别是在D班。这基本上让我，这个中国人
+
+**[00:18]** fluent in English, the top in this subject. Basically all my other grades were subpar, but
+    *翻译:* 英语流利，这门科目成绩名列前茅。基本上我其他科目的成绩都不理想，但是
+
+**[00:24]** because I scored ridiculously high in English, it pulled my overall grade up so high that
+    *翻译:* 因为我在英语上得了不可思议的高分，它把我的总成绩拉得如此之高，以至于
+
+**[00:30]** I became first in my class. Site note, but I really wasn't a god in English. The test
+    *翻译:* 我成为了班级第一名。顺便提一下，但我的英语真的不是大神级别的。考试
+
+**[00:35]** questions were just such basic English that I would be a fool to score lower with my
+    *翻译:* 这些问题不过是基础英语，我要是得分低了那真是愚蠢。
+
+**[00:39]** English upbringing. Anyways, back to my current dilemma. The principal was now asking us
+    *翻译:* 英国式教育。无论如何，回到我现在的困境。校长现在正在问我们
+
+**[00:45]** one by one if we agreed to such a change. Everyone before me answered yes, and when
+    *翻译:* 如果我们同意这样的改变，那么一个接一个。在我前面的每个人都回答了是，然后
+
+**[00:50]** it was finally my turn, I couldn't think of an excuse to decline. So to buy time, I said
+    *翻译:* 终于轮到我了，我想不出拒绝的借口。所以为了争取时间，我说
+
+**[00:55]** I would consider it by asking my parents. Did the principal let me go?
+    *翻译:* 我会通过询问我的父母来考虑这个问题。校长让我走了吗？
+
+## 完整原文
+
+English. A detail I didn't mention was that this was a Chinese elementary school, where 99.9% of the students were Chinese. So as you can expect, a majority of the students English was kinda sh-. Especially in Class D. This basically made me, the Chinese fluent in English, the top in this subject. Basically all my other grades were subpar, but because I scored ridiculously high in English, it pulled my overall grade up so high that I became first in my class. Site note, but I really wasn't a god in English. The test questions were just such basic English that I would be a fool to score lower with my English upbringing. Anyways, back to my current dilemma. The principal was now asking us one by one if we agreed to such a change. Everyone before me answered yes, and when it was finally my turn, I couldn't think of an excuse to decline. So to buy time, I said I would consider it by asking my parents. Did the principal let me go?
+
+## 完整译文
+
+英语。我刚才没提到的一个细节是，这是一所中国的小学，99.9%的学生都是中国人。所以你可以想象，大多数学生的英语水平都有点糟糕。特别是在D班。这基本上让我，一个英语流利的中国人，成为了这门课程的佼佼者。基本上我其他所有科目的成绩都很一般，但因为我英语成绩异常高，它把我的整体成绩拉得如此之高，以至于我成为了班级第一名。顺便说一下，我并不是英语方面的天才。考试题目只是一些基础英语，如果我用我的英语背景还得分低的话，那我就是个傻瓜。无论如何，回到我现在的困境。校长现在正一个接一个地问我们是否同意这样的变化。在我前面的人都回答了是，当终于轮到我时，我想不出拒绝的借口。所以为了争取时间，我说我会考虑，然后去问我的父母。校长让我走了吗？
