@@ -1,0 +1,46 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 882
+- **译文字符数:** 282
+- **段落数:** 10
+
+## 分段转录
+
+**[00:00]** still an even mix of regular students. This class reassignment basically took the top six students
+    *翻译:* 仍然是普通学生的均衡混合。这次班级重新分配基本上选择了前六名学生。
+
+**[00:06]** in Science B and switched them out with the last six students in Science A.
+    *翻译:* 在科学B班，我将他们与科学A班的最后六名学生进行了交换。
+
+**[00:10]** Absolutely brutal since finals had just ended so there was no way to change the results.
+    *翻译:* 由于期末考试刚刚结束，所以根本无法改变结果，这绝对是残酷的。
+
+**[00:15]** In my previous exams for the year, I had scored around the bottom top 10 and never the top six,
+    *翻译:* 在今年之前的考试中，我的分数大约在倒数前十名，从未进入过前六名。
+
+**[00:21]** so the odds were in my favor. But by this point, I was aware of my unlucky streak and didn't celebrate
+    *翻译:* 所以胜算在我这边。但到了这个时候，我已经意识到自己的倒霉运气，并没有庆祝。
+
+**[00:28]** too early and it turned out I was right. I didn't even know how many times I've sat in this video.
+    *翻译:* 太早了，结果证明我是对的。我甚至不知道我在这个视频里坐了多少次。
+
+**[00:38]** Are you tired too? How did this happen? Well, to start off, the top rancor of my class missed out
+    *翻译:* 你也累了吗？这是怎么回事？首先，我们班上最厉害的家伙错过了
+
+**[00:45]** on the critical subjects for her finals due to sickness and so her ranking dropped significantly.
+    *翻译:* 由于生病，她在期末考试的关键科目上表现不佳，因此她的排名大幅下降。
+
+**[00:51]** I don't know what the fuck happened to everyone else, but those who usually did well didn't do well
+    *翻译:* 我不知道其他人到底发生了什么，但那些通常表现不错的人这次并没有表现好。
+
+**[00:57]** for their finals. I can-
+    *翻译:* 为了他们的期末考试。我可以-
+
+## 完整原文
+
+still an even mix of regular students. This class reassignment basically took the top six students in Science B and switched them out with the last six students in Science A. Absolutely brutal since finals had just ended so there was no way to change the results. In my previous exams for the year, I had scored around the bottom top 10 and never the top six, so the odds were in my favor. But by this point, I was aware of my unlucky streak and didn't celebrate too early and it turned out I was right. I didn't even know how many times I've sat in this video. Are you tired too? How did this happen? Well, to start off, the top rancor of my class missed out on the critical subjects for her finals due to sickness and so her ranking dropped significantly. I don't know what the fuck happened to everyone else, but those who usually did well didn't do well for their finals. I can-
+
+## 完整译文
+
+仍然是普通学生的均衡混合。这次班级重新分配基本上是将科学B班的前六名学生与科学A班的后六名学生进行了交换。由于期末考试刚刚结束，所以没有办法改变结果，这绝对是残酷的。在我今年之前的考试中，我的分数大约在倒数前十名，从未进入过前六名，所以胜算是站在我这边的。但到了这个时候，我已经意识到了自己的不幸，没有过早庆祝，结果证明我是对的。我甚至不知道我在这个视频里坐了多少次。你也累了吗？这是怎么发生的？首先，我们班的顶尖学生因为生病错过了她期末考试的关键科目，所以她的排名大幅下降。我不知道其他人到底发生了什么，但那些通常表现出色的人在期末考试中并没有表现出色。我可以-
