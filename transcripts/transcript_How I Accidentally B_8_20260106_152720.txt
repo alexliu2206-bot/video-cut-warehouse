@@ -1,0 +1,61 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 990
+- **译文字符数:** 297
+- **段落数:** 15
+
+## 分段转录
+
+**[00:00]** in classes.
+    *翻译:* 在课堂上。
+
+**[00:01]** 16 year old Watt Shoo decided to take on this uncomfortable challenge.
+    *翻译:* 16岁的Watt Shoo决定接受这个不舒服的挑战。
+
+**[00:05]** There was no turning back now and in the end, it proved to be the right decision.
+    *翻译:* 现在没有回头路了，最终证明这是一个正确的决定。
+
+**[00:09]** I had managed to come out with my show, befriend my classmates, as well as keep up with
+    *翻译:* 我设法完成了我的表演，与同学们交上了朋友，并且还跟上了进度。
+
+**[00:14]** the new curriculum.
+    *翻译:* 新课程。
+
+**[00:15]** My school life as a lazy floater may be alright after all.
+    *翻译:* 我的学校生活作为一个懒惰的随波逐流者可能终究还不错。
+
+**[00:19]** However, perhaps things were going a little too well because this time I didn't have to
+    *翻译:* 然而，也许事情进展得有点太顺利了，因为这次我不必
+
+**[00:24]** wait 7 years for the next curse streak as it came literally a year later.
+    *翻译:* 等待7年的下一次诅咒连续出现，但实际上它在一年后就来了。
+
+**[00:30]** After my 4th year finals, the school abruptly announced that there would be, you guessed
+    *翻译:* 在我第四年期末考试后，学校突然宣布将会有，你猜到了
+
+**[00:34]** it, class reassignments, specifically for only the signed classes.
+    *翻译:* 它，班级重新分配，特别是只针对已签名的班级。
+
+**[00:40]** You see, there was actually 2 classes for the science track.
+    *翻译:* 你看，实际上科学方向有2个班级。
+
+**[00:44]** For easier reference, I shall refer to them as science A and science B.
+    *翻译:* 为了方便起见，我将称它们为科学A和科学B。
+
+**[00:48]** Science A was filled with the absolute brainiacs of the grade.
+    *翻译:* 科学A班汇集了年级里绝对的学霸。
+
+**[00:51]** I'm not joking, this was where the cream of the crop was.
+    *翻译:* 我不是在开玩笑，这里就是精英中的精英所在的地方。
+
+**[00:55]** I, on the other hand, was in science B, where there were top students but there was...
+    *翻译:* 我呢，是在理科B班，那里有顶尖学生，但是那里有……
+
+## 完整原文
+
+in classes. 16 year old Watt Shoo decided to take on this uncomfortable challenge. There was no turning back now and in the end, it proved to be the right decision. I had managed to come out with my show, befriend my classmates, as well as keep up with the new curriculum. My school life as a lazy floater may be alright after all. However, perhaps things were going a little too well because this time I didn't have to wait 7 years for the next curse streak as it came literally a year later. After my 4th year finals, the school abruptly announced that there would be, you guessed it, class reassignments, specifically for only the signed classes. You see, there was actually 2 classes for the science track. For easier reference, I shall refer to them as science A and science B. Science A was filled with the absolute brainiacs of the grade. I'm not joking, this was where the cream of the crop was. I, on the other hand, was in science B, where there were top students but there was...
+
+## 完整译文
+
+在课堂上，16岁的Watt Shoo决定接受这个不舒服的挑战。现在没有回头路了，最终证明这是一个正确的决定。我设法完成了我的表演，与同学们交上了朋友，同时也跟上了新课程。作为一个懒惰的漂浮者，我的学校生活可能还不错。然而，也许事情进展得太顺利了，因为这次我不必等待7年才迎来下一个诅咒期，它实际上在一年后就来了。在我第四年的期末考试后，学校突然宣布将会有班级重新分配，你猜对了，特别是针对签约班级。你看，实际上有两个科学班。为了方便参考，我将它们称为科学A和科学B。科学A充满了年级中绝对的天才。我不是在开玩笑，这里聚集了最优秀的学生。而我，另一方面，是在科学B，那里有顶尖的学生，但是有...
