@@ -1,0 +1,37 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 578
+- **译文字符数:** 175
+- **段落数:** 7
+
+## 分段转录
+
+**[00:00]** friends in this class. In the end, it seems to fate wouldn't free me of the title of top
+    *翻译:* 这个班级里的朋友们。最终，看来命运不会让我摆脱顶尖的称号。
+
+**[00:04]** student even in my final years. Anyways, that concludes my three-time cursory of accidentally
+    *翻译:* 学生，即使在我最后几年。无论如何，这总结了我三次偶然的粗略经历。
+
+**[00:11]** stumbling my way into becoming a top student. If I've learned anything from this experience,
+    *翻译:* 跌跌撞撞地成为顶尖学生。如果我从这次经历中学到了什么，
+
+**[00:15]** it's that the gods are against me in love uprooting my life. Just kidding, maybe.
+    *翻译:* 就是说，爱情中的神明在反对我，颠覆了我的生活。开个玩笑，也许吧。
+
+**[00:21]** This was my first ever story time, so I hope you enjoyed and stick around for more.
+    *翻译:* 这是我第一次讲故事，希望你们喜欢并继续关注更多。
+
+**[00:25]** Like and subscribe and comment your thoughts on the video, as well as any similar experiences
+    *翻译:* 点赞、订阅并在视频下评论你的想法，以及任何类似的经历。
+
+**[00:29]** you've encountered. I'd love to read them.
+    *翻译:* 你遇到的。我很乐意读它们。
+
+## 完整原文
+
+friends in this class. In the end, it seems to fate wouldn't free me of the title of top student even in my final years. Anyways, that concludes my three-time cursory of accidentally stumbling my way into becoming a top student. If I've learned anything from this experience, it's that the gods are against me in love uprooting my life. Just kidding, maybe. This was my first ever story time, so I hope you enjoyed and stick around for more. Like and subscribe and comment your thoughts on the video, as well as any similar experiences you've encountered. I'd love to read them.
+
+## 完整译文
+
+这个班级里的朋友们。最终，看来命运即使在我最后几年也不愿意让我摆脱顶尖学生的称号。无论如何，这就是我第三次偶然成为顶尖学生的粗略经历。如果从这次经历中学到了什么，那就是在爱情中，神明似乎在颠覆我的生活。开个玩笑，也许吧。这是我第一次讲故事，所以希望你们喜欢并继续关注更多。点赞、订阅并在视频下评论你的想法，以及你遇到的任何类似经历。我很乐意阅读它们。
