@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1028
+- **译文字符数:** 304
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** No! He hit me with the same deadly lines every salesperson uses.
+    *翻译:* 不！他用每个销售人员都会用的致命台词攻击我。
+
+**[00:04]** There's no need for that. This change could bring you so many benefits and it'd be such a shame
+    *翻译:* 没必要那样做。这个变化能给你带来很多好处，如果错过了就太遗憾了。
+
+**[00:10]** to let this opportunity go since you would never get a chance like this again.
+    *翻译:* 不要错过这个机会，因为你再也不会遇到像这样的机会了。
+
+**[00:15]** Looking back, I was basically ghastly into this decision because let's be real.
+    *翻译:* 回顾过去，我基本上对这个决定感到恐惧，因为让我们面对现实吧。
+
+**[00:19]** The climbing atrovial class change in elementary school was not going to be an opportunity I regretted
+    *翻译:* 小学的攀爬课变化不会成为我后悔的机会。
+
+**[00:26]** for the rest of my life. However, in the eyes of 9-year-old Lorshru, it was the biggest mistake I could make.
+    *翻译:* 在我余生中。然而，在9岁的Lorshru眼中，这是我能犯的最大错误。
+
+**[00:32]** So I folded and held on to the title of one of the top students until I graduated.
+    *翻译:* 所以我一直保持着顶尖学生之一的称号，直到我毕业。
+
+**[00:37]** After graduation, I thought my top student title days were over and went on my merry way to secondary
+    *翻译:* 毕业后，我以为我的优秀学生称号的日子已经结束了，然后继续愉快地前往中学。
+
+**[00:42]** school, not knowing the curse following behind me. This time I enrolled in a school where Chinese
+    *翻译:* 学校，不知道跟随在我身后的诅咒。这次我注册了一所教中文的学校。
+
+**[00:48]** wasn't the primary language, so my advantage in English would be gone. This school also had a class
+    *翻译:* 不是主要语言，所以我在英语方面的优势就会消失。这所学校还有一个班级。
+
+**[00:54]** ranking system, but there wasn't an obvious difference in academics between each class.
+    *翻译:* 排名系统，但每个班级之间在学术上并没有明显的差异。
+
+**[00:58]** I was placed in class...
+    *翻译:* 我被安排在班级里...
+
+## 完整原文
+
+No! He hit me with the same deadly lines every salesperson uses. There's no need for that. This change could bring you so many benefits and it'd be such a shame to let this opportunity go since you would never get a chance like this again. Looking back, I was basically ghastly into this decision because let's be real. The climbing atrovial class change in elementary school was not going to be an opportunity I regretted for the rest of my life. However, in the eyes of 9-year-old Lorshru, it was the biggest mistake I could make. So I folded and held on to the title of one of the top students until I graduated. After graduation, I thought my top student title days were over and went on my merry way to secondary school, not knowing the curse following behind me. This time I enrolled in a school where Chinese wasn't the primary language, so my advantage in English would be gone. This school also had a class ranking system, but there wasn't an obvious difference in academics between each class. I was placed in class...
+
+## 完整译文
+
+不！他用每个销售人员都会用的同样致命的台词攻击我。没必要这样。这个变化可以给你带来很多好处，如果让这个机会溜走，那将是一个遗憾，因为你再也不会有这样的机会了。回想起来，我基本上是被这个决定吓到了，因为让我们现实一点。小学时的攀爬社会阶层变化并不是我余生会后悔的机会。然而，在9岁的Lorshu眼中，这是我能犯的最大错误。所以我屈服了，一直保留着顶尖学生的头衔直到毕业。毕业后，我以为我的顶尖学生头衔的日子结束了，然后愉快地去了中学，不知道跟随我的诅咒。这次我注册了一所中文不是主要语言的学校，所以我在英语上的优势就消失了。这所学校也有班级排名系统，但每个班级之间在学术上并没有明显的区别。我被安排在班级...
