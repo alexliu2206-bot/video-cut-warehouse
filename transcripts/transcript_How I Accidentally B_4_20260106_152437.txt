@@ -1,0 +1,100 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1087
+- **译文字符数:** 329
+- **段落数:** 28
+
+## 分段转录
+
+**[00:00]** as four out of six classes total.
+    *翻译:* 总共六个班级中的四个。
+
+**[00:02]** A pretty average class?
+    *翻译:* 一个相当普通的班级？
+
+**[00:04]** Perfect for me.
+    *翻译:* 非常适合我。
+
+**[00:05]** I happily floated by for the first three years again,
+    *翻译:* 我再次快乐地度过了前三年，
+
+**[00:08]** and then something happened.
+    *翻译:* 然后发生了一些事情。
+
+**[00:11]** I'm starting to see a pattern here.
+    *翻译:* 我开始在这里看到一种模式。
+
+**[00:13]** This time it was a compulsory class reassignment
+    *翻译:* 这次是强制性的班级重新分配
+
+**[00:15]** for all the students going into their fourth year.
+    *翻译:* 对于所有即将进入第四年的学生。
+
+**[00:17]** The purpose was to specialize students
+    *翻译:* 目的是让学生专业化
+
+**[00:19]** into taking either science or humanities courses.
+    *翻译:* 选择学习理科或人文学科课程。
+
+**[00:22]** I already knew of this, so it wasn't a shock to me.
+    *翻译:* 我已经知道了这个，所以对我来说并不意外。
+
+**[00:24]** Everyone was curious on what course
+    *翻译:* 每个人都很好奇这门课程是什么
+
+**[00:26]** the school would assign to them.
+    *翻译:* 学校会分配给他们。
+
+**[00:27]** I myself was also curious.
+    *翻译:* 我自己也很好奇。
+
+**[00:29]** I looked through all the options and thought
+    *翻译:* 我浏览了所有选项并思考了
+
+**[00:31]** taking arts specifically would be fun,
+    *翻译:* 学习艺术特别有趣，
+
+**[00:34]** and hope I got it.
+    *翻译:* 希望我做到了。
+
+**[00:35]** A few of my classmates casually predicted
+    *翻译:* 我的一些同学随意地预测了
+
+**[00:37]** I would be assigned to enter the sciences due to my grades.
+    *翻译:* 由于我的成绩，我将被分配到理科。
+
+**[00:40]** I didn't believe them and said I would probably
+    *翻译:* 我不相信他们，说我可能不会
+
+**[00:42]** be assigned to take up arts.
+    *翻译:* 被分配去学习艺术。
+
+**[00:44]** Now, can you take a guess at why my classmates
+    *翻译:* 现在，你能猜猜为什么我的同学们
+
+**[00:47]** predicted such results?
+    *翻译:* 预测了这样的结果？
+
+**[00:49]** It was because I was among the top students in the class.
+    *翻译:* 那是因为我在班级中是成绩最好的学生之一。
+
+**[00:52]** I don't know how, but throughout my third year,
+    *翻译:* 我不知道怎么回事，但在我三年级的整个过程中，
+
+**[00:55]** I managed to be within the top three of my class
+    *翻译:* 我成功地成为了班级前三名。
+
+**[00:57]** for every exam.
+    *翻译:* 对于每次考试。
+
+**[00:58]** Now before you come calling me...
+    *翻译:* 现在在你给我打电话之前...
+
+## 完整原文
+
+as four out of six classes total. A pretty average class? Perfect for me. I happily floated by for the first three years again, and then something happened. I'm starting to see a pattern here. This time it was a compulsory class reassignment for all the students going into their fourth year. The purpose was to specialize students into taking either science or humanities courses. I already knew of this, so it wasn't a shock to me. Everyone was curious on what course the school would assign to them. I myself was also curious. I looked through all the options and thought taking arts specifically would be fun, and hope I got it. A few of my classmates casually predicted I would be assigned to enter the sciences due to my grades. I didn't believe them and said I would probably be assigned to take up arts. Now, can you take a guess at why my classmates predicted such results? It was because I was among the top students in the class. I don't know how, but throughout my third year, I managed to be within the top three of my class for every exam. Now before you come calling me...
+
+## 完整译文
+
+作为六门课程中的四门，一个相当普通的班级？对我来说太完美了。我愉快地度过了前三年，然后发生了一些事情。我开始在这里看到一种模式。这一次，所有即将进入第四年的学生都必须重新分配班级。目的是为了让学生专门学习科学或人文课程。我已经知道这一点，所以对我来说并不意外。每个人都很好奇学校会给他们分配什么课程。我自己也很好奇。我浏览了所有选项，认为学习艺术特别有趣，希望我能被分配到。我的一些同学随意预测我会因为成绩而被分配到科学领域。我不相信他们，说我可能会被分配去学习艺术。现在，你能猜猜为什么我的同学们会做出这样的预测吗？那是因为我是班上的顶尖学生之一。我不知道怎么回事，但在我第三年的整个过程中，我设法在每次考试中都保持在班级前三名。现在在你开始叫我之前...
