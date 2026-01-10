@@ -1,0 +1,64 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1026
+- **译文字符数:** 317
+- **段落数:** 16
+
+## 分段转录
+
+**[00:00]** but I have realized that oftentimes like the best memories are unplanned ones on trips.
+    *翻译:* 但我意识到，往往最好的回忆是旅行中那些没有计划的回忆。
+
+**[00:07]** And so I'm trying to actually have more like unplanned slocks in my schedule.
+    *翻译:* 因此，我实际上正尝试在我的日程安排中增加更多未计划的休息时间。
+
+**[00:12]** So I have time to just walk around and explore.
+    *翻译:* 所以我有时间四处走走，探索一下。
+
+**[00:15]** I've always felt the need to like fill up my schedule because like what if I am feeling like
+    *翻译:* 我总是觉得需要填满我的日程表，因为如果我感觉像
+
+**[00:21]** I don't have anything to do, but there's always something to do, right?
+    *翻译:* 我没什么可做的，但总有事情要做，对吧？
+
+**[00:24]** When you plan a minute by minute, you don't give yourself a lot of time to explore.
+    *翻译:* 当你按分钟来计划时，你没有给自己留出很多时间去探索。
+
+**[00:28]** And you end up missing out on a lot of experiences and memories that you could have experienced otherwise.
+    *翻译:* 结果你错过了许多本可以体验的经历和回忆。
+
+**[00:33]** Okay for the eye makeup we're going to use this palette from Mood.
+    *翻译:* 好的，对于眼妆我们将使用来自Mood的这个调色板。
+
+**[00:36]** Shaw moment eyeshadow palette in number two, Muse moment.
+    *翻译:* 肖时刻眼影盘，第二号，缪斯时刻。
+
+**[00:40]** This is a really good cool toned daily palette.
+    *翻译:* 这是一个非常棒的冷色调日常调色盘。
+
+**[00:43]** I feel like a lot of cool tone palettes they usually end up looking too gray,
+    *翻译:* 我觉得很多冷色调的调色板最后看起来都太灰了。
+
+**[00:46]** but this looks more wearable you know.
+    *翻译:* 但这看起来更耐穿，你知道的。
+
+**[00:48]** So I'm going to use this shade.
+    *翻译:* 所以我将使用这种色调。
+
+**[00:49]** We want the eyes to look like kind of dull and matte today.
+    *翻译:* 我们今天想让眼睛看起来有点暗淡无光。
+
+**[00:53]** So I'm just applying that shade all over.
+    *翻译:* 所以我就是把那个阴影涂满整个区域。
+
+**[00:56]** Then I'm going to go back in and
+    *翻译:* 那么我将重新进入并
+
+## 完整原文
+
+but I have realized that oftentimes like the best memories are unplanned ones on trips. And so I'm trying to actually have more like unplanned slocks in my schedule. So I have time to just walk around and explore. I've always felt the need to like fill up my schedule because like what if I am feeling like I don't have anything to do, but there's always something to do, right? When you plan a minute by minute, you don't give yourself a lot of time to explore. And you end up missing out on a lot of experiences and memories that you could have experienced otherwise. Okay for the eye makeup we're going to use this palette from Mood. Shaw moment eyeshadow palette in number two, Muse moment. This is a really good cool toned daily palette. I feel like a lot of cool tone palettes they usually end up looking too gray, but this looks more wearable you know. So I'm going to use this shade. We want the eyes to look like kind of dull and matte today. So I'm just applying that shade all over. Then I'm going to go back in and
+
+## 完整译文
+
+但我意识到，往往最好的回忆是旅行中那些没有计划的回忆。所以我正尝试在我的日程安排中加入更多没有计划的空闲时间，这样我就有时间四处走走和探索。我总是觉得需要填满我的日程，因为如果我觉得自己没有事情做怎么办，但总是有事情可以做的，对吧？当你按分钟计划时，你没有给自己留出很多时间去探索。结果你会错过很多本可以体验的经历和回忆。好的，对于眼妆，我们将使用Mood的这个调色板。Shaw moment眼影调色板，编号二，缪斯时刻。这是一个非常好的冷色调日常调色板。我觉得很多冷色调调色板通常会显得太灰，但这个看起来更实用，你知道的。所以我将使用这个色号。我们希望今天的眼睛看起来有点暗淡和哑光。所以我将这个色号全部涂满。然后我将回去再做...
