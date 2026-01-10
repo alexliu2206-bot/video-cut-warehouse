@@ -1,0 +1,43 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 870
+- **译文字符数:** 303
+- **段落数:** 9
+
+## 分段转录
+
+**[00:00]** On to the face. I want to use this new foundation I got in the mail recently. It's the makeup I'm
+    *翻译:* 涂在脸上。我想用最近收到的这款新粉底。这是我的化妆品
+
+**[00:04]** Mario and I know this was going viral on TikTok a few months ago, but I never tried it. So let's try it today.
+    *翻译:* 马里奥和我知道几个月前这个在TikTok上很火，但我从来没试过。所以让我们今天来试试。
+
+**[00:10]** I'm using shade 2N. I'm trying to get a tan this summer, honestly. I really miss having that like golden
+    *翻译:* 我正在使用2N号色。这个夏天我真心想要晒成古铜色。我真的很怀念那种金色的感觉。
+
+**[00:18]** tan. Wow. I get what people were saying about this foundation now. This looks like skin. I would say this is a light to medium coverage.
+    *翻译:* 哇。我现在明白人们为什么说这款粉底了。它看起来就像皮肤一样。我觉得这款粉底的遮瑕程度是轻到中等。
+
+**[00:26]** I think we're going to do a very matte look today. I know we recently did a glossy dewy look, but
+    *翻译:* 我认为我们今天要做一个非常哑光的妆容。我知道我们最近做了一个光泽感的妆容，但是
+
+**[00:36]** I am a matte girl till I die. So we don't need too much concealer under the eyes I forgot, but
+    *翻译:* 我直到死都是个哑光女孩。所以我们不需要在眼睛下面涂太多遮瑕膏，我忘了，但是
+
+**[00:45]** we're going to do baggy eyes look today. So we actually didn't need any here. Before we move on to
+    *翻译:* 今天我们要打造眼袋妆容。所以我们这里实际上不需要任何东西。在我们继续之前
+
+**[00:52]** powder, let's use our cream products. I've been really into cream blushes and bronzers and I got
+    *翻译:* 粉状的，我们来使用我们的霜状产品。我最近非常喜欢霜状腮红和古铜色化妆品，我已经得到了
+
+**[00:58]** this really pretty one from...
+    *翻译:* 这个非常漂亮的一个来自...
+
+## 完整原文
+
+On to the face. I want to use this new foundation I got in the mail recently. It's the makeup I'm Mario and I know this was going viral on TikTok a few months ago, but I never tried it. So let's try it today. I'm using shade 2N. I'm trying to get a tan this summer, honestly. I really miss having that like golden tan. Wow. I get what people were saying about this foundation now. This looks like skin. I would say this is a light to medium coverage. I think we're going to do a very matte look today. I know we recently did a glossy dewy look, but I am a matte girl till I die. So we don't need too much concealer under the eyes I forgot, but we're going to do baggy eyes look today. So we actually didn't need any here. Before we move on to powder, let's use our cream products. I've been really into cream blushes and bronzers and I got this really pretty one from...
+
+## 完整译文
+
+上脸。我想试试我最近收到的这款新粉底。我是马里奥，我知道几个月前这款粉底在TikTok上很火，但我从来没试过。所以让我们今天来试试。我用的是2N色号。我今年夏天真的想晒黑，我真的很想念那种金色的古铜色。哇。我现在明白人们为什么说这款粉底了。这看起来就像皮肤一样。我会说这是轻度到中度的遮瑕。我觉得我们今天要做的是一个非常哑光的妆容。我知道我们最近做了一个光泽感的妆容，但我是直到死都是哑光女孩。所以我们不需要在眼睛下面用太多遮瑕，我忘了，但我们今天要做的是眼袋眼妆。所以我们其实这里不需要用任何遮瑕。在我们继续用粉之前，让我们使用我们的霜状产品。我最近真的很喜欢霜状腮红和古铜色，我得到了这个非常漂亮的……
