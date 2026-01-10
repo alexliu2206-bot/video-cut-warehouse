@@ -1,0 +1,85 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1157
+- **译文字符数:** 350
+- **段落数:** 23
+
+## 分段转录
+
+**[00:00]** I take a little bit of water to really comb it up.
+    *翻译:* 我稍微加点水，好好梳理一下。
+
+**[00:04]** You really want to go into every little crevice.
+    *翻译:* 你真的想探索每一个小缝隙。
+
+**[00:13]** Also, I really like this cleanser because it's not too stripping
+    *翻译:* 此外，我非常喜欢这款洁面产品，因为它不会过度剥离皮肤。
+
+**[00:16]** and there's only your face feeling too dry afterwards.
+    *翻译:* 之后只有你的脸感觉太干了。
+
+**[00:18]** It leaves your skin feeling really soft.
+    *翻译:* 它让你的皮肤感觉非常柔软。
+
+**[00:20]** I switch between cleansers all the time.
+    *翻译:* 我总是在不同的洁面产品之间切换。
+
+**[00:21]** Like recently, I've also been using this to fill one,
+    *翻译:* 就像最近，我也一直在用这个来填满一个，
+
+**[00:24]** which I also really like because it's not too drying.
+    *翻译:* 我也非常喜欢它，因为它不会太干燥。
+
+**[00:26]** I'm not really to picky with cleansers as long as it's not too drying
+    *翻译:* 只要洁面产品不太干燥，我其实并不挑剔。
+
+**[00:29]** and it foams up really well, then I like it.
+    *翻译:* 它泡沫丰富，我很喜欢。
+
+**[00:32]** Next, I'm going to go in with toner.
+    *翻译:* 接下来，我将使用爽肤水。
+
+**[00:34]** I've been using this Anua Rice Glow Milkie Toner.
+    *翻译:* 我一直在使用这款Anua米光牛奶爽肤水。
+
+**[00:36]** I feel like anything with rice works really well with my skin.
+    *翻译:* 我觉得任何含有大米的东西都非常适合我的肌肤。
+
+**[00:39]** Back then, I used to cleanse my face with rice water.
+    *翻译:* 那时候，我常常用淘米水洗脸。
+
+**[00:42]** Every time I wash my rice, I would save that water
+    *翻译:* 每次我洗米的时候，我都会把那些水保存起来。
+
+**[00:44]** and use that to wash my face.
+    *翻译:* 然后用它来洗脸。
+
+**[00:45]** I feel like rice is really good for people with acne-pulled skin.
+    *翻译:* 我觉得米饭对有痤疮皮肤的人来说真的很好。
+
+**[00:48]** I'm actually going to do a face mask right now
+    *翻译:* 我现在实际上要做一个面膜。
+
+**[00:49]** because I didn't do on this morning.
+    *翻译:* 因为我今天早上没有做。
+
+**[00:51]** I've been super consistent with doing a face mask every morning.
+    *翻译:* 我每天早上都坚持做面膜。
+
+**[00:54]** Also because I'm like super lazy in the morning,
+    *翻译:* 也因为我早上特别懒，
+
+**[00:56]** so I just went on a sheet mask
+    *翻译:* 所以我刚刚敷了一个面膜。
+
+**[00:57]** and I don't do my whole skincare routine after that.
+    *翻译:* 之后我就不进行完整的护肤程序了。
+
+## 完整原文
+
+I take a little bit of water to really comb it up. You really want to go into every little crevice. Also, I really like this cleanser because it's not too stripping and there's only your face feeling too dry afterwards. It leaves your skin feeling really soft. I switch between cleansers all the time. Like recently, I've also been using this to fill one, which I also really like because it's not too drying. I'm not really to picky with cleansers as long as it's not too drying and it foams up really well, then I like it. Next, I'm going to go in with toner. I've been using this Anua Rice Glow Milkie Toner. I feel like anything with rice works really well with my skin. Back then, I used to cleanse my face with rice water. Every time I wash my rice, I would save that water and use that to wash my face. I feel like rice is really good for people with acne-pulled skin. I'm actually going to do a face mask right now because I didn't do on this morning. I've been super consistent with doing a face mask every morning. Also because I'm like super lazy in the morning, so I just went on a sheet mask and I don't do my whole skincare routine after that.
+
+## 完整译文
+
+我稍微用点水来彻底梳理一下。你真的需要深入每一个小缝隙。我也很喜欢这款洁面乳，因为它不会过度剥离，洗后你的脸不会感觉太干。它让你的皮肤感觉非常柔软。我总是在不同的洁面乳之间切换。就像最近，我也一直在用这款来填充一号，我也非常喜欢，因为它不会太干燥。我对洁面乳并不挑剔，只要它不会太干燥，而且能很好地起泡，我就喜欢。接下来，我将使用爽肤水。我一直在使用这款Anua Rice Glow Milkie爽肤水。我觉得任何含有大米成分的产品都非常适合我的皮肤。以前，我甚至用米水来洗脸。每次洗米时，我都会保存那些水用来洗脸。我觉得大米对有痘痘问题的皮肤真的很好。实际上我现在要做一个面膜，因为我今天早上没有做。我一直坚持每天早上做面膜。也因为我早上超级懒，所以我就直接用一张面膜，之后我就不做整个护肤程序了。
