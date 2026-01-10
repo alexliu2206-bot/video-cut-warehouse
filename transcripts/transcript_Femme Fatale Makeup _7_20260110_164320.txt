@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1047
+- **译文字符数:** 333
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** Any liquid or cream products people have been loving, which for me as like a mad girl,
+    *翻译:* 任何人们喜爱的液体或乳霜产品，对我来说就像一个狂热的女孩。
+
+**[00:05]** I don't really understand. I think I finally understand it because it's just so fun to play with and
+    *翻译:* 我不太明白。我想我终于明白了，因为它实在太好玩了。
+
+**[00:11]** it's easily blendable. I think we're going back to an era of like having fun with makeup. A lot
+    *翻译:* 它很容易混合。我认为我们正在回到一个喜欢玩化妆的时代。很多
+
+**[00:17]** of products have just been more fun. Like even makeup forever, who, which I think is a really
+    *翻译:* 产品只是变得更有趣了。比如永远的化妆品，我认为这真的
+
+**[00:22]** professional brand, I love makeup forever. But I definitely feel like they cater more towards
+    *翻译:* 专业品牌，我永远热爱化妆。但我确实感觉他们更倾向于
+
+**[00:26]** the pro makeup artist, they just release this powder, which I feel like it's so fun. It's a twist
+    *翻译:* 这位专业化妆师刚刚推出了这款粉饼，我觉得它非常有趣。这是一个创新。
+
+**[00:32]** and light powder. So it's like a highlighting type of powder. And so what you do is you twist
+    *翻译:* 以及浅色粉末。所以它就像是一种高光粉。你要做的就是旋转
+
+**[00:38]** left and then you close it and then you open the top of it and there's three different shades you
+    *翻译:* 向左然后你关闭它，然后你打开它的顶部，那里有三种不同的阴影。
+
+**[00:46]** can see right. White, pink and blue. When you twist at the bottom, it released all of those and
+    *翻译:* 可以看到右边。白色、粉色和蓝色。当你在底部旋转时，它释放了所有这些颜色。
+
+**[00:51]** they all mixed together to create that powder for your skin tone. But yeah, I guess I'm so excited
+    *翻译:* 它们全部混合在一起，为你的肤色创造了那种粉末。但是，是的，我想我太兴奋了。
+
+**[00:55]** whenever I see new stuff like this because it's just so innovative and fun. You know, like
+    *翻译:* 每当我看到像这样的新事物，因为它实在是太创新和有趣了。你知道的，就像
+
+## 完整原文
+
+Any liquid or cream products people have been loving, which for me as like a mad girl, I don't really understand. I think I finally understand it because it's just so fun to play with and it's easily blendable. I think we're going back to an era of like having fun with makeup. A lot of products have just been more fun. Like even makeup forever, who, which I think is a really professional brand, I love makeup forever. But I definitely feel like they cater more towards the pro makeup artist, they just release this powder, which I feel like it's so fun. It's a twist and light powder. So it's like a highlighting type of powder. And so what you do is you twist left and then you close it and then you open the top of it and there's three different shades you can see right. White, pink and blue. When you twist at the bottom, it released all of those and they all mixed together to create that powder for your skin tone. But yeah, I guess I'm so excited whenever I see new stuff like this because it's just so innovative and fun. You know, like
+
+## 完整译文
+
+人们一直喜欢的任何液体或乳霜产品，对我来说就像一个疯狂的女孩，我真的不太理解。我想我终于明白了，因为玩起来太有趣了，而且很容易混合。我认为我们正在回到一个喜欢玩化妆的时代。很多产品只是变得更有趣了。就像永远的化妆，我认为这是一个非常专业的品牌，我喜欢永远的化妆。但我确实觉得他们更迎合专业化妆师，他们刚刚发布了这种粉末，我觉得它太有趣了。它是一种旋转和轻质粉末。所以它就像一种高光类型的粉末。所以你要做的就是向左旋转，然后关闭它，然后打开顶部，你可以看到三种不同的颜色，对吧。白色、粉色和蓝色。当你在底部旋转时，它会释放所有这些，它们全部混合在一起，为你的肤色创造出那种粉末。但是，是的，我想我每次看到这样新的东西时都感到非常兴奋，因为它太创新和有趣了。你知道，就像
