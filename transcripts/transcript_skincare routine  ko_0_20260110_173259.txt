@@ -1,0 +1,61 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1137
+- **译文字符数:** 357
+- **段落数:** 15
+
+## 分段转录
+
+**[00:00]** Hey guys, today I'm going to be showing you guys my skincare routine.
+    *翻译:* 嘿，伙计们，今天我将向你们展示我的护肤流程。
+
+**[00:03]** I think it's been a little over a year since my last skincare video.
+    *翻译:* 我认为自从我上次发布护肤视频以来已经过去了一年多一点的时间。
+
+**[00:05]** So I want to show you guys my updated routine and also share some products that I've been loving.
+    *翻译:* 所以我想向你们展示我更新的日常，并分享一些我最近非常喜欢的产品。
+
+**[00:09]** I have a combination of skin types, so I got super oily around my T-zone and I get dry around my chin area and my cheeks.
+    *翻译:* 我的皮肤类型是混合型的，所以我的T区特别油腻，而下巴和脸颊区域则变得干燥。
+
+**[00:15]** I also do have acne-prone skin, so I always try to find products that are sensitive and don't break me out.
+    *翻译:* 我的皮肤也容易长痘痘，所以我总是在寻找那些温和且不会引起我皮肤问题的产品。
+
+**[00:20]** What the hell, down on?
+    *翻译:* 什么鬼，趴下吗？
+
+**[00:22]** First, I'm going to take my vanilla cleansing oil.
+    *翻译:* 首先，我将使用我的香草卸妆油。
+
+**[00:25]** I got this one out of Korea and the lady working there told me this was their number one product.
+    *翻译:* 我这是从韩国买的，那里工作的女士告诉我这是他们的头号产品。
+
+**[00:29]** I'm going to take about 30 pumps of this.
+    *翻译:* 我打算用这个泵大约30次。
+
+**[00:32]** Rub it all into my face.
+    *翻译:* 把这一切都抹在我脸上。
+
+**[00:34]** It's like super soft and feels really good on the skin and it melts all your makeup off.
+    *翻译:* 它非常柔软，对皮肤感觉非常好，能卸掉你所有的妆容。
+
+**[00:40]** If you do wear like waterproof mascara though, I will say it doesn't do the best and removing it.
+    *翻译:* 如果你确实使用了防水睫毛膏，那么我想说它在卸妆方面并不是最好的选择。
+
+**[00:45]** Also, this is suitable for acne-prone skin, so even if you don't really like to use like oily air-based products, this is a brickey out at all.
+    *翻译:* 此外，这适合容易长痘痘的皮肤，所以即使你不太喜欢使用油性的气雾剂产品，这款产品无论如何都是值得一试的。
+
+**[00:55]** I always double-plants, I'm going to use my Medacube Zero Foam Planser.
+    *翻译:* 我总是双重种植，我将使用我的Medacube Zero泡沫计划器。
+
+**[00:58]** I just take like this much.
+    *翻译:* 我只是这样拿这么多。
+
+## 完整原文
+
+Hey guys, today I'm going to be showing you guys my skincare routine. I think it's been a little over a year since my last skincare video. So I want to show you guys my updated routine and also share some products that I've been loving. I have a combination of skin types, so I got super oily around my T-zone and I get dry around my chin area and my cheeks. I also do have acne-prone skin, so I always try to find products that are sensitive and don't break me out. What the hell, down on? First, I'm going to take my vanilla cleansing oil. I got this one out of Korea and the lady working there told me this was their number one product. I'm going to take about 30 pumps of this. Rub it all into my face. It's like super soft and feels really good on the skin and it melts all your makeup off. If you do wear like waterproof mascara though, I will say it doesn't do the best and removing it. Also, this is suitable for acne-prone skin, so even if you don't really like to use like oily air-based products, this is a brickey out at all. I always double-plants, I'm going to use my Medacube Zero Foam Planser. I just take like this much.
+
+## 完整译文
+
+大家好，今天我将向你们展示我的护肤流程。我想距离我上次分享护肤视频已经过去一年多了。所以我想向你们展示我更新后的护肤流程，并分享一些我最近非常喜欢的产品。我的皮肤类型是混合型的，我的T区非常油，而下巴和脸颊部位则比较干。我的皮肤也容易长痘痘，所以我总是在寻找那些温和且不会引起我皮肤问题的产品。这是什么，下来吗？首先，我会使用我的香草洁面油。这是我从韩国带回来的，那里的女士告诉我这是他们的明星产品。我会用大约30泵。把它全部揉在脸上。它非常柔软，对皮肤感觉非常好，可以融化你所有的妆容。如果你使用的是防水睫毛膏，我会说它在卸妆方面并不是最好的。此外，这款产品适合容易长痘痘的皮肤，所以即使你不太喜欢使用油性的护肤产品，这款产品绝对值得一试。我总是双重清洁，接下来我会使用我的美达库零泡沫洁面乳。我只需要用这么多。
