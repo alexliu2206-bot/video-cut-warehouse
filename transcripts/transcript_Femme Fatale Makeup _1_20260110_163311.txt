@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1016
+- **译文字符数:** 331
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** base when you do your makeup. It's just based on personal preference. Personally, I change it
+    *翻译:* 化妆时的基础。这只是基于个人喜好。就我个人而言，我会改变它。
+
+**[00:04]** depending on the look I'm doing. So if I'm planning on doing a heavy eye look or winged liner,
+    *翻译:* 取决于我要做的造型。所以如果我打算做一个浓重的眼妆或者画猫眼眼线，
+
+**[00:08]** where I want to clean up the eyes without disrupting the base, I'll do the eyes first. But then if I'm
+    *翻译:* 在我需要清理眼睛而不破坏基础的情况下，我会先做眼睛。但然后如果我
+
+**[00:13]** doing a more skin-focused look, I'll just do the base first. Okay, so for the middle of the eyeliner,
+    *翻译:* 进行一个更注重皮肤的妆容，我先从基础开始。好的，那么对于眼线的中间部分，
+
+**[00:18]** I wanted to do like a nudish reddish shade, but I didn't have that. So we're gonna mix two
+    *翻译:* 我想做一个类似裸色偏红的色调，但我没有那个颜色。所以我们要混合两种颜色。
+
+**[00:24]** eyeliners. I'm going in first with my tower 28 multi liner and it draw me. This is a brown shade.
+    *翻译:* 眼线笔。我首先使用我的塔28多用途眼线笔，它让我着迷。这是一种棕色调。
+
+**[00:30]** I've been obsessed with these liners recently because you can use them as eyeliner or lip liner
+    *翻译:* 我最近对这些眼线笔很着迷，因为你可以把它们用作眼线笔或唇线笔。
+
+**[00:36]** or even on your cheeks. So from here, I'm actually gonna blend it into the other liner.
+    *翻译:* 甚至在你的脸颊上。所以从这里开始，我实际上要将它与其他眼线融合。
+
+**[00:44]** And then take the red liner and this one we want to use a very little. This doesn't need to be
+    *翻译:* 然后拿起红色眼线笔，这支我们只需要用一点点。这个不需要用太多。
+
+**[00:49]** perfect since we're gonna blend it out with eyeshadow later. Let's do our lashes next. So I'm
+    *翻译:* 既然我们稍后要用眼影混合，那就完美了。接下来我们来做睫毛。所以，我
+
+**[00:54]** just curling them and then applying mascara. For a lot of...
+    *翻译:* 只是卷曲它们，然后涂抹睫毛膏。对于很多...
+
+## 完整原文
+
+base when you do your makeup. It's just based on personal preference. Personally, I change it depending on the look I'm doing. So if I'm planning on doing a heavy eye look or winged liner, where I want to clean up the eyes without disrupting the base, I'll do the eyes first. But then if I'm doing a more skin-focused look, I'll just do the base first. Okay, so for the middle of the eyeliner, I wanted to do like a nudish reddish shade, but I didn't have that. So we're gonna mix two eyeliners. I'm going in first with my tower 28 multi liner and it draw me. This is a brown shade. I've been obsessed with these liners recently because you can use them as eyeliner or lip liner or even on your cheeks. So from here, I'm actually gonna blend it into the other liner. And then take the red liner and this one we want to use a very little. This doesn't need to be perfect since we're gonna blend it out with eyeshadow later. Let's do our lashes next. So I'm just curling them and then applying mascara. For a lot of...
+
+## 完整译文
+
+化妆时打底的顺序完全取决于个人喜好。就我个人而言，我会根据我想要打造的妆容来调整顺序。所以如果我打算画一个浓重的眼妆或者猫眼眼线，而我不想在清理眼部时破坏底妆，我会先画眼睛。但如果我打算做一个更注重皮肤的妆容，我就会先打底。好的，那么对于眼线的中间部分，我想用一种裸色偏红的色调，但我没有那种颜色。所以我们要混合两种眼线笔。我首先使用我的塔楼28多用眼线笔，它画出的是棕色。我最近对这些眼线笔很着迷，因为你可以把它们用作眼线笔、唇线笔，甚至涂在脸颊上。所以从这里开始，我实际上要把它和其他眼线笔混合。然后拿红色眼线笔，这个我们只需要用一点点。这个不需要完美，因为我们稍后会用眼影混合。接下来我们来做睫毛。我只是先把它们卷起来，然后涂上睫毛膏。对于很多人来说...
