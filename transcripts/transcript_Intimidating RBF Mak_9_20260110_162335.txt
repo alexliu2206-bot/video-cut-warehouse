@@ -1,0 +1,34 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 355
+- **译文字符数:** 112
+- **段落数:** 6
+
+## 分段转录
+
+**[00:00]** It's slightly like downturned so I'm not doing the upturned thing that I usually do.
+    *翻译:* 它有点向下弯曲，所以我没有做我通常做的向上弯曲的动作。
+
+**[00:08]** I'm going to use the colliders King Kamele and lip clay.
+    *翻译:* 我将使用碰撞体King Kamele和lip clay。
+
+**[00:17]** I'm going to apply mascara to the little lashes too.
+    *翻译:* 我也要给这些小睫毛涂上睫毛膏。
+
+**[00:23]** If you want to check out any of this can care I use today, I will leave all the links in
+    *翻译:* 如果你想查看我今天使用的任何这些关怀资源，我会把所有链接留在
+
+**[00:26]** the description box as always and I will see you in my next video.
+    *翻译:* 一如既往的描述框，我们下一个视频见。
+
+**[00:30]** Bye!
+    *翻译:* 再见！
+
+## 完整原文
+
+It's slightly like downturned so I'm not doing the upturned thing that I usually do. I'm going to use the colliders King Kamele and lip clay. I'm going to apply mascara to the little lashes too. If you want to check out any of this can care I use today, I will leave all the links in the description box as always and I will see you in my next video. Bye!
+
+## 完整译文
+
+它有点向下翻，所以我不打算做我通常做的向上翻的动作。我将使用King Kamele的碰撞器和唇部粘土。我也会给小睫毛涂上睫毛膏。如果你想查看我今天使用的任何产品，我会像往常一样在描述框中留下所有链接，我们下一个视频见。再见！
