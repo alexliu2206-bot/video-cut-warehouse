@@ -1,0 +1,84 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1114
+- **译文字符数:** 375
+- **段落数:** 23
+
+## 分段转录
+
+**[00:00]** Actually I recently got this because I've heard so many great things about this.
+    *翻译:* 实际上，我最近得到了这个，因为我听说了很多关于这个的好事。
+
+**[00:03]** It's a very lightweight, kind of almost like a gel like cream.
+    *翻译:* 它非常轻，几乎像凝胶一样的乳霜。
+
+**[00:07]** For the nighttime, this is my all-time favorite moisturizer.
+    *翻译:* 对于夜间护肤来说，这是我一直以来最喜欢的保湿霜。
+
+**[00:09]** This is the MediQ College in Jelly Cream.
+    *翻译:* 这是果冻奶油中的MediQ学院。
+
+**[00:11]** This is my fourth bottle of this ready.
+    *翻译:* 这是我第四瓶这个饮料了。
+
+**[00:13]** It's a very thick cream.
+    *翻译:* 这是一种非常浓稠的奶油。
+
+**[00:15]** It's kind of like a jelly texture.
+    *翻译:* 它有点像果冻的质地。
+
+**[00:17]** But you literally wake up with the softest skin ever.
+    *翻译:* 但你真的会醒来时拥有前所未有的柔软肌肤。
+
+**[00:19]** Since it is the nighttime, I'm going to take some of this.
+    *翻译:* 由于现在是夜晚，我打算服用一些这个。
+
+**[00:22]** It kind of feels like you're spreading jam on your face.
+    *翻译:* 感觉就像是你在往脸上涂果酱。
+
+**[00:31]** Look how glow my skin is.
+    *翻译:* 看看我的皮肤多么有光泽。
+
+**[00:32]** And then every night I take my MediQ Booster Pro device.
+    *翻译:* 然后每晚我都会使用我的MediQ Booster Pro设备。
+
+**[00:35]** This device has four different modes.
+    *翻译:* 这个设备有四种不同的模式。
+
+**[00:37]** I always use a booster mode and sometimes I'll use the Derrachot mode.
+    *翻译:* 我总是使用增强模式，有时也会使用Derrachot模式。
+
+**[00:40]** But I take the booster mode on level 3.
+    *翻译:* 但我选择在第三级使用增强模式。
+
+**[00:42]** If you're like new to using this, I would say start out level 1 and then work your way
+    *翻译:* 如果你是刚开始使用这个，我建议你从一级开始，然后逐步提高。
+
+**[00:46]** up.
+
+**[00:47]** It goes up to 5 levels.
+    *翻译:* 它可以达到5级。
+
+**[00:48]** Just kind of do like circular motions on my face.
+    *翻译:* 就像在我脸上做圆周运动一样。
+
+**[00:51]** The booster mode helps your skin to absorb all your skin care.
+    *翻译:* 增强模式有助于你的皮肤吸收所有的护肤产品。
+
+**[00:54]** This thing has actually changed my skin.
+    *翻译:* 这件事实际上改变了我的皮肤。
+
+**[00:55]** I stopped using this for like a month just because I got lazy.
+    *翻译:* 我大概有一个月没用这个了，只是因为我变懒了。
+
+**[00:58]** And my skin texture not really...
+    *翻译:* 我的肤质并不是真的……
+
+## 完整原文
+
+Actually I recently got this because I've heard so many great things about this. It's a very lightweight, kind of almost like a gel like cream. For the nighttime, this is my all-time favorite moisturizer. This is the MediQ College in Jelly Cream. This is my fourth bottle of this ready. It's a very thick cream. It's kind of like a jelly texture. But you literally wake up with the softest skin ever. Since it is the nighttime, I'm going to take some of this. It kind of feels like you're spreading jam on your face. Look how glow my skin is. And then every night I take my MediQ Booster Pro device. This device has four different modes. I always use a booster mode and sometimes I'll use the Derrachot mode. But I take the booster mode on level 3. If you're like new to using this, I would say start out level 1 and then work your way up. It goes up to 5 levels. Just kind of do like circular motions on my face. The booster mode helps your skin to absorb all your skin care. This thing has actually changed my skin. I stopped using this for like a month just because I got lazy. And my skin texture not really...
+
+## 完整译文
+
+实际上，我最近买了这个产品，因为我听说了很多关于它的好评。它非常轻质，几乎像凝胶一样的乳霜。对于夜间护肤来说，这是我一直以来最喜欢的保湿霜。这是MediQ学院的果冻霜。这是我准备的第四瓶了。它是一种非常浓稠的乳霜，质地有点像果冻。但你会醒来时拥有前所未有的柔软肌肤。既然是夜间，我将使用一些这个产品。它的感觉就像是在你的脸上涂抹果酱。看我的皮肤多么有光泽。然后每晚我都会使用我的MediQ Booster Pro设备。这个设备有四种不同的模式。我总是使用增强模式，有时我也会使用Derrachot模式。但我将增强模式设置为3级。如果你刚开始使用这个，我建议你从1级开始，然后逐步提高。它可以调至5级。我只是在我的脸上做圆形运动。增强模式有助于你的皮肤吸收所有的护肤产品。这个设备实际上改变了我的皮肤。我因为懒惰停用了一个月，然后我的皮肤质地并没有……
