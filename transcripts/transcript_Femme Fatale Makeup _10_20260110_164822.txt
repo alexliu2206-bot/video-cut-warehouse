@@ -1,0 +1,64 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 641
+- **译文字符数:** 214
+- **段落数:** 16
+
+## 分段转录
+
+**[00:00]** The relashes and apply mascara.
+    *翻译:* 涂抹睫毛膏并卷曲睫毛。
+
+**[00:04]** When I'm applying it on the outer corner,
+    *翻译:* 当我在眼角外侧涂抹时，
+
+**[00:05]** I'm moving it this way.
+    *翻译:* 我正朝这个方向移动。
+
+**[00:08]** And then for the inner lashes, I'm pushing it the other way.
+    *翻译:* 对于内眼角的睫毛，我正在向另一个方向推。
+
+**[00:11]** Let's pinch this.
+    *翻译:* 我们来捏一下这个。
+
+**[00:14]** I'm using this shade and I'm applying it right here.
+    *翻译:* 我正在使用这个色号，并且我正在把它涂在这里。
+
+**[00:24]** I think it's a little too dark,
+    *翻译:* 我觉得这里有点太暗了。
+
+**[00:25]** so I'm using the 3CE nude peach blush.
+    *翻译:* 所以我正在使用3CE裸色蜜桃腮红。
+
+**[00:29]** This shade and I'm just gonna blend it into great like an ombre.
+    *翻译:* 这种色调，我打算像渐变色一样将它融入到整体中。
+
+**[00:36]** I'm using my Colitis palette to contour.
+    *翻译:* 我正在使用我的结肠炎调色板来修容。
+
+**[00:44]** I think we should do like a little bit more sculpted look today
+    *翻译:* 我认为我们今天应该尝试一种稍微更有雕塑感的造型。
+
+**[00:46]** since this is an evil look.
+    *翻译:* 因为这是一种邪恶的眼神。
+
+**[00:48]** So I wanna look a little like skeletal.
+    *翻译:* 所以我想让自己看起来有点像骷髅。
+
+**[00:54]** They're like cat collections, so cute.
+    *翻译:* 它们就像猫咪收藏品，非常可爱。
+
+**[00:56]** This is the napping cheese palette.
+    *翻译:* 这是午睡的奶酪调色板。
+
+**[00:58]** I've been using this shade.
+    *翻译:* 我一直在用这个色调。
+
+## 完整原文
+
+The relashes and apply mascara. When I'm applying it on the outer corner, I'm moving it this way. And then for the inner lashes, I'm pushing it the other way. Let's pinch this. I'm using this shade and I'm applying it right here. I think it's a little too dark, so I'm using the 3CE nude peach blush. This shade and I'm just gonna blend it into great like an ombre. I'm using my Colitis palette to contour. I think we should do like a little bit more sculpted look today since this is an evil look. So I wanna look a little like skeletal. They're like cat collections, so cute. This is the napping cheese palette. I've been using this shade.
+
+## 完整译文
+
+卷睫毛并涂抹睫毛膏。当我在眼外角涂抹时，我是这样移动的。然后对于内眼角的睫毛，我向另一个方向推。让我们捏一下。我使用这个色号，并且就在这里涂抹。我觉得它有点太深了，所以我使用3CE裸色桃腮红。这个色号，我将把它像渐变一样混合得很好。我使用我的Colitis调色板来修容。我认为我们今天应该做一个更雕塑感的妆容，因为这是一个邪恶的妆容。所以我想看起来有点骷髅感。它们就像猫的收藏，好可爱。这是午睡芝士调色板。我一直在使用这个色号。
