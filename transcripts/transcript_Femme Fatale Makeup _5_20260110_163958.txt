@@ -1,0 +1,43 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 854
+- **译文字符数:** 281
+- **段落数:** 9
+
+## 分段转录
+
+**[00:00]** semi haze. This is their sun flush all over tint and it can be used as a cream bronzer or a cream
+    *翻译:* 半朦胧。这是他们太阳晒后的全身色调，可以用作膏状古铜色或膏状产品。
+
+**[00:07]** blush but I'm just gonna use it under my eyes and hopefully this warms up the face a little bit
+    *翻译:* 脸红，但我只是想把它用在眼睛下面，希望这样能让脸部看起来更温暖一些。
+
+**[00:12]** and also gives us that baggy eye look you know. We just want it like a slightly dead look.
+    *翻译:* 也给了我们那种你知道的眼袋外观。我们只是想要那种稍微有点死气沉沉的样子。
+
+**[00:19]** Oh also I'm finally getting back into running. Um I know it's been if you guys have been here for a while
+    *翻译:* 哦，对了，我终于重新开始跑步了。嗯，我知道如果你们在这里待了一阵子的话
+
+**[00:27]** it has been a really on and off journey. Recently I've started training again with my dad
+    *翻译:* 这是一段起伏不定的旅程。最近我又开始和爸爸一起训练了。
+
+**[00:33]** and not for any particular marathon or anything I just want it to get back into running
+    *翻译:* 并不是为了参加某个特定的马拉松或任何事，我只是想重新开始跑步。
+
+**[00:38]** and it was so hard like it's so frustrating trying to get back into things that you once were
+    *翻译:* 这真的很难，就像重新回到你曾经的状态一样令人沮丧。
+
+**[00:46]** good at because you just compare yourself to who you were you know but obviously that is not
+    *翻译:* 擅长是因为你只是将自己与过去的自己比较，你知道的，但显然那并不是
+
+**[00:52]** healthy because how can you get better if you don't restart. A lot of fitness people will tell you
+    *翻译:* 健康，因为如果你不重新开始，你怎么能变得更好。很多健身人士会告诉你
+
+## 完整原文
+
+semi haze. This is their sun flush all over tint and it can be used as a cream bronzer or a cream blush but I'm just gonna use it under my eyes and hopefully this warms up the face a little bit and also gives us that baggy eye look you know. We just want it like a slightly dead look. Oh also I'm finally getting back into running. Um I know it's been if you guys have been here for a while it has been a really on and off journey. Recently I've started training again with my dad and not for any particular marathon or anything I just want it to get back into running and it was so hard like it's so frustrating trying to get back into things that you once were good at because you just compare yourself to who you were you know but obviously that is not healthy because how can you get better if you don't restart. A lot of fitness people will tell you
+
+## 完整译文
+
+半朦胧。这是他们太阳晒红的全色效果，可以用作膏状古铜色或膏状腮红，但我只会用在眼睛下面，希望这能让脸部稍微暖和一点，也给我们那种眼袋眼的外观，你知道的。我们只是想要那种稍微有点死气沉沉的样子。哦，还有，我终于又开始跑步了。嗯，我知道如果你们在这里待了很长时间，这真是一段断断续续的旅程。最近我又开始和爸爸一起训练，不是为了参加任何特别的马拉松或其他什么，我只是想要重新开始跑步，这真的很难，因为试图回到你曾经擅长的事情上真是太令人沮丧了，因为你只会把自己和过去的自己比较，你知道的，但显然这并不健康，因为如果你不重新开始，你怎么能变得更好呢。很多健身人士会告诉你
