@@ -1,0 +1,85 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1017
+- **译文字符数:** 344
+- **段落数:** 23
+
+## 分段转录
+
+**[00:00]** two months and it's honestly made my base look so much better.
+    *翻译:* 两个月的时间，它真的让我的基础看起来好多了。
+
+**[00:03]** My theory is that serums are just more moisturizing primers,
+    *翻译:* 我的理论是，精华液不过是更保湿的打底产品。
+
+**[00:08]** so that's why they just make my base look better.
+    *翻译:* 所以这就是为什么他们只是让我的基础看起来更好。
+
+**[00:10]** But yeah, ever since I started doing this,
+    *翻译:* 但对，自从我开始做这个，
+
+**[00:12]** I have been obsessed with finding new serums
+    *翻译:* 我一直痴迷于寻找新的精华液。
+
+**[00:14]** and this one has been my most recent favorite.
+    *翻译:* 这一个是我最近最喜欢的。
+
+**[00:17]** This is the Skinhouse Wrinkle Supreme Serum.
+    *翻译:* 这是Skinhouse至尊抗皱精华。
+
+**[00:19]** So this product meant to help with the appearance
+    *翻译:* 因此，这个产品旨在帮助改善外观。
+
+**[00:21]** of Wrinkle's right, but the thing that I really love
+    *翻译:* 这是Wrinkle的右边，但我真正热爱的东西
+
+**[00:24]** about this is their super moisturizing
+    *翻译:* 关于这个，它们的超级保湿效果
+
+**[00:26]** and they help your skin get a plump look as a plump.
+    *翻译:* 它们帮助你的皮肤看起来丰满，就像丰满一样。
+
+**[00:35]** So you see what I mean by the plumpening effect?
+    *翻译:* 所以你明白我所说的丰满效果是什么意思了吧？
+
+**[00:38]** And it feels very tacky too.
+    *翻译:* 而且感觉非常廉价。
+
+**[00:40]** It has the perfect makeup base.
+    *翻译:* 它有完美的化妆基础。
+
+**[00:42]** I have a list in my notes app of products
+    *翻译:* 我的笔记应用里有一个产品列表。
+
+**[00:44]** that I would buy for everybody in the world
+    *翻译:* 我会为世界上的每个人购买
+
+**[00:46]** if I were a billionaire.
+    *翻译:* 如果我是一个亿万富翁。
+
+**[00:47]** Things I feel so strongly and passionately about
+    *翻译:* 我对这些事情感到非常强烈和热情
+
+**[00:50]** and this has become one of those products
+    *翻译:* 这已成为那些产品之一
+
+**[00:52]** for the people with dry skin.
+    *翻译:* 针对皮肤干燥的人群。
+
+**[00:54]** Unfortunately, I am not a billionaire,
+    *翻译:* 不幸的是，我不是亿万富翁，
+
+**[00:56]** but if you guys wanna check this out,
+    *翻译:* 但如果你们想看看这个，
+
+**[00:58]** I will leave a link to it in the description box.
+    *翻译:* 我会在描述框里留下它的链接。
+
+## 完整原文
+
+two months and it's honestly made my base look so much better. My theory is that serums are just more moisturizing primers, so that's why they just make my base look better. But yeah, ever since I started doing this, I have been obsessed with finding new serums and this one has been my most recent favorite. This is the Skinhouse Wrinkle Supreme Serum. So this product meant to help with the appearance of Wrinkle's right, but the thing that I really love about this is their super moisturizing and they help your skin get a plump look as a plump. So you see what I mean by the plumpening effect? And it feels very tacky too. It has the perfect makeup base. I have a list in my notes app of products that I would buy for everybody in the world if I were a billionaire. Things I feel so strongly and passionately about and this has become one of those products for the people with dry skin. Unfortunately, I am not a billionaire, but if you guys wanna check this out, I will leave a link to it in the description box.
+
+## 完整译文
+
+两个月了，它真的让我的底妆看起来好多了。我的理论是，精华液其实就是更保湿的妆前乳，这就是为什么它们让我的底妆看起来更好。但对，自从我开始这样做，我就沉迷于寻找新的精华液，这一款成了我最近最喜欢的。这是Skinhouse Wrinkle Supreme Serum。所以这个产品旨在帮助改善皱纹的外观，对吧，但我真正喜欢它的原因是它们超级保湿，并且它们帮助你的皮肤看起来更丰满。所以你明白我所说的丰满效果是什么意思吗？它摸起来也非常粘。它有完美的妆容基础。我在笔记应用里有一个清单，如果我是一位亿万富翁，我会为世界上的每个人购买这些产品。我对这些产品感到非常强烈和热情，这已经成为那些对干性皮肤的人来说的产品之一。不幸的是，我不是亿万富翁，但如果你们想看看这个，我会在描述框里留下一个链接。
