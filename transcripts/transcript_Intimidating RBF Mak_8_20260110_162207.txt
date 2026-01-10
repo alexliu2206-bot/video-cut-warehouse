@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 709
+- **译文字符数:** 300
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** And so because he's placed us like a more valuable higher success rate, less rejected person,
+    *翻译:* 因此，因为他把我们定位为更有价值的、成功率更高的、被拒绝更少的人，
+
+**[00:06]** his profile would be shown to other people with a high success rate.
+    *翻译:* 他的个人资料将展示给其他人，成功率很高。
+
+**[00:10]** That's probably how they match my appearance.
+    *翻译:* 那可能就是他们如何匹配我的外表的方式。
+
+**[00:12]** I'm trying to really sculpt my cheekbones today.
+    *翻译:* 我今天真的想雕塑我的颧骨。
+
+**[00:19]** Next is nose contour. If I want to do like a pointy or type of nose today,
+    *翻译:* 接下来是鼻子轮廓。如果今天我想做一个尖尖的或者某种类型的鼻子，
+
+**[00:24]** I'm using that same contour shape to smoke out my under eyes.
+    *翻译:* 我正在使用相同的轮廓形状来淡化我的黑眼圈。
+
+**[00:37]** I'm using a cool toned pink blush.
+    *翻译:* 我正在使用一款冷色调的粉色腮红。
+
+**[00:42]** For highlighter, I'm using the Makeup Bimario Soft Glow Highlighter in Opal.
+    *翻译:* 对于高光产品，我使用的是Makeup Bimario品牌的Soft Glow高光粉，色号为Opal。
+
+**[00:47]** This is a really pretty bright white highlighter.
+    *翻译:* 这是一个非常鲜亮的白色荧光笔。
+
+**[00:50]** Next, I want to do like really dark lips today.
+    *翻译:* 接下来，我今天想要涂那种非常深的唇色。
+
+**[00:53]** So I'm using the One Liner Multi Liner in Draw Me from Tauertown 8.
+    *翻译:* 所以我正在使用Tauertown 8中的单行多行工具来画我。
+
+**[00:58]** I also want to make the lips look...
+    *翻译:* 我还想使嘴唇看起来...
+
+## 完整原文
+
+And so because he's placed us like a more valuable higher success rate, less rejected person, his profile would be shown to other people with a high success rate. That's probably how they match my appearance. I'm trying to really sculpt my cheekbones today. Next is nose contour. If I want to do like a pointy or type of nose today, I'm using that same contour shape to smoke out my under eyes. I'm using a cool toned pink blush. For highlighter, I'm using the Makeup Bimario Soft Glow Highlighter in Opal. This is a really pretty bright white highlighter. Next, I want to do like really dark lips today. So I'm using the One Liner Multi Liner in Draw Me from Tauertown 8. I also want to make the lips look...
+
+## 完整译文
+
+因此，因为他把我们定位为成功率更高、被拒绝次数更少的更有价值人士，他的个人资料会被展示给其他成功率高的人。这可能就是他们如何匹配我的外表的。我今天真的想要雕塑我的颧骨。接下来是鼻子轮廓。如果今天我想做一个尖尖的或者某种类型的鼻子，我使用相同的轮廓形状来晕染我的下眼。我使用的是一种冷色调的粉红色腮红。对于高光，我使用的是Makeup Bimario Soft Glow Highlighter的Opal色号。这是一个非常漂亮的亮白色高光。接下来，我今天想要做非常深色的嘴唇。所以我使用的是Tauertown 8的One Liner Multi Liner的Draw Me色号。我还想让嘴唇看起来...
