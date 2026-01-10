@@ -1,0 +1,22 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 116
+- **译文字符数:** 32
+- **段落数:** 2
+
+## 分段转录
+
+**[00:00]** Just like toner, serum, moisturizer, and that's it.
+    *翻译:* 就像爽肤水、精华液、保湿霜，就这样。
+
+**[00:03]** And that's pretty much what I do every single morning and night.
+    *翻译:* 这就是我每天早晚都会做的事情。
+
+## 完整原文
+
+Just like toner, serum, moisturizer, and that's it. And that's pretty much what I do every single morning and night.
+
+## 完整译文
+
+就像爽肤水、精华液、保湿霜，就这样。这就是我每天早晚所做的全部。
