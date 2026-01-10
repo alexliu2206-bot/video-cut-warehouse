@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1061
+- **译文字符数:** 372
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** This one I just started using is the beauty of Cholzon glow deep serum with rice
+    *翻译:* 我最近开始使用的这款产品，是Cholzon glow深层精华与大米的完美结合。
+
+**[00:04]** I leave your skin looking very glowy and also helps with like pigmentation and
+    *翻译:* 我让你的皮肤看起来非常有光泽，同时也有助于改善色素沉着。
+
+**[00:09]** Evening your skin tone. I've also recently finished from almost done with this one
+    *翻译:* 均匀你的肤色。我也刚刚完成了这个，几乎快要完成了。
+
+**[00:13]** It's the MedaQ Exosome Zika ampoule. This one contains tea tree which really helps with acne prone skin
+    *翻译:* 这是MedaQ外泌体寨卡安瓿。这款含有茶树成分，对于易长痘痘的皮肤真的很有帮助。
+
+**[00:19]** These two are probably like my all-time favorite serums
+    *翻译:* 这两个可能是我一直以来最喜欢的精华液。
+
+**[00:22]** This one's the Tornin Diven serum and this is the skin one zeros or four Centella ampoule
+    *翻译:* 这是托宁迪文血清，这是皮肤一号零或四积雪草安瓶。
+
+**[00:26]** I've probably gone through like three bottles of each of these like I just finished another bottle
+    *翻译:* 我可能已经用掉了每种三瓶左右，就像我刚刚又用完了一瓶。
+
+**[00:30]** And I will always do purchase these ones because they're just that good
+    *翻译:* 而我总是会购买这些，因为它们就是那么好。
+
+**[00:34]** These ones are more water-based so they're very lightweight but very hydrating. I'm gonna use this Tornin one today
+    *翻译:* 这些产品更偏向水基配方，所以它们非常轻质但非常保湿。我今天打算用这个Tornin的。
+
+**[00:42]** It's like a refreshing
+    *翻译:* 它就像一股清新的空气。
+
+**[00:48]** And then for the last step I'm gonna take some moisturizer
+    *翻译:* 然后最后一步，我将使用一些保湿霜。
+
+**[00:50]** I use different moisturizers for the morning and nighttime
+    *翻译:* 我早晚使用不同的保湿霜。
+
+**[00:53]** So for the morning time I either use this one. This is the Tornin Diven soothing cream or this doctor
+    *翻译:* 所以早上的时候，我要么用这个。这是托宁迪文舒缓霜，或者这个医生。
+
+**[00:58]** I'll be a three four five relief cream
+    *翻译:* 我将是三四五舒缓霜
+
+## 完整原文
+
+This one I just started using is the beauty of Cholzon glow deep serum with rice I leave your skin looking very glowy and also helps with like pigmentation and Evening your skin tone. I've also recently finished from almost done with this one It's the MedaQ Exosome Zika ampoule. This one contains tea tree which really helps with acne prone skin These two are probably like my all-time favorite serums This one's the Tornin Diven serum and this is the skin one zeros or four Centella ampoule I've probably gone through like three bottles of each of these like I just finished another bottle And I will always do purchase these ones because they're just that good These ones are more water-based so they're very lightweight but very hydrating. I'm gonna use this Tornin one today It's like a refreshing And then for the last step I'm gonna take some moisturizer I use different moisturizers for the morning and nighttime So for the morning time I either use this one. This is the Tornin Diven soothing cream or this doctor I'll be a three four five relief cream
+
+## 完整译文
+
+我最近开始使用的这款产品是Cholzon glow深层精华，搭配大米使用，它能让你的皮肤看起来非常有光泽，同时也有助于改善色素沉着和均匀肤色。我最近也快用完了这款MedaQ Exosome Zika安瓶精华，它含有茶树成分，对容易长痘痘的皮肤非常有帮助。这两款产品可能是我一直以来最喜欢的精华。这款是Tornin Diven精华，这款是Skin One Zeros或四Centella安瓶精华，我大概已经用掉了三瓶这两种精华，就像我刚用完另一瓶一样。我会一直回购这些产品，因为它们真的非常好。这些产品更偏向水基，所以它们非常轻盈但非常保湿。我今天会使用这款Tornin的，它给人一种清爽的感觉。然后最后一步，我会使用一些保湿霜，我早晚使用不同的保湿霜。所以早上我要么使用这款，这是Tornin Diven舒缓霜，或者这款医生推荐的三四五舒缓霜。
