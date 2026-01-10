@@ -1,0 +1,67 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 869
+- **译文字符数:** 263
+- **段落数:** 17
+
+## 分段转录
+
+**[00:00]** Just restart again, it'll come back a lot easier than you expect.
+    *翻译:* 只需再次重启，它会比你预期的更容易恢复。
+
+**[00:03]** And it did not feel that way.
+    *翻译:* 而且感觉并不是那样的。
+
+**[00:06]** Like the first two sessions I had back to running, I ran with my parents,
+    *翻译:* 就像我重新开始跑步的前两节课一样，我和父母一起跑步。
+
+**[00:10]** and I could not do more than like two miles.
+    *翻译:* 我最多只能走两英里。
+
+**[00:13]** But recently I was finally able to run my first four miles without taking any breaks.
+    *翻译:* 但最近我终于能够连续跑完四英里而不需要休息。
+
+**[00:19]** So progress.
+    *翻译:* 所以进步。
+
+**[00:20]** Okay, I like the under eyes so far.
+    *翻译:* 好的，到目前为止我喜欢眼下的妆容。
+
+**[00:22]** It's looking cute, but we definitely need to build up on that.
+    *翻译:* 它看起来很可爱，但我们肯定需要在那上面加强。
+
+**[00:26]** I really like this deep red shade.
+    *翻译:* 我非常喜欢这种深红色调。
+
+**[00:28]** So let's use the matte side.
+    *翻译:* 那么让我们使用哑光面。
+
+**[00:30]** There's like a glossy balm side, but we're going to use this side.
+    *翻译:* 这面像有一层光泽的膏体，但我们要用这面。
+
+**[00:40]** Okay, I think this is a good base for the blush, but I do want it to be more cool
+    *翻译:* 好的，我认为这是腮红的一个好基础，但我确实希望它更冷色调一些。
+
+**[00:44]** tone.
+    *翻译:* 语气。
+
+**[00:45]** The list blend everything out and then set everything.
+    *翻译:* 列表混合所有内容，然后设置所有内容。
+
+**[00:49]** You know how there's eras or like phases of makeup, right?
+    *翻译:* 你知道化妆有时代或者阶段，对吧？
+
+**[00:52]** Where certain products blow up this year or like the past few years, actually,
+    *翻译:* 某些产品在今年或像过去几年一样爆红，实际上，
+
+**[00:56]** I feel like it's really been liquid blushes.
+    *翻译:* 我感觉这真的是液体腮红。
+
+## 完整原文
+
+Just restart again, it'll come back a lot easier than you expect. And it did not feel that way. Like the first two sessions I had back to running, I ran with my parents, and I could not do more than like two miles. But recently I was finally able to run my first four miles without taking any breaks. So progress. Okay, I like the under eyes so far. It's looking cute, but we definitely need to build up on that. I really like this deep red shade. So let's use the matte side. There's like a glossy balm side, but we're going to use this side. Okay, I think this is a good base for the blush, but I do want it to be more cool tone. The list blend everything out and then set everything. You know how there's eras or like phases of makeup, right? Where certain products blow up this year or like the past few years, actually, I feel like it's really been liquid blushes.
+
+## 完整译文
+
+再次重启，它会比你预期的容易得多。感觉并不像那样。就像我重新开始跑步的前两次，我和父母一起跑，我跑不了超过两英里。但最近我终于能够第一次连续跑完四英里，没有休息。所以这是进步。好的，到目前为止我喜欢眼下的妆容。看起来很可爱，但我们确实需要加强一下。我非常喜欢这种深红色调。所以让我们使用哑光面。有一个光泽的膏体面，但我们将使用这一面。好的，我认为这是腮红的好基础，但我确实希望它更偏向冷色调。将所有东西混合均匀，然后固定一切。你知道化妆有时代或阶段，对吧？某些产品在今年或过去几年变得非常流行，实际上，我觉得这真的是液体腮红。
