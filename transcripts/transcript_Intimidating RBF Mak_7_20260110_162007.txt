@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 969
+- **译文字符数:** 300
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** I'm gonna quickly set my face because I'm like sweating so much.
+    *翻译:* 我得快点整理一下我的妆容，因为我出了好多汗。
+
+**[00:03]** Because the app is meant to be for long-term relationships,
+    *翻译:* 因为这款应用旨在用于长期关系，
+
+**[00:06]** they punish you for having like hook up behavior.
+    *翻译:* 他们会因为你有类似勾搭的行为而惩罚你。
+
+**[00:10]** It would end up hurting you not only because it was like thus not with
+    *翻译:* 这最终会伤害你，不仅因为它是如此而不是与之相伴。
+
+**[00:13]** app is for, but it also would end up ranking you lower.
+    *翻译:* 这个应用程序是为此设计的，但它最终也会导致你的排名降低。
+
+**[00:16]** So for example, if there were two guys who look exactly the same,
+    *翻译:* 那么例如，如果有两个看起来完全相同的人，
+
+**[00:20]** one of them goes into the app and then he just likes every single girl he sees
+    *翻译:* 他们中的一个人进入应用程序，然后他就喜欢每一个他看到的女孩
+
+**[00:24]** 10 girls, right? Like every single one of them. But then the other guy goes into the app
+    *翻译:* 10个女孩，对吧？就像她们中的每一个。但然后另一个人进入了应用程序。
+
+**[00:28]** and is more selective, he only likes like five of the 10 profiles.
+    *翻译:* 他更加挑剔，他只喜欢10个档案中的5个。
+
+**[00:32]** Two of the girls like both guys back. That means that the first guy had a 20%
+    *翻译:* 两个女孩都喜欢这两个男孩。这意味着第一个男孩有20%的机会。
+
+**[00:39]** success rate. Right? He was rejected by the other eight girls.
+    *翻译:* 成功率。对吧？他被另外八个女孩拒绝了。
+
+**[00:44]** Whereas other guy, he only liked five of those profiles. Two of those liked him back.
+    *翻译:* 然而，另一个人只喜欢那五个档案中的五个。其中有两个也喜欢他。
+
+**[00:50]** So he ends up having a 40% success rate. And so although they look identical,
+    *翻译:* 所以他最终有40%的成功率。尽管它们看起来一模一样，
+
+**[00:55]** the second guy is placed as more attractive in the algorithm.
+    *翻译:* 算法中第二个人被认为更有吸引力。
+
+## 完整原文
+
+I'm gonna quickly set my face because I'm like sweating so much. Because the app is meant to be for long-term relationships, they punish you for having like hook up behavior. It would end up hurting you not only because it was like thus not with app is for, but it also would end up ranking you lower. So for example, if there were two guys who look exactly the same, one of them goes into the app and then he just likes every single girl he sees 10 girls, right? Like every single one of them. But then the other guy goes into the app and is more selective, he only likes like five of the 10 profiles. Two of the girls like both guys back. That means that the first guy had a 20% success rate. Right? He was rejected by the other eight girls. Whereas other guy, he only liked five of those profiles. Two of those liked him back. So he ends up having a 40% success rate. And so although they look identical, the second guy is placed as more attractive in the algorithm.
+
+## 完整译文
+
+我得快点整理一下我的妆容，因为我出了好多汗。因为这个应用是为长期关系设计的，所以如果你有那种一夜情的行为，它会惩罚你。这不仅因为你的行为与应用的初衷不符，而且还会降低你的排名。比如，如果有两个看起来完全一样的男生，其中一个进入应用后，他喜欢每一个他看到的女孩，10个女孩，对吧？每一个都点赞。但另一个男生进入应用后更加挑剔，他只点赞了10个档案中的5个。两个女孩对两个男生都回赞了。这意味着第一个男生有20%的成功率。对吧？他被其他八个女孩拒绝了。而另一个男生，他只点赞了那5个档案。其中两个女孩回赞了他。所以他的成功率达到了40%。因此，尽管他们看起来一模一样，但算法中第二个男生被认为更有吸引力。
