@@ -1,0 +1,61 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 835
+- **译文字符数:** 285
+- **段落数:** 15
+
+## 分段转录
+
+**[00:00]** mixing with too many other products may cause irritation.
+    *翻译:* 与太多其他产品混合可能会导致刺激。
+
+**[00:04]** This is what my skin looks like after.
+    *翻译:* 这就是我的皮肤现在的样子。
+
+**[00:06]** It's like well hydrated but not oily, which is what we want.
+    *翻译:* 就像水分充足但不油腻，这正是我们想要的。
+
+**[00:11]** If you guys want to shop any of this skincare I used today,
+    *翻译:* 如果你们想要购买我今天使用的这些护肤品，
+
+**[00:13]** I will leave a link in the description box, but let's get onto the makeup.
+    *翻译:* 我会在描述框里留下一个链接，但让我们继续讨论化妆。
+
+**[00:16]** It is scorching hot today.
+    *翻译:* 今天天气酷热。
+
+**[00:18]** I'm gonna use brow wax first actually, so I can shape my brows.
+    *翻译:* 我实际上会先使用眉蜡，这样我可以塑造我的眉毛。
+
+**[00:22]** I've been loving doing this lately because I noticed that like whenever I use
+    *翻译:* 我最近很喜欢这样做，因为我注意到，就像每次我使用的时候
+
+**[00:26]** brow wax first, doing my brows is just so much easier.
+    *翻译:* 先修眉，修完眉毛后，画眉就容易多了。
+
+**[00:34]** I'm using a really dark brow pencil today.
+    *翻译:* 我今天使用的是一款非常深的眉笔。
+
+**[00:37]** This is the Peripera Skinny Brow in Grey Brown.
+    *翻译:* 这是灰色棕色的Peripera Skinny Brow。
+
+**[00:41]** This is supposed to be like intimidating makeup look, so I want the brows to be very bold.
+    *翻译:* 这应该是那种令人生畏的妆容，所以我希望眉毛要非常醒目。
+
+**[00:52]** I don't know what I'm uploading this, but I'm currently planning for my first
+    *翻译:* 我不知道我为什么要上传这个，但我现在正在计划我的第一次
+
+**[00:56]** International Solo Trip.
+    *翻译:* 国际独自旅行。
+
+**[00:58]** I'm like a minute by minute plan.
+    *翻译:* 我有一个分分秒秒的计划。
+
+## 完整原文
+
+mixing with too many other products may cause irritation. This is what my skin looks like after. It's like well hydrated but not oily, which is what we want. If you guys want to shop any of this skincare I used today, I will leave a link in the description box, but let's get onto the makeup. It is scorching hot today. I'm gonna use brow wax first actually, so I can shape my brows. I've been loving doing this lately because I noticed that like whenever I use brow wax first, doing my brows is just so much easier. I'm using a really dark brow pencil today. This is the Peripera Skinny Brow in Grey Brown. This is supposed to be like intimidating makeup look, so I want the brows to be very bold. I don't know what I'm uploading this, but I'm currently planning for my first International Solo Trip. I'm like a minute by minute plan.
+
+## 完整译文
+
+与太多其他产品混合可能会导致刺激。这就是我的皮肤在使用后的样子。它看起来像是水分充足但不油腻，这正是我们想要的。如果你们想要购买我今天使用的任何护肤产品，我会在描述框中留下链接，但让我们继续化妆。今天天气非常热。我实际上会先使用眉蜡，这样我可以塑造我的眉毛。我最近很喜欢这样做，因为我注意到，每当我先使用眉蜡时，画眉毛就变得容易多了。我今天使用的是一款非常深的眉笔。这是Peripera Skinny Brow的灰棕色。这应该是一个看起来令人生畏的妆容，所以我希望眉毛非常醒目。我不知道我要上传这个视频，但我目前正在计划我的第一次国际独自旅行。我正在做一份分分钟的计划。
