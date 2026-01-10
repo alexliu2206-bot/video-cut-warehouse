@@ -1,0 +1,67 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 684
+- **译文字符数:** 201
+- **段落数:** 17
+
+## 分段转录
+
+**[00:00]** And focus on this area and this area.
+    *翻译:* 并且专注于这个区域和这个区域。
+
+**[00:06]** You know how when you frown,
+    *翻译:* 你知道当你皱眉时，
+
+**[00:07]** you like cast a shadow here, right?
+    *翻译:* 你喜欢在这里投下阴影，对吧？
+
+**[00:09]** So that's what we're trying to mimic.
+    *翻译:* 所以我们要模仿的就是这个。
+
+**[00:11]** And then to offset such a heavy inner corner shadow,
+    *翻译:* 然后为了抵消这种沉重的内眼角阴影，
+
+**[00:13]** we just wanna emphasize the outer corner too.
+    *翻译:* 我们只是想强调外角。
+
+**[00:22]** And then just gonna build up on that.
+    *翻译:* 然后，我们将继续在那上面建设。
+
+**[00:24]** You can fill in just this section,
+    *翻译:* 你只需填写这一部分，
+
+**[00:26]** but leave this area open.
+    *翻译:* 但保留这个区域。
+
+**[00:30]** If you fill in this section, it's gonna make the eyes look too big.
+    *翻译:* 如果你填充这个部分，眼睛看起来会太大。
+
+**[00:36]** So we want that to be like a sort of a dip here.
+    *翻译:* 所以我们希望这里像是一个凹陷。
+
+**[00:39]** I'm gonna take a black eyeshadow and fill this section in.
+    *翻译:* 我将使用黑色眼影填充这个区域。
+
+**[00:44]** It's kinda tricky.
+    *翻译:* 这有点棘手。
+
+**[00:45]** I'm trying to get the line to look more straight.
+    *翻译:* 我正试图让这条线看起来更直。
+
+**[00:49]** Fill in the waterline.
+    *翻译:* 填满水位线。
+
+**[00:53]** See how this section of my eye looks very straight.
+    *翻译:* 看看我眼睛的这部分看起来非常直。
+
+**[00:57]** Did the bottom waterline.
+    *翻译:* 完成了底部水线。
+
+## 完整原文
+
+And focus on this area and this area. You know how when you frown, you like cast a shadow here, right? So that's what we're trying to mimic. And then to offset such a heavy inner corner shadow, we just wanna emphasize the outer corner too. And then just gonna build up on that. You can fill in just this section, but leave this area open. If you fill in this section, it's gonna make the eyes look too big. So we want that to be like a sort of a dip here. I'm gonna take a black eyeshadow and fill this section in. It's kinda tricky. I'm trying to get the line to look more straight. Fill in the waterline. See how this section of my eye looks very straight. Did the bottom waterline.
+
+## 完整译文
+
+专注于这个区域和这个区域。你知道当你皱眉时，就像在这里投下阴影，对吧？所以我们要模仿的就是这个。然后为了平衡这样一个浓重的内角阴影，我们只想强调外角。然后就会在这个基础上继续加强。你可以填充这个部分，但要留出这个区域。如果你填充了这个部分，眼睛会显得太大。所以我们希望这里像是一个凹陷。我将用黑色眼影填充这个部分。这有点棘手。我试图让线条看起来更直。填充水线。看我眼睛的这个部分看起来很直。做了下眼线。
