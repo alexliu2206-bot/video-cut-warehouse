@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 887
+- **译文字符数:** 292
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** Just because I feel like this is a little too yellow for me now.
+    *翻译:* 只是我觉得现在这个对我来说有点太黄了。
+
+**[00:09]** Also, please ignore my broken nails.
+    *翻译:* 还有，请忽略我断裂的指甲。
+
+**[00:12]** Last time I filmed a get ready with me with nails like this.
+    *翻译:* 上次我拍摄了一个和我一起准备的视频，指甲就像这样。
+
+**[00:15]** The internet assumed I was lesbian for like three years.
+    *翻译:* 互联网误以为我是女同性恋大约三年。
+
+**[00:23]** Oh my gosh, I forgot how good that NARS foundation is.
+    *翻译:* 天哪，我忘了NARS粉底液有多好用。
+
+**[00:26]** It's so radiant and I feel like it mixes really well with that ditto one too.
+    *翻译:* 它如此光彩夺目，我觉得它和那个复制品也搭配得非常好。
+
+**[00:31]** This is really random and niche.
+    *翻译:* 这真是随机且小众。
+
+**[00:33]** But I watched this YouTube video recently about dating app algorithms based on speculation.
+    *翻译:* 但我最近看了一个关于基于猜测的约会应用算法的YouTube视频。
+
+**[00:38]** People have sort of figured out how it works.
+    *翻译:* 人们已经大致弄清楚了它的工作原理。
+
+**[00:41]** So like all the apps have different algorithms, right?
+    *翻译:* 就像所有应用程序都有不同的算法，对吧？
+
+**[00:43]** But for hench specifically, I think that one's the most interesting because their target is people who want actual relationships not like hookups.
+    *翻译:* 但对于手下来说，我认为这个群体最有趣，因为他们的目标是那些想要真正关系的人，而不是像寻求一夜情那样的人。
+
+**[00:50]** What people think is that they have a way of ranking your appearance like setting you to a number and then matching you with other people ranked the same as you.
+    *翻译:* 人们认为他们有一种方式来对你的外表进行排名，就像给你一个数字，然后将你与排名相同的其他人进行匹配。
+
+## 完整原文
+
+Just because I feel like this is a little too yellow for me now. Also, please ignore my broken nails. Last time I filmed a get ready with me with nails like this. The internet assumed I was lesbian for like three years. Oh my gosh, I forgot how good that NARS foundation is. It's so radiant and I feel like it mixes really well with that ditto one too. This is really random and niche. But I watched this YouTube video recently about dating app algorithms based on speculation. People have sort of figured out how it works. So like all the apps have different algorithms, right? But for hench specifically, I think that one's the most interesting because their target is people who want actual relationships not like hookups. What people think is that they have a way of ranking your appearance like setting you to a number and then matching you with other people ranked the same as you.
+
+## 完整译文
+
+只是我觉得这个颜色现在对我来说有点太黄了。还有，请忽略我断裂的指甲。上次我拍了一个化妆视频，指甲就是这样的。互联网上的人以为我是同性恋，持续了三年。哦，天哪，我忘了NARS粉底有多好用。它非常有光泽，我觉得它和那个ditto的粉底混合得很好。这真的很随机，也很小众。但我最近看了一个关于约会应用算法的YouTube视频，基于猜测。人们已经大致弄清楚了它的工作原理。所以，所有的应用都有不同的算法，对吧？但特别是对于hench来说，我认为那个最有趣，因为他们的目标是想要真正关系的人，而不是像约炮那样。人们认为他们有一种排名你外貌的方式，比如给你一个数字，然后和你排名相同的其他人配对。
