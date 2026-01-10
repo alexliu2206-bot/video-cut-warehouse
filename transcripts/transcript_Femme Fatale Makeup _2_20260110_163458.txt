@@ -1,0 +1,67 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 765
+- **译文字符数:** 280
+- **段落数:** 17
+
+## 分段转录
+
+**[00:00]** Ashes today, I'm using the Petite Club look twice lashes.
+    *翻译:* 今天，我正在使用Petite Club的双倍浓密睫毛。
+
+**[00:06]** I do not like how this lash looks with this look.
+    *翻译:* 我不喜欢这种睫毛和这种妆容的搭配。
+
+**[00:08]** Maybe I can use these slums.
+    *翻译:* 或许我可以利用这些贫民窟。
+
+**[00:10]** These are like really thin.
+    *翻译:* 这些真的非常薄。
+
+**[00:12]** I always have such a hard time picking which lashes to wear.
+    *翻译:* 我总是很难选择要戴哪种睫毛。
+
+**[00:14]** Cause they can change your entire look, you know?
+    *翻译:* 因为它们可以完全改变你的外表，你知道吗？
+
+**[00:22]** Wait, this looks way better.
+    *翻译:* 等等，这样看起来好多了。
+
+**[00:23]** Okay, wait, I just need it to curl them.
+    *翻译:* 好的，等等，我只是需要它来卷曲它们。
+
+**[00:25]** Actually, I forgot I wanted to do a little bit of eye shadow.
+    *翻译:* 实际上，我忘了我想涂一点眼影。
+
+**[00:29]** So I'm gonna use this palette from Herda Beauty.
+    *翻译:* 所以我将使用来自Herda Beauty的这个调色板。
+
+**[00:31]** It's the Cool Matte Obsessions palette
+    *翻译:* 这是酷感哑光迷恋调色盘
+
+**[00:34]** and I'm gonna take this shade.
+    *翻译:* 我将带走这片阴凉。
+
+**[00:39]** Now let's put on the eyelet tape.
+    *翻译:* 现在我们来穿上鞋眼带。
+
+**[00:47]** Today we're gonna be using the Gucci Beauty eyebrow pencil.
+    *翻译:* 今天我们将使用古驰美妆眉笔。
+
+**[00:54]** Okay, so moving on to the face,
+    *翻译:* 好的，那么继续进行面部操作，
+
+**[00:55]** if you guys have been keeping up with me,
+    *翻译:* 如果你们一直在关注我，
+
+**[00:57]** you know that I've been replacing my primers with serums for the past.
+    *翻译:* 你知道我过去一直在用精华液替换我的妆前乳。
+
+## 完整原文
+
+Ashes today, I'm using the Petite Club look twice lashes. I do not like how this lash looks with this look. Maybe I can use these slums. These are like really thin. I always have such a hard time picking which lashes to wear. Cause they can change your entire look, you know? Wait, this looks way better. Okay, wait, I just need it to curl them. Actually, I forgot I wanted to do a little bit of eye shadow. So I'm gonna use this palette from Herda Beauty. It's the Cool Matte Obsessions palette and I'm gonna take this shade. Now let's put on the eyelet tape. Today we're gonna be using the Gucci Beauty eyebrow pencil. Okay, so moving on to the face, if you guys have been keeping up with me, you know that I've been replacing my primers with serums for the past.
+
+## 完整译文
+
+今天，我用的是Petite Club的双层睫毛。我不喜欢这种睫毛和这个妆容搭配的样子。也许我可以用这些睫毛。这些真的很薄。我总是很难选择要戴哪种睫毛。因为它们可以完全改变你的整个妆容，你知道吗？等等，这样看起来好多了。好的，等等，我只需要把它们卷起来。实际上，我忘了我想稍微涂点眼影。所以我要使用这个来自Herda Beauty的调色板。这是Cool Matte Obsessions调色板，我要用这个色号。现在我们来贴上眼孔胶带。今天我们要用的是Gucci Beauty的眉笔。好的，继续说脸部，如果你们一直在关注我，你们知道我过去一直在用精华液替代妆前乳。
