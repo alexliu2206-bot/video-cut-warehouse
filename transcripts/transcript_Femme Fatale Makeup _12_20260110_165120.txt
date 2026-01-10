@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 446
+- **译文字符数:** 148
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** I'm gonna add a red liner to the waterline.
+    *翻译:* 我打算在水线处加上一条红色衬里。
+
+**[00:09]** Mmm, that looks much better.
+    *翻译:* 嗯，看起来好多了。
+
+**[00:11]** Okay.
+    *翻译:* 好的。
+
+**[00:12]** I'm gonna add some red here too.
+    *翻译:* 我也会在这里加一些红色。
+
+**[00:18]** Let's take out the things.
+    *翻译:* 我们把东西拿出来。
+
+**[00:29]** I'm gonna add this as the completed look.
+    *翻译:* 我会把这个作为完成的外观添加进去。
+
+**[00:30]** Thank you so much for watching.
+    *翻译:* 非常感谢您的观看。
+
+**[00:31]** If you liked this video, remember to like, comment, and subscribe.
+    *翻译:* 如果你喜欢这个视频，记得点赞、评论和订阅。
+
+**[00:34]** Thanks again to the Skinhouse for sponsoring this video.
+    *翻译:* 再次感谢Skinhouse赞助这个视频。
+
+**[00:36]** I'll leave all the information for that in the description box and I will see you in
+    *翻译:* 我会把所有信息都放在描述框里，我们稍后见。
+
+**[00:39]** my next video.
+    *翻译:* 我的下一个视频。
+
+**[00:40]** Bye.
+    *翻译:* 再见。
+
+**[00:59]** Bye.
+    *翻译:* 再见。
+
+## 完整原文
+
+I'm gonna add a red liner to the waterline. Mmm, that looks much better. Okay. I'm gonna add some red here too. Let's take out the things. I'm gonna add this as the completed look. Thank you so much for watching. If you liked this video, remember to like, comment, and subscribe. Thanks again to the Skinhouse for sponsoring this video. I'll leave all the information for that in the description box and I will see you in my next video. Bye. Bye.
+
+## 完整译文
+
+我打算在水线处加上一条红色眼线。嗯，这样看起来好多了。好的。我也要在这里加上一些红色。我们把这些东西拿出来。我要把这作为完成的样子。非常感谢大家的观看。如果你喜欢这个视频，记得点赞、评论和订阅。再次感谢Skinhouse赞助这个视频。我会在描述框里留下所有相关信息，我们下一个视频见。再见。再见。
