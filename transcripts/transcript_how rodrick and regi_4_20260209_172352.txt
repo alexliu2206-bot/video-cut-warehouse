@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1076
+- **译文字符数:** 340
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** absurd, it could never happen canonically. Think Dudley Dursley and Hermione Granger,
+    *翻译:* 荒谬，这在官方设定中永远不会发生。想想达力·德斯礼和赫敏·格兰杰，
+
+**[00:05]** Gollum and Galadriel, Darcy Lewis and Groot. It should be so out of left field that you find
+    *翻译:* 咕噜和盖拉德丽尔，达西·刘易斯和格鲁特。这应该是如此出人意料，以至于你发现
+
+**[00:10]** yourself struggling to even take it seriously, but that's part of its charm. And in the early days
+    *翻译:* 你自己甚至难以认真对待它，但这就是它的魅力所在。而且在早期的日子里
+
+**[00:15]** of Tumblr fandom, there were a lot of people who went out of their way to create chaotic crackships.
+    *翻译:* 在Tumblr的粉丝圈中，有很多人不遗余力地创造出混乱的拉郎配。
+
+**[00:20]** In 2012, a new crossover took over the internet, the Big Four, or more widely remembered,
+    *翻译:* 2012年，一种新的跨界现象席卷了互联网，四大天王，或者更广泛地被记住的是，
+
+**[00:26]** as rise of the Brave Tangled Dragons. Similar to Super Who Lock, which focused on the TV show's
+    *翻译:* 作为勇敢的混乱龙的崛起。类似于超级谁锁，它专注于电视节目
+
+**[00:31]** supernatural Doctor Who and Sherlock, the Big Four was a fandom fusion dedicated to the animated
+    *翻译:* 超自然的《神秘博士》和《神探夏洛克》，四大融合是一个致力于动画的粉丝圈。
+
+**[00:37]** films, rise of the Guardians, Brave, Tangled and how to train your dragon. Although each movie had
+    *翻译:* 电影《守护者的崛起》、《勇敢传说》、《魔发奇缘》以及《驯龙高手》。尽管每部电影都有
+
+**[00:42]** developed its own fandom independently, the fact that the main characters had similar ages and
+    *翻译:* 独立发展了自己的粉丝群体，主要角色年龄相似的事实
+
+**[00:47]** art styles gave them the same sort of crossover appeal that the YA franchises had. It didn't
+    *翻译:* 艺术风格赋予了它们与青少年系列作品相同的跨界吸引力。它并没有
+
+**[00:52]** matter that they were made by entirely different studios. To fans, this impossibility only made the
+    *翻译:* 尽管它们是由完全不同的工作室制作的，但对粉丝来说，这种不可能性只会让这个
+
+**[00:58]** concept even more exciting.
+    *翻译:* 概念更加令人兴奋。
+
+## 完整原文
+
+absurd, it could never happen canonically. Think Dudley Dursley and Hermione Granger, Gollum and Galadriel, Darcy Lewis and Groot. It should be so out of left field that you find yourself struggling to even take it seriously, but that's part of its charm. And in the early days of Tumblr fandom, there were a lot of people who went out of their way to create chaotic crackships. In 2012, a new crossover took over the internet, the Big Four, or more widely remembered, as rise of the Brave Tangled Dragons. Similar to Super Who Lock, which focused on the TV show's supernatural Doctor Who and Sherlock, the Big Four was a fandom fusion dedicated to the animated films, rise of the Guardians, Brave, Tangled and how to train your dragon. Although each movie had developed its own fandom independently, the fact that the main characters had similar ages and art styles gave them the same sort of crossover appeal that the YA franchises had. It didn't matter that they were made by entirely different studios. To fans, this impossibility only made the concept even more exciting.
+
+## 完整译文
+
+荒谬，这在官方设定中永远不会发生。想想达力·德思礼和赫敏·格兰杰，咕噜和盖拉德丽尔，达西·刘易斯和格鲁特。它应该是如此出人意料，以至于你发现自己甚至难以认真对待，但这也是它魅力的一部分。在Tumblr同人圈的早期，有很多人特意去创造混乱的拉郎配。2012年，一个新的跨界作品席卷了互联网，四大巨头，或者更广泛地被记住，作为勇敢的长发公主龙的崛起。类似于超级谁锁，它专注于电视剧中的超自然博士谁和夏洛克，四大巨头是一个同人圈融合，致力于动画电影，守护者的崛起，勇敢，长发公主和驯龙高手。尽管每部电影都独立发展了自己的粉丝圈，但主角们年龄相似和艺术风格相同，给了他们与青少年系列相同的跨界吸引力。它们由完全不同的工作室制作并不重要。对粉丝来说，这种不可能性只会让这个概念更加令人兴奋。
