@@ -1,0 +1,85 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1083
+- **译文字符数:** 346
+- **段落数:** 23
+
+## 分段转录
+
+**[00:00]** Well, perhaps not quite as much of a pop culture phenomenon,
+    *翻译:* 好吧，也许并没有那么多流行文化现象。
+
+**[00:03]** the diary of a Wimpy Kid was a mainstay
+    *翻译:* 《小屁孩日记》是一个主要的支柱
+
+**[00:05]** of scholastic book fairs in the late 2000s,
+    *翻译:* 2000年代末的学术书展，
+
+**[00:08]** eventually garnering a live action film series
+    *翻译:* 最终获得了一个真人动作电影系列
+
+**[00:10]** from 2010 to 2012 and an animated reboot
+    *翻译:* 从2010年到2012年以及一部动画重启
+
+**[00:13]** that started in 2021.
+    *翻译:* 始于2021年。
+
+**[00:15]** We don't talk about the 2017 movie.
+    *翻译:* 我们不讨论2017年的电影。
+
+**[00:17]** Because both franchises have been around for roughly 20 years,
+    *翻译:* 因为这两个特许经营品牌大约存在了20年，
+
+**[00:20]** odds are you're probably familiar with them to some degree,
+    *翻译:* 很可能你对它们有一定的了解，
+
+**[00:23]** which makes constructing an imaginative way easier
+    *翻译:* 这使得构建一种富有想象力的方式变得更容易。
+
+**[00:27]** because you can just fill in the blanks yourself.
+    *翻译:* 因为你完全可以自己填空。
+
+**[00:29]** Another reason why people might be so drawn to Rodrina
+    *翻译:* 另一个人们可能如此被Rodrina吸引的原因
+
+**[00:32]** is because of its trope potential,
+    *翻译:* 是因为它具有成为陈词滥调的潜力，
+
+**[00:34]** like the girly girl and the bad boy,
+    *翻译:* 像女孩子气的女孩和坏男孩，
+
+**[00:36]** the popular cheerleader and the artistic loser,
+    *翻译:* 受欢迎的啦啦队长和艺术上的失败者，
+
+**[00:39]** the black cat and the golden retriever,
+    *翻译:* 黑猫和金毛寻回犬，
+
+**[00:41]** and throw in secret dating and enemies to lovers for good measure.
+    *翻译:* 并且为了增加趣味性，还加入了秘密约会和从敌人变成恋人的情节。
+
+**[00:44]** These are the sorts of plot lines we've seen play out
+    *翻译:* 这些是我们见过展开的情节类型
+
+**[00:46]** in dozens of movies, TV shows, and music videos over the years,
+    *翻译:* 在多年的数十部电影、电视节目和音乐视频中，
+
+**[00:49]** but I eat it up every single time.
+    *翻译:* 但我每次都吃得津津有味。
+
+**[00:53]** The ship also benefits from its adherence to the characters canon.
+    *翻译:* 这艘船也因其忠于角色的正统性而受益。
+
+**[00:56]** In Regina's case, Rodric is basically
+    *翻译:* 在雷吉娜的案例中，罗德里克基本上是
+
+**[00:58]** a gruntier version of Aaron.
+    *翻译:* 一个更粗犷的亚伦版本。
+
+## 完整原文
+
+Well, perhaps not quite as much of a pop culture phenomenon, the diary of a Wimpy Kid was a mainstay of scholastic book fairs in the late 2000s, eventually garnering a live action film series from 2010 to 2012 and an animated reboot that started in 2021. We don't talk about the 2017 movie. Because both franchises have been around for roughly 20 years, odds are you're probably familiar with them to some degree, which makes constructing an imaginative way easier because you can just fill in the blanks yourself. Another reason why people might be so drawn to Rodrina is because of its trope potential, like the girly girl and the bad boy, the popular cheerleader and the artistic loser, the black cat and the golden retriever, and throw in secret dating and enemies to lovers for good measure. These are the sorts of plot lines we've seen play out in dozens of movies, TV shows, and music videos over the years, but I eat it up every single time. The ship also benefits from its adherence to the characters canon. In Regina's case, Rodric is basically a gruntier version of Aaron.
+
+## 完整译文
+
+好吧，也许并没有成为流行文化现象，但《小屁孩日记》在2000年代末是学校书展的常客，最终在2010年至2012年获得了真人电影系列，并在2021年开始了动画重启。我们不谈论2017年的电影。因为这两个系列大约已经存在了20年，你很可能在某种程度上对它们有所了解，这使得构建一个富有想象力的方式变得更容易，因为你可以直接填补空白。人们可能如此被Rodrina吸引的另一个原因是其潜在的典型角色，比如娇滴滴的女孩和坏男孩，受欢迎的啦啦队长和艺术系的失败者，黑猫和金毛寻回犬，再加上秘密约会和从敌人到恋人的转变。这些是我们多年来在数十部电影、电视节目和音乐视频中看到的剧情，但我每次都乐此不疲。这种搭配也得益于其对角色设定的忠实。在Regina的情况下，Rodric基本上是Aaron的更粗犷版本。
