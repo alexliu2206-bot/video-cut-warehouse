@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1082
+- **译文字符数:** 376
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** Chiquit Digital Ecosystem were millions of people gathered to discuss their favorite shows,
+    *翻译:* 奇基特数字生态系统聚集了数百万讨论他们最喜欢的节目的人。
+
+**[00:04]** books, and artists, and share their theories, artwork, and, of course, ships.
+    *翻译:* 书籍、艺术家，分享他们的理论、艺术作品，当然还有船只。
+
+**[00:09]** In the early days of the internet, there wasn't much room for fandom overlap, like a website
+    *翻译:* 在互联网的早期，粉丝群体之间的重叠空间并不大，比如一个网站
+
+**[00:14]** would be dedicated to Star Trek and only Star Trek.
+    *翻译:* 将致力于《星际迷航》且仅致力于《星际迷航》。
+
+**[00:17]** But on these newer platforms, Tumblr especially, you could talk about any and all of your interests
+    *翻译:* 但在这些更新的平台上，尤其是Tumblr，你可以谈论你的任何和所有兴趣。
+
+**[00:23]** in a single place, not to mention, interact with a wider variety of people.
+    *翻译:* 在同一个地方，更不用说，与更多样化的人群互动。
+
+**[00:28]** Like any form of cultural exchange, this led to a unique fusion of fandoms, which evolved
+    *翻译:* 像任何形式的文化交换一样，这导致了粉丝群体的独特融合，这种融合不断发展。
+
+**[00:32]** into the organic development of crossover concepts.
+    *翻译:* 进入跨界概念的有机发展。
+
+**[00:36]** At the time, one of the biggest fandoms in the world was Harry Potter, and fans of the
+    *翻译:* 当时，世界上最大的粉丝群体之一是哈利·波特，而该系列的粉丝
+
+**[00:40]** franchise were often drawn to other youth-focused fantasy series like The Hunger Games, Divergent,
+    *翻译:* 特许经营经常被吸引到其他以青少年为重点的奇幻系列，如《饥饿游戏》、《分歧者》。
+
+**[00:46]** The Mortal Instruments, Percy Jackson, Maze Runner, and The Chronicles of Narnia.
+    *翻译:* 《圣杯神器》、《波西·杰克逊》、《移动迷宫》和《纳尼亚传奇》。
+
+**[00:50]** While each of these works had their own individual fandoms that were wildly passionate about them,
+    *翻译:* 尽管这些作品各自拥有自己狂热的粉丝群体，
+
+**[00:55]** the similarities in their themes and tropes also made them perfect for crossovers.
+    *翻译:* 它们在主题和比喻上的相似性也使它们成为跨界合作的完美选择。
+
+## 完整原文
+
+Chiquit Digital Ecosystem were millions of people gathered to discuss their favorite shows, books, and artists, and share their theories, artwork, and, of course, ships. In the early days of the internet, there wasn't much room for fandom overlap, like a website would be dedicated to Star Trek and only Star Trek. But on these newer platforms, Tumblr especially, you could talk about any and all of your interests in a single place, not to mention, interact with a wider variety of people. Like any form of cultural exchange, this led to a unique fusion of fandoms, which evolved into the organic development of crossover concepts. At the time, one of the biggest fandoms in the world was Harry Potter, and fans of the franchise were often drawn to other youth-focused fantasy series like The Hunger Games, Divergent, The Mortal Instruments, Percy Jackson, Maze Runner, and The Chronicles of Narnia. While each of these works had their own individual fandoms that were wildly passionate about them, the similarities in their themes and tropes also made them perfect for crossovers.
+
+## 完整译文
+
+Chiquit 数字生态系统聚集了数百万人群，他们在这里讨论他们最喜欢的节目、书籍和艺术家，并分享他们的理论、艺术作品，当然还有他们的“船”（角色配对）。在互联网的早期，粉丝群体之间的重叠空间并不大，比如一个网站会专门致力于《星际迷航》且只涉及《星际迷航》。但在这些更新的平台，尤其是Tumblr，你可以在一个地方谈论你的任何和所有兴趣，更不用说，与更多样化的人群互动。像任何形式的文化交换一样，这导致了粉丝群体的独特融合，进而演变成跨界概念的自然发展。当时，世界上最大的粉丝群体之一是《哈利·波特》，而该系列的粉丝经常被吸引到其他以青少年为焦点的奇幻系列，如《饥饿游戏》、《分歧者》、《圣器》、《波西·杰克逊》、《迷宫跑者》和《纳尼亚传奇》。虽然这些作品各自都有非常热情的独立粉丝群体，但它们在主题和陈词滥调上的相似性也使它们成为跨界合作的完美选择。
