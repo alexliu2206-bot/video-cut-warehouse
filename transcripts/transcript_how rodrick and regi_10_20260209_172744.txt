@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1164
+- **译文字符数:** 357
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** and work. The argument that's gotten the most traction online is that by pairing Regina with
+    *翻译:* 并且工作。在网上获得最多关注的论点是，通过将雷吉娜与
+
+**[00:05]** Rodric, people are erasing her queer identity. Ever since Mean Girls came out, fans of theorize
+    *翻译:* Rodric，人们正在抹去她的酷儿身份。自从《贱女孩》上映以来，粉丝们就一直在推测。
+
+**[00:11]** that both Regina and Janice are actually lesbians, which is why they have such a volatile relationship
+    *翻译:* 实际上，Regina和Janice都是女同性恋，这就是她们关系如此不稳定的原因。
+
+**[00:15]** with each other. And over the years, there's been a lot of fan art and fanfic dedicated to this
+    *翻译:* 彼此之间。多年来，有很多粉丝艺术和同人小说致力于此。
+
+**[00:20]** head cannon. Fandoms are notorious for interpreting subtext as romance, with the likes of Spock and
+    *翻译:* 头炮。粉丝们以将潜台词解读为浪漫而闻名，比如斯波克和
+
+**[00:26]** Kirk, Harry Potter, and Draco Malfoy, and Derek and Styles. But I think it's important to remember
+    *翻译:* 柯克、哈利·波特、德拉科·马尔福，还有德里克和斯泰尔斯。但我认为重要的是要记住
+
+**[00:31]** that in the original movie, neither Regina or Janice actually express an interest in women.
+    *翻译:* 在原版电影中，Regina和Janice实际上都没有表现出对女性的兴趣。
+
+**[00:36]** I mean, Janice literally starts dating Kevin Nippor at the end of the movie. Now, I acknowledge
+    *翻译:* 我的意思是，Janice在电影结束时真的开始和Kevin Nippor约会了。现在，我承认
+
+**[00:41]** that subsequent media has complicated things a bit. Since Renee Rapp has played Regina as a lesbian,
+    *翻译:* 后续媒体让事情变得有点复杂。因为Renee Rapp扮演的Regina是同性恋，
+
+**[00:46]** and they've made Janice canonically queer. But as far as cross-ships are concerned, that doesn't
+    *翻译:* 他们已经让Janice成为官方的同性恋。但就跨船而言，那并不
+
+**[00:50]** actually matter. Because at the end of the day, it's just a way for people to explore different
+    *翻译:* 实际上很重要。因为归根结底，这只是人们探索不同方式的一种方法。
+
+**[00:54]** relationship dynamics with characters they know and love. And I don't think it's fair to reduce
+    *翻译:* 与他们熟悉和喜爱的角色之间的关系动态。我认为将其简化是不公平的。
+
+## 完整原文
+
+and work. The argument that's gotten the most traction online is that by pairing Regina with Rodric, people are erasing her queer identity. Ever since Mean Girls came out, fans of theorize that both Regina and Janice are actually lesbians, which is why they have such a volatile relationship with each other. And over the years, there's been a lot of fan art and fanfic dedicated to this head cannon. Fandoms are notorious for interpreting subtext as romance, with the likes of Spock and Kirk, Harry Potter, and Draco Malfoy, and Derek and Styles. But I think it's important to remember that in the original movie, neither Regina or Janice actually express an interest in women. I mean, Janice literally starts dating Kevin Nippor at the end of the movie. Now, I acknowledge that subsequent media has complicated things a bit. Since Renee Rapp has played Regina as a lesbian, and they've made Janice canonically queer. But as far as cross-ships are concerned, that doesn't actually matter. Because at the end of the day, it's just a way for people to explore different relationship dynamics with characters they know and love. And I don't think it's fair to reduce
+
+## 完整译文
+
+工作。在网上引起最多讨论的观点是，将雷吉娜与罗德里克配对，人们正在抹去她的酷儿身份。自从《贱女孩》上映以来，粉丝们就推测雷吉娜和贾尼斯实际上是女同性恋，这就是她们之间关系如此不稳定的原因。多年来，有很多粉丝艺术和同人小说都致力于这种观点。粉丝圈以将潜台词解读为浪漫而闻名，比如斯波克和柯克、哈利·波特和德拉科·马尔福，以及德里克和斯泰尔斯。但我认为重要的是要记住，在原版电影中，雷吉娜和贾尼斯实际上并没有表达对女性的兴趣。我的意思是，贾尼斯在电影结束时真的开始和凯文·尼波尔约会。现在，我承认后续媒体让事情变得有点复杂。因为蕾妮·拉普扮演的雷吉娜是女同性恋，他们已经让贾尼斯成为官方的酷儿。但就跨船而言，这实际上并不重要。因为归根结底，这只是人们探索他们熟悉和喜爱的角色之间不同关系动态的一种方式。我认为将其简化为
