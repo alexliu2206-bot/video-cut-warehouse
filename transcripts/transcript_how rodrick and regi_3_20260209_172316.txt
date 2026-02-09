@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1042
+- **译文字符数:** 357
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** And it was pretty common to see imagined scenarios where Percy Jackson attended Hogwarts,
+    *翻译:* 而且很常见的是，人们会想象珀西·杰克逊参加霍格沃茨的场景。
+
+**[00:04]** or Katniss Everdeen teamed up with Beatrice Pryor.
+    *翻译:* 或者凯特尼斯·伊夫狄恩与比阿特丽斯·普赖尔联手。
+
+**[00:07]** Now crossovers weren't an unheard of concept, especially in the TV space, as seen with Scooby-Doo
+    *翻译:* 现在跨界合作并不是一个闻所未闻的概念，特别是在电视领域，正如《史酷比》所展现的那样。
+
+**[00:13]** and Batman in 1972, the Jetsons and the Flintstones in 1987, and Full House and Family Matters in
+    *翻译:* 1972年的蝙蝠侠，1987年的杰森一家和摩登原始人，以及全家务和家庭琐事。
+
+**[00:20]** 1991, but on Tumblr they took on a life of their own, something that I partially credit
+    *翻译:* 1991年，但在Tumblr上它们获得了自己的生命力，这在一定程度上要归功于我。
+
+**[00:25]** to the popularity of crossover episodes in the 2010s, like that so sweet life of Hannah
+    *翻译:* 2010年代跨界剧集的流行，比如汉娜那甜蜜的生活
+
+**[00:30]** Montana, the Jimmy Timmy Power Hour, and I Party with Victorious, projects that many
+    *翻译:* 蒙大拿，吉米蒂米力量小时，以及我和胜利派对，这些项目许多人参与其中。
+
+**[00:36]** of the same people writing Twilight and the moral instrument crossover fanfics would have
+    *翻译:* 那些写《暮光之城》和《道德工具》同人小说的人会有
+
+**[00:40]** grown up watching.
+    *翻译:* 成长过程中观看。
+
+**[00:42]** crossovers were solidified in the mainstream in 2011 with once upon a time, which took
+    *翻译:* 2011年，《童话镇》巩固了跨界作品在主流市场的地位。
+
+**[00:46]** dozens of unrelated Disney characters and paired them up to create the most complicated
+    *翻译:* 数十个不相关的迪士尼角色被配对，创造出最复杂的
+
+**[00:51]** family tree that even the wildest Tumblr user couldn't have jumped up.
+    *翻译:* 即使是最疯狂的Tumblr用户也无法跳上去的家谱树。
+
+**[00:55]** In the traditional sense, a crack pairing refers to a relationship in universe that is so
+    *翻译:* 在传统意义上，一对裂缝指的是宇宙中如此的关系
+
+## 完整原文
+
+And it was pretty common to see imagined scenarios where Percy Jackson attended Hogwarts, or Katniss Everdeen teamed up with Beatrice Pryor. Now crossovers weren't an unheard of concept, especially in the TV space, as seen with Scooby-Doo and Batman in 1972, the Jetsons and the Flintstones in 1987, and Full House and Family Matters in 1991, but on Tumblr they took on a life of their own, something that I partially credit to the popularity of crossover episodes in the 2010s, like that so sweet life of Hannah Montana, the Jimmy Timmy Power Hour, and I Party with Victorious, projects that many of the same people writing Twilight and the moral instrument crossover fanfics would have grown up watching. crossovers were solidified in the mainstream in 2011 with once upon a time, which took dozens of unrelated Disney characters and paired them up to create the most complicated family tree that even the wildest Tumblr user couldn't have jumped up. In the traditional sense, a crack pairing refers to a relationship in universe that is so
+
+## 完整译文
+
+而且，看到珀西·杰克逊参加霍格沃茨，或者凯特尼斯·伊夫狄恩与比阿特丽斯·普赖尔联手的想象场景相当普遍。现在，跨界合作并不是一个闻所未闻的概念，特别是在电视领域，就像1972年的《史酷比与蝙蝠侠》，1987年的《杰森一家与摩登原始人》，以及1991年的《欢乐满屋与家庭琐事》一样，但在Tumblr上，它们有了自己的生命力，我部分归功于2010年代跨界剧集的流行，比如汉娜·蒙塔娜的甜蜜生活，吉米·提米的力量小时，以及与胜利者一起参加派对，这些项目是许多写《暮光之城》和道德仪器跨界同人小说的人在成长过程中观看的。2011年，跨界合作在主流中得到了巩固，那就是《童话镇》，它将数十个无关的迪士尼角色配对，创造了一个最复杂的家谱，即使是最疯狂的Tumblr用户也无法跳过。在传统意义上，一个裂缝配对指的是宇宙中如此的关系
