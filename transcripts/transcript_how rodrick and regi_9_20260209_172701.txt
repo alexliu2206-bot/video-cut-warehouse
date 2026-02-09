@@ -1,0 +1,52 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1106
+- **译文字符数:** 362
+- **段落数:** 12
+
+## 分段转录
+
+**[00:00]** Sammills. And if you take a good look at her bedroom, she is posters of Avrilovine and the Strokes,
+    *翻译:* Sammills。如果你仔细观察她的卧室，你会发现她贴着Avrilovine和The Strokes的海报。
+
+**[00:04]** so you could make the argument that she'd like loaded diaper. Meanwhile, Roderick's crush in
+    *翻译:* 所以你可以说她会喜欢装满的尿布。与此同时，罗德里克的暗恋对象在
+
+**[00:10]** diary of a wimpy kid, Heather Hills, is basically a less evil version of Regina, and I think he would
+    *翻译:* 《小屁孩日记》中的Heather Hills，基本上是一个不那么邪恶的Regina版本，我认为他可能会
+
+**[00:16]** absolutely love being bossed around by her and public. Perings are always a hot button issue in
+    *翻译:* 非常喜欢被她和公众指挥。Perings总是一个热门话题。
+
+**[00:21]** a fandom, and Rodrina is already seeing its fair share of criticism. Some have said that because
+    *翻译:* 一个粉丝圈，而Rodrina已经看到了它应得的批评。有人说，因为
+
+**[00:26]** of the character's ages, fan art and fanfic depicting them in sexual situations is inappropriate.
+    *翻译:* 关于角色的年龄，粉丝艺术和同人小说描绘他们在性情境中是不合适的。
+
+**[00:32]** While I can somewhat understand the argument in Roderick's case, considering his franchise
+    *翻译:* 虽然我对罗德里克的情况提出的论点有一定的理解，考虑到他的特许经营权
+
+**[00:36]** is firmly in PG territory, Regina is very open about her sexuality, and honestly,
+    *翻译:* 坚定地处于PG领域，雷吉娜对自己的性取向非常开放，而且说实话，
+
+**[00:42]** sexual exploration is a very normal part of adolescence, and it's naive to pretend otherwise.
+    *翻译:* 性探索是青春期非常正常的一部分，假装不是这样是幼稚的。
+
+**[00:48]** I've also seen people say that the pairing doesn't work because the character's actors
+    *翻译:* 我也看到有人说这种配对不起作用，因为角色的演员们
+
+**[00:52]** have a 15 year age gap, and they went to high school at totally different times. But that just
+    *翻译:* 他们之间有15岁的年龄差距，而且他们上高中的时间完全不同。但这只是
+
+**[00:56]** feels like a total misunderstanding of how crossovers and fanfiction...
+    *翻译:* 感觉像是对跨界和同人小说的完全误解……
+
+## 完整原文
+
+Sammills. And if you take a good look at her bedroom, she is posters of Avrilovine and the Strokes, so you could make the argument that she'd like loaded diaper. Meanwhile, Roderick's crush in diary of a wimpy kid, Heather Hills, is basically a less evil version of Regina, and I think he would absolutely love being bossed around by her and public. Perings are always a hot button issue in a fandom, and Rodrina is already seeing its fair share of criticism. Some have said that because of the character's ages, fan art and fanfic depicting them in sexual situations is inappropriate. While I can somewhat understand the argument in Roderick's case, considering his franchise is firmly in PG territory, Regina is very open about her sexuality, and honestly, sexual exploration is a very normal part of adolescence, and it's naive to pretend otherwise. I've also seen people say that the pairing doesn't work because the character's actors have a 15 year age gap, and they went to high school at totally different times. But that just feels like a total misunderstanding of how crossovers and fanfiction...
+
+## 完整译文
+
+萨米尔斯。如果你仔细观察她的卧室，她贴着Avrilovine和The Strokes的海报，所以你可以说她会喜欢装满尿布的。与此同时，在《小屁孩日记》中，罗德里克的暗恋对象希瑟·希尔斯基本上是一个不那么邪恶的雷吉娜版本，我认为他绝对会喜欢被她和公众指使。在粉丝圈中，Perings总是一个热门话题，而Rodrina已经受到了相当多的批评。有人说，由于角色的年龄，描绘他们在性情境中的同人艺术和同人小说是不恰当的。虽然我在某种程度上能理解罗德里克的情况，考虑到他的特许经营权坚定地处于PG领域，雷吉娜非常公开她的性取向，而且老实说，性探索是非常正常的青春期部分，假装不是这样是幼稚的。我也看到有人说，因为角色的演员有15岁的年龄差距，他们在完全不同的时间上高中，所以这对组合行不通。但这感觉就像是对跨界和同人小说的完全误解……
