@@ -1,0 +1,49 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1053
+- **译文字符数:** 357
+- **段落数:** 11
+
+## 分段转录
+
+**[00:00]** fighting. The fandom quickly grew, and thousands of edits, fanfics, and illustrations were flooding
+    *翻译:* 战斗。粉丝群体迅速壮大，成千上万的编辑、同人小说和插画如洪水般涌现。
+
+**[00:05]** the internet. Sometimes the quartet were hoggurt students, sometimes superheroes, other times
+    *翻译:* 互联网。有时这个四人组是霍格沃茨的学生，有时是超级英雄，其他时候
+
+**[00:11]** modern-day teens. Like most crack-ships, fans weren't limiting themselves to the canon, and instead
+    *翻译:* 现代青少年。像大多数同人配对一样，粉丝们并不局限于官方设定，而是
+
+**[00:17]** used the characters as familiar placeholders for their own original ideas. While the characters
+    *翻译:* 使用这些角色作为他们自己原创想法的熟悉占位符。虽然这些角色
+
+**[00:22]** were shipped together pretty interchangeably in those early days, the most popular pairings were
+    *翻译:* 在那些早期，它们被一起运送，并且可以互换使用，最受欢迎的组合是
+
+**[00:26]** Jack Frost and Rapunzel, followed by Marida and Hiccup. After Frozen was released in late 2013,
+    *翻译:* 杰克·弗罗斯特和长发公主，紧接着是玛丽达和希库普。在2013年底《冰雪奇缘》上映后，
+
+**[00:33]** Elsa and Anna were added to the lineup, leading to the fandom being renamed Rise of the Brave
+    *翻译:* 艾莎和安娜被加入阵容，导致粉丝团被重新命名为“勇敢的崛起”。
+
+**[00:38]** Tangled Frozen Dragons, a mouthful, I know. Because of their similar visuals and powers, Elsa and
+    *翻译:* 《纠结的冰霜巨龙》，我知道这个名字有点拗口。因为艾莎和他们有着相似的视觉效果和力量。
+
+**[00:45]** Jack Frost became the new It couple, something that was named pretty extensively across the
+    *翻译:* 杰克·弗罗斯特成为了新的热门情侣，这个称号在各个地方被广泛地提及。
+
+**[00:50]** internet, but the fandom didn't ignore the rest of the group, usually hitching Anna to Hiccup
+    *翻译:* 互联网，但粉丝并没有忽视团队的其他成员，通常会将安娜与希库普联系在一起。
+
+**[00:54]** and Rapunzel to Marida. And for some people, these pairings were their first introduction to
+    *翻译:* 并将长发公主与玛丽达相配。对一些人来说，这些配对是他们首次接触到的。
+
+## 完整原文
+
+fighting. The fandom quickly grew, and thousands of edits, fanfics, and illustrations were flooding the internet. Sometimes the quartet were hoggurt students, sometimes superheroes, other times modern-day teens. Like most crack-ships, fans weren't limiting themselves to the canon, and instead used the characters as familiar placeholders for their own original ideas. While the characters were shipped together pretty interchangeably in those early days, the most popular pairings were Jack Frost and Rapunzel, followed by Marida and Hiccup. After Frozen was released in late 2013, Elsa and Anna were added to the lineup, leading to the fandom being renamed Rise of the Brave Tangled Frozen Dragons, a mouthful, I know. Because of their similar visuals and powers, Elsa and Jack Frost became the new It couple, something that was named pretty extensively across the internet, but the fandom didn't ignore the rest of the group, usually hitching Anna to Hiccup and Rapunzel to Marida. And for some people, these pairings were their first introduction to
+
+## 完整译文
+
+战斗。这个粉丝群体迅速壮大，成千上万的编辑、同人小说和插画充斥着互联网。有时，这个四人组是霍格沃茨的学生，有时是超级英雄，其他时候则是现代青少年。像大多数狂热配对一样，粉丝们并没有局限于官方设定，而是将角色作为熟悉的占位符，用于他们自己的原创想法。在那些早期日子里，角色们可以相当随意地被配对在一起，但最受欢迎的配对是杰克·弗罗斯特和长发公主，其次是玛丽达和希卡普。2013年底《冰雪奇缘》上映后，艾莎和安娜被加入到阵容中，导致粉丝群体被重新命名为“勇敢的纠缠冰冻龙的崛起”，我知道这个名字很拗口。由于他们相似的视觉效果和能力，艾莎和杰克·弗罗斯特成为了新的热门情侣，这在互联网上被广泛命名，但粉丝群体并没有忽视其他成员，通常会将安娜与希卡普配对，长发公主与玛丽达配对。对一些人来说，这些配对是他们第一次接触到的。
