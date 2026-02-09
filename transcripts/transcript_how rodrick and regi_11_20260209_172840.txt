@@ -1,0 +1,85 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1049
+- **译文字符数:** 352
+- **段落数:** 23
+
+## 分段转录
+
+**[00:00]** to a gender-swept version of Regina's.
+    *翻译:* 一个性别模糊版的雷吉娜。
+
+**[00:03]** The popularity of Rodric X Regina has resulted in an uptick
+    *翻译:* Rodric X Regina的受欢迎导致了增长。
+
+**[00:06]** of other crack-ships and cross-parings online,
+    *翻译:* 关于网络上其他的拉郎配和跨界配对，
+
+**[00:09]** like Clark Kent and Sharpe Evans, Duke Orsino,
+    *翻译:* 像克拉克·肯特和夏普·埃文斯，杜克·奥西诺，
+
+**[00:12]** and Olive Pendergast, Gretchen Wieners, and Joey Donner,
+    *翻译:* 以及奥利弗·彭德加斯特、格雷琴·魏纳和乔伊·唐纳。
+
+**[00:15]** and Cher Horowitz and Billy Lumis.
+    *翻译:* 和Cher Horowitz以及Billy Lumis。
+
+**[00:17]** I've even seen Jasper Cullen and Coriolena Snow,
+    *翻译:* 我甚至见过贾斯珀·卡伦和科里奥莱娜·斯诺，
+
+**[00:20]** a ship that I'm generally surprised wasn't around
+    *翻译:* 一艘我通常惊讶于它不存在的船
+
+**[00:23]** back in 2014 because it's brilliant.
+    *翻译:* 回到2014年，因为它太精彩了。
+
+**[00:26]** While most of these modern parings
+    *翻译:* 尽管这些现代配对中的大多数
+
+**[00:27]** are just riding Rodriguez co-tails
+    *翻译:* 只是在享受罗德里格斯的余荫
+
+**[00:29]** and aren't intended to go further than that,
+    *翻译:* 并且不打算超出那个范围，
+
+**[00:32]** it's interesting to see what ships people think would
+    *翻译:* 有趣的是，可以看到人们认为哪些船会
+
+**[00:34]** and wouldn't work, especially in this day and age
+    *翻译:* 而且不会起作用，特别是在当今这个时代
+
+**[00:37]** where generative AI is taking the life and soul out of art.
+    *翻译:* 生成性人工智能正在从艺术中夺走生命和灵魂。
+
+**[00:40]** And this sort of creative expression
+    *翻译:* 这种创造性表达
+
+**[00:42]** is becoming less and less common.
+    *翻译:* 变得越来越不常见。
+
+**[00:44]** Teen media today totally pales in comparison to the past,
+    *翻译:* 如今的青少年媒体与过去相比简直相形见绌。
+
+**[00:48]** and movies like She's the Man, a Cinderella story,
+    *翻译:* 以及像《她是个男人》、《灰姑娘的故事》这样的电影，
+
+**[00:51]** Clueless, and Bring It On just don't get made anymore.
+    *翻译:* 《独领风骚》和《魅力四射》这样的电影现在不再制作了。
+
+**[00:54]** Sharpe they could be silly and predictable,
+    *翻译:* 夏普他们可能会很愚蠢且可预测，
+
+**[00:56]** but they were also fun and filled with heart.
+    *翻译:* 但它们同样有趣，充满了温暖。
+
+**[00:59]** And I think audiences...
+    *翻译:* 我认为观众...
+
+## 完整原文
+
+to a gender-swept version of Regina's. The popularity of Rodric X Regina has resulted in an uptick of other crack-ships and cross-parings online, like Clark Kent and Sharpe Evans, Duke Orsino, and Olive Pendergast, Gretchen Wieners, and Joey Donner, and Cher Horowitz and Billy Lumis. I've even seen Jasper Cullen and Coriolena Snow, a ship that I'm generally surprised wasn't around back in 2014 because it's brilliant. While most of these modern parings are just riding Rodriguez co-tails and aren't intended to go further than that, it's interesting to see what ships people think would and wouldn't work, especially in this day and age where generative AI is taking the life and soul out of art. And this sort of creative expression is becoming less and less common. Teen media today totally pales in comparison to the past, and movies like She's the Man, a Cinderella story, Clueless, and Bring It On just don't get made anymore. Sharpe they could be silly and predictable, but they were also fun and filled with heart. And I think audiences...
+
+## 完整译文
+
+对于雷吉娜版本的性别转换。罗德里克X雷吉娜的流行导致了其他狂热配对和跨配对在网上的增加，比如克拉克·肯特和夏普·埃文斯，公爵奥西诺和奥利弗·潘德加斯特，格雷琴·维纳和乔伊·唐纳，以及切尔·霍罗维茨和比利·卢米斯。我甚至看到了贾斯珀·卡伦和科里奥莱娜·斯诺，这是一个我通常惊讶在2014年没有出现的配对，因为它太精彩了。虽然这些现代配对大多数只是搭罗德里格斯的顺风车，并不打算走得更远，但看到人们认为哪些配对会成功哪些不会，特别是在这个由生成性人工智能夺走艺术生命和灵魂的时代，这很有趣。这种创造性表达变得越来越不常见。如今的青少年媒体与过去相比黯然失色，像《她是个男人》、《灰姑娘的故事》、《独领风骚》和《热力四射》这样的电影再也不拍了。夏普可能很傻很可预测，但它们也很有趣，充满了心意。我认为观众...
