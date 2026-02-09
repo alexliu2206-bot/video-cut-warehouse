@@ -1,0 +1,61 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1070
+- **译文字符数:** 373
+- **段落数:** 15
+
+## 分段转录
+
+**[00:00]** and gigs, but the best ones in my opinion strike a balance, with the characters having just
+    *翻译:* 还有演出，但在我看来，最好的那些能够取得平衡，角色们拥有的只是
+
+**[00:04]** enough compatibility that it makes sense, but still being absurd enough that you can just
+    *翻译:* 足够的兼容性，这说得通，但仍然荒谬到你可以直接
+
+**[00:08]** have fun with it.
+    *翻译:* 玩得开心。
+
+**[00:10]** In the 2020s, TikTok and X have become the main fandom platforms, but large-scale crossover
+    *翻译:* 在2020年代，TikTok和X已经成为主要的粉丝平台，但大规模的跨界
+
+**[00:16]** is like rise of the Brave Tangle Dragons, scenes to have gone the way of Buzzfeed and Skinny
+    *翻译:* 就像勇敢的缠斗龙的崛起，场景已经走向了Buzzfeed和Skinny的道路。
+
+**[00:20]** Jeans, until recently that is.
+    *翻译:* 牛仔裤，直到最近都是这样。
+
+**[00:22]** On October 10, 2025, artist Monia Lynn posted a TikTok, pairing Regina George from Mean Girls
+    *翻译:* 2025年10月10日，艺术家莫妮亚·林恩发布了一条TikTok，将《贱女孩》中的雷吉娜·乔治配对。
+
+**[00:29]** with Roderick Heffley from Diary of a Wimpy Kid.
+    *翻译:* 与《小屁孩日记》中的罗德里克·赫夫利。
+
+**[00:31]** The video quickly picked up steam, and in mere days there were hundreds of fan edits,
+    *翻译:* 视频迅速走红，仅在几天内就出现了数百个粉丝编辑版本。
+
+**[00:35]** art pieces, and thirst posts dedicated to the fictional couple, signaling a return of
+    *翻译:* 艺术品和献给虚构情侣的渴望帖子，标志着它们的回归。
+
+**[00:40]** the fandom dynamic we long thought lost.
+    *翻译:* 我们长久以来认为已经失去的粉丝群体动态。
+
+**[00:43]** There are several reasons why I think that pairing has struck a chord with so many people.
+    *翻译:* 我认为配对之所以能引起这么多人共鸣，有几个原因。
+
+**[00:47]** First is the nostalgia factor.
+    *翻译:* 首先是怀旧因素。
+
+**[00:49]** Mean Girls came out in 2004 and was a staple of the era, and its popularity endured for
+    *翻译:* 《贱女孩》于2004年上映，成为那个时代的标志性电影，其受欢迎程度一直持续至今。
+
+**[00:54]** so long that it got a sequel, a Broadway musical, and a movie adaptation of sad musical.
+    *翻译:* 如此之长，以至于它有了续集、百老汇音乐剧和悲伤音乐剧的电影改编。
+
+## 完整原文
+
+and gigs, but the best ones in my opinion strike a balance, with the characters having just enough compatibility that it makes sense, but still being absurd enough that you can just have fun with it. In the 2020s, TikTok and X have become the main fandom platforms, but large-scale crossover is like rise of the Brave Tangle Dragons, scenes to have gone the way of Buzzfeed and Skinny Jeans, until recently that is. On October 10, 2025, artist Monia Lynn posted a TikTok, pairing Regina George from Mean Girls with Roderick Heffley from Diary of a Wimpy Kid. The video quickly picked up steam, and in mere days there were hundreds of fan edits, art pieces, and thirst posts dedicated to the fictional couple, signaling a return of the fandom dynamic we long thought lost. There are several reasons why I think that pairing has struck a chord with so many people. First is the nostalgia factor. Mean Girls came out in 2004 and was a staple of the era, and its popularity endured for so long that it got a sequel, a Broadway musical, and a movie adaptation of sad musical.
+
+## 完整译文
+
+在我看来，最好的组合能够取得平衡，角色之间的兼容性恰到好处，既合情合理，又足够荒谬，让你可以尽情享受其中的乐趣。在2020年代，TikTok和X成为了主要的粉丝平台，但大规模的跨界合作就像勇敢纠结龙的崛起，场景已经像Buzzfeed和紧身牛仔裤一样过时了，直到最近。2025年10月10日，艺术家莫妮亚·林恩在TikTok上发布了一个视频，将《贱女孩》中的雷吉娜·乔治与《小屁孩日记》中的罗德里克·赫夫利配对。视频迅速走红，在短短几天内就有数百个粉丝编辑、艺术作品和渴望帖子献给了这对虚构的情侣，标志着我们长久以来认为已经失去的粉丝动态的回归。我认为这个配对之所以能引起这么多人共鸣，有几个原因。首先是怀旧因素。《贱女孩》于2004年上映，是那个时代的代表作，它的受欢迎程度持续了很长时间，以至于它得到了续集、百老汇音乐剧和悲伤音乐剧的电影改编。
