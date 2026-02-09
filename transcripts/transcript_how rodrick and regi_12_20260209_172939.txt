@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1079
+- **译文字符数:** 375
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** are desperate for those sorts of stories to make a comeback.
+    *翻译:* 迫切希望那些类型的故事能够复兴。
+
+**[00:03]** Rodrina scratches that itch, and when people pair these characters together,
+    *翻译:* Rodrina 挠了那个痒处，当人们将这些角色配对在一起时，
+
+**[00:07]** what they're really doing is resurrecting that era.
+    *翻译:* 他们真正在做的是复活那个时代。
+
+**[00:09]** They're channeling the fun, colorful, and camp energy that made teen films of the past
+    *翻译:* 他们正在传递过去青少年电影中那种有趣、多彩和夸张的能量。
+
+**[00:15]** legendary. And if I were Hollywood, I'd pay attention.
+    *翻译:* 传奇。如果我在好莱坞，我会注意的。
+
+**[00:18]** This wouldn't be the first time a niche corner of the fandom world has made its way into the
+    *翻译:* 这已经不是粉丝圈的小众领域第一次进入主流视野了。
+
+**[00:22]** mainstream. Fifty shades of gray began as twilight fanfiction, after was a one-direction
+    *翻译:* 主流。五十度灰最初是暮光之城的同人小说，后来成为了单向乐队。
+
+**[00:27]** whatpad story, and the love hypothesis was someone's fevered,
+    *翻译:* Whatpad故事，爱情假说或许是某人的狂热，
+
+**[00:31]** ray-low dreams. Would it really be so far-fetched for a TikTok trend to influence the next era of
+    *翻译:* 遥不可及的梦想。对于TikTok趋势影响下一个时代来说，这真的那么牵强吗？
+
+**[00:37]** teen movies? Now it's hard to predict how long our fascination with Rodrina and Regina will last.
+    *翻译:* 青少年电影？现在很难预测我们对Rodrina和Regina的迷恋会持续多久。
+
+**[00:42]** Maybe it'll fizzle out in a few weeks, maybe it'll become the stuff of legend.
+    *翻译:* 也许几周后它会逐渐消失，也许会成为传奇。
+
+**[00:46]** But at least we can remember that time we were able to come together and ask,
+    *翻译:* 但至少我们可以记得那个我们能够聚在一起并提出问题的时刻，
+
+**[00:50]** what if, and why not? So whether you're shipping Rodrina and Regina, Elsa and Jack Frost,
+    *翻译:* 如果呢，为什么不呢？所以无论你是支持Rodrina和Regina，还是Elsa和Jack Frost，
+
+**[00:56]** or Barack Obama and Harry Styles, just know that you're not.
+    *翻译:* 或者巴拉克·奥巴马和哈里·斯泰尔斯，只需知道你不是。
+
+## 完整原文
+
+are desperate for those sorts of stories to make a comeback. Rodrina scratches that itch, and when people pair these characters together, what they're really doing is resurrecting that era. They're channeling the fun, colorful, and camp energy that made teen films of the past legendary. And if I were Hollywood, I'd pay attention. This wouldn't be the first time a niche corner of the fandom world has made its way into the mainstream. Fifty shades of gray began as twilight fanfiction, after was a one-direction whatpad story, and the love hypothesis was someone's fevered, ray-low dreams. Would it really be so far-fetched for a TikTok trend to influence the next era of teen movies? Now it's hard to predict how long our fascination with Rodrina and Regina will last. Maybe it'll fizzle out in a few weeks, maybe it'll become the stuff of legend. But at least we can remember that time we were able to come together and ask, what if, and why not? So whether you're shipping Rodrina and Regina, Elsa and Jack Frost, or Barack Obama and Harry Styles, just know that you're not.
+
+## 完整译文
+
+人们渴望那些类型的故事能够复兴。Rodrina挠了这个痒，当人们将这些角色配对时，他们实际上正在复活那个时代。他们正在传递那种让过去的青少年电影成为传奇的乐趣、多彩和夸张的能量。如果我在好莱坞，我会注意这一点。这不会是粉丝世界的一个小众角落首次进入主流。《五十度灰》最初是《暮光之城》的同人小说，之后是一个One Direction的Whatpad故事，而《爱情假说》是某人狂热的、低俗的梦想。一个TikTok趋势影响下一代青少年电影会那么牵强吗？现在很难预测我们对Rodrina和Regina的迷恋会持续多久。也许几周后就会消失，也许会成为传奇。但至少我们可以记住那个我们能够团结起来问“如果”和“为什么不”的时候。所以无论你是在支持Rodrina和Regina，Elsa和Jack Frost，还是巴拉克·奥巴马和哈里·斯泰尔斯，只需知道你不是。
