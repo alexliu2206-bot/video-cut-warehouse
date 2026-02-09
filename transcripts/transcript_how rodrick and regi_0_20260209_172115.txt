@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 988
+- **译文字符数:** 278
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** The Crazy History of Crack Ships
+    *翻译:* 疯狂的“裂船”历史
+
+**[00:03]** The internet moves at a whirlwind pace nowadays.
+    *翻译:* 如今互联网的发展速度如同旋风一般。
+
+**[00:06]** One day people are screaming, skippity toilet, and the next, it's 6-7.
+    *翻译:* 有一天人们在尖叫，跳过厕所，紧接着就变成了6-7。
+
+**[00:12]** But the latest trend to take social media by storm is in a catchphrase or a dance, it's a relationship.
+    *翻译:* 但最近席卷社交媒体的最新趋势不是一句口号或一支舞蹈，而是一段关系。
+
+**[00:18]** And not just any relationship.
+    *翻译:* 不仅仅是任何关系。
+
+**[00:20]** If you've been anywhere online lately, then you've probably seen the bizarre mashup of two childhood icons,
+    *翻译:* 如果你最近上网，你可能已经看到了两个童年偶像的奇异混合。
+
+**[00:26]** Roger Kefli from Diary of a Wimpy Kid, and Regina George for Mean Girls.
+    *翻译:* 来自《小屁孩日记》的罗杰·凯夫利，以及《贱女孩》中的雷吉娜·乔治。
+
+**[00:31]** The pairing has spread like wildfire, inspiring countless fan edits, illustrations,
+    *翻译:* 这种配对像野火一样蔓延开来，激发了无数粉丝的编辑和插画。
+
+**[00:37]** and even Halloween costumes that have positioned the two unrelated characters as a couple.
+    *翻译:* 甚至万圣节服装也将这两个无关的角色定位为一对情侣。
+
+**[00:42]** But this isn't the first time the internet has fallen in love with an impossible relationship.
+    *翻译:* 但这并不是互联网第一次对一段不可能的关系着迷。
+
+**[00:47]** And Rodrina is just another great example of the chaos and creativity that's been fueling fandom culture for decades.
+    *翻译:* 而Rodrina只是数十年来推动粉丝文化混乱与创造力的又一个绝佳例子。
+
+**[00:54]** Today we're going to be taking a look at the weird and wonderful world of fandom pairings,
+    *翻译:* 今天我们将一探奇异而精彩的同人配对世界，
+
+**[00:58]** from the crossover craziness on to ffff.
+    *翻译:* 从跨界狂热到ffff。
+
+## 完整原文
+
+The Crazy History of Crack Ships The internet moves at a whirlwind pace nowadays. One day people are screaming, skippity toilet, and the next, it's 6-7. But the latest trend to take social media by storm is in a catchphrase or a dance, it's a relationship. And not just any relationship. If you've been anywhere online lately, then you've probably seen the bizarre mashup of two childhood icons, Roger Kefli from Diary of a Wimpy Kid, and Regina George for Mean Girls. The pairing has spread like wildfire, inspiring countless fan edits, illustrations, and even Halloween costumes that have positioned the two unrelated characters as a couple. But this isn't the first time the internet has fallen in love with an impossible relationship. And Rodrina is just another great example of the chaos and creativity that's been fueling fandom culture for decades. Today we're going to be taking a look at the weird and wonderful world of fandom pairings, from the crossover craziness on to ffff.
+
+## 完整译文
+
+互联网如今以旋风般的速度发展。一天人们还在尖叫“跳过厕所”，第二天就变成了“6-7”。但最新席卷社交媒体的趋势不是一句口号或一支舞蹈，而是一种关系。而且不仅仅是任何关系。如果你最近上网，你可能已经看到了两个童年偶像的奇异混搭，来自《小屁孩日记》的罗杰·凯夫利和《贱女孩》的雷吉娜·乔治。这对组合像野火一样蔓延开来，激发了无数粉丝编辑、插画，甚至万圣节装扮，将这两个无关的角色定位为一对情侣。但这并不是互联网第一次爱上不可能的关系。而罗德里娜只是几十年来推动粉丝文化混乱与创造力的又一个绝佳例子。今天我们将一探粉丝配对的奇异而精彩世界，从跨界狂热到ffff。
