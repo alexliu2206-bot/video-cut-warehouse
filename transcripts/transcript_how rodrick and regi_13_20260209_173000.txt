@@ -1,0 +1,25 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 256
+- **译文字符数:** 85
+- **段落数:** 3
+
+## 分段转录
+
+**[00:00]** alone. You're a part of an ancient fandom tradition and someone somewhere will love the same
+    *翻译:* 独自一人。你是古老粉丝传统的一份子，某个地方的某人也会喜欢同样的东西。
+
+**[00:05]** crazy couple that you do. What are some of your favorite crack ships? I hope you enjoyed this video.
+    *翻译:* 疯狂的情侣，你们是这样的。你们最喜欢的冷门CP有哪些？希望你们喜欢这个视频。
+
+**[00:11]** Don't forget to like and subscribe and I'll see you soon. Bye!
+    *翻译:* 别忘了点赞和订阅，我们很快再见。拜拜！
+
+## 完整原文
+
+alone. You're a part of an ancient fandom tradition and someone somewhere will love the same crazy couple that you do. What are some of your favorite crack ships? I hope you enjoyed this video. Don't forget to like and subscribe and I'll see you soon. Bye!
+
+## 完整译文
+
+独自一人。你是古老粉丝传统的一份子，某个地方的某人会和你一样喜欢这对疯狂的CP。你最喜欢的一些冷门CP有哪些？希望你享受了这个视频。别忘了点赞和订阅，我们很快再见。再见！
