@@ -1,0 +1,64 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 1088
+- **译文字符数:** 358
+- **段落数:** 16
+
+## 分段转录
+
+**[00:00]** Humbler that led to the rise of the brave Tangled Dragons, to the modern crackships
+    *翻译:* 谦逊导致了勇敢的纠缠龙的崛起，到现代的裂缝船
+
+**[00:04]** were seen play out on TikTok with Rodric and Regina.
+    *翻译:* 在TikTok上可以看到Rodric和Regina的表演。
+
+**[00:07]** Let's get into it.
+    *翻译:* 我们开始吧。
+
+**[00:09]** People have always been really, really passionate about their favorite things, and even more
+    *翻译:* 人们对他们最喜欢的事物总是非常、非常热情，甚至更加热情。
+
+**[00:13]** passionate about sharing that love with others.
+    *翻译:* 热衷于与他人分享那份爱。
+
+**[00:16]** And at its core, fandom is about building that sense of camaraderie.
+    *翻译:* 而在其核心，粉丝文化是关于建立那种同志情谊。
+
+**[00:20]** Fandoms have existed long before the internet, and as early as the 1800s, we were seeing
+    *翻译:* 早在互联网出现之前，粉丝圈就已经存在了，早在19世纪，我们就看到了
+
+**[00:24]** zealous communities dedicated to baseball, Jane Austen, Frank Lints, and Sherlock Holmes.
+    *翻译:* 热衷于棒球、简·奥斯汀、弗兰克·林茨和夏洛克·福尔摩斯的社区。
+
+**[00:30]** As media became more accessible at the turn of the century, fandoms continued to grow,
+    *翻译:* 随着世纪之交媒体变得更加普及，粉丝群体持续增长，
+
+**[00:35]** with an assortment of music, comics, and movies, inspiring widespread discussion and creativity.
+    *翻译:* 拥有各种音乐、漫画和电影，激发了广泛的讨论和创造力。
+
+**[00:41]** The rise of the internet allowed like-minded individuals to engage with one another on
+    *翻译:* 互联网的兴起使得志同道合的个体能够相互交流。
+
+**[00:44]** a global scale, and this helped foster an even stronger sense of community.
+    *翻译:* 在全球范围内，这有助于培养出更强烈的社区意识。
+
+**[00:49]** Initially, fans flocked to independent websites and message boards, but as social networks
+    *翻译:* 最初，粉丝们纷纷涌向独立网站和留言板，但随着社交网络
+
+**[00:53]** became more common, they moved.
+    *翻译:* 变得更普遍后，他们就搬走了。
+
+**[00:55]** First to live journal, then to my space, then to Tumblr.
+    *翻译:* 先是生活日志，然后是我的空间，接着是Tumblr。
+
+**[00:59]** This created an-
+    *翻译:* 这创造了一个
+
+## 完整原文
+
+Humbler that led to the rise of the brave Tangled Dragons, to the modern crackships were seen play out on TikTok with Rodric and Regina. Let's get into it. People have always been really, really passionate about their favorite things, and even more passionate about sharing that love with others. And at its core, fandom is about building that sense of camaraderie. Fandoms have existed long before the internet, and as early as the 1800s, we were seeing zealous communities dedicated to baseball, Jane Austen, Frank Lints, and Sherlock Holmes. As media became more accessible at the turn of the century, fandoms continued to grow, with an assortment of music, comics, and movies, inspiring widespread discussion and creativity. The rise of the internet allowed like-minded individuals to engage with one another on a global scale, and this helped foster an even stronger sense of community. Initially, fans flocked to independent websites and message boards, but as social networks became more common, they moved. First to live journal, then to my space, then to Tumblr. This created an-
+
+## 完整译文
+
+那些谦逊的人促成了勇敢的“纠结龙”的崛起，现代的“裂船”在TikTok上与Rodric和Regina一起上演。让我们深入了解一下。人们对他们最喜欢的事物总是非常、非常热情，并且更加热情地与他人分享这种爱。而核心在于，粉丝圈是关于建立那种同志情谊。粉丝圈在互联网出现之前就已经存在，早在19世纪，我们就看到了热衷于棒球、简·奥斯汀、弗兰克·林茨和夏洛克·福尔摩斯的热情社区。随着世纪之交媒体变得更加容易获取，粉丝圈继续增长，各种音乐、漫画和电影激发了广泛的讨论和创造力。互联网的兴起让志同道合的人能够在全球范围内相互交流，这有助于培养更强烈的社区意识。最初，粉丝们涌向独立网站和留言板，但随着社交网络变得更加普遍，他们开始转移。先是到Live Journal，然后到My Space，再到Tumblr。这创造了一个——
