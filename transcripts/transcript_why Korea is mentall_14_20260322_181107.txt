@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 596
+- **译文字符数:** 219
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** How much these words actually helped me at the time?
+    *翻译:* 这些话当时实际上帮助了我多少？
+
+**[00:03]** This is just in a general life context.
+    *翻译:* 这只是在一般的生活背景下。
+
+**[00:07]** If you're starting a new job, moving to a new city,
+    *翻译:* 如果你正在开始一份新工作，搬到一个新的城市，
+
+**[00:09]** trying to make decisions so your 20-something year-old self can feel loved,
+    *翻译:* 努力做出决定，以便让你20多岁时的自己感受到被爱。
+
+**[00:14]** I am so proud of you.
+    *翻译:* 我真为你感到骄傲。
+
+**[00:16]** I am so, so, so proud of you.
+    *翻译:* 我为你感到非常、非常、非常骄傲。
+
+**[00:20]** Okay, I'm sorry, enough with the Ui-gui talk.
+    *翻译:* 好的，抱歉，关于用户界面-图形用户界面的讨论就到此为止。
+
+**[00:23]** Some of my friends are probably gonna drag me for the segment of the video,
+    *翻译:* 我的一些朋友可能会因为视频的那段内容而责怪我。
+
+**[00:26]** but it's fine.
+    *翻译:* 但没关系。
+
+**[00:28]** It's okay.
+    *翻译:* 没关系。
+
+**[00:30]** Anyways, if you made it this far into the video,
+    *翻译:* 无论如何，如果你已经看到了视频的这一部分，
+
+**[00:32]** thank you so much for hanging out with me and I guess we have no choice but to see each other
+    *翻译:* 非常感谢你陪我一起度过时光，我想我们别无选择，只能相见。
+
+**[00:38]** in the next video.
+    *翻译:* 在下一个视频中。
+
+**[00:39]** For headkiss!
+    *翻译:* 为了头吻！
+
+## 完整原文
+
+How much these words actually helped me at the time? This is just in a general life context. If you're starting a new job, moving to a new city, trying to make decisions so your 20-something year-old self can feel loved, I am so proud of you. I am so, so, so proud of you. Okay, I'm sorry, enough with the Ui-gui talk. Some of my friends are probably gonna drag me for the segment of the video, but it's fine. It's okay. Anyways, if you made it this far into the video, thank you so much for hanging out with me and I guess we have no choice but to see each other in the next video. For headkiss!
+
+## 完整译文
+
+这些话在当时实际上帮助了我多少？这只是在一般的生活背景下。如果你正在开始一份新工作，搬到一个新城市，试图做出决定，让你20多岁的自己感到被爱，我为你感到非常骄傲。我非常非常非常为你骄傲。好吧，对不起，关于用户界面和图形界面的讨论就到这里。我的一些朋友可能会因为我在视频中的这段话而批评我，但这没关系。没关系。无论如何，如果你已经看到了视频的这里，非常感谢你和我一起度过这段时间，我想我们别无选择，只能在下一个视频中再次相见。为了头部之吻！
