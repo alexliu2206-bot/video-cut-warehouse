@@ -1,0 +1,67 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 892
+- **译文字符数:** 308
+- **段落数:** 17
+
+## 分段转录
+
+**[00:00]** as is taught by world-class creatives like professional illustrators, renowned graphic designers,
+    *翻译:* 正如世界级创意人士所教授的，比如专业插画家、知名平面设计师，
+
+**[00:06]** and successful entrepreneurs.
+    *翻译:* 以及成功的企业家。
+
+**[00:07]** It's one of the best places to learn a creative skill or pick up a new hobby.
+    *翻译:* 这是学习创意技能或培养新爱好的最佳地点之一。
+
+**[00:11]** If you're looking to reconnect with your creativity and maybe avoid brain rot, Skillshare is where
+    *翻译:* 如果你想重新激发你的创造力，也许避免大脑退化，Skillshare就是你要寻找的地方。
+
+**[00:17]** humans come to learn from other humans.
+    *翻译:* 人类从其他人类那里学习。
+
+**[00:20]** So, the first 500 people to use my link in the description or scan the QR code will receive
+    *翻译:* 那么，前500位使用我描述中的链接或扫描二维码的人将收到
+
+**[00:26]** one month free trial of Skillshare.
+    *翻译:* Skillshare一个月免费试用。
+
+**[00:29]** Thank you, Skillshare.
+    *翻译:* 谢谢你，Skillshare。
+
+**[00:30]** Anyways, even with all that growth energy, there was still a real fork in the road.
+    *翻译:* 无论如何，即使有所有这些增长能量，仍然有一个真正的分岔路口。
+
+**[00:35]** Because growth sounds noble, but in reality, it competes with comfort.
+    *翻译:* 因为成长听起来很高尚，但实际上，它与舒适竞争。
+
+**[00:40]** There's also a parallel universe where I never got on the plane to Korea.
+    *翻译:* 还有一个平行宇宙，我从未登上飞往韩国的飞机。
+
+**[00:45]** I almost stayed in America for a boy.
+    *翻译:* 我差点因为一个男孩留在了美国。
+
+**[00:51]** We listen and we don't judge.
+    *翻译:* 我们倾听，我们不评判。
+
+**[00:53]** We listen and we don't judge.
+    *翻译:* 我们倾听，我们不评判。
+
+**[00:54]** This is a safe place.
+    *翻译:* 这是一个安全的地方。
+
+**[00:55]** Oh my god.
+    *翻译:* 哦，我的天。
+
+**[00:57]** Listen, he was great, but I kept up.
+    *翻译:* 听着，他很棒，但我跟上了。
+
+## 完整原文
+
+as is taught by world-class creatives like professional illustrators, renowned graphic designers, and successful entrepreneurs. It's one of the best places to learn a creative skill or pick up a new hobby. If you're looking to reconnect with your creativity and maybe avoid brain rot, Skillshare is where humans come to learn from other humans. So, the first 500 people to use my link in the description or scan the QR code will receive one month free trial of Skillshare. Thank you, Skillshare. Anyways, even with all that growth energy, there was still a real fork in the road. Because growth sounds noble, but in reality, it competes with comfort. There's also a parallel universe where I never got on the plane to Korea. I almost stayed in America for a boy. We listen and we don't judge. We listen and we don't judge. This is a safe place. Oh my god. Listen, he was great, but I kept up.
+
+## 完整译文
+
+正如世界级创意人士所教授的，比如专业插画师、知名平面设计师和成功的企业家。这是学习创意技能或培养新爱好的最佳场所之一。如果你想重新与创造力连接，也许避免大脑生锈，Skillshare就是人们向其他人学习的地方。所以，前500位使用我描述中的链接或扫描二维码的人将获得Skillshare一个月的免费试用。谢谢，Skillshare。无论如何，即使有了那么多的成长能量，仍然有一个真正的分岔路口。因为成长听起来很高尚，但实际上，它与舒适竞争。还有一个平行宇宙，我从未登上飞往韩国的飞机。我差点因为一个男孩留在了美国。我们倾听，我们不评判。我们倾听，我们不评判。这是一个安全的地方。哦，我的天。听着，他很棒，但我跟上了。
