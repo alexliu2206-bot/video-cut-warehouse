@@ -1,0 +1,94 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 904
+- **译文字符数:** 296
+- **段落数:** 26
+
+## 分段转录
+
+**[00:00]** Transitions are stressors, even positive ones.
+    *翻译:* 过渡是压力源，即使是积极的。
+
+**[00:03]** Moving countries disrupts your routine,
+    *翻译:* 搬到另一个国家会打乱你的日常生活。
+
+**[00:05]** your language patterns, your support system,
+    *翻译:* 你的语言模式，你的支持系统，
+
+**[00:07]** your identity anchors.
+    *翻译:* 你的身份锚点。
+
+**[00:09]** For me personally, my anxiety got very loud.
+    *翻译:* 对我来说，我的焦虑变得非常强烈。
+
+**[00:13]** There were days I genuinely thought,
+    *翻译:* 有些日子我真心认为，
+
+**[00:15]** I had ruined my life.
+    *翻译:* 我毁了我的生活。
+
+**[00:17]** Quite an irrational thought if you ask me.
+    *翻译:* 如果你问我，这真是个不理智的想法。
+
+**[00:19]** But I was like fully convinced.
+    *翻译:* 但我完全被说服了。
+
+**[00:21]** Once again, not because Korea was bad,
+    *翻译:* 再一次，并不是因为韩国不好，
+
+**[00:24]** but because my body was so overwhelmed.
+    *翻译:* 但因为我的身体太过疲惫。
+
+**[00:27]** And I didn't know at the time.
+    *翻译:* 当时我并不知道。
+
+**[00:30]** I recently started taking like,
+    *翻译:* 我最近开始喜欢，
+
+**[00:32]** a pro after I moved to Korea.
+    *翻译:* 我搬到韩国后，成为了一名专业人士。
+
+**[00:34]** And let me just say it clearly,
+    *翻译:* 让我明确地说出来，
+
+**[00:36]** there is nothing wrong with getting help.
+    *翻译:* 寻求帮助并没有错。
+
+**[00:39]** Nothing.
+    *翻译:* 无。
+
+**[00:40]** Medication does not mean that I failed.
+    *翻译:* 服药并不意味着我失败了。
+
+**[00:42]** It simply means I'm supporting my brain
+    *翻译:* 这只是意味着我在支持我的大脑。
+
+**[00:44]** while it adjusts to huge life changes.
+    *翻译:* 在它适应巨大的生活变化时。
+
+**[00:47]** Once I addressed my anxiety properly,
+    *翻译:* 一旦我正确地解决了我的焦虑，
+
+**[00:49]** I could actually experience Korea
+    *翻译:* 我实际上可以体验韩国
+
+**[00:52]** instead of just surviving it.
+    *翻译:* 不仅仅是为了生存。
+
+**[00:54]** And that changed everything.
+    *翻译:* 那改变了一切。
+
+**[00:56]** Thank you to my psychiatrist and Lexa pro.
+    *翻译:* 感谢我的精神病医生和Lexa专业版。
+
+**[00:58]** There is a concept in.
+    *翻译:* 这里有一个概念。
+
+## 完整原文
+
+Transitions are stressors, even positive ones. Moving countries disrupts your routine, your language patterns, your support system, your identity anchors. For me personally, my anxiety got very loud. There were days I genuinely thought, I had ruined my life. Quite an irrational thought if you ask me. But I was like fully convinced. Once again, not because Korea was bad, but because my body was so overwhelmed. And I didn't know at the time. I recently started taking like, a pro after I moved to Korea. And let me just say it clearly, there is nothing wrong with getting help. Nothing. Medication does not mean that I failed. It simply means I'm supporting my brain while it adjusts to huge life changes. Once I addressed my anxiety properly, I could actually experience Korea instead of just surviving it. And that changed everything. Thank you to my psychiatrist and Lexa pro. There is a concept in.
+
+## 完整译文
+
+过渡期是压力源，即使是积极的。搬到另一个国家会打乱你的日常生活、语言习惯、支持系统和身份认同。就我个人而言，我的焦虑变得非常强烈。有些日子我真心觉得，我毁了自己的生活。如果你问我，这是一个相当不理性的想法。但我完全确信。再次强调，不是因为韩国不好，而是因为我的身体太过超负荷。当时我并不知道。我搬到韩国后不久就开始服用药物。让我明确地说，寻求帮助没有任何问题。没有。服用药物并不意味着我失败了。这只是意味着我在支持我的大脑，让它适应巨大的生活变化。一旦我正确地解决了我的焦虑问题，我实际上可以体验韩国，而不仅仅是在其中生存。这改变了一切。感谢我的精神病医生和Lexa Pro。这里有一个概念。
