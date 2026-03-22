@@ -1,0 +1,79 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 805
+- **译文字符数:** 249
+- **段落数:** 21
+
+## 分段转录
+
+**[00:00]** does not reward certainty, it rewards possibility.
+    *翻译:* 不奖励确定性，它奖励可能性。
+
+**[00:03]** Dopamine spikes more around anticipation than achievement,
+    *翻译:* 多巴胺在期待时的激增比实现时更多。
+
+**[00:07]** so sometimes planning the move feels better than living it.
+    *翻译:* 有时计划行动的感觉比实际经历更好。
+
+**[00:10]** New environment, new people, new possibilities.
+    *翻译:* 新环境，新人群，新机遇。
+
+**[00:14]** Of course, you romanticize moving.
+    *翻译:* 当然，你把搬家浪漫化了。
+
+**[00:16]** I recently took a professional personality assessment
+    *翻译:* 我最近参加了一次职业性格评估。
+
+**[00:20]** with my psychiatrist.
+    *翻译:* 和我的精神病医生。
+
+**[00:22]** When the results came back,
+    *翻译:* 当结果回来时，
+
+**[00:23]** I actually scored very high on novelty seeking
+    *翻译:* 我实际上在新奇寻求上得分非常高。
+
+**[00:26]** and high on impulsivity.
+    *翻译:* 并且高度冲动。
+
+**[00:29]** And I just sat there like,
+    *翻译:* 我就这样坐在那里，
+
+**[00:30]** Oh, oh, that actually explains a lot.
+    *翻译:* 哦，哦，那实际上解释了很多。
+
+**[00:36]** High novelty seeking feels incredible in the beginning.
+    *翻译:* 一开始，高度寻求新奇的感觉令人难以置信。
+
+**[00:40]** You feel brave, expansive,
+    *翻译:* 你感到勇敢，心胸开阔，
+
+**[00:42]** just giving off main character vibes.
+    *翻译:* 只是散发出主角的气息。
+
+**[00:45]** But once the new thing becomes normal,
+    *翻译:* 但一旦新事物变得平常，
+
+**[00:47]** your brain starts looking around and it goes,
+    *翻译:* 你的大脑开始四处寻找，然后它发现，
+
+**[00:50]** OK, what's next?
+    *翻译:* 好的，接下来是什么？
+
+**[00:53]** So the real question is,
+    *翻译:* 那么真正的问题是，
+
+**[00:54]** do you crave novelty?
+    *翻译:* 你渴望新奇吗？
+
+**[00:56]** Are you chasing growth or are you just...
+    *翻译:* 你在追求成长还是只是...
+
+## 完整原文
+
+does not reward certainty, it rewards possibility. Dopamine spikes more around anticipation than achievement, so sometimes planning the move feels better than living it. New environment, new people, new possibilities. Of course, you romanticize moving. I recently took a professional personality assessment with my psychiatrist. When the results came back, I actually scored very high on novelty seeking and high on impulsivity. And I just sat there like, Oh, oh, that actually explains a lot. High novelty seeking feels incredible in the beginning. You feel brave, expansive, just giving off main character vibes. But once the new thing becomes normal, your brain starts looking around and it goes, OK, what's next? So the real question is, do you crave novelty? Are you chasing growth or are you just...
+
+## 完整译文
+
+它不奖励确定性，它奖励可能性。多巴胺在期待时比在实现时更强烈，所以有时计划行动的感觉比实际经历更好。新环境，新的人，新的可能性。当然，你会对搬家充满浪漫幻想。我最近和精神病医生一起做了一个职业性格评估。结果出来后，我实际上在新奇寻求和冲动性上得分很高。我坐在那里就像，哦，哦，那实际上解释了很多。高新奇寻求在开始时感觉不可思议。你感到勇敢，开阔，只是散发出主角的气息。但是一旦新事物变得正常，你的大脑开始四处寻找，它说，好吧，接下来是什么？所以真正的问题是，你渴望新奇吗？你是在追求成长还是只是……
