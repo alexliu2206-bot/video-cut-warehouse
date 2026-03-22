@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 832
+- **译文字符数:** 291
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** There were nights I laid in bed and genuinely thought, what did I do?
+    *翻译:* 有些夜晚我躺在床上，真心地想，我做了什么？
+
+**[00:04]** I also avoided people back home because I felt like I needed proof.
+    *翻译:* 我也避开了家乡的人，因为我觉得需要有证据。
+
+**[00:10]** Proof that I was thriving, that the move was worth it, that I didn't blow up my life
+    *翻译:* 证明我过得很好，搬家是值得的，我没有毁掉自己的生活
+
+**[00:14]** for nothing.
+    *翻译:* 为了无。
+
+**[00:15]** If I admitted I was struggling too soon, it felt like I'd invalidated my own decision.
+    *翻译:* 如果我过早地承认自己正在挣扎，感觉就像是我否定了自己的决定。
+
+**[00:21]** So I isolated which shockingly made it worse.
+    *翻译:* 所以我隔离了，这令人震惊地使情况变得更糟。
+
+**[00:26]** Wow.
+    *翻译:* 哇。
+
+**[00:27]** But around month 4 something shifted.
+    *翻译:* 但在大约第4个月时，情况发生了变化。
+
+**[00:30]** Not because everything was perfect but because I stopped trying to win the move.
+    *翻译:* 不是因为一切都很完美，而是因为我停止了试图赢得这一步。
+
+**[00:35]** I reached out, I admitted that I was having a hard time and nothing catastrophic happened.
+    *翻译:* 我伸出了援手，我承认我正经历一段艰难时期，而没有发生什么灾难性的事情。
+
+**[00:43]** No one judged me and people actually missed me and they wanted to hear from me and they
+    *翻译:* 没有人评判我，人们实际上想念我，他们想听我说。
+
+**[00:48]** understood that this period of my life was going to be difficult and that's when I realized
+    *翻译:* 明白了我生命中的这段时期将会很艰难，就在那时我意识到
+
+**[00:53]** that the pressure had been coming from me.
+    *翻译:* 压力是来自我自己的。
+
+**[00:57]** The entire time, shocker.
+    *翻译:* 整个过程中，令人震惊。
+
+## 完整原文
+
+There were nights I laid in bed and genuinely thought, what did I do? I also avoided people back home because I felt like I needed proof. Proof that I was thriving, that the move was worth it, that I didn't blow up my life for nothing. If I admitted I was struggling too soon, it felt like I'd invalidated my own decision. So I isolated which shockingly made it worse. Wow. But around month 4 something shifted. Not because everything was perfect but because I stopped trying to win the move. I reached out, I admitted that I was having a hard time and nothing catastrophic happened. No one judged me and people actually missed me and they wanted to hear from me and they understood that this period of my life was going to be difficult and that's when I realized that the pressure had been coming from me. The entire time, shocker.
+
+## 完整译文
+
+有些夜晚我躺在床上，真心地想，我到底做了什么？我也避开了家乡的人，因为我感觉我需要证据。证明我过得很好，证明搬家是值得的，证明我没有为了无意义的事情毁掉自己的生活。如果我过早地承认我在挣扎，感觉就像是我否定了自己的决定。所以我选择了孤立自己，这出乎意料地让情况变得更糟。哇。但是到了第四个月，情况有所改变。并不是因为一切都变得完美，而是因为我停止了试图赢得搬家这场战斗。我伸出了援手，我承认我过得很艰难，而没有发生什么灾难性的事情。没有人评判我，人们实际上想念我，他们想听听我的消息，他们理解我生活中的这段时期将会很艰难，那时我才意识到压力一直来自于我自己。整个时间，真是令人震惊。
