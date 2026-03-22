@@ -1,0 +1,97 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 953
+- **译文字符数:** 285
+- **段落数:** 27
+
+## 分段转录
+
+**[00:00]** when those where reinvention is socially acceptable.
+    *翻译:* 当那些地方的社会可以接受重新塑造自我的时候。
+
+**[00:03]** But do it consciously, not to prove something,
+    *翻译:* 但要有意识地去做，不是为了证明什么，
+
+**[00:06]** not to outrun yourself,
+    *翻译:* 不要超越自己，
+
+**[00:07]** not because you think a new city will change you completely
+    *翻译:* 并不是因为你认为一个新城市会彻底改变你
+
+**[00:11]** as a person.
+    *翻译:* 作为一个人。
+
+**[00:12]** Do it because you are ready to meet
+    *翻译:* 去做吧，因为你已经准备好去见面了。
+
+**[00:14]** the next version of yourself.
+    *翻译:* 下一版本的你自己。
+
+**[00:15]** There's this one text message,
+    *翻译:* 有这么一条短信，
+
+**[00:17]** my sister-in-law sent me right before I boarded
+    *翻译:* 我嫂子在我登机前给我发了信息
+
+**[00:20]** the plane to Korea,
+    *翻译:* 前往韩国的飞机，
+
+**[00:21]** and it's a text that I hold very dearly to my heart.
+    *翻译:* 这是我非常珍视的一段文字。
+
+**[00:25]** And the context of this message is what she felt
+    *翻译:* 这条信息的背景是她的感受
+
+**[00:27]** during the time she moved to New York from Chicago,
+    *翻译:* 在她从芝加哥搬到纽约的那段时间，
+
+**[00:31]** and she was actually around the same age as me.
+    *翻译:* 实际上，她和我年龄差不多。
+
+**[00:33]** She said,
+    *翻译:* 她说，
+
+**[00:34]** that's how I felt coming to New York.
+    *翻译:* 这就是我来到纽约时的感受。
+
+**[00:36]** I wanted to do everything for I knew,
+    *翻译:* 我想做我所知道的一切，
+
+**[00:38]** which is her name,
+    *翻译:* 她叫什么名字，
+
+**[00:40]** and give her everything,
+    *翻译:* 并给她一切，
+
+**[00:41]** and be so kind and sweet to her
+    *翻译:* 对她要如此善良和甜蜜
+
+**[00:43]** because she went through so much before that.
+    *翻译:* 因为她在那之前经历了太多。
+
+**[00:45]** And I saw her,
+    *翻译:* 我看到她，
+
+**[00:46]** and I wanted her to know I love her so much.
+    *翻译:* 我想让她知道我有多么爱她。
+
+**[00:49]** I hope you can experience that too.
+    *翻译:* 我希望你也能体验到。
+
+**[00:54]** I want to cry just thinking about
+    *翻译:* 只是想想就让我想哭
+
+**[00:56]** what place I was in before I actually moved,
+    *翻译:* 在我实际搬走之前，我所在的那个地方，
+
+**[00:59]** and...
+    *翻译:* 而且...
+
+## 完整原文
+
+when those where reinvention is socially acceptable. But do it consciously, not to prove something, not to outrun yourself, not because you think a new city will change you completely as a person. Do it because you are ready to meet the next version of yourself. There's this one text message, my sister-in-law sent me right before I boarded the plane to Korea, and it's a text that I hold very dearly to my heart. And the context of this message is what she felt during the time she moved to New York from Chicago, and she was actually around the same age as me. She said, that's how I felt coming to New York. I wanted to do everything for I knew, which is her name, and give her everything, and be so kind and sweet to her because she went through so much before that. And I saw her, and I wanted her to know I love her so much. I hope you can experience that too. I want to cry just thinking about what place I was in before I actually moved, and...
+
+## 完整译文
+
+当那些地方的社会可以接受重新塑造自我的时候。但要有意识地去做，不是为了证明什么，不是为了超越自己，也不是因为你认为一个新城市会彻底改变你作为一个人。去做是因为你准备好遇见下一个版本的自己。有这样一条短信，是我嫂子在我登上去韩国的飞机前发给我的，这条短信我非常珍视。这条短信的背景是她从芝加哥搬到纽约时的感受，她当时的年龄和我差不多。她说，我来纽约时就是这种感觉。我想为我知道的一切做一切，也就是她的名字，给她一切，对她非常友善和甜蜜，因为她在那之前经历了太多。我看到她，我想让她知道我有多么爱她。我希望你也能体验到这种感觉。我一想到我搬家前所处的地方就想哭了，还有...
