@@ -1,0 +1,79 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 872
+- **译文字符数:** 272
+- **段落数:** 21
+
+## 分段转录
+
+**[00:00]** allergic to boredom.
+    *翻译:* 对无聊过敏。
+
+**[00:01]** Allison is just you and me.
+    *翻译:* Allison 就是我们两个人。
+
+**[00:02]** You can be honest.
+    *翻译:* 你可以诚实。
+
+**[00:03]** When I decided to move to Korea, it wasn't dramatic.
+    *翻译:* 当我决定搬到韩国时，并没有戏剧性。
+
+**[00:07]** It started as a random thought, then it lingered,
+    *翻译:* 它起初只是一个随机的想法，然后它徘徊不去，
+
+**[00:11]** then it became persistent.
+    *翻译:* 然后它变得持续不断。
+
+**[00:13]** Like a question tapping on the inside of my skull
+    *翻译:* 就像一个问题在敲打着我的头骨内侧
+
+**[00:16]** every time life felt slightly too predictable.
+    *翻译:* 每次生活感觉稍微过于可预测时。
+
+**[00:20]** At some point I realized it wasn't going away.
+    *翻译:* 在某个时刻，我意识到它不会消失。
+
+**[00:22]** And I've learned that persistent curiosity is data.
+    *翻译:* 我了解到持续的好奇心就是数据。
+
+**[00:26]** It wasn't that I hated where I was.
+    *翻译:* 并不是我讨厌我所在的地方。
+
+**[00:29]** It was that I had experienced that version of myself fully.
+    *翻译:* 我已经完全体验了那个版本的自己。
+
+**[00:34]** The same routines, the same social dynamics,
+    *翻译:* 相同的日常，相同的社交动态，
+
+**[00:37]** the same identity people expected from me.
+    *翻译:* 人们期望我拥有相同的身份。
+
+**[00:40]** There's something subtle that happens when you stay
+    *翻译:* 当你留下时，会发生一些微妙的事情。
+
+**[00:43]** in one ecosystem too long.
+    *翻译:* 在一个生态系统中待得太久。
+
+**[00:45]** People relate to the version of you that they first met.
+    *翻译:* 人们会与你最初遇见时的版本产生联系。
+
+**[00:48]** And without realizing it, you keep performing
+    *翻译:* 而你没有意识到，你一直在表演
+
+**[00:52]** that old identity because it's easier
+    *翻译:* 那个旧身份，因为它更容易。
+
+**[00:54]** than possibly not meeting expectations.
+    *翻译:* 可能没有达到预期。
+
+**[00:58]** I felt like I was shrinking and...
+    *翻译:* 我感觉我正在缩小，而且...
+
+## 完整原文
+
+allergic to boredom. Allison is just you and me. You can be honest. When I decided to move to Korea, it wasn't dramatic. It started as a random thought, then it lingered, then it became persistent. Like a question tapping on the inside of my skull every time life felt slightly too predictable. At some point I realized it wasn't going away. And I've learned that persistent curiosity is data. It wasn't that I hated where I was. It was that I had experienced that version of myself fully. The same routines, the same social dynamics, the same identity people expected from me. There's something subtle that happens when you stay in one ecosystem too long. People relate to the version of you that they first met. And without realizing it, you keep performing that old identity because it's easier than possibly not meeting expectations. I felt like I was shrinking and...
+
+## 完整译文
+
+对无聊过敏。艾莉森就是你和我。你可以坦诚。当我决定搬到韩国时，并没有戏剧性。它开始是一个随机的想法，然后它徘徊，然后它变得持久。就像一个问题在每次生活感觉稍微太可预测时敲打我的头骨内部。在某个时刻，我意识到它不会消失。我学会了持久的好奇心就是数据。并不是我讨厌我所在的地方。而是我已经完全体验了那个版本的自己。相同的例行公事，相同的社交动态，人们期望我拥有的相同身份。当你在一个生态系统中待得太久时，会发生一些微妙的事情。人们与你最初遇见的版本建立联系。而你没有意识到，你一直在表演那个旧身份，因为这比可能不满足期望更容易。我感觉我正在缩小……
