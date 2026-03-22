@@ -1,0 +1,82 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 904
+- **译文字符数:** 310
+- **段落数:** 22
+
+## 分段转录
+
+**[00:00]** I was able to save and I was living with my mom,
+    *翻译:* 我能够存钱，而且我和妈妈住在一起。
+
+**[00:03]** which gave me a lot of financial breathing room.
+    *翻译:* 这给了我很大的财务活动空间。
+
+**[00:06]** So I'm not saying everyone needs to move across the world.
+    *翻译:* 所以我并不是说每个人都需要搬到世界的另一边去。
+
+**[00:10]** This is more about the urge to grow.
+    *翻译:* 这更多是关于成长的冲动。
+
+**[00:12]** For some people, that's a new country.
+    *翻译:* 对一些人来说，那是一个新国家。
+
+**[00:15]** For others, that's a new job, a new city,
+    *翻译:* 对其他人来说，那是一份新工作，一个新城市，
+
+**[00:18]** or just changing your environment
+    *翻译:* 或者只是改变你的环境
+
+**[00:20]** in whatever way is accessible to you.
+    *翻译:* 以任何你能接触到的方式。
+
+**[00:23]** Your 20s are psychologically unstable on purpose.
+    *翻译:* 你的20多岁在心理上故意不稳定。
+
+**[00:27]** There's a developmental phase called emerging adulthood.
+    *翻译:* 存在一个被称为“成年初期”的发展阶段。
+
+**[00:31]** It's marked by identity exploration and stability,
+    *翻译:* 它以身份探索和稳定性为特征，
+
+**[00:35]** self-focus, and this constant feeling
+    *翻译:* 自我专注，以及这种持续的感觉
+
+**[00:37]** that your life could branch out
+    *翻译:* 你的生活可能会分叉
+
+**[00:39]** into 10 completely different timelines.
+    *翻译:* 进入10个完全不同的时间线。
+
+**[00:42]** You're not locked in yet.
+    *翻译:* 你还没有被锁定。
+
+**[00:43]** Most of us don't have mortgages, we don't have kids.
+    *翻译:* 我们大多数人没有抵押贷款，我们没有孩子。
+
+**[00:46]** Our biggest commitment might be a skincare routine
+    *翻译:* 我们最大的承诺可能是护肤程序
+
+**[00:49]** that we abandoned every three months.
+    *翻译:* 我们每三个月就放弃一次。
+
+**[00:51]** How I changed my skincare routine last night.
+    *翻译:* 我昨晚如何改变了我的护肤程序。
+
+**[00:55]** When the cost of risk is lower,
+    *翻译:* 当风险成本较低时，
+
+**[00:57]** your brain creates expansion.
+    *翻译:* 你的大脑创造了扩展。
+
+**[00:59]** Your brain...
+    *翻译:* 你的大脑...
+
+## 完整原文
+
+I was able to save and I was living with my mom, which gave me a lot of financial breathing room. So I'm not saying everyone needs to move across the world. This is more about the urge to grow. For some people, that's a new country. For others, that's a new job, a new city, or just changing your environment in whatever way is accessible to you. Your 20s are psychologically unstable on purpose. There's a developmental phase called emerging adulthood. It's marked by identity exploration and stability, self-focus, and this constant feeling that your life could branch out into 10 completely different timelines. You're not locked in yet. Most of us don't have mortgages, we don't have kids. Our biggest commitment might be a skincare routine that we abandoned every three months. How I changed my skincare routine last night. When the cost of risk is lower, your brain creates expansion. Your brain...
+
+## 完整译文
+
+我能够存钱，并且和我妈妈住在一起，这给了我很大的经济喘息空间。所以我并不是说每个人都需要搬到世界的另一边。这更多的是关于成长的冲动。对一些人来说，那是一个新的国家。对其他人来说，那可能是一份新工作，一个新的城市，或者只是以任何你能够接触到的方式改变你的环境。你的20多岁在心理上是故意不稳定的。有一个发展阶段叫做“成人初显期”。它以身份探索和稳定性、自我关注，以及这种持续的感觉为标志，即你的生活可能会分叉成10个完全不同的时间线。你还没有被锁定。我们大多数人没有抵押贷款，我们没有孩子。我们最大的承诺可能是每三个月就放弃的护肤程序。我昨晚是如何改变我的护肤程序的。当风险的成本较低时，你的大脑会创造扩张。你的大脑...
