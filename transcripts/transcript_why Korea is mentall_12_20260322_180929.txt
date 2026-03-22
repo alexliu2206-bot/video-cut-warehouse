@@ -1,0 +1,79 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 896
+- **译文字符数:** 316
+- **段落数:** 21
+
+## 分段转录
+
+**[00:00]** or both.
+    *翻译:* 或者两者都。
+
+**[00:02]** Around month four to six, your nervous system stabilizes.
+    *翻译:* 大约在第四到第六个月，你的神经系统会稳定下来。
+
+**[00:05]** You have routines.
+    *翻译:* 你有日常习惯。
+
+**[00:06]** You have at least one person you can text
+    *翻译:* 你至少有一个可以发短信的人
+
+**[00:09]** whenever something weird happens.
+    *翻译:* 每当发生一些奇怪的事情时。
+
+**[00:11]** Then you can start evaluating clearly.
+    *翻译:* 然后你可以开始清晰地评估。
+
+**[00:13]** Is this all misaligned or was I just uncomfortable?
+    *翻译:* 这一切都是不协调的，还是我只是感到不舒服？
+
+**[00:17]** So let me just say on record, moving to Korea
+    *翻译:* 那么让我正式声明，搬到韩国
+
+**[00:21]** did not fix my life.
+    *翻译:* 没有修复我的生活。
+
+**[00:22]** It exposed my insecurities and fears to the core.
+    *翻译:* 它彻底揭露了我的不安全感和恐惧。
+
+**[00:26]** It stretched me out to the point where,
+    *翻译:* 它将我拉伸到了这样一个地步，
+
+**[00:28]** I don't know if I can be stretched out even more.
+    *翻译:* 我不知道我是否可以被进一步拉伸。
+
+**[00:31]** It triggered me to the point where I had to seek professional help.
+    *翻译:* 它让我感到极度不适，以至于我不得不寻求专业帮助。
+
+**[00:35]** But it also healed parts of me.
+    *翻译:* 但它也治愈了我的一部分。
+
+**[00:37]** I'm learning to love my family again.
+    *翻译:* 我正在重新学习爱我的家人。
+
+**[00:40]** I'm learning to genuinely feel thankful for the life I'm living.
+    *翻译:* 我正在学习真诚地感激我正在过的生活。
+
+**[00:43]** But most importantly, I'm learning who Jinju is,
+    *翻译:* 但最重要的是，我正在了解金珠是谁，
+
+**[00:46]** who I am as a person, what I like and what I don't like,
+    *翻译:* 我是一个什么样的人，我喜欢什么以及我不喜欢什么。
+
+**[00:50]** what my boundaries are and what makes me genuinely happy.
+    *翻译:* 我的界限是什么，以及什么能真正让我快乐。
+
+**[00:55]** So yes, I would still choose this path again.
+    *翻译:* 所以，是的，我仍然会选择这条道路。
+
+**[00:58]** Your 20s are one of the
+    *翻译:* 你的20多岁是其中之一
+
+## 完整原文
+
+or both. Around month four to six, your nervous system stabilizes. You have routines. You have at least one person you can text whenever something weird happens. Then you can start evaluating clearly. Is this all misaligned or was I just uncomfortable? So let me just say on record, moving to Korea did not fix my life. It exposed my insecurities and fears to the core. It stretched me out to the point where, I don't know if I can be stretched out even more. It triggered me to the point where I had to seek professional help. But it also healed parts of me. I'm learning to love my family again. I'm learning to genuinely feel thankful for the life I'm living. But most importantly, I'm learning who Jinju is, who I am as a person, what I like and what I don't like, what my boundaries are and what makes me genuinely happy. So yes, I would still choose this path again. Your 20s are one of the
+
+## 完整译文
+
+或者两者都有。大约在第四到第六个月，你的神经系统会稳定下来。你有了日常习惯。你至少有一个可以随时发短信的人，当发生奇怪的事情时。然后你可以开始清晰地评估。这一切都是不协调的，还是我只是感到不舒服？所以让我郑重声明，搬到韩国并没有解决我的生活问题。它将我的不安全感和恐惧暴露到了核心。它将我拉伸到了极点，我不知道我是否还能被拉伸得更多。它触发了我，以至于我不得不寻求专业帮助。但它也治愈了我的一部分。我正在学习再次爱我的家人。我正在学习真诚地感激我正在过的生活。但最重要的是，我正在学习金珠是谁，我作为一个人是谁，我喜欢什么，我不喜欢什么，我的界限是什么，以及什么让我真正快乐。所以是的，我仍然会选择这条道路。你的20多岁是其中之一。
