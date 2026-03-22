@@ -1,0 +1,91 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 933
+- **译文字符数:** 306
+- **段落数:** 25
+
+## 分段转录
+
+**[00:00]** asking myself one question, if this relationship
+    *翻译:* 自问一个问题，如果这段关系
+
+**[00:03]** disappeared tomorrow, would I regret not taking the leap?
+    *翻译:* 如果明天消失了，我会后悔没有迈出那一步吗？
+
+**[00:07]** And no matter how much I thought about it,
+    *翻译:* 不管我怎么想，
+
+**[00:09]** the answer was yes.
+    *翻译:* 回答是肯定的。
+
+**[00:11]** Because this comfort fades and regret lingers.
+    *翻译:* 因为这种舒适感会消失，而遗憾却会持续存在。
+
+**[00:15]** I didn't wanna wake up at 32,
+    *翻译:* 我不想在32岁时醒来，
+
+**[00:17]** resenting a decision I chose out of fear.
+    *翻译:* 代表一个因恐惧而做出的选择。
+
+**[00:20]** So I ended up choosing the uncertainty that I could own.
+    *翻译:* 所以我最终选择了我能掌控的不确定性。
+
+**[00:23]** The first month after moving,
+    *翻译:* 搬家后的第一个月，
+
+**[00:25]** it's like a baby trying bacon for the very first time.
+    *翻译:* 这就像一个婴儿第一次尝试吃培根。
+
+**[00:29]** Every subway ride felt cinematic.
+    *翻译:* 每一次地铁之旅都感觉像电影一样。
+
+**[00:31]** Every inconvenience felt like character development.
+    *翻译:* 每一次不便都像是性格发展。
+
+**[00:33]** I romanticized everything.
+    *翻译:* 我美化了一切。
+
+**[00:35]** I ate that shit up.
+    *翻译:* 我全吃光了。
+
+**[00:36]** I was that girl that romanticized convenience door runs,
+    *翻译:* 我就是那个将便利之门浪漫化的女孩，
+
+**[00:39]** but it's just another 7-Eleven.
+    *翻译:* 但这只不过是另一家7-Eleven便利店。
+
+**[00:42]** It's a 7-Eleven in another country.
+    *翻译:* 这是另一个国家的7-Eleven。
+
+**[00:44]** I genuinely thought I won in life,
+    *翻译:* 我真的以为我在生活中赢了，
+
+**[00:46]** and then month two happened.
+    *翻译:* 然后第二个月发生了。
+
+**[00:48]** The adrenaline wore off,
+    *翻译:* 肾上腺素消退了，
+
+**[00:49]** and suddenly I wasn't that cool girl
+    *翻译:* 突然间，我不再是那个酷女孩了。
+
+**[00:51]** that was stilly-dallying at all of young.
+    *翻译:* 那仍然是年轻人的犹豫不决。
+
+**[00:53]** I was just confused.
+    *翻译:* 我只是有点困惑。
+
+**[00:55]** I was hurt, confused, and cold.
+    *翻译:* 我受伤了，感到困惑，还很冷。
+
+**[00:58]** There's a predictable-
+    *翻译:* 有一个可预测的
+
+## 完整原文
+
+asking myself one question, if this relationship disappeared tomorrow, would I regret not taking the leap? And no matter how much I thought about it, the answer was yes. Because this comfort fades and regret lingers. I didn't wanna wake up at 32, resenting a decision I chose out of fear. So I ended up choosing the uncertainty that I could own. The first month after moving, it's like a baby trying bacon for the very first time. Every subway ride felt cinematic. Every inconvenience felt like character development. I romanticized everything. I ate that shit up. I was that girl that romanticized convenience door runs, but it's just another 7-Eleven. It's a 7-Eleven in another country. I genuinely thought I won in life, and then month two happened. The adrenaline wore off, and suddenly I wasn't that cool girl that was stilly-dallying at all of young. I was just confused. I was hurt, confused, and cold. There's a predictable-
+
+## 完整译文
+
+我问自己一个问题，如果这段关系明天就消失了，我会后悔没有迈出那一步吗？不管我怎么想，答案都是肯定的。因为这种舒适感会消退，而遗憾会持续存在。我不想在32岁时醒来，后悔因为恐惧而做出的决定。所以我最终选择了我可以掌控的不确定性。搬家后的第一个月，就像婴儿第一次尝试吃培根一样。每一次地铁之旅都感觉像是电影场景。每一个不便都像是性格发展。我浪漫化了一切。我全盘接受了这一切。我就是那个浪漫化了便利门的女孩，但它只是另一个7-11。它是另一个国家的7-11。我真的以为我在人生中赢了，然后第二个月发生了。肾上腺素消退了，突然间，我不再是那个还在年轻徘徊的酷女孩。我只是感到困惑。我受伤了，困惑，寒冷。有一个可预测的——
