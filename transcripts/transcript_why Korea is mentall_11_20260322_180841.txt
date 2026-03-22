@@ -1,0 +1,55 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 996
+- **译文字符数:** 310
+- **段落数:** 13
+
+## 分段转录
+
+**[00:00]** psychology called possible selves, there are versions of you that exist in
+    *翻译:* 心理学中提到的可能自我，是指存在于你心中的不同版本的自己。
+
+**[00:05]** imagination. The confident one, the disciplined one, the adventurous one, when
+    *翻译:* 想象一下。那个自信的人，那个自律的人，那个爱冒险的人，当
+
+**[00:10]** you change environments, those versions feel closer to us because no one is
+    *翻译:* 你改变环境，那些版本感觉更接近我们，因为没有人
+
+**[00:15]** holding you to the old version of yourself. But moving does not automatically give
+    *翻译:* 坚持让你保持旧版本的自己。但是搬家并不会自动给予
+
+**[00:20]** you a new personality. It gives you space, but you still have to choose who you
+    *翻译:* 你是一个全新的个性。它给了你空间，但你仍然需要选择你是谁。
+
+**[00:25]** want to be. It's like one of those pick your own adventurous type of books. Did
+    *翻译:* 想要成为。这就像那些让你自己选择冒险类型的书。
+
+**[00:29]** you guys read those when you're younger? You either see struggle as proof that it's
+    *翻译:* 你们小时候读过那些吗？你们要么将奋斗视为这是
+
+**[00:33]** something that may be too difficult for you in that season of life or proof
+    *翻译:* 在那个生命阶段对你来说可能太难的事情或证据
+
+**[00:37]** that it's something you can experience life from and grow. And now that I'm saying
+    *翻译:* 那就是你可以从中体验生活并成长的东西。现在既然我在说
+
+**[00:42]** this, I feel like those two go hand in hand. But yeah, you know what I'm trying to say?
+    *翻译:* 这个，我觉得这两者是相辅相成的。但对，你知道我想表达的意思吧？
+
+**[00:47]** Do you know what I'm trying to say? If you move somewhere new, give yourself
+    *翻译:* 你知道我想表达什么吗？如果你搬到一个新的地方，给自己一些时间。
+
+**[00:52]** six months. The first three months are emotionally unreliable. You're either
+    *翻译:* 六个月。前三个月情绪不稳定。你要么
+
+**[00:57]** romanticizing everything or spiraling.
+    *翻译:* 浪漫化一切或陷入漩涡。
+
+## 完整原文
+
+psychology called possible selves, there are versions of you that exist in imagination. The confident one, the disciplined one, the adventurous one, when you change environments, those versions feel closer to us because no one is holding you to the old version of yourself. But moving does not automatically give you a new personality. It gives you space, but you still have to choose who you want to be. It's like one of those pick your own adventurous type of books. Did you guys read those when you're younger? You either see struggle as proof that it's something that may be too difficult for you in that season of life or proof that it's something you can experience life from and grow. And now that I'm saying this, I feel like those two go hand in hand. But yeah, you know what I'm trying to say? Do you know what I'm trying to say? If you move somewhere new, give yourself six months. The first three months are emotionally unreliable. You're either romanticizing everything or spiraling.
+
+## 完整译文
+
+心理学中提到的“可能的自我”，是指存在于想象中的不同版本的你。自信的你、自律的你、爱冒险的你，当你改变环境时，这些版本会感觉更接近我们，因为没有人再将你与过去的自己联系在一起。但是搬家并不会自动赋予你一个新的个性。它给了你空间，但你仍然需要选择你想成为什么样的人。这就像那些你自己选择冒险类型的书。你们小时候读过那些书吗？你要么将挣扎视为证明这对你来说可能在那个人生阶段太难了，要么视为你可以从中体验生活并成长的东西。现在我说这些，我觉得这两者是相辅相成的。但对，你知道我在说什么吗？你知道我在说什么吗？如果你搬到一个新的地方，给自己六个月的时间。前三个月在情感上是不可靠的。你要么对一切都抱有浪漫的想法，要么陷入漩涡。
