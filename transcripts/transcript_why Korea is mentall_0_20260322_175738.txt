@@ -1,0 +1,58 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 818
+- **译文字符数:** 275
+- **段落数:** 14
+
+## 分段转录
+
+**[00:00]** Hi, put a finger down if you ever looked up flights at 2am to Switzerland and thought,
+    *翻译:* 嗨，如果你曾在凌晨2点查找飞往瑞士的航班并想过，
+
+**[00:05]** what if I just left and became mysteriously hot somewhere else?
+    *翻译:* 如果我就这样离开，在别处变得神秘地火辣会怎样？
+
+**[00:10]** Is it... is it just me?
+    *翻译:* 是……是只有我这样吗？
+
+**[00:16]** How many of you have romanticized starting over somewhere where no one knows your middle name,
+    *翻译:* 你们中有多少人曾幻想过在没有人知道你中间名的地方重新开始，
+
+**[00:20]** your high school lord, or your situation-ship history?
+    *翻译:* 你的高中领主，还是你的情况船历史？
+
+**[00:23]** New country, new routine, maybe bangs, okay, maybe...
+    *翻译:* 新国家，新习惯，也许刘海，好吧，也许...
+
+**[00:28]** maybe no bangs.
+    *翻译:* 可能没有刘海。
+
+**[00:29]** There is something deeply seductive about the idea that geography can reset identity.
+    *翻译:* 地理能够重置身份的想法具有某种深刻的吸引力。
+
+**[00:35]** Like, if I just move, I'll finally become disciplined or confident or healed.
+    *翻译:* 比如，如果我开始行动，我最终会变得自律、自信或得到治愈。
+
+**[00:40]** That if we just change the backdrop, we can change the character.
+    *翻译:* 如果我们只是改变背景，我们可以改变角色。
+
+**[00:44]** A lot of us feel this urge to up and everything, to move, to start over,
+    *翻译:* 我们中的许多人都有这种冲动，想要起身，想要行动，想要重新开始。
+
+**[00:49]** to stop feeling like our life is buffering at 72%.
+    *翻译:* 停止感觉我们的生活像是卡在了72%。
+
+**[00:54]** And I wanna talk about that urge.
+    *翻译:* 我想谈谈那种冲动。
+
+**[00:56]** Not the calm move with me to Korea.
+    *翻译:* 并不是平静地和我一起去韩国。
+
+## 完整原文
+
+Hi, put a finger down if you ever looked up flights at 2am to Switzerland and thought, what if I just left and became mysteriously hot somewhere else? Is it... is it just me? How many of you have romanticized starting over somewhere where no one knows your middle name, your high school lord, or your situation-ship history? New country, new routine, maybe bangs, okay, maybe... maybe no bangs. There is something deeply seductive about the idea that geography can reset identity. Like, if I just move, I'll finally become disciplined or confident or healed. That if we just change the backdrop, we can change the character. A lot of us feel this urge to up and everything, to move, to start over, to stop feeling like our life is buffering at 72%. And I wanna talk about that urge. Not the calm move with me to Korea.
+
+## 完整译文
+
+嗨，如果你曾在凌晨两点查找飞往瑞士的航班，并想过，如果我就这样离开，然后在别处变得神秘地吸引人，那就竖起一根手指。是……只有我这样吗？你们有多少人曾幻想过在没有人知道你的中间名、你的高中霸主或你的感情史的地方重新开始？新的国家，新的日常生活，也许换个刘海，好吧，也许……也许不换刘海。地理可以重置身份的想法有一种深深的诱惑力。比如，如果我搬走，我最终会变得自律、自信或得到治愈。如果我们只是改变背景，我们就能改变性格。我们很多人都有这种冲动，想要离开一切，搬家，重新开始，不再感觉自己的生活卡在72%。我想谈谈这种冲动。不是那种平静地搬到韩国的搬家。
