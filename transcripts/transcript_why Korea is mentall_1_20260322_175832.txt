@@ -1,0 +1,76 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 877
+- **译文字符数:** 294
+- **段落数:** 20
+
+## 分段转录
+
+**[00:00]** Aha, the psychological one.
+    *翻译:* 啊哈，是心理学的那个。
+
+**[00:02]** Because I acted on it.
+    *翻译:* 因为我采取了行动。
+
+**[00:05]** If you're new here, long story short, I moved to Korea.
+    *翻译:* 如果你是新来的，简而言之，我搬到了韩国。
+
+**[00:08]** Not in a five-year plan, spreadsheet, calculated way.
+    *翻译:* 不是在五年计划、电子表格、计算方式中。
+
+**[00:12]** More in a, if I stay in America for too long,
+    *翻译:* 更多地，如果我在美国待得太久，
+
+**[00:15]** I might emotionally fossilize kind of way.
+    *翻译:* 我可能会在某种程度上变得情感僵化。
+
+**[00:20]** That fear that if you stay in one place too long,
+    *翻译:* 那种恐惧，如果你在一个地方停留太久，
+
+**[00:22]** you'll calcify into a version of yourself
+    *翻译:* 你将石化成自己的一个版本
+
+**[00:25]** that isn't fully formed yet.
+    *翻译:* 那还没有完全形成。
+
+**[00:27]** I could give you the whole romanticized.
+    *翻译:* 我可以给你整个浪漫化的故事。
+
+**[00:29]** I finally know what I'm doing,
+    *翻译:* 我终于知道我在做什么了，
+
+**[00:31]** and this was the best decision of my life version of the story.
+    *翻译:* 这是我人生中最好的决定，故事的版本。
+
+**[00:35]** But that's not what we're here to do today.
+    *翻译:* 但我们今天不是来做这个的。
+
+**[00:37]** We're talking about what actually happens
+    *翻译:* 我们正在讨论实际发生的事情
+
+**[00:40]** when you flip your life 180 degrees in the name of growth.
+    *翻译:* 当你为了成长而将生活翻转180度。
+
+**[00:44]** Also really quickly before I get into this,
+    *翻译:* 在我深入这个话题之前，也请允许我快速地说一下，
+
+**[00:47]** I know moving, especially internationally, is a privilege.
+    *翻译:* 我知道搬家，尤其是国际搬家，是一种特权。
+
+**[00:52]** It's expensive and not everyone can just pack up and go.
+    *翻译:* 这很贵，不是每个人都能说走就走。
+
+**[00:55]** I feel like I was really lucky
+    *翻译:* 我感觉我真的很幸运
+
+**[00:57]** because I had a job before I left.
+    *翻译:* 因为我离开前有份工作。
+
+## 完整原文
+
+Aha, the psychological one. Because I acted on it. If you're new here, long story short, I moved to Korea. Not in a five-year plan, spreadsheet, calculated way. More in a, if I stay in America for too long, I might emotionally fossilize kind of way. That fear that if you stay in one place too long, you'll calcify into a version of yourself that isn't fully formed yet. I could give you the whole romanticized. I finally know what I'm doing, and this was the best decision of my life version of the story. But that's not what we're here to do today. We're talking about what actually happens when you flip your life 180 degrees in the name of growth. Also really quickly before I get into this, I know moving, especially internationally, is a privilege. It's expensive and not everyone can just pack up and go. I feel like I was really lucky because I had a job before I left.
+
+## 完整译文
+
+啊哈，是心理层面的原因。因为我已经付诸行动了。如果你是新来的，简而言之，我搬到了韩国。这不是一个五年计划、电子表格、计算的方式。更像是，如果我在美国待得太久，我可能会在情感上变成化石的那种方式。那种恐惧，如果你在一个地方待得太久，你就会变得僵化，变成一个尚未完全成型的自己。我可以给你讲一个浪漫化的故事，我终于知道我在做什么，这是我一生中最好的决定。但今天我们不是来做这个的。我们讨论的是，当你为了成长而彻底改变生活时，实际上会发生什么。在我深入这个话题之前，我还要快速说一句，我知道搬家，尤其是国际搬家是一种特权。这很昂贵，不是每个人都能说走就走。我觉得我很幸运，因为我离开之前有工作。
