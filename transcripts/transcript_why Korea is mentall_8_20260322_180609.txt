@@ -1,0 +1,85 @@
+# 视频转录文本
+
+## 统计信息
+- **原文字符数:** 882
+- **译文字符数:** 268
+- **段落数:** 23
+
+## 分段转录
+
+**[00:00]** Jasmine Curve, Honeymoon, frustration, adjustment, acceptance.
+    *翻译:* 茉莉曲线，蜜月，挫败，调整，接受。
+
+**[00:05]** The Honeymoon phase is cute.
+    *翻译:* 蜜月期很可爱。
+
+**[00:06]** She's cute. She's really cute.
+    *翻译:* 她很可爱。她真的非常可爱。
+
+**[00:08]** The frustration phase, humble you.
+    *翻译:* 挫败阶段，使你谦卑。
+
+**[00:10]** I was homesick without knowing I was homesick,
+    *翻译:* 我思乡而不自知，
+
+**[00:14]** but it wasn't because I missed America.
+    *翻译:* 但这并不是因为我想念美国。
+
+**[00:17]** I missed competence. Back home,
+    *翻译:* 我怀念能力。回到家，
+
+**[00:19]** I knew how to exist without effort.
+    *翻译:* 我知道如何不费力气地生存。
+
+**[00:21]** I knew how things worked.
+    *翻译:* 我了解事物的运作方式。
+
+**[00:23]** I knew who I was in that ecosystem.
+    *翻译:* 我知道自己在那生态系统中是谁。
+
+**[00:25]** But in Korea, I felt like a beginner at life,
+    *翻译:* 但在韩国，我感觉自己像一个生活上的初学者。
+
+**[00:30]** AKA a noob.
+    *翻译:* 也就是个新手。
+
+**[00:31]** And losing competence feels like losing control.
+    *翻译:* 失去能力就像失去控制。
+
+**[00:34]** And as someone who's independent and controlled driven,
+    *翻译:* 作为一个独立且有控制欲的人，
+
+**[00:37]** I did not like that.
+    *翻译:* 我不喜欢那样。
+
+**[00:39]** I am working on it though.
+    *翻译:* 我正在处理这个问题。
+
+**[00:40]** There was one night I stood in a grocery store
+    *翻译:* 有一个晚上我站在杂货店里
+
+**[00:43]** staring at a wall of products I couldn't read.
+    *翻译:* 盯着一堵我看不懂的产品墙。
+
+**[00:46]** And I felt this wave of panic that made no logical sense.
+    *翻译:* 我感到一阵毫无逻辑的恐慌。
+
+**[00:50]** But it wasn't about the groceries.
+    *翻译:* 但这并不是关于杂货的。
+
+**[00:52]** It was about realizing I had voluntarily
+    *翻译:* 这是关于意识到我自愿地
+
+**[00:55]** placed myself in a situation where I was constantly
+    *翻译:* 将自己置于一个不断的状态中
+
+**[00:59]** slightly behind.
+    *翻译:* 略微落后。
+
+## 完整原文
+
+Jasmine Curve, Honeymoon, frustration, adjustment, acceptance. The Honeymoon phase is cute. She's cute. She's really cute. The frustration phase, humble you. I was homesick without knowing I was homesick, but it wasn't because I missed America. I missed competence. Back home, I knew how to exist without effort. I knew how things worked. I knew who I was in that ecosystem. But in Korea, I felt like a beginner at life, AKA a noob. And losing competence feels like losing control. And as someone who's independent and controlled driven, I did not like that. I am working on it though. There was one night I stood in a grocery store staring at a wall of products I couldn't read. And I felt this wave of panic that made no logical sense. But it wasn't about the groceries. It was about realizing I had voluntarily placed myself in a situation where I was constantly slightly behind.
+
+## 完整译文
+
+茉莉曲线，蜜月期，挫败感，调整，接受。蜜月期很可爱。她很可爱。她真的非常可爱。挫败期，让你谦卑。我思乡心切，却不知道自己思乡，但并不是因为我想念美国。我想念的是能力。在家里，我知道如何不费力气地生存。我知道事情是如何运作的。我知道我在那个生态系统中是谁。但在韩国，我感觉像是生活中的初学者，也就是菜鸟。而失去能力就像是失去了控制。作为一个独立且控制欲强的人，我不喜欢那样。不过我正在努力。有一天晚上，我站在杂货店，盯着一墙我看不懂的产品。我感到一阵毫无逻辑的恐慌。但那不是关于杂货。那是关于意识到我自愿将自己置于一个总是稍微落后的情况。
